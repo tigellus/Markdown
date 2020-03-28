@@ -1,11 +1,11 @@
 # Course Structure
 
-Welcome to Pulmonary Mechanical Ventilation course! The course follows the structure below.
+Welcome to **Pulmonary Mechanical Ventilation** course! The course follows the structure below.
 
 1. Oxygenation and Ventilation
-2. Respiratory Decompensation
- 3. Non-invasive positive pressure ventilation (NPPV)
- 4. Supplemental Oxygen Delivery System & Treatments: Non-aerosolized & Aerosolized Oxygen Delivery Systems 
+2. Respiratory Decompensation 
+3. Non-invasive positive pressure ventilation (NPPV)
+4. Supplemental Oxygen Delivery System & Treatments: Non-aerosolized & Aerosolized Oxygen Delivery Systems 
 5. Nebulizers 
 6. Pulmonary ABG
 7. ICU Device use 
@@ -22,9 +22,9 @@ Welcome to Pulmonary Mechanical Ventilation course! The course follows the struc
 18. Collecting COVID-19 Specimens for Testing
 
 The course will consist of:
-One instructor-led sessions
-Two video sessions on case studies and scenarios
-A final review session consisting of a theory recap and multiple choice questions.
+- [ ] **Instructor-led sessions**
+- [ ] **Video sessions** on case studies and scenarios
+- [ ] **Final review session** consisting of a theory recap and multiple choice questions.
 
 # Instructor-led lesson
 Please attend the instructor-led session. Continue the course once you completed the session.
