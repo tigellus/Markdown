@@ -1,23 +1,47 @@
 # Course Structure
 
-Welcome to Pulmonary Mechanical Ventilation! The course will be instructor-led and follow the structure below.
-
-We strongly advise moving forward with the course only after completing the instructor-led session. The next steps you will be able to take after that are watching 2 videos summarizing Mechanical Ventilation concepts and presenting case studies, and completing the associated multiple-choice questions.
+Welcome to Pulmonary Mechanical Ventilation course! The course follows the structure below.
 
 1. Oxygenation and Ventilation
-2. Respiratory Decompensation 3. Non-invasive positive pressure ventilation (NPPV) 4. Supplemental Oxygen Delivery System & Treatments: Non-aerosolized & Aerosolized Oxygen Delivery Systems 5. Nebulizers 6. Pulmonary ABG
-7. ICU Device use 8. Types of Ventilators 9. Routes & Modes of Mechanical Ventilation 10. ETT & Intubation 11. Identifying Ventilator Needs 12. Troubleshooting the Ventilator 13. Complications 14. Issues in Nursing Management 15. Nursing Interventions 16. Mechanical Ventilation Weaning 17. Capnography 18. Collecting COVID-19 Specimens for Testing
+2. Respiratory Decompensation
+ 3. Non-invasive positive pressure ventilation (NPPV)
+ 4. Supplemental Oxygen Delivery System & Treatments: Non-aerosolized & Aerosolized Oxygen Delivery Systems 
+5. Nebulizers 
+6. Pulmonary ABG
+7. ICU Device use 
+8. Types of Ventilators 
+9. Routes & Modes of Mechanical Ventilation 
+10. ETT & Intubation 
+11. Identifying Ventilator Needs
+ 12. Troubleshooting the Ventilator 
+13. Complications 
+14. Issues in Nursing Management
+ 15. Nursing Interventions 
+16. Mechanical Ventilation Weaning 
+17. Capnography 
+18. Collecting COVID-19 Specimens for Testing
 
-# Mechanical Ventilation Recap & Case Studies, Pt. 1
+The course will consist of:
+One instructor-led sessions
+Two video sessions on case studies and scenarios
+A final review session consisting of a theory recap and multiple choice questions.
 
-Please click on the link below for the first part of recap and case studies.
+# Instructor-led lesson
+Please attend the instructor-led session. Continue the course once you completed the session.
 
-https://covid19.sccm.org/Presentations/Mechanical-Ventilation1/story_html5.html?lms=1
+# Mechanical Ventilation Recap & Case Studies
 
-# Mechanical Ventilation Recap & Case Studies, Pt. 2
+Watch the following video lecture (1/2), answer the questions when prompted.
 
-Please click on the link below for the first part of recap and case studies.
-
-https://covid19.sccm.org/Presentations/Mechanical-Ventilation2/story_html5.html?lms=1
+[Go to the video lecture](https://covid19.sccm.org/Presentations/Mechanical-Ventilation1/story_html5.html?lms=1)
 
 
+# Mechanical Ventilation Recap & Case Studies - part 2
+
+Watch the following video lecture (2/2), answer the questions when prompted.
+
+[Go to the video lecture](https://covid19.sccm.org/Presentations/Mechanical-Ventilation2/story_html5.html?lms=1)
+
+# Final review session - Theory recap and assessment
+
+In this section, you will go through a summary of what you have learnt in the course, followed by an assessment-based review session.
