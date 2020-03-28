@@ -50,7 +50,7 @@ Septic shock and specific organ dysfunction such as acute kidney injury appear t
 In the care of COVID-19 patients, it is important to be able to **respond promptly to a patient in shock**.
 
 The goals of this session are:
-- [ ]  Review the primary categories of shock
+- [ ] Review the primary categories of shock
 - [ ] Discuss goals of resuscitation in shock
 - [ ] Summarize principles of shock management
 - [ ] Describe effects of vasopressor and intropic agents
