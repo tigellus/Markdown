@@ -1,4 +1,4 @@
-# Interventions
+# Interventions Pt. 1
 
 * Frequent monitoring of vital signs
 
@@ -13,6 +13,8 @@
 * Prone position for selected patients
 
 * Oral Care (every 4 hours vented, every 6 hours non-vented)
+
+# Interventions Pt. 2
 
 * Eye care for the prevention of **Ocular Surface Disease (OSD)**
  * There are many risk factors for OSD, some of which maybe fluid maldistribution(edema, altered level of consciousness, paralytics, etc.)
