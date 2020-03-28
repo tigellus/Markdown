@@ -8,6 +8,15 @@ The course will consist of:
 - [ ] **Video sessions** on concepts, scenarios and interactive content
 - [ ] **Final review session** consisting of a theory recap and multiple choice questions.
 
+#  Coronavirus and COVID-19: Epidemiology, Pathophysiology, Diagnostics
+
+https://www.youtube.com/watch?v=PWzbArPgo-o
+
+#  Coronavirus and COVID-19: Treatment, Prognosis, Precautions
+
+https://www.youtube.com/watch?v=rdoN_XsHWBI
+
+
 # Symptoms of COVID-19 patients
 
 The spectrum of symptomatic COVID-19 infection ranges from mild to critical; most infections are not severe. Specifically, in a report from the Chinese Center for Disease Control and Prevention that included approximately 44,500 confirmed infections with an estimation of disease severity:
