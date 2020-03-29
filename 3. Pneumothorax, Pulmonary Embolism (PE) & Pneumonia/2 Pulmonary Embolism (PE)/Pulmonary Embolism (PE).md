@@ -1,31 +1,38 @@
 # Description
 Pulmonary embolism is a common disorder that is related to deep vein thrombosis (DVT).
 
-- [ ] **Pulmonary embolism** refers to the **obstruction** of the pulmonary artery or one of its branches by a thrombus that originates somewhere in the venous system or in the right side of the heart.
-- [ ] **Deep vein thrombosis**, a related condition, refers to thrombus formation in the deep veins, usually in the calf or thigh, but sometimes in the arm, especially in patients with peripherally inserted central catheters.
+- [ ] **Deep vein thrombosis (DVT)** refers to thrombus formation in the deep veins, usually in the calf or thigh, but sometimes in the arm, especially in patients with peripherally inserted central catheters.
+- [ ] **Pulmonary embolism (PE)** refers to the **obstruction** of the pulmonary artery or one of its branches by a thrombus that originates somewhere in the venous system or in the right side of the heart.
 
 # Classification
 Most commonly, pulmonary embolism is due to a blood clot or thrombus, but there are other types of emboli: fat, air, amniotic fluid, and septic.
 
 - [ ] **Fat emboli.** Fat emboli are cholesterol or fatty substances that may clog the arteries when fatty foods are consumed more.
 - [ ] **Air emboli.** Air emboli usually come from intravenous devices.
-- [ ] **Amniotic fluid emboli.** Amniotic fluid emboli are caused by amniotic fluid that has leaked towards the arteries.
+- [ ] **Amniotic fluid emboli.** Amniotic fluid emboli are caused by amniotic fluid that has leaked into the arteries.
 - [ ] **Septic emboli.** Septic emboli originate from a bacterial invasion of the thrombus.
-Pathophysiology
-A series of happenings occur inside a patient’s body when he or she has emboli.
 
 # Pathophysiology of Pulmonary Embolism.
 
-Click the image to enlarge.
-Pathophysiology of Pulmonary Embolism. Click the image to enlarge.
+(The material in this section was adapted from this source: https://www.merckmanuals.com/professional/pulmonary-disorders/pulmonary-embolism-pe/pulmonary-embolism-pe) When a DVT forms, clots can dislodge and travel through the right side of the heart and become lodged in the pulmonary vasculature. A PE can cause partial or complete occlusion of one or more of the pulmonary vessels. Small to moderate emboli can spontaneously resolve, but additional emboli can expand the blockage. A large emboli with significant occulsion is a life-threatening medical emergency, leading to the following physiologic effects:
+- [ ] **Tachypnea** from reflex increase in ventilation. 
+- [ ] **Hypoxemia** due to ventilation/perfusion (V/Q) mismatch.
+- [ ] **Low mixed venous oxygen content** as a result of low cardiac output.
+- [ ] **Atelectasis** due to alveolar hypocapnia and abnormalities in surfactant.
+- [ ] **Increased pulmonary vascular resistance** caused by mechanical obstruction and vasoconstriction.
 
+The risk level of a PE is categorized based on the impact to right ventricular function and resulting hemodynamic status:
+- [ ] **Catastrophic or super-massive (high risk):** Impaired right ventricular function with severe hypotension/hypoxemia that requires aggressive vasopressor therapy and high-flow oxygen 
+- [ ] **Massive (also high risk):** Impaired right ventricular function with hypotension (systolic BP < 90 mm Hg or a drop in systolic BP of ≥ 40 mm Hg from baseline for a period of 15 min)
+- [ ] **Submassive (intermediate risk):** Impaired right ventricular function and/or abnormal troponin and/or BNP level without hypotension. 
+- [ ] **Low risk:** Absence of right ventricular impairment and absence of hypotension
 
+A PE can trigger the following chain reaction:
 - [ ] **Obstruction.** When a thrombus completely or partially obstructs the pulmonary artery or its branches, the alveolar dead space is increased.
 - [ ] **Impairment.** The area receives little to no blood flow and gas exchange is impaired.
-- [ ] **Constriction.** Various substances are released from the clot and surrounding area that cause constriction of the blood vessels and results in pulmonary resistance.
-- [ ] **Consequences.** Increased pulmonary vascular resistance due to regional vasoconstriction leading to increase in pulmonary arterial pressure and increased right ventricle workload are the consequences that follow.
-- [ ] **Failure.** When the workload of the right ventricle exceeds the limit, failure may occur.
-![](assets/pe-figure.png)
+- [ ] **Constriction.** Various substances are released from the clot and surrounding area that triggers constriction of the blood vessels, increasing pulmonary resistance.
+- [ ] **Consequences.** Increased pulmonary vascular resistance due to regional vasoconstriction leads to increase in pulmonary arterial pressure and increased right ventricle workload.
+- [ ] **Failure.** Increased workload of the right ventricle leads to failure, shock, and sudden death.
 
 # Statistics and Epidemiology
 Pulmonary embolism may also occur in healthy people.
@@ -48,6 +55,7 @@ Symptoms of pulmonary embolism depend on the size of the thrombus and the area o
 - [ ] **Chest pain.** Chest pain occurs suddenly and is pleuritic in origin.
 - [ ] **Tachycardia.** Increase in heart rate occurs because the right ventricle catches up with its workload.
 - [ ] **Tachypnea.** The most frequent sign is tachypnea.
+- [ ] **Hypotension.** Increased right venticular demand results in reduced cardiac output.
 
 # Prevention
 For patients at risk for PE, the most effective approach for prevention is to prevent DVT.
@@ -61,8 +69,8 @@ For patients at risk for PE, the most effective approach for prevention is to pr
 # Complications
 When caring for a patient who has had PE, the nurse must be alert for potential complications.
 
-- [ ] **Cardiogenic shock.** The cardiopulmonary system is endangered in a massive PE.
-- [ ] **Right ventricular failure.** A sudden increase in pulmonary resistance increases the work of the right ventricle.
+- [ ] **Right ventricular failure.** A sudden increase in pulmonary resistance increases the work of the right ventricle leading to increased pressure and failure.
+- [ ] **Cardiogenic shock.** Roght ventricular failure can lead to shock and sudden death.
 
 # Assessment and Diagnostic Findings
 Death from PE commonly occurs within one (1) hour after the onset of symptoms; therefore, early recognition and diagnosis are priorities.
@@ -70,6 +78,7 @@ Death from PE commonly occurs within one (1) hour after the onset of symptoms; t
 - [ ] **Chest x-ray.** The chest x-ray is usually normal but may show infiltrates, atelectasis, elevation of the diaphragm on the affected side, or a pleural effusion.
 - [ ] **ECG.** The ECG usually shows sinus tachycardia, PR-interval depression,and nonspecific T-wave changes.
 - [ ] **ABG analysis.** ABG analysis may show hypoxemia and hypocapnia; however, ABG measurements may be normal even in the presence of PE.
+- [ ] **D-dimer.** Blood levels of D-dimer are abnormal in 95 percent of patients with PE
 - [ ] **Pulmonary angiogram.** Pulmonary angiogram allows for direct visualization under fluoroscopy of the arterial obstruction and accurate assessment of the perfusion deficit.
 - [ ] **V/Q scan.** The V/Q scan evaluates the different regions of the lung and allows comparisons of the percentage of ventilation and perfusion in each area.
 
@@ -81,35 +90,29 @@ Because PE is often a medical emergency, emergency management is of primary conc
 
 # Surgical Management
 
-Removal of the emboli may sometimes need surgical management.
+Management of the emboli may sometimes need surgical removal.
 
 - [ ] **Surgical embolectomy.** This is the removal of the actual clot and must be performed by a cardiovascular surgical team with the patient on cardiopulmonary bypass.
 - [ ] **Transvenous catheter embolectomy.** This is a technique in which a vacuum-cupped catheter is introduced transvenously into the affected pulmonary artery.
-- [ ] **Interrupting the vena cava.** This approach prevents dislodged thrombi from being swept into the lungs while allowing adequate blood flow.
+- [ ] **Inferior vena cava (IVC) filter.** This approach prevents dislodged thrombi from being swept into the lungs while allowing adequate blood flow.
 
 # Nursing Management
-A key role of the nurse is to identify the patient at high risk for pulmonary embolism, and to minimize the risk of PE in all patients.
+A key role of the nurse is to identify the patient at high risk for DVT and PE, and to utilize preventative measures for emboli formation in all patients.
 
 ## Nursing Assessment
 All patients are evaluated for risk factors for thrombus formation and pulmonary embolus.
 
 - [ ] **Health history.** Health history is assessed to determine any previous cardiovascular disease.
 - [ ] **Family history.** History of any cardiovascular disease in the family may predispose the patient to PE.
-- [ ] **Medication record.** There are certain medications that can increase the risk for PE.
-- [ ] **Physical exam.** Extremities are evaluated for warmth, redness, and inflammation.
-
-## Diagnosis
-Based on the assessment data, the following nursing diagnoses for a patient with pulmonary embolism are developed:
-
-- [ ] **Ineffective peripheral tissue perfusion** related to obstructed pulmonary artery.
-- [ ] **Risk for shock** related to increased workload of the right ventricle.
-- [ ] **Acute pain** related to pleuritic origin.
+- [ ] **Medication record.** There are certain medications that can increase the risk for PE (eg, birth control pills, hormone replacement therapy, tamoxifen, thalidomide, erythropoietin).
+- [ ] **Physical exam.** Extremities are evaluated for warmth, redness, inflammation, and pain. A DVT can cause pain on dorsiflextion (pulling the toes toward the knees).
+- [ ] **Activity levels.** Patients who are bed-bound or have limited activity and ambulation are at risk for emboli formation.
 
 ## Nursing Care Planning & Goals
 
 Planning and goals for a patient with pulmonary embolism include the following:
 
-- Increase perfusion
+- Increase perfusion.
 - Verbalize understanding of condition, therapy regimen, and medication side effects.
 - Display hemodynamic stability.
 - Report pain is relieved or controlled.
@@ -155,7 +158,7 @@ The focus of documentation should include:
 - Modifications to plan of care.
 
 
-# Question 1
+# Question 1 (this should be moved to the pneumothorax section).
 The healthcare provider is assisting during the insertion of a pulmonary artery catheter. Which of these, if assessed in the patient, would indicate the patient is experiencing a complication from the catheter insertion?
 
 [WRONG] Patient taking deeper breaths and that last longer during inspiration
@@ -166,6 +169,7 @@ The healthcare provider is assisting during the insertion of a pulmonary artery 
 # Question 2
 What is the blockage of one of the pulmonary arteries in the lungs?
 
+[WRONG] Deep vein thrombosis
 [RIGHT] Pulmonary embolism
 [WRONG] Hemothorax
 [WRONG] Pneumothorax
@@ -173,12 +177,12 @@ What is the blockage of one of the pulmonary arteries in the lungs?
 # Question 3
 What is the most usual cause of a pulmonary embolism?
 
-[RIGHT]  Blood clots that travel to the lungs
+[RIGHT] Blood clots that travel to the lungs
 [WRONG] Pulmonary hypertension
 [WRONG] Traumatic injuries to the lungs
 
 # Question 4
- The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most frequent sign of:
+ The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most common sign of:
 
 [WRONG] Hemoptysis
 [WRONG] Syncope
@@ -188,18 +192,18 @@ What is the most usual cause of a pulmonary embolism?
 # Question 5
 The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient include all except:
 
-[WRONG] Hemoptysis
-[WRONG] Syncope
-[RIGHT] Tachypnea
-[WRONG] Cough
+[WRONG] Manage pain and anxiety
+[WRONG] Titrate oxygen therapy
+[RIGHT] Compete bed rest
+[WRONG] Monitor thrombolytic therapy
 
 # Question 6
 The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient include all except:
 
-[WRONG] A liberal fluid intake.
-[WRONG] Assisting the patient to do leg elevations above the level of the heart.
-[RIGHT] Encouraging the patient to dangle his or her legs over the side of the bed for 30 minutes, four times a day.
-[WRONG] The use of elastic stockings, especially when decreased mobility would promote venous stasis.
+[WRONG] Assist with active and passive leg exercises.
+[WRONG] Turn and reposition patient frequently and reposition.
+[RIGHT] Monitor effectiveness of thrombolytic therapy through troponin and BNP levels.
+[WRONG] Use elastic stockings and sequential compression devices.
 
 # Question 7
 Which of the following is a type of embolism?
@@ -213,14 +217,23 @@ Which of the following is a type of embolism?
 The following are diagnostic tests for a patient with pulmonary embolism except:
 
 [WRONG] ABG analysis
-[WRONG] Chest x-ray
+[WRONG] ECG test
 [RIGHT] Pulmonary function tests
-[WRONG] ECG
+[WRONG] V/Q scan
 
 # Question 9
-What are the possible complications in a patient with pulmonary embolism?
+All of the following are the possible complications in a patient with pulmonary embolism except?
 
 [WRONG] Right ventricular failure
+[WRONG] Atelectasis
+[RIGHT] Decreased pulmonary vascular resistance
 [WRONG] Cardiogenic shock
-[RIGHT] Both right ventricular failure and cardiogenic shock
-[WRONG] Septic shock
+
+# Question 10
+Your patient is a 45 year old female 1 day post cholecystectomy.  She has been complainig of poor pain control, and has been resistant to ambulation.  Which nursing intervention should be your first priority?
+
+[WRONG] Ask the physician to order a PTT and INR.
+[WRONG] Administer oxygen therapy.
+[RIGHT] Apply sequential compression devices or compression stockings.
+[WRONG] Encourage deep breathing exercises every 2 hours.
+
