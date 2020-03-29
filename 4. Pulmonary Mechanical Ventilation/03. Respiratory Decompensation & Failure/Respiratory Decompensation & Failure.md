@@ -1,3 +1,4 @@
+organization of this content/headings were confusing to me--- is the focus here supposed to be nursing assessment? 
 # Change in Respiratory Status
 
 * Decreased breath sounds 
