@@ -36,7 +36,7 @@ You will need to create an account on AACN or use an existing account to login. 
 
 # Diagnosis and Management of Shock
 
-Septic shock and specific organ dysfunction such as acute kidney injury appear to occur in a significant proportion of patients with COVID-19–related critical illness and are associated with increasing mortality, with management recommendations following available evidence-based guidelines.
+Septic shock and specific organ dysfunction such as acute kidney injury appear to occur in a significant proportion of patients with COVID-19–related critical illness and are associated with increasing mortality. Recommendations for managing shock follow the available evidence-based guidelines.
 
 In the care of COVID-19 patients, it is important to be able to **respond promptly to a patient in shock**.
 
@@ -44,12 +44,12 @@ The goals of this session are:
 - [ ] Review the primary categories of shock
 - [ ] Discuss goals of resuscitation in shock
 - [ ] Summarize principles of shock management
-- [ ] Describe effects of vasopressor and intropic agents
-- [ ] Discuss the different diagnosis and management of oliguria
+- [ ] Describe effects of vasopressor and inotropic agents
+- [ ] Discuss the different causes and management strategies for oliguria
 
 [Go to the video lecture](https://covid19.sccm.org/Presentations/Diagnosis-and-Management-of-Shock/story_html5.html?lms=1)
 
 
 # Final review session - Theory recap and assessment
 
-In this section, you will go through a summary of what you have learnt in the course, followed by an assessment-based review session.
+In this section, you will review a summary of what you have learned in the course, followed by an assessment-based review session.
