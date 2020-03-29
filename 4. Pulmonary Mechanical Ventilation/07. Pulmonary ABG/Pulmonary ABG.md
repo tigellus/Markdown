@@ -1,3 +1,41 @@
+# Question George Kent is a 54 year old widower with a history of chronic obstructive pulmonary disease and was rushed to the emergency department with increasing shortness of breath, pyrexia, and a productive cough with yellow-green sputum. He has difficulty in communicating because of his inability to complete a sentence. One of his sons, Jacob, says he has been unwell for three days. Upon examination, crackles and wheezes can be heard in the lower lobes; he has a tachycardia and a bounding pulse. Measurement of arterial blood gas shows pH 7.3, PaCO2 68 mm Hg, HCO3 28 mmol/L, and PaO2 60 mm Hg. How would you interpret this?
+
+[RIGHT] Respiratory acidosis with acute compensation
+[WRONG] Respiratory acidosis with no compensation
+[WRONG] Metabolic Acidosis compensated
+[WRONG]  Metabolic acidosis uncompensated
+ 
+This patient has a low a pH so immediately think acidosis, the PaCO2(acid) is high 60 (normal 40) which means it must be the cause. Also based on the clinical presentation we can imagine that due to crackles and wheezes and the yellow sputum we can imagine that this pt is not ventilating efficiently and therefore building up CO2 in the blood. Which would mean the patient has a ventilatory problem that caused acid to accumulate in blood, coined as respiratory acidosis
+ 
+ 
+# Question Carl, an elementary student, was rushed to the hospital due to vomiting and a decreased level of consciousness. The patient displays slow and deep (Kussmaul breathing), and he is lethargic and irritable in response to stimulation. He appears to be dehydrated—his eyes are sunken and mucous membranes are dry—and he has a two week history of polydipsia, polyuria, and weight loss. Measurement of arterial blood gas shows pH 7.0, PaO2 90 mm Hg, PaCO2 23 mm Hg, and HCO3 12 mmol/L; other results are Na+ 126 mmol/L, K+ 5 mmol/L, and Cl- 95 mmol/L. What is your assessment?
+
+[WRONG] Respiratory acidosis not compensated
+[WRONG] Respiratory acidosis compensated
+[WRONG] Metabolic acidosis with normal anion gap
+[RIGHT] Metabolic acidosis compensated, with increased anion gap
+ 
+The pH is 7.0 which is very low, the number 1 cause of very low pH is ketoacidosis in diabetic patients. Since the source of the acidosis is not the ventilation then it must be a metabolic disorder. The Kussmaul breathing is trying to compensate the acidosis by getting rid of CO2 from the blood to the air.
+ 
+# Question A cigarette vendor was brought to the emergency department of a hospital after she fell into the ground and hurt her left leg. She is noted to be tachycardic and tachypneic. Painkillers were carried out to lessen her pain. Suddenly, she started complaining that she is still in pain and now experiencing muscle cramps, tingling, and paraesthesia. Measurement of arterial blood gas reveals pH 7.6, PaO2 120 mm Hg, PaCO2 31 mm Hg, and HCO3 25 mmol/L. What does this mean?
+ 
+[RIGHT] Respiratory alkalosis
+[WRONG] Respiratory acidosis
+[WRONG]  Metabolic alkalosis compensated
+[WRONG]  Metabolic alkalosis uncompensated
+ 
+The pH is high which mean alkalosis, both the low PaCO2 or the increased HCO3could be contributing, however the bicarb isnt that high enough to cause that much of a change in pH, and the symptoms of the pt all point to respiratory disorder. The pt is in pain and is breathing fast, both causes of hyperventilation which lead to loss of CO2
+The alkalosis is originating from a low PaCO2 because the pt is losing too much CO2  from breathing too fast.
+ 
+# Question Ricky’s grandmother is suffering from persistent vomiting for two days now. She appears to be lethargic and weak and has myalgia. She is noted to have dry mucus membranes and her capillary refill takes >4 seconds. She is diagnosed as having gastroenteritis and dehydration. Measurement of arterial blood gas shows pH 7.5, PaO2 85 mm Hg, PaCO2 40 mm Hg, and HCO3 34 mmol/L. What acid-base disorder is shown?
+ 
+[WRONG] Respiratory alkalosis
+[WRONG] Respiratory acidosis
+[RIGHT] Metabolic alkalosis uncompensated
+[WRONG] Metabolic alkalosis compensated
+ 
+The pH is high indicating alkalosis and the source is loss of hydrogen ions from the persistent vomit. remember that to produce acid in the stomach and mouth for stomach acid and saliva the body secretes hydrogen ions into the lumen but at the same time secretes bicarb into the blood stream. Vomiting will cause the body to produce more stomach acid and saliva to replace that acid that was lost due to vomiting. this will cause the body to produce way more bicarb which will cause alkalosis. 
+
 # Acid Base Terminology
 
 * Acid: Donates a hydrogen ion (H+)
@@ -452,4 +490,3 @@ How does the body compensate for tissue hypoxia?
 
 [RIGHT] Tachycardia, Tachypnea, Erythrocytosis, further desaturation of hemoglobin
 [WRONG] Tachycardia, Tachypnea, Erythrocytosis, saturation of hemoglobin
-
