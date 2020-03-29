@@ -8,14 +8,14 @@ The course will consist of:
 - [ ] **Video sessions** on concepts, scenarios and interactive content
 - [ ] **Final review session** consisting of a theory recap and multiple choice questions.
 
-#  Coronavirus and COVID-19: Epidemiology, Pathophysiology, Diagnostics
-
-https://www.youtube.com/watch?v=PWzbArPgo-o
-
-#  Coronavirus and COVID-19: Treatment, Prognosis, Precautions
-
-https://www.youtube.com/watch?v=rdoN_XsHWBI
-
+%#  Coronavirus and COVID-19: Epidemiology, Pathophysiology, Diagnostics
+%
+%https://www.youtube.com/watch?v=PWzbArPgo-o
+%
+%#  Coronavirus and COVID-19: Treatment, Prognosis, Precautions
+%
+%https://www.youtube.com/watch?v=rdoN_XsHWBI
+%
 
 # Symptoms of COVID-19 patients
 
