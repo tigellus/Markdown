@@ -184,3 +184,43 @@ Which of the following conditions require a higher PEEP to be applied in recruit
 [RIGHT] Acute Respiratory Distress Syndrome
 [WRONG] Bronchietasis
 [WRONG] Emphysema
+
+# Question 11
+As a cause of death in the United States, COPD ranks:
+
+[WRONG] Second
+[WRONG] Third
+[RIGHT] Fourth
+[WRONG] Fifth
+
+# Question 12
+Two diseases common to the etiology of COPD are:
+
+[WRONG] Asthma and atelectasis
+[RIGHT] Chronic bronchitis and emphysema
+[WRONG] Pneumonia and pleurisy
+[WRONG] Tuberculosis and pleural effusion
+
+# Question 13
+The underlying pathophysiology of COPD is:
+
+[WRONG] Inflamed airways that obstruct airflow
+[WRONG] Mucus secretion that blocks airways
+[WRONG] Alveolar wall destruction
+[RIGHT] Characterized by variations in all of the above
+
+# Question 14
+The abnormal inflammatory response in the lungs occurs primarily in the:
+
+[WRONG] Airways
+[WRONG] Parenchyma
+[WRONG] Pulmonary vasculature
+[RIGHT] Areas identified in all of the above
+
+# Question 15
+The most important environmental risk factor in emphysema is:
+
+[WRONG] Air pollution
+[WRONG] Allergens
+[WRONG] Infectious agents
+[RIGHT] Cigarette smoking
