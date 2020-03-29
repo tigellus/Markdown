@@ -6,15 +6,15 @@ Oxygenation and ventilation are measured differently.
 
 **Oxygenation**
 
-* Pao2
-* O2 Saturation
+* PaO2 (Partial Pressure of Oxygen)
+* SaO2 (Oxygen Saturation)
 
 **Ventilation**
 
-* Pco2 (35-45 mmHg)
+* PCo2 (35-45 mmHg)
 * End tidal CO2 (30-43 mmHg)
 * Minute ventilation
- * Tv x RR
+ * Vt (tidal volume) x RR
 
 ![](assets/oxygenation-ventilation2.png)
 
