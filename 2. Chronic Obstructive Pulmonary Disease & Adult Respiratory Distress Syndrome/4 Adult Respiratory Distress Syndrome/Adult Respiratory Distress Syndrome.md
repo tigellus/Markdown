@@ -1,4 +1,6 @@
 # Adult Respiratory Distress Syndrome (ARDS)
+
+
 * Severe form of respiratory failure that Occurs in previously healthy individuals
 * Characterized by lung edema, formation of hyaline membranes, microatelectasis, alveolar hemorrhage causing dyspnea  and hypoxia
 
@@ -40,6 +42,13 @@
 * Restlessness, anxiety
 
 # Diagnostics
+
+# Question 1
+Your patients' PaO2 / FiO2 ratio is < 200, what does this suggest?
+[RIGHT] Adult Respiratory Distress Syndrome (ARDS)
+[WRONG] Normal Pulmonary Function
+[WRONG] Acute Lung Injury
+
 ### ABG
 * Refractory hypoxemia – hallmark of disease refractoy to O2 therapy (PaO2<55 mmHg)
 * Hypocapnia – compensatory increase in minute ventilation to maintain PaO2 until patient fatigues

@@ -1,4 +1,42 @@
+
+
+# Risk Factors 
+
+# Question 1
+Which of the following are risk factors for COPD?
+[RIGHT] Cigarette smoking, chronic respiratory infections, and occupational/environmental exposure
+[WRONG] History of pneumonia, chronic sinus infections, and allergies
+[WRONG] Traumatic pneumothorax, poor diet, and obesity
+
+# Question 2
+Which of the following are examples of occupational and environmental exposure that can contribute to COPD?
+[RIGHT] Dust, chemicals, and fumes
+[WRONG] Heat, physical activity, and sun exposure
+[WRONG] Poor ergonomics, toxic chemicals, and heat
+
+
 # Emphysema 
+
+# Question 3
+Which of the following are all characteristic of Chronic Obstructive Pulmonary Disease (COPD)?
+[RIGHT] Onset after 50 years of age, AP diameter increased, lung capacity increased, pursed lip breathing
+[WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity decreased, pursed lip breathing
+[WRONG] Onset after 50 years of age, AP diameter increased, lung capacity decreased, percussion (hyper resonant)
+[WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity increased, percussion (hyper resonant)
+
+# Question 4
+What condition is characterized by an abnormal permanent enlargement of the air spaces distal to the bronchioles?
+[RIGHT] Emphysema
+[WRONG] Chronic bronchitis
+[WRONG] Pneumonia
+
+# Question 5
+Which of the following is NOT considered a syndrome of COPD?
+[RIGHT] Pneumonia
+[WRONG] Emphysema
+[WRONG] Chronic bronchitis
+
+
 
 ### Pathology
 * Airway obstruction
@@ -53,6 +91,18 @@
 
 # Chronic Bronchitis 
 
+# Question 6
+Chronic bronchitis is characterized by:
+[RIGHT] Excessive secretion of bronchial tree mucus
+[WRONG] Irritation of the sinus cavities
+[WRONG] Permanent enlargement of air spaces distal to the bronchiole
+
+# Question 7
+What condition is manifested by a productive cough for greater than 3 months in at least 2 consecutive years in the absence of any other disease?
+[RIGHT] Chronic bronchitis
+[WRONG] Acute pneumonia
+[WRONG] Pneumothorax
+
 ### Pathology 
 * Thickened bronchial walls
 * Hyperplasia and hypertrophied mucous glands
@@ -94,6 +144,19 @@
 COPD gradually worsens. HOWEVER, early detection, treatment and modification of risk factors can alter the disease course.
 
 # Infection and Pulmonary Hypertension 
+
+# Question 8
+Pulmonary hypertension can result in signs and symptoms of which of the following?
+[RIGHT] Right heart failure
+[WRONG] Pulmonary embolism
+[WRONG] Pleuritis
+
+# Question 9
+Which of the following are signs and symptoms of right heart failure?
+[RIGHT] Dyspnea, syncope, peripheral edema
+[WRONG] Productive cough, fever, elevated white blood count
+[WRONG] Hypotension, erythema, palpitations
+
 
 ### Infection
 The most common cause of death 
