@@ -176,3 +176,11 @@ Which of the following are signs and symptoms of right heart failure?
 [RIGHT] Dyspnea, syncope, peripheral edema
 [WRONG] Productive cough, fever, elevated white blood count
 [WRONG] Hypotension, erythema, palpitations
+
+# Question 10
+Which of the following conditions require a higher PEEP to be applied in recruiting collapsed alveoli?
+
+[WRONG] Asthma
+[RIGHT] Acute Respiratory Distress Syndrome
+[WRONG] Bronchietasis
+[WRONG] Emphysema

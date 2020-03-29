@@ -92,3 +92,89 @@ In the event of respiratory acidosis, what should you do?
 * Inadequate fluid volume status
 
 Always assess patient first, then check the ventilator tubing while ambuing.
+
+# Alarms
+
+### Common Alarms
+
+#### ↑Ppeak–High peak pressure
+Most common causes are: coughing, thick secretions, mucous plug, kinks in the circuit
+
+#### ↓Ppeak–Low peak pressure
+* Leak (either in the circuit or the airway cuff)
+* Will most likely also be associated with ↓ Vte and ↓ Ve
+* Vt does not meat patients demand
+
+#### ↑Vte – High expired tidal volume
+Most common cause is a nebulizer is being run inline which the vent reads as additional tidal volume.
+
+#### ↓Vte
+Most common causes are either a leak in the circuit or airway cuff or Ventilator-Patient Desynchrony
+
+#### ↑Ve – High minute ventilation
+Most commonly due to tachypnea or secondary to ↑Vte due to nebulizer running inline
+
+#### ↓Ve – Low minute volume
+Leaks
+
+#### Circuit Disconnect - Patient may have become disconnected from the vent.
+This will also occur with patient-ventilator dyssynchrony(patient vent demands are not met)
+
+
+### High-Priority Alarms
+
+* These alarms must not be ignored, patient safety is at risk! If any of these alarms occur assess your
+patient (if vital signs are stable then attempt to rectify, if not then manually ventilate and call RCS)
+* Patient Disconnect
+* Severe Occlusion
+* These alarms cannot be reset until rectified
+
+### Low and Medium Priority (! And !!)
+
+* These alarms are indicators of a change in a patients ventilation status and should be addressed.
+    * Coughing
+    * Secretions
+    * Water in the tube
+
+
+# Question 3
+What type of alarm is the result of a patient who needs suctioning?
+
+[WRONG] Low pressure alarm
+[WRONG] Low volume alarm
+[RIGHT] High pressure alarm
+
+# Question 4
+What type of alarm is the result of a tracheal tube that has become misplaced?
+
+[WRONG] Low pressure alarm
+[WRONG] Low volume alarm
+[RIGHT] High pressure alarm
+
+# Question 5
+What type of alarm is the result of a patient who is biting the tube?
+
+[WRONG] Low pressure alarm
+[WRONG] Low volume alarm
+[RIGHT] High pressure alarm
+
+# Question 6
+What type of alarm is the result of a tube disconnect?
+
+[WRONG] Low pressure alarm
+[WRONG] High pressure alarm
+[RIGHT] Low volume alarm
+
+# Question 7
+What type of alarm is the result of a large cuff leak?
+
+[WRONG] Low pressure alarm
+[WRONG] High pressure alarm
+[RIGHT] Low volume alarm
+
+# Question 8 
+What is a possible cause of no tidal volume?
+
+[WRONG] Patient needs suctioning
+[WRONG] Patient biting the tube
+[RIGHT] Tube disconnect

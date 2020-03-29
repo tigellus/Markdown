@@ -41,3 +41,17 @@ What indicates that the work of breathing is greater than the patient can mainta
 
 [RIGHT] Ventilation is exhausting, increased respiration rate due to stiff compliance, decreased vital capacity
 [WRONG] Ventilation is exhausting, decreased respiration rate, increased vital capacity
+
+# Question 4
+Which of the following is an indication of mechanical ventilation?
+
+[WRONG] Provide fluids to the lungs
+[WRONG] Remove pericardial fluid
+[RIGHT] Isolate and protect the airway
+
+# Question 5
+What does decreased vital capacity indicate?
+
+[WRONG] The patient has decreased cardiac output
+[WRONG] The patient has adequate breathing ability
+[RIGHT] The work of breathing is greater than the patient can maintain

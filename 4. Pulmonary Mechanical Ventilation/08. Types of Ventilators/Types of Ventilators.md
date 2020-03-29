@@ -15,6 +15,14 @@ What differentiates a Volume Cycled and Pressure Cycled Mechanical Ventilator?
 [RIGHT] Volume Cycled ventilators have a predetermined tidal volume, Pressure Cycled ventilators cease gas flow when pressure reaches the preset level
 [WRONG] Volume Cycled ventilators have a predetermined tidal volume, Pressure Cycled ventilators begin gas flow when pressure reaches the preset level
 
+# Question 2
+A mechanical ventilator with a preset volume of gas that is delivered despite the amount of pressure generated is known as what?
+
+[WRONG] Manual cycled
+[WRONG] Pressure cycled
+[RIGHT] Volume cycled
+
+
 # Models of Mechanical Ventilators
 
 ### PB 840 Ventilator

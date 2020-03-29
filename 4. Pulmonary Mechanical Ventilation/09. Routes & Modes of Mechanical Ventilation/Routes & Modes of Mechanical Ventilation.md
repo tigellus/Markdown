@@ -114,6 +114,27 @@ What are the key advantages of Pressure Support Ventilation (PSV)?
 [RIGHT] Patient control of inspiratory timing, easy change of gas flow
 [WRONG] Tidal volumes can decrease
 
+# Question 5
+Which of the following is a disadvantage to Control Mechanical Ventilation (CMV)?
+
+[WRONG] It allows for spontaneous breathing
+[WRONG] The patient cannot be sedated
+[RIGHT] It may lead to hyperventilation
+
+# Question 6
+Which of the following is an advantage of Synchronized Intermittent Mandatory Ventilation (SIMV)?
+
+[WRONG] Asynchronous respirations
+[WRONG] Supports fully spontaneous breathing
+[RIGHT] Allows exercise of respiratory muscles
+
+# Question 7
+What type of mechanical ventilation augments the patient’s own spontaneous breathing efforts?
+
+[WRONG] Control Mechanical Ventilation (CMV)
+[WRONG] Synchronized Intermittent Mandatory Ventilation (SIMV)
+[RIGHT] Pressure Support Ventilation (PSV)
+
 
 # Adjuncts to Mechanical Ventilation
 
@@ -139,18 +160,56 @@ What are the key advantages of Pressure Support Ventilation (PSV)?
 PEEP is used when the patient is receiving a mechanical breath.
 CPAP is used when the patient is breathing spontaneously.
 
-# Question 5
+# Question 8
 What characterizes Continuous Positive Airway Pressure (CPAP)?
 
 [RIGHT] Patient breathes independently, potentially through a ventilator circuit
 [WRONG] Preset tidal volume, controlled FiO2 and gas pressure at end-exhalation
 [WRONG] No preset tidal volume, no control of FiO2 and gas pressure at end-exhalation
 
-# Question 6
+# Question 9
 Which mechanical ventilation approach is most suitable when a patient is breathing spontaneously?
 
 [RIGHT] CPAP
 [WRONG] PEEP
+
+# Question 10
+What is a potential complication of Positive-End Expiratory Pressure (PEEP)?
+
+[WRONG] Increased cardiac output
+[WRONG] Decreased intracerebral pressure
+[RIGHT] Increased risk for pneumothorax
+
+# Question 11
+Which of the following is commonly used as treatment for sleep apnea?
+
+[WRONG] Control Mechanical Ventilation (CMV)
+[WRONG] Synchronized Intermittent Mandatory Ventilation (SIMV)
+[RIGHT] Continuous Positive Airway Pressure (CPAP)
+
+# Question 12
+One of the following modes of ventilation “locks out” the patient's efforts to breathe
+
+[RIGHT] Controlled Mandatory Ventilation
+[WRONG] Synchronous Intermittent Mandatory Ventilation
+[WRONG] Assist Control Mode
+[WRONG] Pressure Control Mode
+
+# Question 13
+One of the following modes of ventilation has the risk of the patient getting respiratory alkalosis
+[WRONG] Controlled Mandatory Ventilation
+[WRONG] Synchronous Intermittent Mandatory Ventilation
+[RIGHT] Assist Control Mode
+[WRONG] Pressure Control Mode
+
+# Question 14
+The mode of ventilation which allows the patient to breathe spontaneously at his or her own respiratory rate and depth between the ventilator breaths is
+
+[WRONG] Controlled Mandatory Ventilation
+[RIGHT] Synchronous Intermittent Mandatory Ventilation
+[WRONG] Assist Control Mode
+[WRONG] Pressure Control Mode
+
 
 # Ventilation Settings 
 
@@ -176,45 +235,54 @@ Which mechanical ventilation approach is most suitable when a patient is breathi
 * Expiratory Pause – breath hold at the end of expiration
     *Used to determine Intrinsic PEEP or AutoPEEP
 
-# Alarms
+# Question 15
+Minute ventilation is equal to
 
-### Common Alarms
+[WRONG] FiO2 X PEEP
+[WRONG] FiO2/PEEP
+[RIGHT] Tidal Volume X Respiratory Rate
+[WRONG] Tidal Volume/Respiratory Rate
 
-#### ↑Ppeak–High peak pressure
-Most common causes are: coughing, thick secretions, mucous plug, kinks in the circuit
+# Question 16
+What are the Ventilator Parameters adjusted to maintain the optimum Minute Ventilation?
 
-#### ↓Ppeak–Low peak pressure
-* Leak (either in the circuit or the airway cuff)
-* Will most likely also be associated with ↓ Vte and ↓ Ve
-* Vt does not meat patients demand
+[WRONG] FiO2 and PEEP
+[RIGHT] Tidal Volume and Respiratory Rate
 
-#### ↑Vte – High expired tidal volume
-Most common cause is a nebulizer is being run inline which the vent reads as additional tidal volume.
+# Question 17
+Which are the Ventilator Parameters adjusted to maintain the optimum oxygenation?
 
-#### ↓Vte
-Most common causes are either a leak in the circuit or airway cuff or Ventilator-Patient Desynchrony
+[RIGHT] FiO2 and PEEP
+[WRONG] Tidal Volume and Respiratory Rate
 
-#### ↑Ve – High minute ventilation
-Most commonly due to tachypnea or secondary to ↑Vte due to nebulizer running inline
+# Question 18
+One of the following modes of ventilation reduces the work of breathing by overcoming the resistance created by ventilator tubing
 
-#### ↓Ve – Low minute volume
-Leaks
+[WRONG] Controlled Mandatory Ventilation
+[WRONG] Synchronous Intermittent Mandatory Ventilation
+[WRONG] Assist Control Mode
+[RIGHT] Pressure Support Mode
 
-#### Circuit Disconnect - Patient may have become disconnected from the vent.
-This will also occur with patient-ventilator dyssynchrony(patient vent demands are not met)
+# Question 19
+Which one of the following modes of ventilation is triggered by time, limited by pressure and affects aspiration only?
 
+[WRONG] Controlled Mandatory Ventilation
+[WRONG] Synchronous Intermittent Mandatory Ventilation
+[WRONG] Assist Control Mode
+[RIGHT] Pressure Control Mode
 
-### High-Priority Alarms
+# Question 20
+There can be variations in the minute ventilation in one of the following modes of ventilation as the respiratory rate and tidal volume is determined by the:
 
-* These alarms must not be ignored, patient safety is at risk! If any of these alarms occur assess your
-patient (if vital signs are stable then attempt to rectify, if not then manually ventilate and call RCS)
-* Patient Disconnect
-* Severe Occlusion
-* These alarms cannot be reset until rectified
+[WRONG] Controlled Mandatory Ventilation
+[WRONG] Synchronous Intermittent Mandatory Ventilation
+[WRONG] Pressure Control Mode
+[RIGHT] Pressure Support Mode
 
-### Low and Medium Priority (! And !!)
+# Question 21
+One of the following is a risk of keeping high PEEP
 
-* These alarms are indicators of a change in a patients ventilation status and should be addressed.
-    * Coughing
-    * Secretions
-    * Water in the tube
+[RIGHT] Hypotension
+[WRONG] Hypertension
+[WRONG] Hyperthermia
+[WRONG] Hypothermia

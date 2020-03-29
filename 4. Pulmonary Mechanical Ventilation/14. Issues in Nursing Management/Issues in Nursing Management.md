@@ -48,3 +48,24 @@ Malnourishment may cause:
 [WRONG] Increased response to hypoxia and hypercabnia, decreased surfactant production
 [WRONG] Increased response to hypoxia and hypercabnia, increased surfactant production 
 [WRONG] Reduced response to hypoxia and hypercabnia, increased surfactant production
+
+# Question 2
+When is suctioning clinically indicated for vented patients?
+
+[WRONG] Lack of airway noises
+[WRONG] Hypotension
+[RIGHT] Coughing or respiratory distress
+
+# Question 3
+Which of the following demonstrates proper technique for ventilator use?
+
+[WRONG] Use the highest pressure possible
+[WRONG] Avoid limiting suctioning time per attempt
+[RIGHT] Do not suction during cath insertion
+
+# Question 4
+Use of lipids to replace caloric needs can reduce what?
+
+[WRONG] Blood glucose
+[WRONG] Protein
+[RIGHT] Carbohydrate load

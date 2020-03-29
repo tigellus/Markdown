@@ -31,3 +31,29 @@ What type of mask should be used when caring for patients who use BiPAP or CPAP 
 [RIGHT] N95 respirator mask
 [WRONG] Standard surgical mask
 [WRONG] Full face mask
+
+# Question 2
+An artificial airway, like an endotracheal tube, is used in the following type of ventilation
+
+[RIGHT] Positive Pressure
+[WRONG] Negative pressure
+
+# Question 3
+Pressure is applied to the abdomen and thorax to draw air into the lungs through the upper airway in the following type of ventilation
+
+[WRONG] Positive Pressure
+[RIGHT] Negative pressure
+
+# Question 4
+Iron lung ventilators used after the polio epidemics in the first half of the 20th century belong to
+
+[WRONG] Positive Pressure Ventilation
+[RIGHT] Negative pressure Ventilation
+
+# Question 5
+CPAP and BiPAP modes are usually used
+
+[WRONG] in conjunction with bronchodilators and steroids
+[WRONG] to delay intubation
+[WRONG] as a weaning protocol
+[RIGHT] All of the above
