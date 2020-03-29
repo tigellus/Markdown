@@ -2,7 +2,9 @@
 * Severe form of respiratory failure that occurs in previously healthy individuals
 * Characterized by lung edema, formation of hyaline membranes, microatelectasis, alveolar hemorrhage causing dyspnea  and hypoxia
 
-# Question A patient is being treated for aspiration pneumonia. The patient is on a 100% non-rebreather mask. Which finding below is a hallmark sign that the patient is developing acute respiratory distress syndrome (ARDS)?
+# Question 1
+A patient is being treated for aspiration pneumonia. The patient is on a 100% non-rebreather mask. Which finding below is a hallmark sign that the patient is developing acute respiratory distress syndrome (ARDS)?
+
 [WRONG] The patient is experiencing bradypnea.
 [WRONG] The patient is tired and confused.
 [RIGHT] The patient's PaO2 remains at 45 mmHg. 
@@ -10,7 +12,9 @@
 
 A hallmark sign and symptom found in ARDS is refractory hypoxemia. Although the patient is receiving a high amount of oxygen (using a 100% non-rebreather mask), the patient is STILL hypoxic given that their arterial oxygen level is remaining at 45 mmHg (a normal is 80 mmHg but when treating patients with ARDS, the goal is at least 60 mmHg).
 
-# Question What is acute respiratory distress syndrome (ARDS)?
+# Question 2
+What is acute respiratory distress syndrome (ARDS)?
+
 [WRONG] This condition develops because the exocrine glands start to work incorrectly leading to thick, copious mucous to collect in the alveoli sacs
 [WRONG] ARDS is a pulmonary disease that gradually causes chronic obstruction of airflow from the lungs
 [WRONG] Acute respiratory distress syndrome occurs due to the collapsing of a lung because air has accumulated in the pleural space
@@ -18,7 +22,9 @@ A hallmark sign and symptom found in ARDS is refractory hypoxemia. Although the 
 
 ARDS is a type of respiratory failure that occurs when the capillary membrane that surrounds the alveoli sac becomes damaged, which causes fluid to leak into the alveoli sac. The first answer describes cystic fibrosis, the second describes COPD, and the third describes a pneumothorax.
 
-# Question During the exudative phase of acute respiratory distress syndrome (ARDS), the patient's lung cells that produce surfactant have become damaged. This will lead to:
+# Question 3
+During the exudative phase of acute respiratory distress syndrome (ARDS), the patient's lung cells that produce surfactant have become damaged. This will lead to:
+
 [WRONG] Bronchoconstriction
 [RIGHT] Atelectasis 
 [WRONG] Upper airway blockage
@@ -26,13 +32,17 @@ ARDS is a type of respiratory failure that occurs when the capillary membrane th
 
 Surfactant decreases surface tension in the lungs. Therefore, the alveoli sacs will stay stable when a person exhales (hence the sac won’t collapse). If there is a decrease in surfactant production, this creates an unpredictable alveoli sac that can easily collapse, hence a condition called Atelectasis will occur (a collapse of the lung tissue) when there is a decreased production in surfactant.
 
-# Question A patient has been hospitalized in the ICU for a near drowning event. The patient's respiratory function has been deteriorating over the last 24 hours. The physician suspects acute respiratory distress syndrome. A STAT chest x-ray is ordered. What finding on the chest x-ray is indicative of ARDS?
+# Question 4
+A patient has been hospitalized in the ICU for a near drowning event. The patient's respiratory function has been deteriorating over the last 24 hours. The physician suspects acute respiratory distress syndrome. A STAT chest x-ray is ordered. What finding on the chest x-ray is indicative of ARDS?
+
 [WRONG] Infiltrates only appearing on the upper lobes
 [WRONG] Enlargement of the heart with bilateral lower lobe infiltrates
 [RIGHT] White-out infiltrates bilaterally 
 [WRONG] Normal chest x-ray
 
-# Question A patient undergoing treatment of ARDS is in the exudative phase. The patient is ordered arterial blood gases. Which ABG results are expected during this early phase of acute respiratory distress syndrome that correlates with the exudative phase?
+# Question 5
+A patient undergoing treatment of ARDS is in the exudative phase. The patient is ordered arterial blood gases. Which ABG results are expected during this early phase of acute respiratory distress syndrome that correlates with the exudative phase?
+
 [RIGHT] PaO2 40, pH 7.59, PaCO2 30, HCO3 23 
 [WRONG] PaO2 85, pH 7.42, PaCO2 37, HCO3 26
 [WRONG] PaO2 50, pH 7.20, PaCO2 48, HCO3 29
@@ -40,7 +50,9 @@ Surfactant decreases surface tension in the lungs. Therefore, the alveoli sacs w
 
 This demonstrates respiratory alkalosis. In the early stages of ARDS (exudative), the patient will start to enter into respiratory alkalosis. The patient starts to have tachypnea (the body’s way of trying to increase the oxygen level). The patient will have a very low PaO2 level (normal PaO2 is 80 mmHg), the blood pH will become high (normal is 7.35-7.45).
 
-# Question Which patient below is at the HIGHEST risk for developing ARDS?
+# Question 6
+Which patient below is at the HIGHEST risk for developing ARDS?
+
 [WRONG] A 52-year-old male patient with pneumothorax
 [WRONG] A 48-year-old male being treated for diabetic ketoacidosis
 [RIGHT] A 69-year-old female with sepsis caused by a gram-negative bacterial infection
@@ -48,7 +60,9 @@ This demonstrates respiratory alkalosis. In the early stages of ARDS (exudative)
 
 Sepsis is the MOST common cause of ARDS because of the systemic inflammation that is experienced. This is also true if the cause of the sepsis is a gram-negative bacterium (this also makes the infection harder to treat). With sepsis, the immune cells that are present travel to the lungs and damage the alveolar capillary membrane leading to fluid leakage in the alveolar sacs.
 
-# Question Acute respiratory distress syndrome (ARDS) can be caused by direct or indirect lung injury. Select below all the INDIRECT causes of ARDS (select all that apply):
+# Question 7
+Acute respiratory distress syndrome (ARDS) can be caused by direct or indirect lung injury. Select below all the INDIRECT causes of ARDS (select all that apply):
+
 [WRONG] Drowning
 [WRONG] Aspiration
 [RIGHT] Sepsis 
@@ -58,7 +72,9 @@ Sepsis is the MOST common cause of ARDS because of the systemic inflammation tha
 
 Indirect causes are processes that can cause inflammation OUTSIDE of the lungs. Drowning, aspiration, and pneumonia are issues that arise in the lungs (therefore, they are DIRECT causes of lung injury).
 
-# Question A patient is on mechanical ventilation with PEEP (positive end-expiratory pressure). Which finding below indicates the patient is developing a complication related to their therapy and requires immediate treatment?
+# Question 8
+A patient is on mechanical ventilation with PEEP (positive end-expiratory pressure). Which finding below indicates the patient is developing a complication related to their therapy and requires immediate treatment?
+
 [WRONG] HCO3 26 mmHg
 [RIGHT] Blood pressure 70/45
 [WRONG] PaO2 80 mmHg
@@ -66,7 +82,9 @@ Indirect causes are processes that can cause inflammation OUTSIDE of the lungs. 
 
 Mechanical ventilation with PEEP can cause issues with intrathoracic pressure, decrease the cardiac output, and cause hyperinflation of the lungs.
 
-# Question Which findings below indicate that prone positioning was beneficial to a patient with ARDS (select all that apply)?
+# Question 9
+Which findings below indicate that prone positioning was beneficial to a patient with ARDS (select all that apply)?
+
 [RIGHT] Improvement in lung sounds 
 [WRONG] Development of a V/Q mismatch
 [RIGHT] PaO2 increased from 59 mmHg to 82 mmHg 
@@ -74,7 +92,9 @@ Mechanical ventilation with PEEP can cause issues with intrathoracic pressure, d
 
 Prone positioning helps improve PaO2 (82 mmHg is a sufficient level) without actually giving the patient high concentrations of oxygen. It helps improve perfusion and ventilation (hence correcting the V/Q mismatch). In this position, the heart is no longer laying against the posterior part of the lungs (improving air flow and subsequently lung sounds) and it helps move secretions from other areas that were filled with fluid and couldn’t move in the supine position, hence improving atelectasis.
 
-# Question A patient is experiencing respiratory failure due to pulmonary edema. The physician suspects ARDS but wants to rule out a cardiac cause. A pulmonary artery wedge pressure is obtained. What measurement reading obtained indicates that this type of respiratory failure is NOT cardiac related?
+# Question 10
+A patient is experiencing respiratory failure due to pulmonary edema. The physician suspects ARDS but wants to rule out a cardiac cause. A pulmonary artery wedge pressure is obtained. What measurement reading obtained indicates that this type of respiratory failure is NOT cardiac related?
+
 [WRONG] >25 mmHg
 [WRONG] <10 mmHg 
 [WRONG] >50 mmHg
@@ -82,7 +102,9 @@ Prone positioning helps improve PaO2 (82 mmHg is a sufficient level) without act
 
 A pulmonary artery wedge pressure measures the left atrial pressure. A pulmonary catheter is "wedged" with a balloon in the pulmonary arterial branch to measure the pressure. If the reading is less than 18 mmHg it indicates that this is NOT a cardiac issue but most likely ARDS. Therefore, the pulmonary edema is susceptible to damage due to the alveolar capillary membrane leaking fluid into the alveolar sac.
 
-# Question When caring for a patient on mechanical ventilation with PEEP for treatment of ARDS, why would the PEEP setting be at 10 mmHg?
+# Question 11 
+When caring for a patient on mechanical ventilation with PEEP for treatment of ARDS, why would the PEEP setting be at 10 mmHg?
+
 [WRONG] This pressure setting assists the patient with breathing in and out and helps improve air flow
 [WRONG] This pressure setting will help prevent a decrease in cardiac output and hyperinflation of the lungs
 [WRONG] This pressure setting helps prevent fluid from filling the alveoli sacs
@@ -90,8 +112,9 @@ A pulmonary artery wedge pressure measures the left atrial pressure. A pulmonary
 
 This PEEP setting helps open the alveoli sacs that have collapsed.
 
-# Question
+# Question 12
 Which of the following is a common cardiovascular complication in patients with acute respiratory failure?
+
 [WRONG] Hypertension
 [RIGHT] Endocarditis
 [WRONG] Aortic Coarctation
@@ -99,7 +122,9 @@ Which of the following is a common cardiovascular complication in patients with 
 
 Common cardiovascular complications in patients with acute respiratory failure include hypotension, reduced cardiac output, arrhythmia, endocarditis, and acute myocardial infarction. These complications may be related to the underlying disease process, mechanical ventilation, or the use of pulmonary artery catheters.
 
-# Question Which of the following is not considered a routine investigation in patients with suspected respiratory failure?
+# Question 13 
+Which of the following is not considered a routine investigation in patients with suspected respiratory failure?
+
 [WRONG] Chest x-ray
 [WRONG] Arterial blood gas analysis
 [RIGHT] Right-sided heart catheterization
@@ -107,7 +132,9 @@ Common cardiovascular complications in patients with acute respiratory failure i
 
 Respiratory failure may be associated with a variety of clinical manifestations. However, these are nonspecific, and very significant respiratory failure may be present without dramatic signs or symptoms. This emphasizes the importance of measuring arterial blood gases in all patients who are seriously ill or in whom respiratory failure is suspected. Chest x-ray is essential. Echocardiography is not routinely done but is sometimes useful. Pulmonary functions tests, if feasible, may be helpful. Electrocardiography should be performed to evaluate the possibility of a cardiovascular cause of respiratory failure; it also may detect dysrhythmias resulting from severe hypoxemia or acidosis. Right-sided heart catheterization is controversial.
 
-# Question Which of the following indicates an airflow obstruction in a patient with suspected chronic respiratory failure?
+# Question 14 
+Which of the following indicates an airflow obstruction in a patient with suspected chronic respiratory failure?
+
 [WRONG] A forced expiratory volume in 1 second (FEV1) level >1 L
 [WRONG] A forced vital capacity (FVC) level >1.5 L
 [RIGHT] A decrease in the FEV1-to-FVC ratio (FEV1/FVC)
@@ -116,7 +143,9 @@ Respiratory failure may be associated with a variety of clinical manifestations.
 Normal values for FEV1 and FVC suggest a disturbance in respiratory control. A decrease in FEV1/FVC indicates airflow obstruction, whereas a reduction in both FEV1 and FVC and maintenance of FEV1/FVC suggest restrictive lung disease.
 Respiratory failure is uncommon in obstructive diseases when FEV1 is >1 L and in restrictive diseases when FVC is >1 L.
 
-# Question Which of the following is recommended to avoid severe dynamic hyperinflation in patients with respiratory failure receiving mechanical ventilation?
+# Question 15 
+Which of the following is recommended to avoid severe dynamic hyperinflation in patients with respiratory failure receiving mechanical ventilation?
+
 [RIGHT] Tidal volume of 6 mL/kg
 [WRONG] Tidal volume of 8-10 mL/kg
 [WRONG] Respiratory rates of 13-15 breaths/min
@@ -183,7 +212,7 @@ After the initiation of mechanical ventilation, patients with status asthmaticus
 * Acute lung injury – 200 to 300
 * ARDS - <200
 
-# Question
+# Question 16
 Your patients' PaO2 / FiO2 ratio is < 200, what does this suggest?
 
 [RIGHT] Adult Respiratory Distress Syndrome (ARDS)
