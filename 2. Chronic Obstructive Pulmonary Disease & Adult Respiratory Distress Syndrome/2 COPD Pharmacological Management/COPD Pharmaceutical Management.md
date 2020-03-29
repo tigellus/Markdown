@@ -1,5 +1,6 @@
-# Question
+# Question 1
 As a cause of death in the United States, COPD ranks:
+
 [WRONG] Second
 [WRONG] Third
 [RIGHT] Fourth
@@ -7,8 +8,9 @@ As a cause of death in the United States, COPD ranks:
 
 * COPD is the fourth leading cause of death in the United States
 
-# Question
+# Question 2
 Two diseases common to the etiology of COPD are:
+
 [WRONG] Asthma and atelectasis
 [RIGHT] Chronic bronchitis and emphysema
 [WRONG] Pneumonia and pleurisy
@@ -19,8 +21,9 @@ Two diseases common to the etiology of COPD are:
 * Option C: Pneumonia and pleurisy are not classified under the COPD
 * Option D: Tuberculosis and pleural effusion are not chronic pulmonary diseases
 
-# Question
+# Question 3
 The underlying pathophysiology of COPD is:
+
 [WRONG] Inflamed airways that obstruct airflow
 [WRONG] Mucus secretion that blocks airways
 [WRONG] Alveolar wall destruction
@@ -31,8 +34,9 @@ The underlying pathophysiology of COPD is:
 * Option B: Hypersecretion occurs due to the increase in the number of goblet cells
 * Option C: Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil
 
-# Question
+# Question 4
 The abnormal inflammatory response in the lungs occurs primarily in the:
+
 [WRONG] Airways
 [WRONG] Parenchyma
 [WRONG] Pulmonary vasculature
@@ -43,8 +47,9 @@ The abnormal inflammatory response in the lungs occurs primarily in the:
 * Option B: The lung parenchyma undergoes an inflammatory response in COPD
 * Option C: The pulmonary vasculature is affected by inflammation in COPD
 
-# Question
+# Question 5
 The most important environmental risk factor in emphysema is:
+
 [WRONG] Air pollution
 [WRONG] Allergens
 [WRONG] Infectious agents
@@ -73,8 +78,9 @@ An abnormal distention of airspaces beyond the terminal bronchioles and destruct
 
 # Management
 
-# Question
+# Question 6
 Goals to achieve in management of patients with COPD include all of the following, EXCEPT:
+
 [WRONG] Achievement of airway clearance
 [WRONG] Improvement in breathing pattern
 [WRONG] Independence in self-care activities
@@ -161,8 +167,9 @@ Documentation is an essential part of the patient’s chart because the interven
 
 #Treatment
 
-# Question
+# Question 7
 Which of the following is NOT a treatment used to manage COPD?
+
 [RIGHT] Isolation
 [WRONG] Smoking cessation
 [WRONG] Oxygen therapy
@@ -182,14 +189,16 @@ The following are treatments to manage COPD:
 
 # Bronchodilators
 
-# Question
+# Question 8
 Albuterol, terbutaline, and metaproterenol are examples of what classification of drugs?
+
 [RIGHT] Bronchodilators
 [WRONG] Expectorants
 [WRONG] Antibiotics
 
-# Question
+# Question 9
 The bronchodilator Salmeterol (Serevent) is which of the following:
+
 [RIGHT] A long acting inhaled agent
 [WRONG] A short acting inhaled agent
 
@@ -208,19 +217,22 @@ The bronchodilator Salmeterol (Serevent) is which of the following:
 
 # Corticosteroids
  
-# Question
+# Question 10
 Triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril) are examples of which drug classification?
+
 [RIGHT] Corticosteroids
 [WRONG] Bronchodilators
 [WRONG] Antitussives
 
-# Question
+# Question 11
 How are triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril) delivered?
+
 [RIGHT] Metered dose inhaler
 [WRONG] Oral tablets
 
-# Question
+# Question 12
 An oral corticosteroid that is commonly prescribed for the treatment of respiratory illnesses is:
+
 [RIGHT] Prednisone
 [WRONG] Triamcinolone
 [WRONG] Fluticasone
