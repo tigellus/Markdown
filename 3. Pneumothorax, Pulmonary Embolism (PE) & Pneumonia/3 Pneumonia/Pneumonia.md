@@ -4,6 +4,8 @@ Respiratory diseases are rampant today because it is easier spread in crowded ar
 - [ ] Pneumonia is an inflammation of the lung parenchyma caused by various microorganisms, including bacteria, mycobacteria, fungi, and viruses.
 - [ ] Pneumonitis is a more general term that describes the inflammatory process in the lung tissue that may predispose and place the patient at risk for microbial invasion.
 
+![](assets/Pneumonia–Image.jpg)
+
 
 # Classification
 Pneumonia is classified into four: community-acquired pneumonia (CAP) and hospital-acquired pneumonia (HAP), pneumonia in the immunocompromised host, and aspiration pneumonia.
@@ -76,6 +78,8 @@ Impaired host defenses. When the defenses of the body are down, several pathogen
 
 # Clinical Manifestations
 Pneumonia varies in its signs and symptoms depending on its type but it is not impossible to diagnose a specific pneumonia through its clinical manifestations.
+
+![](assets/Pneumonia-Symptoms.png)
 
 Clinical Manifestations of Pneumonia
 - [ ] Rapidly rising fever. Since there is inflammation of the lung parenchyma, fever develops as part of the signs of an infection.
