@@ -2,6 +2,24 @@
 # Ventilator Circuit Components
 ![](assets/circuit.png)
 
+# Routes
+
+* Endotracheal
+* Nasotracheal
+* Tracheal-Tracheostomy (elective)
+* Cricoidotomy
+
+![](assets/endotube.png)
+
+![](assets/trachtube.png)
+
+# Question 1
+Which of the following is an urgent route for mechanical ventilation?
+[RIGHT] Cricoidotomy
+[WRONG] Endotracheal
+[WRONG] Nasotracheal
+[WRONG] Tracheal-Tracheostomy
+
 # Modes of Ventilation
 
 ### Control Mechanical Ventilation (CMV)
@@ -72,6 +90,27 @@
 * Limited use – requires technical support and experience
 * Requires sedation and neuromuscular paralysis
 
+# Question 2
+What characterizes Control Mechanical Ventilation (CMV)? 
+[RIGHT] Preset tidal volume and preset respiratory rate
+[WRONG] Preset tidal volume but not respiratory rate
+[WRONG] Preset respiratory rate but not tidal volume
+[WRONG] No preset respiratory rate and no preset tidal volume
+
+# Question 3
+What characterizes Synchronised Intermittent Mandatory Ventilation (SIMV)? 
+[RIGHT] Preset rate and tidal volume, but allows spontaneous breaths at any tidal volume
+[WRONG] Preset tidal volume, but allows spontaneous breaths at any rate
+[WRONG] Preset rate but not preset tidal volume
+[WRONG] Preset tidal volume but not preset rate
+[WRONG] No preset rate or tidal volume
+
+# Question 4
+What are the key advantages of Pressure Support Ventilation (PSV)?
+[RIGHT] Patient control of inspiratory timing, easy change of gas flow
+[WRONG] Tidal volumes can decrease
+
+
 # Adjuncts to Mechanical Ventilation
 
 ### Positive-End Expiratory Pressure (PEEP)
@@ -95,6 +134,17 @@
 
 PEEP is used when the patient is receiving a mechanical breath.
 CPAP is used when the patient is breathing spontaneously.
+
+# Question 5
+What characterizes Continuous Positive Airway Pressure (CPAP)?
+[RIGHT] Patient breathes independently, potentially through a ventilator circuit
+[WRONG] Preset tidal volume, controlled FiO2 and gas pressure at end-exhalation
+[WRONG] No preset tidal volume, no control of FiO2 and gas pressure at end-exhalation
+
+# Question 6
+Which mechanical ventilation approach is most suitable when a patient is breathing spontaneously?
+[RIGHT] CPAP
+[WRONG] PEEP
 
 # Ventilation Settings 
 
