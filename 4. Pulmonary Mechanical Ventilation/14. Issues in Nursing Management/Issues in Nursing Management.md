@@ -40,3 +40,10 @@
 * Problems with COPD and other patients unable to clear CO2
 * Feeding with high carbohydrate tube feedings or parenteral nutrition increases the CO2 load
 * Use of lipids to replace some of the caloric needs can reduce carbohydrate load
+
+# Question 1
+Malnourishment may cause:
+[RIGHT] Reduced response to hypoxia and hypercabnia, decreased surfactant production
+[WRONG] Increased response to hypoxia and hypercabnia, decreased surfactant production
+[WRONG] Increased response to hypoxia and hypercabnia, increased surfactant production 
+[WRONG] Reduced response to hypoxia and hypercabnia, increased surfactant production
