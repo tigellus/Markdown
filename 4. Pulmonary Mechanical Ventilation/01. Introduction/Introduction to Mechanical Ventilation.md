@@ -26,6 +26,7 @@ The course will consist of:
 
 # Instructor-led lesson
 Please attend the instructor-led session. Continue the course once you completed the session.
+If you have not received information on how to access the Instructor-led lesson please contact your course responsible.
 
 # Mechanical Ventilation Recap & Case Studies
 

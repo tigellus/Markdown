@@ -15,3 +15,4 @@ The goals of this session are:
 
 # Instructor-led Q&A session on Shock Management
 In this session you will engage in a Q&A session where a qualified instructor will answer your and your fellow learners's questions.
+If you have not received information on how to access the Instructor-led Q&A session please contact your course responsible.
