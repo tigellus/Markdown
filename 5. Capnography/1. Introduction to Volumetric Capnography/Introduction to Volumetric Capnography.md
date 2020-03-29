@@ -4,7 +4,7 @@ Carbon dioxide (CO2) is the most abundant gas produced by the human body. CO2 is
 
 Capnography has improved over the last few decades thanks to the developement of faster infrared sensors that can measure CO2 at the airway opening in realtime. By knowing how CO2 behaves on its way from the bloodstream through the alveoli to the ambient air, physicians can obtain useful information about ventilation and perfusion.
 
-There are two distinct types of capnography: Conventional, **time-based capnography** allows only qualitative and semi-quantitative, and sometimes misleading, measurements, so **volumetric capno-graphy** has emerged as the preferred method to assess the quality and quantity of ventilation.
+There are two distinct types of capnography: Conventional, **time-based capnography** allows only qualitative and semi-quantitative, and sometimes misleading, measurements, so **volumetric capnography** has emerged as the preferred method to assess the quality and quantity of ventilation.
 
 ![](assets/capnography.png)
 
@@ -17,8 +17,7 @@ There are two distinct types of capnography: Conventional, **time-based capnogra
 * Helps you optimize your ventilator settings
 * Is easy to do and is relatively inexpensive
 
-In short, volumetric capnography is a valuable tool to improve the
-ventilation quality and efficiency for your ventilated patients.
+In short, volumetric capnography is a valuable tool to improve the ventilation quality and efficiency for your ventilated patients.
 
 # Question 1
 Capnography is used for all of the following reasons EXCEPT:

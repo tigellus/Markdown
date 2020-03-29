@@ -121,10 +121,45 @@ An elevation of the baseline during Phase I indicates rebreathing of CO2, which 
 Consider recalibration of the CO2 sensor or reduction of the airway accessories.
 
 # Question 1
-End tidal CO2 is a useful measurement for all of the following EXCEPT:
+Adult female patient, hospitalized comatose after car accident with no visible injuries, presents after intubation with low blood pressure, hyperglycemia, and a heart rate of 118 beats/min (tachycardia).
 
-[WRONG] Ventilation
-[WRONG] Approximating PaCO2
-[RIGHT] Oxygenation
-[WRONG] Perfusion
-[WRONG] Circulation
+![](assets/capnography24a.png)
+
+What does the volumetric capnogram indicate?
+
+[WRONG] Pneumothorax
+[WRONG] ARDS
+[RIGHT] Hemorrhagic shock
+
+# Question 2
+Adult female intubated patient presents with a respiratory rate of 35 breaths/min (tachypnea) and swollen calves. 
+
+![](assets/capnography24b.png)
+
+What does the volumetric capnogram indicate?
+
+[RIGHT] Pulmonary embolism
+[WRONG] ARDS
+[WRONG] Sepsis
+
+# Question 3
+Adult male intubated patient presents with a dry, nonproductive cough, crackling noises in the lungs, and a heart rate of 110 beats/min (tachycardia). 
+
+![](assets/capnography24c.png)
+
+What does the volumetric capnogram indicate?
+
+[WRONG] Cardiac arrest
+[RIGHT] ARDS
+[WRONG] Sepsis
+
+# Question 4
+Adult male intubated patient presents with blueness of the lips and fingernail beds (cyanosis), oxygen saturation (SaO2) of 89%, and the x-ray shows overexpanded lungs. 
+
+![](assets/capnography24d.png)
+
+What does the volumetric capnogram indicate?
+
+[WRONG] PEEP is too high
+[WRONG] Pulmonary embolism
+[RIGHT] Severe COPD

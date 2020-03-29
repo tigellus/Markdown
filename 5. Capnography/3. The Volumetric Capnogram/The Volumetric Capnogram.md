@@ -31,7 +31,7 @@ Phase II represents gas that is composed partially of distal airway volume and m
 
 # Phase III – Plateau phase
 
-Phase III gas is entirely from the alveoli where gas exchange takes place. This phase is representative of gas distribution. The final CO2 value in Phase III is called end-tidal CO2 (PetCO2).
+Phase III gas is entirely from the alveoli where gas exchange takes place. This phase is representative of gas distribution. The final CO2 value in Phase III is the end-tidal CO2 (PetCO2).
 
 ![](assets/capnography5.png)
 
@@ -45,12 +45,3 @@ The slope of Phase III is a characteristic of the volumetric capnogram shape. Th
 ![](assets/capnography6.png)
 
 A steep slope can be seen, for example, in COPD and ARDS patients.
-
-# Question 1
-What is end tidal CO2?
-
-[WRONG] Amount of CO2 in blood stream
-[WRONG] Amount of CO2 in venous blood
-[RIGHT] Partial pressure of CO2 in lungs measured at the end of expiration
-[WRONG] 2nd derivative of Cardiac Output
-[WRONG] Cardiac output during exhalation
