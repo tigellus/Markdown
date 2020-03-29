@@ -286,3 +286,27 @@ One of the following is a risk of keeping high PEEP
 [WRONG] Hypertension
 [WRONG] Hyperthermia
 [WRONG] Hypothermia
+
+# Question 22
+Mechanical ventilation is:
+
+[WRONG] Chest compressions performed during cardiopulmonary arrest.
+[WRONG] Use of a heart-lung machine during coronary artery bypass surgery.
+[RIGHT] Use of a machine to breathe for a patient who can’t breathe on his or her own.
+[WRONG] Use of an intra-aortic balloon pump for cardiogenic shock.
+
+# Question 23
+Who is generally responsible for general ventilator maintenance?
+
+[WRONG] Nurse
+[WRONG] Nursing assistant
+[WRONG] Physician
+[RIGHT] Respiratory therapist
+
+# Question 24
+How does Synchronized Intermittent Mandatory Ventilation (SIMV) differ from Assist Control (A/C) in relation to the patient’s spontaneous breaths?
+
+[WRONG] A/C allows the patient to control the tidal volume of spontaneous breaths
+[RIGHT] SIMV allows the patient to control the tidal volume of spontaneous breaths
+[WRONG] A/C does not allow spontaneous breaths
+[WRONG] SIMV delivers the same tidal volume for both spontaneous and ventilator-initiated breaths.

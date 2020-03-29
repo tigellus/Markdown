@@ -494,3 +494,11 @@ Ricky’s grandmother is suffering from persistent vomiting for two days now. Sh
 [WRONG] Metabolic alkalosis compensated
  
 The pH is high indicating alkalosis and the source is loss of hydrogen ions from the persistent vomit. remember that to produce acid in the stomach and mouth for stomach acid and saliva the body secretes hydrogen ions into the lumen but at the same time secretes bicarb into the blood stream. Vomiting will cause the body to produce more stomach acid and saliva to replace that acid that was lost due to vomiting. this will cause the body to produce way more bicarb which will cause alkalosis. 
+
+# Question 24
+If your patient has respiratory acidosis, which of the following will you see on the ABG?
+
+[WRONG] Elevated HCO3
+[WRONG] Decreased PO2
+[RIGHT] Increased PCO2
+[WRONG] Decreased HCO3

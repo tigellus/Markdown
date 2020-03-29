@@ -1,3 +1,5 @@
+# PLACEHOLDER: add stuff on ambubag
+
 # Non-Invasive Positive Ventilation
 
 It is a method of ventilation without intubation: tight-fitting nasal, oro-nasal or face mask attached to a non-invasive pressure support ventilator (NIPSV or BIPAP) unit.
@@ -57,3 +59,11 @@ CPAP and BiPAP modes are usually used
 [WRONG] to delay intubation
 [WRONG] as a weaning protocol
 [RIGHT] All of the above
+
+# Question 6
+List one indication for non-invasive mechanical ventilation:
+
+[WRONG] Difficulty weaning from the ventilator
+[RIGHT] Sleep apnea
+[WRONG] Upper airway tumor
+[WRONG] Copious secretions
