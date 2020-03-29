@@ -6,20 +6,18 @@ Welcome to **Pulmonary Mechanical Ventilation** course! The course follows the s
 2. Respiratory Decompensation 
 3. Non-invasive positive pressure ventilation (NPPV)
 4. Supplemental Oxygen Delivery System & Treatments
-5. Nebulizers 
+5. Nebulizers
 6. Pulmonary ABG
-7. ICU Device use 
-8. Types of Ventilators 
-9. Routes & Modes of Mechanical Ventilation 
-10. ETT & Intubation 
-11. Identifying Ventilator Needs 
-12. Troubleshooting the Ventilator 
-13. Complications 
-14. Issues in Nursing Management
-15. Nursing Interventions 
-16. Mechanical Ventilation Weaning 
-17. Capnography 
-18. Collecting COVID-19 Specimens for Testing
+7. Types of Ventilators 
+8. Routes & Modes of Mechanical Ventilation 
+9. ETT & Intubation 
+10. Identifying Ventilator Needs 
+11. Troubleshooting the Ventilator 
+12. Complications 
+13. Issues in Nursing Management
+14. Nursing Interventions 
+15. Mechanical Ventilation Weaning 
+16. Capnography 
 
 The course will consist of:
 - [ ] **Instructor-led sessions**
