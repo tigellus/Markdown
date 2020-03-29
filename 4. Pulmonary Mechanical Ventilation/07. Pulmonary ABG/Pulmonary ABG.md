@@ -1,15 +1,15 @@
 # Acid Base Terminology
 
-* Acid: Donates a hydrogen ion (H+)
-* Base: Accepts a hydrogen ion (H+)
+* Arterial Blood Gas (ABG): Used to assess acid base balance of the arterial blood
+* Acid: Donates a hydrogen ion (H+)- pH 0-7
+* Base: Accepts a hydrogen ion (H+)- pH 7-14
 * pH: Negative logarithm of the hydrogen ion concentration
-* Arterial Blood Gas: Used to assess acid base 
 * Mixed Venous Blood Gas: 
  * Sampled from a Pulmonary Artery Catheter
  * Used to assess tissue oxygenation
 
 # Question 1
-What is Arterial Blood Gas used for?
+What is Arterial Blood Gas used for? --> was this taught in this section? General purpose of ABG doesn't seem to have been covered above
 
 [RIGHT] To assess acid base status and alveolar oxygenation
 [WRONG] To assess tissue oxygenation
@@ -22,26 +22,26 @@ What does pH represent?
 [WRONG] The logarithm of the hydrogen ion concentration
 [WRONG] The logarithm of the hydroxide ion concentration
 
-# Normal Arterial Blood Gas Values
+# Normal Arterial Blood Gas Values [I would include definitions of these below-- see my edits]
 * pH: 7.35-7.45
-* PaCO2: 35-45 mm Hg
-* HCO3- : 22-26 meq/l
-* Base Excess: -2 to +2
-* PaO2: 80-100 mm Hg
-* SaO2: 95% or greater
+* PaCO2 (partial pressure of carbon dioxide in the blood) : 35-45 mm Hg
+* HCO3- (amount of bicarbonate in the blood): 22-26 meq/l
+* Base Excess (reflects the sum of all of the buffer bases in the body): -2 to +2
+* PaO2 (partial pressure of oxygen in the blood): 80-100 mm Hg
+* SaO2 (percentage of hemoglobin saturated with oxygen): 92-99%
 
-At sea level, pH = 7.4, temperature = 37C, PaCO2 = 40 mm Hg
+At sea level, pH = 7.4, temperature = 37C, PaCO2 = 40 mm Hg --> I'm not sure why this is here...to me, it is not essential/does not add to the content in a meaningful way
 
 # Acidemia vs. Alkalemia
 
 ### Acidemia
 * pH < 7.35
-* Accumulate too much acid or lose too much base
+* Caused by accumulation of too much acid OR loss of bases
 * pH < 6.8 incompatible with life
 
 ### Alkalemia
 * pH > 7.45
-* Accumulate too much base or lose too much acid
+* Caused by accumulation of too much base OR loss of acids
 * pH > 7.8 incompatible with life
 
 # Question 3
@@ -77,13 +77,13 @@ At what pH value should you suspect alkalemia?
 
 ### Effects of Changes in Ventilation
 
-* Hypoventilation -> ↑CO2 Retention -> Acidemia
-* Hyperventilation -> ↓CO2 Retention -> Alkalemia
+* Hypoventilation leads to ineffective clearance of CO2--> ↑CO2 retention in the arterial blod -> Acidemia --> lowered pH
+* Hyperventilation leads to too much clearance of CO2-> ↓CO2 in the arterial blood -> Alkalemia--> increased pH
 
-### Influence of Non-Respiratory Acid Base Disturbances on the Respiratory System
+### Influence of Non-Respiratory Acid Base Disturbances ("Metabolic Disturbances") on the Respiratory System
 
-* Non-respiratory Acidosis -> Increased Ventilation
-* Non-respiratory Alkalosis -> Decreased Ventilation
+* Non-respiratory Acidosis [Metabolic Acidosis] -> Respiratory system attempts to compensate by "blowing off" CO2--> patient presents with increased ventilation
+* Non-respiratory Alkalosis [Metabolic Alkalosis] -> Respiratory system attempts to compensate by retaining CO2--> patient presents with decreased ventilation
 
 # Question 5
 What is the effect of Hypoventilation? 
@@ -102,7 +102,7 @@ What is the effect of Hyperventilation?
 [WRONG] Increased CO2 retention, Acidemia
 
 # Question 7
-Which of the following is not a cause of hyperventilation? 
+Which of the following is NOT a cause of hyperventilation? 
 
 [RIGHT] Taking opioid medication
 [WRONG] Pneumonia
@@ -110,7 +110,7 @@ Which of the following is not a cause of hyperventilation?
 [WRONG] Anxiety
 
 # Question 8
-Which of the following is not a cause of hyperventilation?
+Which of the following is NOT a cause of hyperventilation?
 
 [WRONG] Asthma
 [WRONG] Being at a high altitude
@@ -122,13 +122,15 @@ Which of the following is not a cause of hyperventilation?
 
 ### Metabolic Causes of Acidosis
 
-* Will see: ↓HCO3- or ↑H+
-* Kidneys increase excretion of H+ and retention of HCO3-
+* Causes of acidosis (lowered pH) outside of the respiratory system that leads to too much retention of H+ or too much excretion of HCO3-
+* Patient presents with: ↓HCO3- and ↓pH
+* Kidneys may attempt to compensate by increasing excretion of H+ and retention of HCO3-
 
 ### Metabolic Causes of Alkalosis
 
-* Will see: ↑HCO3- or ↓H+
-* Kidneys increase excretion of HCO3- and retention of H+
+* Causes of alkalosis (increased pH) outside of the respiratory system that leads to too much retention of HCO3- or too much excretion of H+
+* Patient presents with: ↑HCO3- and ↑pH
+* Kidneys may attempt to compensate by increasing excretion of HCO3- and retention of H+
 
 # Tubular Controls
 
@@ -145,44 +147,44 @@ Which of the following is not a cause of hyperventilation?
 ![](assets/ammonia.png)
 
 
-# Correction vs. Compensation
+# Full and Partial Compensation
 
-### Correction
+### Full Compensation
 
 * Primary disorder is repaired. All acid base parameters return to normal.
 
-### Compensation
+### Partial Compensation
 
-* Primary disorder continues, opposite system begins to adjust
+* Primary disorder continues, opposite system begins to adjust (eg. Respiratory disorder, metabolic system attempts to compensate)
 * Attempts to restore ratio of 1 part acid to 20 parts base
 * Can be partial or complete compensation
 
 # Question 9
-What is Correction? 
+What is Full Compensation?
 
 [RIGHT] The primary disorder is repaired: all acid base parameters return to normal
 [WRONG] The primary disorder continues and the opposite system begins to adjust (partially or completely)
 
 # Question 10
-A patient is admitted to the ICU due to respiratory failure, before the patient was placed on a ventilator the patient was extremely agitated and breathing rapidly. Once in the ICU breathing was being regulated by the ventilator and the patient was given 1 litre of normal saline. This patient is also receiving aspirin. Arterial HCO3 concentration was 12.
+A patient is admitted to the ICU due to respiratory failure. Once in the ICU, the patient was placed on the ventilator. The patient's ABG results demonstrate a PaCO2 of 50mmHg and a HCO3- of 12mEq/L. Which best describes this patient's condition?
 
-[WRONG] This pts acid base disorder is compensated
-[WRONG] This pts acid base disorder is corrected
-[WRONG] This pts acid base disorder is both compensated and corrected
-[RIGHT]  This pts acid base disorder is neither compensated nor corrected
-[WRONG] This pt is compensated but not corrected
+[WRONG] This patient's acid base disorder is compensated
+[WRONG] This patient's acid base disorder is corrected
+[WRONG] This patient's acid base disorder is both compensated and corrected
+[RIGHT] This patient'sacid base disorder is neither compensated nor corrected
+[WRONG] This patient's acid base disorder is compensated but not corrected
 
 # Question 11
-What is Compensation?
+What is partial compensation?
 
-[RIGHT] The primary disorder continues and the opposite system begins to adjust (partially or completely)
+[RIGHT] The primary disorder continues and the opposing system begins to adjust (partially or completely)
 [WRONG] The primary disorder is repaired: all acid base parameters return to normal
 
 # Steps to Acid Base Interpretation
 
 ### Analyze each acid base parameters. 
 
-* pH, PaCO2, HCO3-: low, normal, high?
+* pH, PaCO2, HCO3-: using normal reference ranges, determine whether each value is low, normal, or high
 
 ### Match acid base disturbance with parameter causing disturbance
 
@@ -193,71 +195,112 @@ What is Compensation?
 
 ### Look for Compensation
 
-* All variables are abnormal
-* Either the PaCO2 or the HCO3- abnormality would cause the acid base change
-* The opposite system has changed in a manner that would have caused the opposite pH change
-* Example 1: 
- * pH < 7.37
- * PaCO2↓
- * HCO3-↓
- * Disturbance: Metabolic Acidosis with Respiratory Compensation
-* Example 2:
- * pH < 7.37
- * PaCO2↑
- * HCO3-↑
- * Disturbance: Metabolic Alkalosis with Respiratory Compensation
+# Partial Compensation
 
+* All ABG values are abnormal
+
+First: Identify the cause:
+* If the cause of the ABG disturbance is respiratory: PaCO2 matches the pH (pH↓ and PaCO2↑ or pH↑ and PaCO2↓) and thus, you can determine that the cause of the ABG disturbance is a respiratory issue
+* If the cause o the ABG disturbance is metabolic: The HCO3- matches the pH (pH↓ and HCO3-↓ or pH↑ and HCO3-↑) and thus, you can determine that the cause of the ABG disturbance is a metabolic issue
+
+Next: Identify if there is partial compensation
+* The opposite system (not causing the ABG disturbance) has changed in a manner that would have caused the opposite pH change. For example, in respiratory acidosis (pH↓ and PaCO2↑), the metabolic system would reflect alkalosis (HCO3-↑) in an effort to compensate. 
+
+* Example 1: 
+ * pH= 7.30 (low, acidic)
+ * PaCO2= 50 (high, causing acidosis)
+ * HCO3-= 20 (low, causing alkalosis)
+ * CO2 and pH reflect acidosis (respiratory system is causing the disturbance)
+ * HCO3 reflects alkalosis (metabolic system is compensating)
+ * pH is abnormal (the primary problem is still a problem and has not been fully compensated)
+ * ABG Disturbance: Partially compensated respiratory acidosis
+ 
+* Example 2:
+ * pH= 7.49 (high, alkalotic)
+ * PaCO2= 30 (low, causing acidosis)
+ * HCO3-= 29 (high, causing acidosis)
+ * HCO3 and pH reflect alkalosis (metabolic system is causing the disturbance)
+ * PaCO2 reflects acidosis (respiratory system is compensating)
+ * pH is abnormal (the primary problem is still a problem and has not been fully compensated)
+ * ABG Disturbance: Partially compensated metabolic alkalosis
+ 
+ # Full Compensation
+ * pH is within normal range, but PaCO2 and HCO3 are abnormal
+ * Use "7.4" as a reference point: pH= 7.35-7.4 is now labeled "acidosis", pH= 7.4-7.45 is now labeled as "alkalosis"
+ First: Identify the cause:
+* If the cause of the ABG disturbance is respiratory: PaCO2 matches the pH (pH= 7.35-7.4 and PaCO2↑ or pH=7.4-7.45 and PaCO2↓) and thus, you can determine that the cause of the ABG disturbance is a respiratory issue
+* If the cause o the ABG disturbance is metabolic: The HCO3- matches the pH ( pH= 7.35-7.4 and HCO3-↓ or pH=7.4-7.45 and HCO3-↑) and thus, you can determine that the cause of the ABG disturbance is a metabolic issue
+
+Next: Identify if there is full compensation
+* The opposite system (not causing the ABG disturbance) has changed in a manner that would have caused the opposite pH change. For example, in respiratory acidosis (pH↓ and PaCO2↑), the metabolic system would reflect alkalosis (HCO3-↑) in an effort to compensate. 
+
+* Example: 
+ * pH= 7.36 (pH is "normal", but falls between 7.35-7.4)
+ * PaCO2= 50 (high, causing acidosis)
+ * HCO3-= 20 (low, causing alkalosis)
+ * CO2 and pH reflect acidosis (respiratory system is causing the disturbance)
+ * HCO3 reflects alkalosis (metabolic system is compensating)
+ * pH is now within NORMAL range (this is the key component that moves the ABG from partially compensated to fully compensated)
+ * ABG Disturbance: Fully compensated respiratory acidosis
 
 ### Look for Combined Disorders
 
 * All acid base parameters are abnormal
-* Both the PaCO2 and HCO#- would have caused the pH to change in the manner that occurred
+* Both the PaCO2 and HCO3- would have caused the pH to change in the manner that occurred (both respiratory and metabolic issues are causing the pH to be abnormal- neither system is compensating)
+
+* Example: 
+ * pH= 7.32 (pH reflects acidosis)
+ * PaCO2= 50 (high, causing acidosis)
+ * HCO3-= 15 (low, causing acidosis)
+ * CO2, HCO3-, and pH reflect acidosis (both the respiratory and metabolic systems are causing the acidosis)
+ * HCO3 reflects alkalosis (metabolic system is compensating)
+ * ABG Disturbance: Mixed acidosis
 
 
-# Respiratory Acidosis
+# Respiratory Acidosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
 * pH < 7.35
 * PaCO2 > 45 mm Hg
-* HCO3- normal or elevated
+* HCO3- normal ("uncompensated") or elevated ("partially compensated")
 
 ### Causes (Alveolar Hypoventilation):
 
-* Depression of the respiratory center
-* Respiratory muscle paralysis
+* Respiratory depression (eg. head injury, opioid use)
+* Respiratory muscle paralysis or weakness
 * Chest wall disorders
 * Disorders of the lung parenchyma
-* Alteration in the function of the abdominal system
+* Abdominal complications causing reduced lung expansion
 
 ### Signs and Symptoms:
 
 * CNS Depression
-* Muscle twitching which can progress to convulsions
-* Arrhythmias, tachycardia, diaphoresis
+* Decreased lung sounds
+* Arrhythmias
+* Tachycardia, hypertension, diaphoresis (due to increased WOB)
+* Restlessness
 * Palpitations
 * Flushed skin
-* Electrolyte abnormalities
-
-### Compensation
-
-* Increased H+ secretion and increased HCO3- reabsorption
 
 ### Treatment
 
-* Increase/improve ventilation
+Increase/improve ventilation:
+* Address underlying issue (eg. administer naloxone if cause is opioids)
+* Raise HOB/reposition for optimal ventilation
+* Positive pressure ventilation (either NPPV or intubation and mechanical ventilation)
 
-# Respiratory Alkalosis
+# Respiratory Alkalosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
 * pH > 7.45
 * PaCO2 < 35 mm Hg
-* HCO3- normal or decreased
+* HCO3- normal ("uncompensated") or decreased ("partially compensated")
 
 ### Causes (Alveolar Hyperventilation):
 
-* Psychogenic
+* Psychogenic (eg. anxiety, pain)
 * CNS Stimulation
 * Hypermetabolic states
 
@@ -267,37 +310,34 @@ What is Compensation?
 * Vertigo
 * Paresthesias, carpal pedal spasm and tetany
 * Tinnutis
-* Electrolyte abnormalities
-
-### Compensation
-
-* Decrease H+ secretion and increased HCO3- excretion
 
 ### Treatment
 
-* Slow the hyperventilation
+Slow the hyperventilation
+* Address the underlying cause (eg. anxiety, pain)
+* Changes to mechanical ventilator to reduce ventilation
 
-# Metabolic Acidosis
+# Metabolic Acidosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
 * pH < 7.35
-* PaCO2 normal (rarely) or decreased
+* PaCO2 normal ("uncompensated") or decreased ("partially compensated")
 * HCO3- < 22 meq/l
 
 ### Causes (increase in H+ or an excess loss of HCO3-):
 
-* Overproduction of organic acids
-* Impaired renal excretion of acid
-* Abnormal loss of HCO3-
-* Ingestion of acid
+* Overproduction of organic acids (eg. shock states)
+* Impaired renal excretion of acid (eg. renal failure)
+* Abnormal loss of HCO3- (eg. diarrhea)
+* Ingestion of acid (eg. Aspirin overdose)
 
 ### Signs and Symptoms:
 
-* CNS Depression
 * Cardiac Arrhythmias
 * Flushed skin
 * Nausea
+* Malaise
 * Electrolyte abnormalities
 
 ### Compensation
@@ -306,7 +346,7 @@ What is Compensation?
 
 ### Treatment
 
-* Cause specific
+* Address underlying cause
 * Assess hemodynamic and respiratory status
 * Careful administration of NaHCO3
 
@@ -329,19 +369,19 @@ What is the Normal Value of the Anion Gap?
 [WRONG]  10 ± 2
 [WRONG] 14 ± 2
 
-# Metabolic Alkalosis
+# Metabolic Alkalosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
 * pH > 7.45
-* PaCO2 normal (rarely) or increased
+* PaCO2 normal ("uncompensated") or increased ("partially compensated")
 * HCO3- > 26 meq/l
 
 ### Causes (A loss of hydrogen ions or an increase in HCO3-):
 
-* Large losses of gastric contents
-* Loss of potassium chloride
-* Ingestion of large amounts of bicarbonate
+* Large losses of gastric contents (eg. vomiting)
+* Loss of potassium chloride (eg. loop diuretics)
+* Ingestion of large amounts of bicarbonate (eg. antacid overdose)
 * Prolonged use of diuretics
 
 ### Signs and Symptoms:
@@ -360,50 +400,50 @@ What is the Normal Value of the Anion Gap?
 
 ### Treatment
 
-* Underlying cause must be corrected
+* Address underlying cause (eg. antiemetic, medication changes)
 
 # Question 12
 Your patient exhibits the following acid base parameters: pH = 7.31, PaCO2 = 48, HCO3- = 24. 
 How should this be interpreted?
 
-[RIGHT] respiratory acidosis
-[WRONG] respiratory alkalosis combined with metabolic acidosis
-[WRONG] metabolic acidosis
-[WRONG] respiratory acidosis combined with metabolic acidosis
+[RIGHT] uncompensated respiratory acidosis
+[WRONG] mixed acidosis
+[WRONG] uncompensated metabolic acidosis
+[WRONG] mixed alkalosis
 
 # Question 13
-A patient presents with the following arterial blood gas values: pH: 7.47, PaCO2: 45, HCO3: 33
+A patient presents with the following arterial blood gas values: pH: 7.47, PaCO2: 49, HCO3: 33
 What is the most accurate diagnosis?
 
-[WRONG] Respiratory alkalosis compensated
-[WRONG] Metabolic acidosis 
-[WRONG] Combined metabolic acidosis and respiratory alkalosis
-[WRONG] Combined metabolic alkalosis with respiratory acidosis
-[RIGHT] Metabolic alkalosis compensated 
+[WRONG] Fully Compensated Respiratory Alkalosis
+[WRONG] Uncompensated Metabolic Acidosis 
+[WRONG] Mixed alkalosis
+[WRONG] Mixed acidosis
+[RIGHT] Partially Compensated Metabolic Alkalosis
 
 # Question 14
-Your patient exhibits the following acid base parameters: pH = 7.36, PaCO2 = 56, HCO3- = 31.4. 
+Your patient exhibits the following acid base parameters: pH = 7.32, PaCO2 = 56, HCO3- = 31. 
 How should this be interpreted?
 
-[RIGHT] chronic respiratory acidosis compensated
-[WRONG] acute respiratory alkalosis
-[WRONG] metabolic alkalosis combined with chronic respiratory alkalosis
-[RIGHT] acute respiratory acidosis combined with metabolic alkalosis
+[RIGHT] Fully compensated respiratory acidosis
+[WRONG] Fully compensated respiratory alkalosis
+[WRONG] Partially compensated metabolic acidosis
+[RIGHT] Mixed Acidosis
 
 # Question 15
 What do Blood Gas Values pH < 7.35, PaCO2 > 45mm Hg, HCO3- = Normal or Elevated indicate?
 
-[RIGHT] Respiratory Acidosis
+[RIGHT] Uncompensated Respiratory Acidosis
 [WRONG] Normal acid base parameters
-[WRONG] Respiratory Alkalosis
+[WRONG] Fully Compensated Respiratory Alkalosis
 
 # Question 16
-What do Blood Gas Values pH > 7.45, PaCO2 = 40 , HCO3- > 26 meq/l indicate?
+What do Blood Gas Values pH > 7.45, PaCO2 = Normal , HCO3- > 26 meq/l indicate?
 
-[RIGHT] Metabolic Alkalosis
+[RIGHT] Uncompensated Metabolic Alkalosis
 [WRONG] Normal acid base values
-[WRONG] Respiratory Acidosis
-[WRONG] respiratory alkalosis
+[WRONG] Uncompensated Respiratory Acidosis
+[WRONG] Partially Compensated Respiratory Aciosis
 
 
 # Arterial and Mixed Venous Gases
@@ -442,10 +482,10 @@ What shifts the Oxyhemoglobin Dissociation Curve Right?
 # Question 18
 What factors lead to Tissue Hypoxia? 
 
-[RIGHT] Low cardiac output, decreased oxygen carrying capacity, non-functional haemoglobin, right to left cardiac shunt
-[WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional haemoglobin, right to left cardiac shunt
-[WRONG] Low cardiac output, decreased oxygen carrying capacity, non-functional haemoglobin, left to right cardiac shunt
-[WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional haemoglobin, left to right cardiac shunt
+[RIGHT] Low cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, right to left cardiac shunt
+[WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, right to left cardiac shunt
+[WRONG] Low cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, left to right cardiac shunt
+[WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, left to right cardiac shunt
 
 # Question 19
 How does the body compensate for tissue hypoxia?
@@ -454,51 +494,45 @@ How does the body compensate for tissue hypoxia?
 [WRONG] Tachycardia, Tachypnea, Erythrocytosis, saturation of hemoglobin
 
 # Question 20
-George Kent is a 54 year old widower with a history of chronic obstructive pulmonary disease and was rushed to the emergency department with increasing shortness of breath, pyrexia, and a productive cough with yellow-green sputum. He has difficulty in communicating because of his inability to complete a sentence. One of his sons, Jacob, says he has been unwell for three days. Upon examination, crackles and wheezes can be heard in the lower lobes; he has a tachycardia and a bounding pulse. Measurement of arterial blood gas shows pH 7.3, PaCO2 68 mm Hg, HCO3 28 mmol/L, and PaO2 60 mm Hg. How would you interpret this?
+A 54 year old male with a history of chronic obstructive pulmonary disease and was rushed to the emergency department with increasing shortness of breath, fever, and a productive cough with yellow-green sputum. ABG results are: pH= 7.3, PaCO2= 68 mmHg, HCO3= 28 mmol/L, and PaO2= 60 mm Hg. Which best reflects this patient's acid base disturbance? ---> [I normally wouldn't include the back story-- we are assessing their ability to interpret ABGs-- so almost everything is not necessary for this question to assess learner knowledge]
 
-[RIGHT] Respiratory acidosis with acute compensation
-[WRONG] Respiratory acidosis with no compensation
-[WRONG] Metabolic Acidosis compensated
-[WRONG]  Metabolic acidosis uncompensated
+[RIGHT] Partially compensated respiratory acidosis with hypoxemia
+[WRONG] Uncompensated Respiratory acidosis with hypoxemia
+[WRONG] Partially compensated metabolic Acidosis
+[WRONG] Uncompensated Metabolic alkalosis
  
-This patient has a low a pH so immediately think acidosis, the PaCO2(acid) is high 60 (normal 40) which means it must be the cause. Also based on the clinical presentation we can imagine that due to crackles and wheezes and the yellow sputum we can imagine that this pt is not ventilating efficiently and therefore building up CO2 in the blood. Which would mean the patient has a ventilatory problem that caused acid to accumulate in blood, coined as respiratory acidosis
- 
+This patient has a low a pH so immediately think "acidosis."
+The PaCO2 is high which reflects acidosis-- therefore, it can be determined that the cause of the low pH is respiratory.
+Also based on the clinical presentation we can imagine that due to crackles and wheezes and the yellow sputum we can imagine that this pt is not ventilating efficiently and therefore building up CO2 in the blood.
+The HCO3- is elevated, reflecting alkalosis (the opposite direction of the problematic pH), thus this reflects partial compensation because the pH is still abnormal. The patient's low PaO2 is also cause for concern- representing hypoxemia.
  
 # Question 21
-Carl, an elementary student, was rushed to the hospital due to vomiting and a decreased level of consciousness. The patient displays slow and deep (Kussmaul breathing), and he is lethargic and irritable in response to stimulation. He appears to be dehydrated—his eyes are sunken and mucous membranes are dry—and he has a two week history of polydipsia, polyuria, and weight loss. Measurement of arterial blood gas shows pH 7.0, PaO2 90 mm Hg, PaCO2 23 mm Hg, and HCO3 12 mmol/L; other results are Na+ 126 mmol/L, K+ 5 mmol/L, and Cl- 95 mmol/L. What is your assessment?
+A 10 year old male was rushed to the hospital due to vomiting and a decreased level of consciousness. The patient displays fast and deep respirations (Kussmaul breathing). The patient is lethargic and irritable in response to stimulation. He appears to be dehydrated—his eyes are sunken and mucous membranes are dry—and he has a two week history of polydipsia, polyuria, and weight loss. ABG results are: pH 7.1, PaO2 90 mm Hg, PaCO2 23 mm Hg, and HCO3 12 mmol/L.
+Which best reflects this patient's acid base disturbance?
 
-[WRONG] Respiratory acidosis not compensated
-[WRONG] Respiratory acidosis compensated
-[WRONG] Metabolic acidosis with normal anion gap
-[RIGHT] Metabolic acidosis compensated, with increased anion gap
+[WRONG] Uncompensated respiratory acidosis
+[WRONG] Fully compensated metabolic acidosis
+[WRONG] Mixed acidosis
+[RIGHT] Partially compensated metabolic acidosis
  
-The pH is 7.0 which is very low, the number 1 cause of very low pH is ketoacidosis in diabetic patients. Since the source of the acidosis is not the ventilation then it must be a metabolic disorder. The Kussmaul breathing is trying to compensate the acidosis by getting rid of CO2 from the blood to the air.
+Considering the age of this patient as wel as his accompanying symptoms, the most likely cause is diabetic ketoacidosis. Kussmaul breathing demonstrates the patient's respiratory system attempting to compensate for the acidosis.
  
 # Question 22
-A cigarette vendor was brought to the emergency department of a hospital after she fell into the ground and hurt her left leg. She is noted to be tachycardic and tachypneic. Painkillers were carried out to lessen her pain. Suddenly, she started complaining that she is still in pain and now experiencing muscle cramps, tingling, and paraesthesia. Measurement of arterial blood gas reveals pH 7.6, PaO2 120 mm Hg, PaCO2 31 mm Hg, and HCO3 25 mmol/L. What does this mean?
+A 54 year old female arrived to the hospital with a left femur fracture and presents with tachycardia and tachypnea. The patient anxiously reports that she is still in pain and now experiencing muscle cramps, tingling, and paraesthesia. ABG results are: pH 7.6, PaO2 120 mm Hg, PaCO2 31 mm Hg, and HCO3 25 mmol/L. Which best reflects this patient's acid base disturbance?
  
-[RIGHT] Respiratory alkalosis
-[WRONG] Respiratory acidosis
-[WRONG]  Metabolic alkalosis compensated
-[WRONG]  Metabolic alkalosis uncompensated
+[RIGHT] Uncompensated Respiratory Alkalosis
+[WRONG] Uncompensated Respiratory Acidosis
+[WRONG] Fully Compensated Metabolic Alkalosis
+[WRONG] Partially Compensated Metabolic Acidosis
  
-The pH is high which mean alkalosis, both the low PaCO2 or the increased HCO3could be contributing, however the bicarb isnt that high enough to cause that much of a change in pH, and the symptoms of the pt all point to respiratory disorder. The pt is in pain and is breathing fast, both causes of hyperventilation which lead to loss of CO2
-The alkalosis is originating from a low PaCO2 because the pt is losing too much CO2  from breathing too fast.
+The pH is high, reflecting alkalosis. The pt is in pain and is breathing fast, both causes of hyperventilation which lead to loss of CO2 (remember, low CO2 leads to high pH). The patient is not compensating (HCO3- is normal) and the hyperventilation has lead to hyperoxemia (PaO2>100mmHg).
  
 # Question 23
-Ricky’s grandmother is suffering from persistent vomiting for two days now. She appears to be lethargic and weak and has myalgia. She is noted to have dry mucus membranes and her capillary refill takes >4 seconds. She is diagnosed as having gastroenteritis and dehydration. Measurement of arterial blood gas shows pH 7.5, PaO2 85 mm Hg, PaCO2 40 mm Hg, and HCO3 34 mmol/L. What acid-base disorder is shown?
+A 80 year old female has suffered from persistent vomiting for two days. She appears to be lethargic and weak and has myalgia. She is noted to have dry mucus membranes and her capillary refill is >4 seconds. She is diagnosed as having gastroenteritis and dehydration. ABG results are: pH 7.5, PaO2 85 mm Hg, PaCO2 50 mm Hg, and HCO3 34 mmol/L. Which best reflects this patient's acid base disturbance?
  
-[WRONG] Respiratory alkalosis
-[WRONG] Respiratory acidosis
-[RIGHT] Metabolic alkalosis uncompensated
-[WRONG] Metabolic alkalosis compensated
+[WRONG] Fully Compensated Respiratory alkalosis
+[WRONG] Mixed acidosis
+[RIGHT] Uncompensated metabolic alkalosis
+[WRONG] Partially compensated Metabolic alkalosis
  
-The pH is high indicating alkalosis and the source is loss of hydrogen ions from the persistent vomit. remember that to produce acid in the stomach and mouth for stomach acid and saliva the body secretes hydrogen ions into the lumen but at the same time secretes bicarb into the blood stream. Vomiting will cause the body to produce more stomach acid and saliva to replace that acid that was lost due to vomiting. this will cause the body to produce way more bicarb which will cause alkalosis. 
-
-# Question 24
-If your patient has respiratory acidosis, which of the following will you see on the ABG?
-
-[WRONG] Elevated HCO3
-[WRONG] Decreased PO2
-[RIGHT] Increased PCO2
-[WRONG] Decreased HCO3
+The pH indicates alkalosis. The HCO3- is high, reflecting alkalosis in the metabolic system. In this case, the cause of alkalosis is persistent loss of H+ (in stomach acid) due to vomiting. The respiratory system has started to compensate (PaCO2 is slightly elevated causing acidosis and attempting to bring the pH down into a more acidic range). 
