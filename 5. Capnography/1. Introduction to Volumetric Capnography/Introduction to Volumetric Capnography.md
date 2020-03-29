@@ -19,3 +19,12 @@ There are two distinct types of capnography: Conventional, **time-based capnogra
 
 In short, volumetric capnography is a valuable tool to improve the
 ventilation quality and efficiency for your ventilated patients.
+
+# Question 1
+Capnography is used for all of the following reasons EXCEPT:
+
+[WRONG] It is noninvasive
+[WRONG] It reflects a return to normal circulation before any other measurement 
+[WRONG] It is a simple small portable device
+[WRONG] It is a reliable tool in determining whether an endotracheal tube has been properly placed 
+[RIGHT] It is the most accurate tool for diagnosing respiratory acidosis

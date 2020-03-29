@@ -52,6 +52,7 @@ Ventilator disconnect from patient is a common problem.
 
 # Question 1
 What ventilator settings may cause respiratory alkalosis?
+
 [RIGHT] Rate and tidal volume set too high
 [WRONG] Rate and tidal volume set too low
 
@@ -62,6 +63,7 @@ What ventilator settings may cause respiratory alkalosis?
 
 # Question 2
 In the event of respiratory acidosis, what should you do?
+
 [RIGHT] Increase tidal volume and adjust the rate 
 [WRONG] Decrease tidal volume and adjust the rate
 

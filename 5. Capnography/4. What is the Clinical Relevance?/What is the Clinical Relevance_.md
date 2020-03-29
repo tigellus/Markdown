@@ -119,3 +119,12 @@ An elevation of the baseline during Phase I indicates rebreathing of CO2, which 
 ![](assets/capnography24.png)
 
 Consider recalibration of the CO2 sensor or reduction of the airway accessories.
+
+# Question 1
+End tidal CO2 is a useful measurement for all of the following EXCEPT:
+
+[WRONG] Ventilation
+[WRONG] Approximating PaCO2
+[RIGHT] Oxygenation
+[WRONG] Perfusion
+[WRONG] Circulation

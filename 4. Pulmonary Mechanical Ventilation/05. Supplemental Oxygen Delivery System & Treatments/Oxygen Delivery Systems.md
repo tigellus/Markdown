@@ -38,12 +38,14 @@ These are used for patients that need supplemental oxygen and are breathing on t
 
 # Question 1
 When should non-aerosolized Oxygen Delivery Systems be used?
+
 [RIGHT] For patients that need supplemental oxygen and are breathing on their own
 [WRONG] For patients that need supplemental oxygen and are struggling to breathe on their own
 [WRONG] For patients that need supplemental oxygen and cannot breathe on their own
 
 # Question 2
 Question: An ascending ranking of non-aerosolized oxygen delivery systems by flow rate is:
+
 [RIGHT] Low Flow Nasal Cannula, Simple Face Mask, Humidified High Flow Mask, Venturi Style Mask, Reservoir Mask
 [WRONG] Low Flow Nasal Cannula, Simple Face Mask, Venturi Style Mask, Humidified High Flow Mask, Reservoir Mask
 [WRONG] Low Flow Nasal Cannula, Simple Face Mask, Venturi Style Mask, Reservoir Mask, Humidified High Flow Mask
@@ -51,6 +53,7 @@ Question: An ascending ranking of non-aerosolized oxygen delivery systems by flo
 
 # Question 3
 What are the nursing implications of using non-aerosolized oxygen delivery systems?
+
 [RIGHT] Patients’ airway dries, secretions thicken, coughing up is harder, infection risk increases
 [WRONG] Patients’ airway dries, secretions thin, coughing up is easier, infection risk decreases
 [WRONG] Patients’ airway dries, secretions thicken, coughing up is easier, infection risk increases
@@ -58,12 +61,14 @@ What are the nursing implications of using non-aerosolized oxygen delivery syste
 
 # Question 4
 What are the key benefits of a High Flow Nasal Cannula (HFNC)?
+
 [WRONG] Increases respiratory rate, Reduces breathing effort, Increases tidal volume, Reduces mucus clearance
 [RIGHT] Reduces respiratory rate, Reduces breathing effort, Increases tidal volume, Improves mucus clearance
 [WRONG] Reduces respiratory rate, Reduces breathing effort, Decreases tidal volume, Improves mucus clearance
 
 # Question 5
 High Flow Nasal Cannula (HFNC) increases…
+
 [RIGHT] Tidal volume
 [WRONG] Respiratory rate
 [WRONG] Carbon dioxide level

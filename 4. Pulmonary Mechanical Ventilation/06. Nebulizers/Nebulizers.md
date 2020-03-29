@@ -6,11 +6,13 @@ Do not use surgical mask.
 
 # Question 1
 When carrying out a Nebulizer treatment, which is an aerosolizing procedure, you must use:
+
 [RIGHT] An N95 respirator
 [WRONG] A surgical mask
 
 # Question 2
 Why must an N95 respirator be used for nebulizer treatments?
+
 [RIGHT] They are aerosolizing procedures
 [WRONG] It is standard precautions
 [WRONG] They are invasive procedures
@@ -32,18 +34,21 @@ https://youtu.be/idjeYf9C5IU
 
 # Question 3
 Why are corticosteroids used?
+
 [RIGHT] To fight inflammation
 [WRONG] To open airways
 [WRONG] To kill the COVID-19 virus
 
 # Question 4
 What are bronchodilators used for?
+
 [RIGHT] To open airways
 [WRONG] To fight inflammation
 [WRONG] To thin mucus secretions
 
 # Question 5
 How long does it typically take to deliver nebulized therapy?
+
 [RIGHT] 5-10 minutes
 [WRONG] 2-3 minutes
 [WRONG] 15-20 minutes
@@ -60,11 +65,13 @@ finished.
 
 # Question 6
 When carrying out a Nebulizer treatment…
+
 [RIGHT] There must NOT be a filter present on the patient side for delivery of medication
 [WRONG] There must be a filter present on the patient side for delivery of medication
 
 # Question 7
 How can a healthcare professional know when a nebulizer treatment is finished when it is delivered via ventilator?
+
 [RIGHT] The mist in the medicine cup will be gone
 [WRONG] There will be mist in the bottom of the medicine cup
 [WRONG] The machine will alert by beeping

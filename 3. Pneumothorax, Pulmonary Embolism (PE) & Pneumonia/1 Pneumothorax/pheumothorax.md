@@ -350,6 +350,7 @@ What is the preferred method of evaluation for intrathoracic injuries?
 
 # Question 20
 What diagnostic test can be used at a patient’s bedside for triage and identification of life-threatening injuries?
+
 [RIGHT] Point-of-care ultrasound
 [WRONG] CT scan
 [WRONG] Chest x-ray

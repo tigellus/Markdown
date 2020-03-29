@@ -26,15 +26,18 @@ Facilitate suctioning of the tracheobronchial tree.
 
 # Question 1
 What is hypoventilation? 
+
 [RIGHT] High PaCO2 
 [WRONG] Low PaCO2 
 
 # Question 2
 What is hyperventilation? 
+
 [RIGHT] Low PaCO2
 [WRONG] High PaCO2
 
 # Question 3
 What indicates that the work of breathing is greater than the patient can maintain?
+
 [RIGHT] Ventilation is exhausting, increased respiration rate due to stiff compliance, decreased vital capacity
 [WRONG] Ventilation is exhausting, decreased respiration rate, increased vital capacity

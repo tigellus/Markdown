@@ -27,6 +27,7 @@ Aerosolized Intervention: Use N95 mask when caring for patients using either BiP
 
 # Question 1
 What type of mask should be used when caring for patients who use BiPAP or CPAP machines?
+
 [RIGHT] N95 respirator mask
 [WRONG] Standard surgical mask
 [WRONG] Full face mask
