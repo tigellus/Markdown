@@ -178,3 +178,19 @@ What is a possible cause of no tidal volume?
 [WRONG] Patient needs suctioning
 [WRONG] Patient biting the tube
 [RIGHT] Tube disconnect
+
+# Question 9
+Which of the following will cause a high pressure alarm?
+
+[RIGHT] Secretions
+[WRONG] Disconnected ventilator tubing
+[WRONG] Hypoxia
+[WRONG] A cuff leak
+
+# Question 10
+Which of the following could you do for a high respiratory rate alarm?
+
+[WRONG] Turn off the Versed infusion
+[WRONG] Increase the respiratory rate alarm parameters
+[WRONG] Test Train-of-Four
+[RIGHT] Assess the patient for pain and/or anxiety

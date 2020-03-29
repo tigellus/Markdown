@@ -55,3 +55,11 @@ What does decreased vital capacity indicate?
 [WRONG] The patient has decreased cardiac output
 [WRONG] The patient has adequate breathing ability
 [RIGHT] The work of breathing is greater than the patient can maintain
+
+# Question 6
+Which of the following is not an indication for mechanical ventilation?
+
+[RIGHT] Myocardial infarction (MI)
+[WRONG] Respiratory failure
+[WRONG] Provide stability of the chest wall after trauma or surgery
+[WRONG] Brain injury requiring a barbituate-induced coma
