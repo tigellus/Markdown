@@ -9,7 +9,7 @@ As a cause of death in the United States, COPD ranks:
 * COPD is the fourth leading cause of death in the United States
 
 # Question 2
-Two diseases common to the etiology of COPD are:
+Which two diseases are included in categories of COPD?
 
 [WRONG] Asthma and atelectasis
 [RIGHT] Chronic bronchitis and emphysema
@@ -22,12 +22,12 @@ Two diseases common to the etiology of COPD are:
 * Option D: Tuberculosis and pleural effusion are not chronic pulmonary diseases
 
 # Question 3
-The underlying pathophysiology of COPD is:
+Which factor is involved in the underlying pathophysiology of COPD?
 
 [WRONG] Inflamed airways that obstruct airflow
 [WRONG] Mucus secretion that blocks airways
 [WRONG] Alveolar wall destruction
-[RIGHT] Characterized by variations in all of the above
+[RIGHT] Variations in all of the above
 
 * Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD
 * Option A: Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature
@@ -35,12 +35,12 @@ The underlying pathophysiology of COPD is:
 * Option C: Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil
 
 # Question 4
-The abnormal inflammatory response in the lungs occurs primarily in the:
+In a patient with COPD, where does the abnormal inflammatory response occur?
 
 [WRONG] Airways
-[WRONG] Parenchyma
+[WRONG] Lung parenchyma
 [WRONG] Pulmonary vasculature
-[RIGHT] Areas identified in all of the above
+[RIGHT] All of the above areas
 
 * The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD
 * Option A: The airways are inflamed in COPD
@@ -48,7 +48,7 @@ The abnormal inflammatory response in the lungs occurs primarily in the:
 * Option C: The pulmonary vasculature is affected by inflammation in COPD
 
 # Question 5
-The most important environmental risk factor in emphysema is:
+Which environmental risk factor is most important in development of emphysema?
 
 [WRONG] Air pollution
 [WRONG] Allergens
@@ -64,17 +64,17 @@ The most important environmental risk factor in emphysema is:
 * Chronic Obstructive Pulmonary Disease (COPD) is a condition of chronic dyspnea with expiratory airflow limitation that does not significantly fluctuate
 * COPD is the fourth leading cause of death in the United States
 * It is also known as chronic obstructive lung disease (COLD)
-* The Global Initiative for Chronic Obstructive Lung Disease as “a preventable and treatable disease with some significant extrapulmonary effects that may contribute to the severity in individual patients”
+* The Global Initiative for Chronic Obstructive Lung Disease defines it as “a preventable and treatable disease with some significant extrapulmonary effects that may contribute to the severity in individual patients”
 * There are two classifications of COPD: chronic bronchitis and emphysema. These two types of COPD can have overlapping signs and symptoms
-* The primary cause of the obstruction may vary; examples include airway inflammation that blocks airflow, mucous secretion that blocks airways, alveolar wall destruction, and narrowed airway lumina
+* The primary cause of the obstruction may vary; examples include airway inflammation that narrow or blocks airflow, mucous secretion that blocks airways, and alveolar wall destruction.
 
-### Chronic Bronchitis clinical diagnosis
-A disease of the airways and is defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
-* Patients with Chronic Bronchitis, often referred to as "Blue Bloaters," are large, edematous persons with cyanosis and relatively little dyspnea.
+### Chronic Bronchitis - Clinical Diagnosis
+A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
+* Patients with Chronic Bronchitis, often referred to as "Blue Bloaters," tend to be large persons with cyanosis, edema, and relatively little dyspnea.
 
-### Emphysema pathological diagnosis
+### Emphysema - Pathological Diagnosis
 An abnormal distention of airspaces beyond the terminal bronchioles and destruction of the walls of the alveoli
-* Patients with Emphysema, often referred to as "Pink Puffers," are thin, cachetic persons with marked shortness of breath—the decreased lung compliance leads to increased work of breathing and dyspnea.
+* Patients with Emphysema, often referred to as "Pink Puffers," tend to be thin, cachetic persons with marked shortness of breath. Decreased lung compliance leads to increased work of breathing and dyspnea.
 
 # Management
 
@@ -86,7 +86,7 @@ Goals to achieve in management of patients with COPD include all of the followin
 [WRONG] Independence in self-care activities
 [RIGHT] Continuation of existing lifestyle
 
-* The patient should be made aware of changes to existing habits which are causing COPD (e.g. smoking, inadequate nutrition)
+* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes
 
 ### Goals to achieve include:
 * Improvement in gas exchange
@@ -113,30 +113,30 @@ Goals to achieve in management of patients with COPD include all of the followin
 To achieve airway clearance:
 * The nurse must appropriately administer bronchodilators and corticosteroids and become alert for potential side effects.
 Direct or controlled coughing
-* The nurse instructs the patient in direct or controlled coughing, which is more effective and reduces fatigue associated with undirected forceful coughing
+* The nurse instructs the patient in direct or controlled coughing, which produces a more effective cough effort and reduces fatigue
 
 To improve breathing pattern:
 * Inspiratory muscle training: This may help improve the breathing pattern
 * Diaphragmatic breathing: Diaphragmatic breathing reduces respiratory rate, increases alveolar ventilation, and sometimes helps expel as much air as possible during expiration
-* Pursed lip breathing: Pursed lip breathing helps slow expiration, prevents collapse of small airways, and control the rate and depth of respiration
+* Pursed lip breathing: Pursed lip breathing helps slow expiration, prevents collapse of small airways, and controls the rate and depth of respiration
 
 To improve activity intolerance:
 * Manage daily activities: Daily activities must be paced throughout the day and support devices can be also used to decrease energy expenditure
 * Exercise training: Exercise training can help strengthen muscles of the upper and lower extremities and improve exercise tolerance and endurance
-* Walking aids: Use of walking aids may be recommended to improve activity levels and ambulation
+* Walking aids: Use of walking aids may be recommended to improve activity levels and safety with ambulation
 
 To monitor and manage potential complications:
 * Monitor cognitive changes: The nurse should monitor for cognitive changes such as personality and behavior changes and memory impairment
 * Monitor pulse oximetry values: Pulse oximetry values are used to assess the patient’s need for oxygen and administer supplemental oxygen as prescribed
 * Prevent infection: The nurse should encourage the patient to be immunized against influenza and S. pneumonia because the patient is prone to respiratory infection
 
-Evaluating the effectiveness of the interventions outlined in the Nursing Care Plan can be achieved by the Nurse verifying that the patient:
+Evaluating the effectiveness of the interventions outlined in the plan of care can be achieved by verifying that the patient:
 * Identifies hazards of cigarette smoking
 * Identifies resources for smoking cessation
 * Enrolls in smoking cessation program
 * Minimizes or eliminates exposures
-* Verbalizes the need for fluids
-* Is free of infection
+* Verbalizes the need for adequate fluids
+* Remains free of infection
 * Practices breathing techniques
 * Performs activities with less shortness of breath
 
@@ -144,19 +144,19 @@ Evaluating the effectiveness of the interventions outlined in the Nursing Care P
 
 It is important for the nurse to assess the knowledge of patient and family members about self-care and the therapeutic regimen.
 
-* Setting goals: If the COPD is mild, the objectives of the treatment are to increase exercise tolerance and prevent further loss of pulmonary function, while if COPD is severe, these objectives are to preserve current pulmonary function and relieve symptoms as much as possible
+* Setting goals: If the COPD is mild, the objectives of the treatment are to increase exercise tolerance and prevent further loss of pulmonary function. If the COPD is severe, the objectives are to preserve current pulmonary function and relieve symptoms as much as possible.
 
-* Temperature control: The nurse should instruct the patient to avoid extremes of heat and cold because heat increases the temperature and thereby raising oxygen requirements and high altitudes increase hypoxemia
+* Temperature control: The nurse should instruct the patient to avoid extremes of heat, cold, and altitude. Heat and cold increase the oxygen requirements and high altitudes increase hypoxemia.
 
-* Activity moderation: The patient should adapt a lifestyle of moderate activity and should avoid emotional disturbances and stressful situations that might trigger a coughing episode
+* Activity moderation: The patient should adapt a lifestyle of moderate activity and avoid emotional disturbances or stressful situations that might trigger a coughing episode.
 
-* Breathing retraining: The home care nurse must provide the education and breathing retraining necessary to optimize the patient’s functional status
+* Breathing retraining: The nurse must provide the education and breathing retraining necessary to optimize the patient’s functional status
 
 ### Documentation Guidelines
 
-Documentation is an essential part of the patient’s chart because the interventions and medications given and done are reflected on this part.
+Documentation is an essential part of the patient’s chart to reflect the plans, interventions and medications, and the patient's responses to the treatment.
 
-* Document assessment findings including respiratory rate, character of breath sounds; frequency, amount and appearance of secretions laboratory findings and mentation level
+* Document assessment findings including level of alertness, respiratory rate, character of breath sounds; frequency, amount and appearance of secretions, and laboratory findings 
 * Document conditions that interfere with oxygen supply
 * Document plan of care and specific interventions
 * Document liters of supplemental oxygen
@@ -168,36 +168,36 @@ Documentation is an essential part of the patient’s chart because the interven
 #Treatment
 
 # Question 7
-Which of the following is NOT a treatment used to manage COPD?
+Which treatment is NOT used to manage COPD?
 
 [RIGHT] Isolation
 [WRONG] Smoking cessation
 [WRONG] Oxygen therapy
 
 The following are treatments to manage COPD:
-* Cessation of smoking
-* Reduction of exposure to airway irritants
-* Oxygen
-* Prevention of infection
-* Treatment of purulent sputum with antimicrobials – Erythromycin
-* Pharmacological intervention is similar to asthma
+* Smoking cessation 
+* Reducing exposure to airway irritants
+* Supplementing oxygen
+* Preventing infection
+* Treating infection/purulent sputum with antimicrobials
+* Administering medications similar to those used for asthma
 
 # Anticholinergic agents
 * Decrease airway secretions and smooth muscle tone
-* TRIVER 2 puffs QID – mainstay of therapy
+* Tipratropium bromide (Atrovent) and tiotropium bromide (Spiriva)
 * Side effects – dry mouth and hacking cough
 
 # Bronchodilators
 
 # Question 8
-Albuterol, terbutaline, and metaproterenol are examples of what classification of drugs?
+Which classification of drugs includes albuterol, terbutaline, and metaproterenol?
 
 [RIGHT] Bronchodilators
 [WRONG] Expectorants
 [WRONG] Antibiotics
 
 # Question 9
-The bronchodilator Salmeterol (Serevent) is which of the following:
+Which effect does the bronchodilator Salmeterol (Serevent) have?
 
 [RIGHT] A long acting inhaled agent
 [WRONG] A short acting inhaled agent
@@ -218,7 +218,7 @@ The bronchodilator Salmeterol (Serevent) is which of the following:
 # Corticosteroids
  
 # Question 10
-Triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril) are examples of which drug classification?
+Which drug classification includes triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril)?
 
 [RIGHT] Corticosteroids
 [WRONG] Bronchodilators
@@ -231,7 +231,7 @@ How are triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Van
 [WRONG] Oral tablets
 
 # Question 12
-An oral corticosteroid that is commonly prescribed for the treatment of respiratory illnesses is:
+Which drug is an oral corticosteroid commonly prescribed for the treatment of respiratory illnesses?
 
 [RIGHT] Prednisone
 [WRONG] Triamcinolone
@@ -261,5 +261,5 @@ An oral corticosteroid that is commonly prescribed for the treatment of respirat
 * Uniphyl-theophylline time released
 
 # Drug for Thinning Sputum
-* Glyceryl guaiacolate (Hytuss, Robitussin)
+* Guaifenesin (Hytuss, Robitussin)
 * Acetylcysteine (Mucomyst)
