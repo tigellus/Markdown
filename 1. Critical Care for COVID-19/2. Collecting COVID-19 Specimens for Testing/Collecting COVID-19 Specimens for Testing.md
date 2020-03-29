@@ -9,6 +9,14 @@
 
 ![](assets/specimen-collection-kit.png)
 
+# Question 1
+What does a specimen collection kit for COVID-19 consist of?
+
+[RIGHT] 1 Nasopharyngeal swab and 1 Tube of Universal Transport Media (UTM)
+[WRONG] 1 Nasopharyngeal aspirate and 1 Tube of Universal Transport Media (UTM)
+[WRONG]  2  Nasopharyngeal swabs and 1 Tube of Universal Transport Media (UTM)
+
+
 # Specimen Collection Types
 
 ### Nasopharyngeal specimen (CDC recommended specimen type)
@@ -36,9 +44,45 @@ Another option for upper respiratory tract specimen, especially in children is N
 
 ![](assets/nasopharyngeal-specimen.png)
 
+# Question 2
+What should an individual collecting a specimen for COVID-19 wear?
+
+[RIGHT] face mask, gown, face shield and gloves
+[WRONG] face mask, gown, gloves
+[WRONG]  face mask, face shield and gloves
+
+# Question 3
+Is an individual collecting a specimen for COVID-19 required to wear an N95 mask?
+
+[RIGHT] No
+[WRONG] Yes
+
+# Question 4
+When using a Nasopharyngeal Swab (NP), how should the insertion distance be measured?
+
+[RIGHT] The distance from the patient's nose to ear
+[WRONG] As deep as the patient is comfortable with
+[WRONG] The distance from the patient’s chin to ear
+[WRONG] The distance from the patient’s lips to ear
+
+# Question 5
+When using a Nasopharyngeal Swab (NP), to what degree should the patients’ head be tilted back?
+
+[RIGHT] 70 Degrees
+[WRONG] 45 Degrees
+[WRONG] 30 Degrees
+[WRONG] 15 Degrees
+
 # Laboratory Submission
 
 * Once the specimen is collected, Securely tighten the cap on the tube of UTM.
 * Label the UTM specimen according to hospital policy with the appropriate laboratory label.
 * Insert tube into specimen transport bag and close bag tightly.
 * Submit the specimen to the laboratory.
+
+# Question 6
+Where are COVID-19 specimens currently tested?
+
+[RIGHT] In laboratories
+[WRONG] At the point of testing
+[WRONG] In a government facility
