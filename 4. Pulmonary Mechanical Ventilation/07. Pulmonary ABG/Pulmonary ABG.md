@@ -8,6 +8,20 @@
  * Sampled from a Pulmonary Artery Catheter
  * Used to assess tissue oxygenation
 
+# Question 1
+What is Arterial Blood Gas used for?
+
+[RIGHT] To assess acid base status and alveolar oxygenation
+[WRONG] To assess tissue oxygenation
+
+# Question 2
+What does pH represent?
+
+[RIGHT] The negative logarithm of the hydrogen ion concentration
+[WRONG] The negative logarithm of the hydroxide ion concentration
+[WRONG] The logarithm of the hydrogen ion concentration
+[WRONG] The logarithm of the hydroxide ion concentration
+
 # Normal Arterial Blood Gas Values
 * pH: 7.35-7.45
 * PaCO2: 35-45 mm Hg
@@ -29,6 +43,20 @@ At sea level, pH = 7.4, temperature = 37C, PaCO2 = 40 mm Hg
 * pH > 7.45
 * Accumulate too much base or lose too much acid
 * pH > 7.8 incompatible with life
+
+# Question 3
+At what pH value should you suspect acidemia?
+
+[RIGHT] pH < 7.35
+[WRONG] pH < 7.45
+[WRONG] pH < 7.00
+
+# Question 4
+At what pH value should you suspect alkalemia?
+
+[RIGHT] pH > 7.45
+[WRONG] pH > 7.35
+[WRONG] pH > 7.00
 
 # Buffers
 
@@ -57,6 +85,38 @@ At sea level, pH = 7.4, temperature = 37C, PaCO2 = 40 mm Hg
 * Non-respiratory Acidosis -> Increased Ventilation
 * Non-respiratory Alkalosis -> Decreased Ventilation
 
+# Question 5
+What is the effect of Hypoventilation? 
+
+[RIGHT] Increased CO2 retention, Acidemia
+[WRONG] Increased CO2 retention, Alkalemia
+[WRONG] Decreased CO2 retention, Acidemia
+[WRONG] Decreased CO2 retention, Alkalemia
+
+# Question 6
+What is the effect of Hyperventilation? 
+
+[RIGHT] Decreased CO2 retention, Alkalemia
+[WRONG] Decreased CO2 retention, Acidemia
+[WRONG] Increased CO2 retention, Alkalemia
+[WRONG] Increased CO2 retention, Acidemia
+
+# Question 7
+Which of the following is not a cause of hyperventilation? 
+
+[RIGHT] Taking opioid medication
+[WRONG] Pneumonia
+[WRONG] Hypoxia
+[WRONG] Anxiety
+
+# Question 8
+Which of the following is not a cause of hyperventilation?
+
+[WRONG] Asthma
+[WRONG] Being at a high altitude
+[WRONG] Hypoxia
+[WRONG] Dyspnea
+[RIGHT] CO2 poisoning
 
 # Renal System
 
@@ -97,6 +157,26 @@ At sea level, pH = 7.4, temperature = 37C, PaCO2 = 40 mm Hg
 * Attempts to restore ratio of 1 part acid to 20 parts base
 * Can be partial or complete compensation
 
+# Question 9
+What is Correction? 
+
+[RIGHT] The primary disorder is repaired: all acid base parameters return to normal
+[WRONG] The primary disorder continues and the opposite system begins to adjust (partially or completely)
+
+# Question 10
+A patient is admitted to the ICU due to respiratory failure, before the patient was placed on a ventilator the patient was extremely agitated and breathing rapidly. Once in the ICU breathing was being regulated by the ventilator and the patient was given 1 litre of normal saline. This patient is also receiving aspirin. Arterial HCO3 concentration was 12.
+
+[WRONG] This pts acid base disorder is compensated
+[WRONG] This pts acid base disorder is corrected
+[WRONG] This pts acid base disorder is both compensated and corrected
+[RIGHT]  This pts acid base disorder is neither compensated nor corrected
+[WRONG] This pt is compensated but not corrected
+
+# Question 11
+What is Compensation?
+
+[RIGHT] The primary disorder continues and the opposite system begins to adjust (partially or completely)
+[WRONG] The primary disorder is repaired: all acid base parameters return to normal
 
 # Steps to Acid Base Interpretation
 
@@ -242,6 +322,13 @@ Acidosis with increased anion gap: Accumulation of anions other than Cl-
 
 Acidosis with normal anion gap: Renal absorption of Cl- due to the loss of HCO3-
 
+# Question 11
+What is the Normal Value of the Anion Gap?
+
+[RIGHT] 12 ± 2
+[WRONG]  10 ± 2
+[WRONG] 14 ± 2
+
 # Metabolic Alkalosis
 
 ### Blood Gas Values
@@ -275,6 +362,49 @@ Acidosis with normal anion gap: Renal absorption of Cl- due to the loss of HCO3-
 
 * Underlying cause must be corrected
 
+# Question 12
+Your patient exhibits the following acid base parameters: pH = 7.31, PaCO2 = 48, HCO3- = 24. 
+How should this be interpreted?
+
+[RIGHT] respiratory acidosis
+[WRONG] respiratory alkalosis combined with metabolic acidosis
+[WRONG] metabolic acidosis
+[WRONG] respiratory acidosis combined with metabolic acidosis
+
+# Question 13
+A patient presents with the following arterial blood gas values: pH: 7.47, PaCO2: 45, HCO3: 33
+What is the most accurate diagnosis?
+
+[WRONG] Respiratory alkalosis compensated
+[WRONG] Metabolic acidosis 
+[WRONG] Combined metabolic acidosis and respiratory alkalosis
+[WRONG] Combined metabolic alkalosis with respiratory acidosis
+[RIGHT] Metabolic alkalosis compensated 
+
+# Question 14
+Your patient exhibits the following acid base parameters: pH = 7.36, PaCO2 = 56, HCO3- = 31.4. 
+How should this be interpreted?
+
+[RIGHT] chronic respiratory acidosis compensated
+[WRONG] acute respiratory alkalosis
+[WRONG] metabolic alkalosis combined with chronic respiratory alkalosis
+[RIGHT] acute respiratory acidosis combined with metabolic alkalosis
+
+# Question 15
+What do Blood Gas Values pH < 7.35, PaCO2 > 45mm Hg, HCO3- = Normal or Elevated indicate?
+
+[RIGHT] Respiratory Acidosis
+[WRONG] Normal acid base parameters
+[WRONG] Respiratory Alkalosis
+
+# Question 16
+What do Blood Gas Values pH > 7.45, PaCO2 = 40 , HCO3- > 26 meq/l indicate?
+
+[RIGHT] Metabolic Alkalosis
+[WRONG] Normal acid base values
+[WRONG] Respiratory Acidosis
+[WRONG] respiratory alkalosis
+
 
 # Arterial and Mixed Venous Gases
 
@@ -288,6 +418,11 @@ Acidosis with normal anion gap: Renal absorption of Cl- due to the loss of HCO3-
 
 ![](assets/shifts.png)
 
+# Question 17
+What shifts the Oxyhemoglobin Dissociation Curve Right? 
+
+[RIGHT] A pH Decrease and/or a Temperature Increase
+[WRONG] A pH Increase and/or a Temperature Decrease
 
 # Factors Leading to Tissue Hypoxia
 
@@ -304,5 +439,17 @@ Acidosis with normal anion gap: Renal absorption of Cl- due to the loss of HCO3-
 * Erythrocytosis
 * Further desaturation of hemoglobin
 
+# Question 18
+What factors lead to Tissue Hypoxia? 
 
+[RIGHT] Low cardiac output, decreased oxygen carrying capacity, non-functional haemoglobin, right to left cardiac shunt
+[WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional haemoglobin, right to left cardiac shunt
+[WRONG] Low cardiac output, decreased oxygen carrying capacity, non-functional haemoglobin, left to right cardiac shunt
+[WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional haemoglobin, left to right cardiac shunt
+
+# Question 19
+How does the body compensate for tissue hypoxia?
+
+[RIGHT] Tachycardia, Tachypnea, Erythrocytosis, further desaturation of hemoglobin
+[WRONG] Tachycardia, Tachypnea, Erythrocytosis, saturation of hemoglobin
 
