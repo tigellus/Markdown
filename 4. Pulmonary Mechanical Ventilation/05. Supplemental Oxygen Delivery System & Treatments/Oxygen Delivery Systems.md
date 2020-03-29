@@ -1,50 +1,46 @@
-## Non-Aerosolized Oxygen Delivery Systems
+## Low-Flow Oxygen Delivery Systems
 
 ![](assets/no_aerosol.png)
 
-These are used for patients that need supplemental oxygen and are breathing on their OWN.
+Used for patients that need supplemental oxygen and have sufficient respiratory drive (breathing on their own)
+#### Nursing Implications for Low-Flow Systems
 
-#### Nursing Implications
-
-* Dries the airway, thickening secretions and making it difficult for the patient to cough up
-* Increases Infection Risk of the Patient
+* Can dry the airway, thicken secretions, and therefore cause difficulty in clearing secretions
+* Consider humidification for oxygen flow greater than 4L/min
+* Monitor respiratory drive and effort- watch for signs of decompensation
+* Increases infection risk of the patient
 * Can cause patient discomfort
+* Actual amount of inspirted oxygen (FiO2) cannot be precisely controlled or predicted (is affected by patient's respiratory pattern)
 
-## Aerosolized Oxygen Delivery System: High Flow Nasal Cannula
+
+## High-Flow Oxygen Delivery Systems
 
 ![](assets/aerosol.png)
 
-* You must use N95 when caring for patients on HFNC.
-* Set flow 10-50L
-* FiO2: 21-100%
-* No Alarms
-* #1 issue is cannula kinks
+#### Nursing Implications for High-Flow Systems
+* Provides a reservoir of oxygen in the patient's nasopharynx which enhances delivery of oxygen with each breath 
+* FiO2 delivery is fairly consistent
+* Indicated for patients with a more variable ventilatory pattern
+* Use of N95 mask required when caring for patients on HFNC.
+* Oxygen flow rate typically 10-50L
+* FiO2: 60-100%
+* No Alarms (close monitoring by the nurse is necessary)
+* Monitor respiratory drive and effort- watch for signs of decompensation
+* Monitor for kinking in tubing
  *If FiO2 goes higher than
        originally set, there might be
        a kink on the cannula prongs
-
-
-#### Benefits of HFNC
-
-* Reduces
-    * Respiratory rate
-    * Carbon dioxide level
-    * Breathing effort
-* Increases
-    * Tidal volume
-* Improves
-    * Mucus clearance
-    * Oxygenation
+    
 
 # Question 1
-When should non-aerosolized Oxygen Delivery Systems be used?
+When should Low-flow Oxygen Delivery Systems be used?
 
 [RIGHT] For patients that need supplemental oxygen and are breathing on their own
-[WRONG] For patients that need supplemental oxygen and are struggling to breathe on their own
-[WRONG] For patients that need supplemental oxygen and cannot breathe on their own
+[WRONG] For patients that need supplemental oxygen and have decreased respiratory drive
+[WRONG] For patients that need supplemental oxygen and have variable respiratory effort
 
 # Question 2
-Question: An ascending ranking of non-aerosolized oxygen delivery systems by flow rate is:
+Question: An ascending ranking of non-aerosolized oxygen delivery systems by flow rate is: -- this question doesn't fit if we make the proposed changes above
 
 [RIGHT] Low Flow Nasal Cannula, Simple Face Mask, Humidified High Flow Mask, Venturi Style Mask, Reservoir Mask
 [WRONG] Low Flow Nasal Cannula, Simple Face Mask, Venturi Style Mask, Humidified High Flow Mask, Reservoir Mask
@@ -52,7 +48,7 @@ Question: An ascending ranking of non-aerosolized oxygen delivery systems by flo
 [WRONG] Low Flow Nasal Cannula, Simple Face Mask, Humidified High Flow Mask, Reservoir Mask, Venturi Style Mask
 
 # Question 3
-What are the nursing implications of using non-aerosolized oxygen delivery systems?
+What are the nursing implications of using non-aerosolized oxygen delivery systems? -- this question doesn't fit if we make the proposed changes above
 
 [RIGHT] Patients’ airway dries, secretions thicken, coughing up is harder, infection risk increases
 [WRONG] Patients’ airway dries, secretions thin, coughing up is easier, infection risk decreases
@@ -62,15 +58,15 @@ What are the nursing implications of using non-aerosolized oxygen delivery syste
 # Question 4
 What are the key benefits of a High Flow Nasal Cannula (HFNC)?
 
-[WRONG] Increases respiratory rate, Reduces breathing effort, Increases tidal volume, Reduces mucus clearance
-[RIGHT] Reduces respiratory rate, Reduces breathing effort, Increases tidal volume, Improves mucus clearance
-[WRONG] Reduces respiratory rate, Reduces breathing effort, Decreases tidal volume, Improves mucus clearance
+[WRONG] Does not require the patient to have respiratory drive
+[RIGHT] Provides more predictable and precise delivery of FiO2
+[WRONG] Reduces risk for infection
 
 # Question 5
-High Flow Nasal Cannula (HFNC) increases…
+When caring for a patient using HFNC, the nurse must
 
-[RIGHT] Tidal volume
-[WRONG] Respiratory rate
-[WRONG] Carbon dioxide level
-[WRONG] Breathing effort
+[RIGHT] Use an N95 mask
+[WRONG] Ensure the patient is properly sedated
+[WRONG] Use a simple face mask
+[WRONG] Keep oxygen flow to less than 10 L/min
 
