@@ -227,3 +227,107 @@ Documentation of data must be accurate and up-to-date to avoid unnecessary legal
 - Document if there is use of respiratory devices or airway adjuncts.
 - Document response to medications administered.
 - Document modifications to plan of care.
+
+# Question 1
+A patient who has a diagnosis of pneumonia reports a sudden onset of sharp pain on one side of the chest. The patient is dyspneic and oxygen saturation falls to 89, percent. After administering oxygen to the patient, which of these actions should the healthcare provider perform next?
+
+[RIGHT] Auscultate lungs bilaterally 
+[WRONG] Check capillary refill
+[WRONG] Lower head of patient
+[WRONG] Take a full set of vitals
+
+# Question 2
+What is an acute infection of the lung caused by bacteria or viruses?
+
+[RIGHT] Pneumonia
+[WRONG] Pneumoconiosis
+[WRONG] Pulmonary edema
+
+# Question 3
+How are pneumonias classified?
+
+[RIGHT] Community acquired or nosocomial
+[WRONG] Natural acquired
+[WRONG] Passive and active acquired
+
+# Question 4
+Pneumonia infections that are acquired in the hospital are known as what?
+
+[RIGHT] Nosocomial acquired
+[WRONG] Community acquired
+[WRONG] Passively acquired
+
+# Question 5
+What protects the lungs from foreign pathogens?
+
+[RIGHT] Macrophages
+[WRONG] Microphages
+[WRONG] Eosinophils
+
+# Question 6
+Which of the following are signs and symptoms of pneumonia?
+
+[RIGHT] Fever, chills, purulent sputum
+[WRONG] Increased energy, dry cough
+[WRONG] Sinus congestion, headaches
+
+# Question 7
+Which of the following can be used to diagnose pneumonia?
+
+[RIGHT] Infiltrates on chest x-ray
+[WRONG] Decreased platelets
+[WRONG] Elevated red blood cell count
+
+# Question 8
+An elevated white blood count and infiltrates on a chest x-ray are indications of which condition?
+
+[RIGHT] Pneumonia
+[WRONG] Pulmonary embolism
+[WRONG] Pneumothorax
+
+# Question 9
+What diagnostic test is used to determine the presence of a bacterial infection of the blood (sepsis)?
+
+[RIGHT] Blood culture
+[WRONG] Complete blood count
+[WRONG] CT scan
+
+# Question 10
+CAP occurs either in the community setting or within the first _____ hours after hospitalization.
+
+[RIGHT] 48
+[WRONG] 24
+[WRONG] 72
+[WRONG] 36
+
+# Question 11
+HAP is the onset of pneumonia symptoms more than _____ hours after admission in patients with no evidence of infection at the time of admission.
+
+[RIGHT] 48
+[WRONG] 24
+[WRONG] 72
+[WRONG] 36
+
+# Question 12
+Which of the following is not considered as pneumonia in the immunocompromised host?
+
+[RIGHT] Nosocomial pneumonia.
+[WRONG] Fungal pneumonia.
+[WRONG] Pneumocystis pneumonia.
+[WRONG] Mycobacterium tuberculosis.
+
+# Question 13
+What is the most common form of aspiration pneumonia?
+
+[RIGHT] Bacterial infection.
+[WRONG] Fungal infection.
+[WRONG] Myocardial infarction.
+[WRONG] Renal insufficiency.
+
+# Question 14
+What is the leading cause of CAP?
+
+[RIGHT] S. pneumonia.
+[WRONG] Fungal infection.
+[WRONG] S. aureus.
+[WRONG] H. influenza.

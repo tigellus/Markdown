@@ -153,3 +153,74 @@ The focus of documentation should include:
 - Response to interventions, teaching and actions performed.
 - Attainment or progress toward desired outcomes.
 - Modifications to plan of care.
+
+
+# Question 1
+The healthcare provider is assisting during the insertion of a pulmonary artery catheter. Which of these, if assessed in the patient, would indicate the patient is experiencing a complication from the catheter insertion?
+
+[WRONG] Patient taking deeper breaths and that last longer during inspiration
+[WRONG] Excursion of the diaphragm by more than 3 cm
+[RIGHT] Tracheal deviation
+[WRONG] Vesicular breath sounds heard while auscultating
+
+# Question 2
+What is the blockage of one of the pulmonary arteries in the lungs?
+
+[RIGHT] Pulmonary embolism
+[WRONG] Hemothorax
+[WRONG] Pneumothorax
+
+# Question 3
+What is the most usual cause of a pulmonary embolism?
+
+[RIGHT]  Blood clots that travel to the lungs
+[WRONG] Pulmonary hypertension
+[WRONG] Traumatic injuries to the lungs
+
+# Question 4
+ The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most frequent sign of:
+
+[WRONG] Hemoptysis
+[WRONG] Syncope
+[WRONG] Cough
+[RIGHT] Tachypnea
+
+# Question 5
+The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient include all except:
+
+[WRONG] Hemoptysis
+[WRONG] Syncope
+[RIGHT] Tachypnea
+[WRONG] Cough
+
+# Question 6
+The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient include all except:
+
+[WRONG] A liberal fluid intake.
+[WRONG] Assisting the patient to do leg elevations above the level of the heart.
+[RIGHT] Encouraging the patient to dangle his or her legs over the side of the bed for 30 minutes, four times a day.
+[WRONG] The use of elastic stockings, especially when decreased mobility would promote venous stasis.
+
+# Question 7
+Which of the following is a type of embolism?
+
+[WRONG] Burn emboli.
+[WRONG] Travelling emboli.
+[RIGHT] Fat emboli.
+[WRONG] Diabetic emboli.
+
+# Question 8
+The following are diagnostic tests for a patient with pulmonary embolism except:
+
+[WRONG] ABG analysis
+[WRONG] Chest x-ray
+[RIGHT] Pulmonary function tests
+[WRONG] ECG
+
+# Question 9
+What are the possible complications in a patient with pulmonary embolism?
+
+[WRONG] Right ventricular failure
+[WRONG] Cardiogenic shock
+[RIGHT] Both right ventricular failure and cardiogenic shock
+[WRONG] Septic shock

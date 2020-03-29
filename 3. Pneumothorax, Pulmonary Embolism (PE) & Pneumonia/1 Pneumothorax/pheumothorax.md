@@ -200,3 +200,279 @@ The management of a pneumothorax is often done by the emergency department physi
 
 ### ITCT disposable system
 ![](assets/pneumothorax-itct.png)
+
+
+# Question 1
+All of the following are causes of pneumothorax EXCEPT:
+
+[WRONG] Air entering pleural space from atmosphere due to a trauma
+[WRONG] Air entering the pleural space from a rupture in lung parenchyma
+[WRONG] Air being produced by a bacterial infection in pleural space
+[RIGHT] Air entering pleural space from a hole in the trachea
+
+# Question 2
+All of the following can cause a pneumothorax EXCEPT:
+
+[WRONG] A person stabbed in the back just below the apex of the scapula by a 7 inch knife
+[WRONG] A person on a ventilator
+[WRONG] A patient receiving chemotherapy 
+[WRONG] Placement of a central line
+[RIGHT] Complication from a tracheostomy
+
+# Question 3
+Which of the following is a cause of primary pneumothorax?
+
+[WRONG] Trauma
+[WRONG] COPD
+[WRONG] Mechanical ventilation
+[WRONG] Pneumonia 
+[WRONG] Ehlers Danlos syndrome
+[RIGHT] None of the above
+
+# Question 4
+All of the following are examples of Secondary pneumothorax EXCEPT:
+
+[WRONG] A patient in the ICU on a ventilator
+[RIGHT] A spontaneous pneumothorax in a young patient with a history of smoking but no known disease
+[WRONG] A patient with lung cancer
+[WRONG] A patient with Marfan syndrome
+[WRONG] A patient with tuberculosis
+
+# Question 5
+Which of the following is NOT a sign or symptom of pneumothorax?
+
+[WRONG] A patient complaining of shortness of breath
+[WRONG] A patient who suddenly develops chest pain
+[WRONG] Sudden increase in heart rate
+[RIGHT] Increased arterial blood pressure
+[WRONG] Tracheal deviation
+
+# Question 6
+Which of the following is not a sign or symptom of pneumothorax?
+
+[WRONG]Tachycardia
+[WRONG] Low blood pressure
+[WRONG] Hyperresonant lung sounds
+[WRONG] Tympanic lung sounds
+[RIGHT] Increased end tidal CO2
+
+# Question 7
+The healthcare provider is caring for a patient who has a pneumothorax. When assessing the patient and the chest tube drainage system, a large fibrin clot is noted in the tubing. Which additional assessment finding requires immediate action by the healthcare provider?
+
+[WRONG] Increasing pain at the insertion point
+[RIGHT] Downward trend in blood pressure
+[WRONG] Less water in the water chamber
+[WRONG] The level of water in the chamber going up and down
+
+# Question 8
+Which of the following is a sign or symptom of pneumothorax?
+
+[RIGHT] Dyspnea
+[WRONG] Hypertension
+[WRONG] Erythema
+
+# Question 9
+What should be performed if a patient is hemodynamically unstable with convincing indications of tension pneumothorax?
+
+[RIGHT] Needle decompression
+[WRONG] Tracheotomy
+[WRONG] Thoracotomy
+
+# Question 10
+The presence of air or gas in the pleural cavity is known as what?
+
+[RIGHT] Pneumothorax
+[WRONG] Pneumoconiosis
+[WRONG] Pulmonary edema
+
+# Question 11
+How does air accumulation in the pleural cavity affect the lungs?
+
+[RIGHT] The lungs collapse and the chest wall expands
+[WRONG] The lungs expand and the chest wall collapses
+[WRONG] The lungs and the chest wall collapse
+
+# Question 12
+What causes the lungs to collapse in a pneumothorax?
+
+[RIGHT] Pressure on the lung due to air accumulation
+[WRONG] Pressure on the lung due to blood accumulation
+[WRONG] An excessive buildup of fluid in the pleural cavity
+
+# Question 13
+Which type of pneumothorax occurs automatically without a known eliciting event?
+
+[RIGHT] Primary spontaneous pneumothorax
+[WRONG] Secondary spontaneous pneumothorax
+[WRONG] Traumatic pneumothorax
+
+# Question 14
+Which type of pneumothorax occurs subsequent to an underlying pulmonary disease?
+
+[RIGHT] Secondary spontaneous pneumothorax
+[WRONG] Primary spontaneous pneumothorax
+[WRONG] Traumatic pneumothorax
+
+# Question 15
+A traumatic pneumothorax is typically the result of what type of trauma?
+
+[RIGHT] Blunt or penetrating trauma
+[WRONG] Fluid-related trauma
+[WRONG] Soft-tissue trauma
+
+# Question 16
+Which of the following is also known as a “sucking” chest wound?
+
+[RIGHT] Open pneumothorax
+[WRONG] Simple pneumothorax
+[WRONG] Tension pneumothorax
+
+# Question 17
+A collection of blood in the pleural space is known as what?
+
+[RIGHT] Hemothorax
+[WRONG] Pneumothorax
+[WRONG] Pleural effusion
+
+# Question 18
+Hemothorax is a frequent consequence of what?
+
+[RIGHT] Traumatic thoracic injuries
+[WRONG] Exposure to fungal spores
+[WRONG] Acute bronchial infection
+
+# Question 19
+What is the preferred method of evaluation for intrathoracic injuries?
+
+[RIGHT] CT scan
+[WRONG] MRI
+[WRONG] Oblique chest x-ray
+
+# Question 20
+What diagnostic test can be used at a patient’s bedside for triage and identification of life-threatening injuries?
+[RIGHT] Point-of-care ultrasound
+[WRONG] CT scan
+[WRONG] Chest x-ray
+
+# Question 21
+Management of a pneumothorax depends on what?
+
+[RIGHT] Clinical scenario
+[WRONG] Oxygen saturation
+[WRONG] Patient’s consciousness
+
+# Question 22
+Pneumothorax patients who have associated signs of instability should receive what treatment?
+
+[RIGHT] Needle decompression
+[WRONG] Pleurodesis
+[WRONG] Thoracotomy
+
+# Question 23
+What is the treatment for stable pneumothoraces?
+
+[RIGHT] Insertion of thoracostomy tube
+[WRONG] Needle decompression
+[WRONG] Thoracostomy
+
+# Question 24
+Which of the following pneumothoraces is treated by the administration of oxygen under observation and repeated chest radiography?
+
+[RIGHT] Asymptomatic pneumothorax
+[WRONG] Unstable pneumothorax
+[WRONG] Pneumothorax with associated hemothorax
+
+# Question 25
+Which of the following are options for chemical pleurodesis?
+
+[RIGHT] Talc, tetracycline, doxycycline, and minocycline
+[WRONG] Erythromycin, doxycycline, penicillin, and zinc
+[WRONG] Tetracycline, erythromycin, magnesium, and sodium
+
+# Question 26
+A 17-year-old male patient presents to the hospital complaining of left-sided pleuritic chest pain which came on suddenly three days ago while he was working out in the gym. He is a smoker of 20/day and the rest of the medical history is unremarkable. Previously he thought it was some muscle sprain so he took paracetamol but the pain has not settled. On examination, there is a tall and thin well-looking man. His blood pressure is 130/70 mmHg, his pulse is 82/min regular, and there is a clicking sound on chest auscultation which is synchronous with the heart sounds. There is a strong suspicion of pneumothorax but the chest radiograph posteroanterior (PA) view is unremarkable. What is the most appropriate next step?
+
+[WRONG] Needle aspiration
+[WRONG] Discharge on NSAIDs
+[RIGHT] Lateral decubitus chest X-ray
+[WRONG] Admit for oxygen supplementation and observation for 24 hours
+
+# Question 27
+A 16-year-old female patient who is a professional gymnast presents to the hospital complaining of left-sided pleuritic chest pain which came on suddenly while she was practicing for an upcoming tour 30 hours before. She is only on an oral contraceptive pill and the rest of the medical history is unremarkable. She took paracetamol for pain and the last dose was seven hours ago. Currently, she has very little pain left. On examination her blood pressure is 120/70 mmHg, her pulse is 82/min regular, and she has normal chest auscultation. A chest radiograph reveals a 1 cm large air-containing area on the left side with absent lung markings. What is the most appropriate next step?
+
+[WRONG] Admission and oxygen supplementation
+[WRONG] Aspiration followed by admission
+[RIGHT] Discharge with early follow-up
+[WRONG] Chest drain insertion
+
+# Question 28
+A 65-year-old male patient with a history of emphysema presents to the hospital complaining of sudden onset dyspnea and pleuritic type chest pain on the left side. He is aa smoker of 25/day. On examination, he looks very restless, pale and sweaty. His blood pressure is 140/85 mmHg, the pulse is 120/min regular, the respiratory rate is 32/min, and oxygen saturation on room air is 88%. He has reduced chest expansion, hyper resonant note, and decreased air entry on the left side. He is commenced on oxygen supplementation and analgesia. What is the next best step in management?
+
+[WRONG] Urgent surgical intervention
+[WRONG] Urgent CT scan of the chest
+[RIGHT] Chest drain insertion
+[WRONG] Chest aspiration
+
+# Question 29
+A 28-year-old man comes to the emergency department with acute onset of dyspnea and mild chest pain. He describes the quality of pain as sharp. He is afebrile, heart rate of 117 beats per minute, blood pressure of 148/85 mmHg and a respiratory rate of 23 breaths per minute. Pulmonary examination reveals decreased left-sided breath sounds. Oral examination reveals multiple thick white patches that can be easily scrapped off. A chest x-ray shows bilateral alveolar infiltrates and a left-sided pneumothorax. Tube thoracostomy partially relieves chest pain and dyspnea. Which of the following test most likely to reveal the diagnosis?
+
+[WRONG] CT scan of the chest
+[WRONG] Blood culture
+[RIGHT] Bronchoscopy
+[WRONG] Alpha 1 trypsinogen levels
+
+# Question 30
+A 65-year-old female patient with a history of smoking is admitted to the surgical wing for a routine hernia repair. On the chest radiograph, she is found to have a 2.2 cm large area with air on the left side and absent lung markings. She has been suffering from chronic bronchitis for ten years. On further questioning, she admits to having severe shooting pains on the left side of the chest occasionally. What is the most appropriate treatment option in this case?
+
+[WRONG] No intervention needed
+[WRONG] Oxygen supplementation
+[WRONG] Needle aspiration
+[RIGHT] Insert 14 French gauge chest drain
+
+# Question 31
+A 65-year-old male patient with a history of chronic obstructive pulmonary disease (COPD) controlled on inhaled corticosteroids presents to the hospital complaining of sudden onset dyspnea and left-sided pleuritis type chest pain. A chest radiograph is performed which shows a 1.5 cm large area of air on the left side without lung markings. On aspiration, it reduces to 0.75 cm. What is the most appropriate next step in management?
+
+[RIGHT] Admit overnight for oxygen supplementation
+[WRONG] Discharge with follow up after 24 hours
+[WRONG] Admit for chest drain insertion
+[WRONG] Repeat aspiration
+
+# Question 32
+What is the most common cause of a pneumothorax after a motor vehicle accident?
+
+[WRONG] Fractured ribs
+[RIGHT] "Paper bag" effect
+[WRONG] "Down and under" pathway
+[WRONG] Lacerated liver
+
+# Question 33
+Which of the following is much more common in patients with emphysema?
+
+[WRONG] Asthma
+[WRONG] Deep venous thrombosis
+[WRONG] Pulmonary embolism
+[RIGHT] Pneumothorax
+
+# Question 34
+A patient with a pneumothorax would have which of the following?
+
+[WRONG] Some breath sounds in the affected lung field
+[RIGHT] Distant or absent breath sounds in the affected lung field
+[WRONG] Stridor in the unaffected lung field
+[WRONG] Dullness to percussion
+
+# Question 35
+A patient suffered a stab wound that damaged the pleura allowing air into the pleural space. What is the correct term for this?
+
+[WRONG] Pneumomediastinum
+[RIGHT] Pneumothorax
+[WRONG] Hemothorax
+[WRONG] Pleural effusion
+
+# Question 36
+A 28-year old was admitted with sudden onset of breath while walking. He is a heavy smoker. Chest x-ray reveals a 90% pneumothorax on the right side. The emergency room resident placed a size 32F tube to evacuate the pneumothorax. An hour later the patient complained of severe shortness of breath and his pulse oximeter revealed oxygen saturation of 89%. A portable chest x-ray revealed vascular congestion in the right lung. He was taken to the intensive care unit and placed on the ventilator because of severe respiratory distress. Which of the following is true about this condition?
+
+[WRONG] It only occurs in elderly people
+[WRONG] The incidence is very high
+[RIGHT] It affects patients with extensive pneumothorax
+[WRONG] It occurs only with exudate but not transudate effusion evacuations
