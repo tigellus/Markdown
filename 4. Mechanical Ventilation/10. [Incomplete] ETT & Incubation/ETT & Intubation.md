@@ -363,3 +363,223 @@ A multidisciplinary approach to tracheostomy weaning will ensure safe and approp
  * Pre-operative psychological assessment should be carried out for all patients undergoing a planned tracheostomy procedure
 
 
+# 3. Care of patients with permanent tracheostomy
+(The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-3-care-of-patients-with-permanent-tracheostomy-23-05-2016/)
+Patients who have a permanent tracheostomy have complex needs that require specialised care after they have been discharged from hospital
+
+# Introduction
+Approximately 20% of patients who have a tracheostomy will be discharged with the tracheostomy in situ (Eibling and Roberson, 2012). However, discharging them can be a complex process; the National Confidential Enquiry into Patient Outcome and Death (2014) found that, out of the 91 patients reviewed who were suitable for discharge from hospital, 14 were still awaiting discharge after 30 days due to difficulties in securing appropriate community care, while 16 had difficulty finding a specialist rehabilitation-unit bed.
+
+A permanent tracheostomy is non-weanable and cannot be removed. It is inserted for a number of underlying long-term, progressive or permanent conditions, including cancer of the larynx or nasopharynx, motor neurone disease, locked-in syndrome, severe head injury, spinal-cord injury and paralysis of vocal cords.
+
+# Nursing care
+Daily tracheostomy care is the same for temporary and permanent tracheostomy tubes, and is outlined in part 1 of this series (Everitt, 2016a). However, patients with a permanent tracheostomy need to be cared for by nurses who have the skills to teach them and their carers/relatives to be independent with tracheostomy care; many patients find this a daunting prospect.
+
+Patients with a permanent tracheostomy may be in hospital for months with complex health issues and often become dependant for physical and emotional support on nurses in the acute care setting. They may be anxious about the transition to their home environment and it is important to start teaching them to care for their tracheostomy as soon as possible. This will help to reduce their length of stay in hospital and ensure they are, where possible, fully independent with their tube care before discharge.
+
+Many hospitals have, or are developing, tracheostomy multidisciplinary teams, some of which include critical-care outreach and/or tracheostomy-specialist nurses who can assist nurses with patient teaching and discharge planning (NCEPOD, 2014; National Tracheostomy Safety Project, 2013).
+
+Although some may also have an outreach in the community, these services are not common, despite the ongoing risks associated with tracheostomy (Paul, 2010); no matter how long patients have a tracheostomy in situ, there is a low but real risk of airway loss and death (Eibling and Roberson, 2012).
+
+# Body image/psychological support
+The need to adapt to breathing through a tracheostomy tube, the limitations it imposes on communication and the appearance of the tube can have a negative psychological effect; patients may require psychological support and antidepressants.
+
+Where possible, patients having an elective tracheostomy should receive pre-operative counselling; Hashmi et al (2010) recommends a perioperative psychological assessment. At this point, they should also be offered the opportunity to meet other patients with a permanent tracheostomy, who can give them a personal account of what living with it is like, and help them to see the benefits of having the tube.
+
+Pre- and postoperative psychological assessment tools also provide evidence of patients’ emotional state; their use can be continued by community practitioners to ensure patients receive psychological care when needed. Failure to address their altered body image can result in reclusive behaviour once patients are discharged home. If possible, they should be referred to counselling services to help with this transition.
+
+# Adapting to the tube
+The first step for patients in accepting their altered body image is to be able to look at the tube; however, looking at their reflection can be difficult and this process should not be rushed. When preparing for this, they should be given the undivided attention of a nurse, and time to look at the tube and how it has changed their body. Patients need to be able to express their feelings about the changes, such as sadness and sometimes guilt; the emotional effects of this process should be acknowledged by all staff caring for them.
+
+The hospital environment offers some degree of shelter from the general public, and patients need to learn how to cope with how others react to their tube when they go home. Taking them off the ward to walk outside or go to the hospital shop, or arranging day leave, are all ways of preparing them for everyday socialisation.
+
+The presence of a permanent tracheostomy tube can negatively affect relationships and sexual intimacy with spouses/partners who had a previously close and loving relationship. For example, the presence of respiratory secretions in the tracheostomy tube or around the stoma site, or breathing or coughing onto a partner’s neck while kissing, can cause embarrassment and lead to the couple becoming emotionally distant. The relationship may also change from loving partners to patient and carer.
+
+Ideally, a tracheostomy nurse specialist will provide support in the community on discharge, so that patients have a knowledgeable person who can continue to provide emotional support, as well as ensure continuity in tracheostomy care.
+
+# Communication
+![](assets/Fig-1-Examples-of-speaking-valves.png)
+A key factor in coping with a permanent tracheostomy is the ability to communicate. Everyday things that most people take for granted, such as telephone banking, phoning for a taxi, asking for assistance in a shop or simply telling a partner “I love you” are difficult and often frustrating. Such frustrations can be a catalyst for depression and negatively affect relationship dynamics. Not being understood by partners, family and friends can also lead to patients becoming isolated and reclusive.
+
+Patients with cuffed tubes are unable to speak, as air cannot pass into their upper airway and through the vocal cords, so they have to rely on other forms of communication, such as pen and paper, tablet computer or keyboard-based communication aids. However, some may have literacy problems, which will affect their ability to communicate and use these methods; picture boards may be required.
+
+Patients who do not require a cuffed tube can use a simple method known as “finger occlusion” to produce voice; this involves inhaling, then placing a finger over the end of the tracheostomy tube to occlude the opening and force air up and through the vocal cords. Patients often use finger occlusion in the early stages after tube insertion, but will go on to use a speaking valve (Fig 1, attached). See Everitt (2016b) for more information on speaking valves.
+
+Speaking valves can be extremely tiring, so periods of use should be increased gradually to build up tolerance. During such incremental use, patients should use the valves when relatives or friends visit, or during ward rounds, so that they are able to communicate their needs or concerns more effectively. Periods of use should be documented to ensure continuity of care. Box 1 lists further points on valve care.
+
+Fenestrated tracheostomy tubes can also be used to produce speech. However, they are not widely used in practice due to contraindications, as well as the marginal benefits they offer in voice production and strength (Everitt, 2016a).
+
+## Box 1. Care of speaking valves
+
+* Speaking valves should only be used by practitioners who are competent in all aspects of tracheostomy care, including weaning and emergency management
+* Where possible, an uncuffed tracheostomy tube should be used with a speaking valve, as air passes around the tube and into the upper airways (NTSP, 2013)
+* When a cuffed tube is used, it must be deflated; if a speaking valve is applied when the cuff is inflated, the patient will be unable to exhale, which will result in death if the device remains in situ
+* Humidification and oxygen can be given when the valve is in place – some valves have adapters that connect over them to provide a more direct route for oxygen delivery
+* Speaking valves should be removed during nebulisation, as sodium chloride 0.9% vapour can cause a residue to form, which can restrict the valve movement
+* The valves should be kept clean by rinsing with warm water and air drying after use
+* They should be stored in a named container when not in use
+* The valves should be replaced when the valve becomes sticky, noisy or vibrates
+* Speaking valves should be removed overnight when the patient is sleeping
+
+# Eating and drinking
+ 
+NCEPOD (2014) suggests that dysphagia in patients with a tracheostomy warrants ongoing study, as swallowing difficulties can occur throughout the care pathway. The type of tube used and the reason for its insertion will influence if, and when, a patient can have a trial of eating and drinking. It is recommended that cuffed tubes are deflated during trials, as this can impede swallowing by restricting laryngeal elevation.
+
+Patients must be referred to a speech and language therapist for a specialist swallowing assessment as soon as a tracheostomy is inserted. Before the assessment, the cuff on a cuffed tube needs to be deflated using a synchronised cuff-deflation technique (Everitt, 2016b).
+
+Once patients are able to swallow safely, they may start eating and drinking following the speech and language therapist’s instructions. Some patients will require long-term enteral feeding, for example, following head injury, stroke, and patients receiving palliative care for head and neck cancers.
+
+This patient group has complex conditions and are prone to malnutrition pre- and postoperatively. They should have regular nutrition assessment using the MUST score, and referral to a dietitian if there are concerns about dietary intake.
+
+# Discharge planning
+The discharge process is complex and needs to be started as soon as possible, as community resources for tracheostomy care are limited. The tracheostomy multidisciplinary team will formulate a discharge plan, working with the patient, relatives, ward staff and discharge liaison teams to meet care needs. Care providers, including staff in care homes and community nurses, must be competent in tracheostomy care and must be given training if necessary. This may be difficult to provide in areas that do not have specialist tracheostomy nurses; in these circumstances, community staff will need to visit the ward for training and must be deemed competent before a patient can be discharged into their care. It is therefore important to involve community and nursing home teams as early as possible in the discharge planning process. When available, hospital tracheostomy care teams should continue to support patients and community staff on discharge. Box 2 lists key points for discharge planning.
+
+## Box 2. Key points of discharge
+
+* The patient should be discharged with:
+    * An appropriately stocked tracheostomy safety box (Everitt, 2016a)
+    * Suction machine
+    * Portable nebuliser (handheld, pocket-sized nebulisers are also available to give patients more freedom when travelling or going shopping)
+    * 1-2 week supply of all necessary equipment, such as suction catheters, spare inner tubes
+    * An account with a tracheostomy product supplier should be set up for future orders
+* Community teams should be given a discharge list of tracheostomy consumables with order codes and amounts required (tracheostomy tubes are not available on an FP10 prescription; most other tracheostomy products are, but it can be difficult for community teams and nursing homes to source)
+* Clear discharge summaries and care guidance should be sent with the patient on discharge
+* Contact details of tracheostomy care team and ENT outpatient department should be given to the patient and community team
+* Patients should be registered with the ambulance service on discharge, so that in the event of an emergency, attending crews are aware of their airway
+* Inform electricity suppliers of the need for continuous access to ensure patients are prioritised should power be lost, to protect use for electric suction pumps
+* Community district nurses, nursing home staff and care agency staff should be trained in tracheostomy care, and deemed competent prior to the patient’s discharge
+* Locally agreed training programmes should be in place to ensure competency and continuity in tracheostomy care delivery
+* Patients should be discharged with a competent understanding of what to do in an emergency. A tracheostomy safety box should be sent with the patient, as well as a portable suction and nebuliser machines. The patient and their carers should complete a competency training programme prior to discharge, covering basic and emergency care needs, and what to do if they have other concerns, such as pressure ulcers under a tube flange or managing a chest infection.
+
+Discharge documentation from the hospital to community should be detailed and structured, and follow the recommendations laid out by NCEPOD (2014). However, the NCEPOD (2014) enquiry showed that this occurred in only 54% of hospital transfers/discharges.
+
+Patient passports can also help with multidisciplinary communication as they provide information about patients’ routine tracheostomy care and essential information for emergency practitioners, such as the patency of the patient’s upper airway.
+
+Unfortunately, support groups, and networks and counselling services specific to the needs of tracheostomy patient, are limited and there is lack of a supportive community for this patient group.
+
+# Conclusion
+Discharge planning and ongoing support is essential in supporting patients who live in the community with a tracheostomy. Community practitioners, general practitioners, district nurses and paramedics need clear guidance to ensure continuity of care on discharge and to maintain patients’ safety. Locally agreed numbers of tracheostomy beds in nursing homes would help in reducing the length of stay in the acute care settings for many permanent tracheostomy patients, as well as enabling discharge teams and clinical commissioning groups to provide a more robust and cost-effective discharge pathway.
+
+# Key points
+* A permanent tracheostomy is non-weanable and cannot be removed
+* Patients have to cope with an altered body image and communication difficulties
+* Pre- and postoperative psychological assessment/counselling can help reduce depression and reclusive behaviour on discharge  
+* Patients need support to learn new ways to communicate  
+* Discharge needs to be planned carefully, as patients have complex needs
+
+# 4. Supporting patients following a laryngectomy
+(The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-4-supporting-patients-following-a-laryngectomy-30-05-2016/)
+Patients who have a laryngectomy need help adapting to complex changes including managing their airway, speech loss, body image changes, and altered smell and taste
+
+# Introduction
+Laryngectomy is a major surgical procedure used to treat cancer of the larynx. Other indications include severe injury to the neck, such as a gunshot wound, or damage to the larynx as a result of radiotherapy (Roth, 2012). Patients should be nursed by staff with appropriate skills and competency, in acute or community care settings. Clinical practice should follow recommendations outlined in the National Confidential Enquiry into Patient Outcome and Death (2014) and National Tracheostomy Safety Project (2013) guidelines.
+
+# Definition
+![](assets/fig1-Altered-anatomy-post-laryngectom_660.jpg)
+Laryngectomy is the surgical removal of the larynx (which contains the vocal cords) and the separation of the airway from the nose and mouth. An opening (stoma) onto the surface of the neck is formed and the trachea is connected to it (Fig 1). This is a permanent, irreversible stoma, which leaves patients unable to speak without assistance.
+
+# Pre-operative care
+Laryngectomy is a life-changing procedure, so patients need carefully planned pre- and post-operative care. A pre-operative multidisciplinary team approach enables them to meet the team that will care for them during their hospital stay and after they have been discharged.
+
+Patients will have several pre-operative sessions with a specialist speech and language therapist, who will explain every stage of their post-operative voice restoration and rehabilitation programme. They will also be given the opportunity to meet someone with a laryngectomy, thereby giving them an insight into what life will be like after their surgery. The psychological impact is similar to that experienced by patients with a permanent tracheostomy (Everitt, 2016a).
+
+# Post-operative airway management
+The same principles of tracheostomy care apply to laryngectomy care, particularly in the initial post-operative phase when many patients have a tracheostomy tube in situ (Everitt, 2016a; 2016b; 2016c). However, it is important that staff recognise the differences in airway anatomy, particularly in terms of resuscitation.
+
+The NCEPOD (2014) highlighted that only 45% of hospitals included the resuscitation of people with laryngectomy or tracheostomy (“neck breathers”) in their mandatory resuscitation training. Staff need to understand the differences between neck and normal breathing to ensure appropriate action is taken in the event of a cardiac or respiratory arrest; for example, after a laryngectomy patients will need to be intubated via their stoma.
+
+# Communication
+Reproducing a voice following a laryngectomy requires different strategies to those used for patients with tracheostomy, as expired air cannot be redirected though the upper airway. When the larynx is removed patients are unable to speak, but there are several ways of artificially reproducing voice including:
+
+* Tracheoesophageal puncture (TEP) speaking valves;
+* Electrolarynx;
+* Oesophageal speech;
+* Speech-generating devices (Cancer Research UK, 2015).
+
+## Tracheoesophageal puncture (TEP)
+For most patients a TEP speaking valve will be fitted during surgery or post operatively. A puncture is made surgically into the tracheoesophageal wall, causing a small fistula in which a valve is inserted. The TEP valve itself does not produce a voice but allows air to be re-directed from the lungs into the oesophagus where it is expelled through the mouth. The passage of air as it travels from the oesophagus to the mouth results in vibration of tissue in the lower pharynx or throat, producing sound that becomes the patient’s new voice for the patient. This valve will need to be replaced periodically.
+
+The stoma needs to be occluded with a finger to redirect air through the valve. Hands-free valves are available but not suitable for everyone. Patients may not be able to use a TEP for 10-14 days after surgery to allow the surrounding structures to heal.
+
+TEPs need regular cleaning; valves must be cleaned daily with a valve brush to remove secretions and small food debris that may cause blockages and result in poor voice quality or complete loss of voice.
+
+## Electrolarynx
+The electrolarynx is a hand-held, battery-operated device that is held against the neck or under the chin and directed towards the base of the tongue. It has a vibrating head that serves as a sound source for speech in a similar way to the vocal cords, which vibrated to produce a voice. Patients may need to over-articulate words to ensure clarity for the listener.
+
+Electrolarynx devices are generally recommended for patients unsuitable for a TEP speaking valve or unable to produce sound with a TEP. They may also be recommended for those awaiting TEP insertion.
+
+## Oesophageal speech
+Oesophageal speech is the most difficult communication technique to learn. The patient swallows air into the oesophagus and then pushes it back up while articulating speech sounds to make a voice. Oesophageal voice used to be the main method of communication for patients after laryngectomy but advances in technology mean use of it is less common.
+
+## Technology
+Recent technological developments mean there is now a vast array of communication applications available; as a result, patients are routinely asked if they are able to use or access a laptop or tablet, particularly during the first 10-14 days after laryngectomy when communication using a TEP valve may not be possible.
+
+Other devices such as keyboard-based communication aids can be used and may be available from the speech and language therapists in hospitals.
+
+
+# Stoma care
+![](assets/fig2-stoma-buttons_507.jpg)
+![](assets/FIG-3-laryngectomy_509.jpg)
+Patients with a tracheostomy tube in place after laryngectomy will usually have it removed within 24-48 hours of surgery. The stoma site will have sutures, so removal depends on the suture material used, as well as local policy and consultant guidance.
+
+Once the tracheostomy tube has been removed patients can begin to care for their stoma – initially with the support of staff; this involves using an adjustable mirror and light source such as a pen torch or adjustable desk lamp.
+
+The stoma edges and surrounding skin are cleansed using gauze and sodium chloride 0.9%; tweezer-type forceps can be used to remove dried respiratory secretions, which form crusts inside and around the edges of the stoma. This should be done at least twice a day and more frequently if required. Cavilon barrier cream may be used around the stoma edges and surrounding skin to provide a barrier to secretions and protect the skin.
+
+When their stoma has healed, patients can use a variety of different stoma aids such as a stoma button (Fig 2) and laryngectomy tube (Fig 3) in the initial post-operative phase to stop the stoma shrinking and give it a good shape.
+
+These devices must be changed and cleaned daily, or more frequently if required; patients and carers should be taught how to do this by a head and neck specialist nurse or speech and language therapist. Ward staff should also be trained in the use of the different laryngectomy devices so they can continue to teach and support patients throughout their stay.
+
+# Humidification
+![](assets/fig4-baseplate_507.jpg)
+Artificial humidification is vital to maintain the patency of the stoma, as the nose and mouth are no longer attached to the trachea. A number of devices can be used to do this, including humidification bibs (Everitt, 2016c).
+
+Many patients may also require regular sodium chloride 0.9% nebulisers, particularly in the morning to aid removal of secretions, before using other humidification aids such as the heat and moisture exchange (HME) cassette and base plate that fit over the stoma to filter and moisten inspired air (Fig 4). Many hospitals
+
+discharge patients with a portable nebuliser or travel nebuliser, which they can use as required; this is essential for patients who are unable to use base plates and HMEs due to post surgery/radiotherapy soreness or swelling. Nebulisers should be given positioned directly over the stoma using a tracheostomy mask.
+
+
+# Suction
+Suctioning should not be used routinely. Patients should be encouraged to cough and clear their secretions via the stoma; where necessary a yankaur suction catheter can be used to remove secretions on coughing from the stoma. Deep suctioning is only recommended to clear secretions if the patient is having difficulty because of an ineffective cough and requires further stimulation.
+
+Patients and carers should be taught to use suction. Most hospitals discharge patients with a suction machine and necessary attachments to use as required and for emergency clearance of the stoma.
+
+# Swallowing
+Patients are nil by mouth for approximately 10 days after surgery to allow tissue to heal where the larynx has been removed. A contrast swallow assessment is performed to highlight any areas where fluid/food leakage could occur and cause healing to be delayed. If problems are identified, patients continue to be nil by mouth and their swallow is re-assessed at a later date.
+
+When the patient is allowed to eat and drink, diet and fluids should be gradually introduced. Some patients may experience weight loss and so nutrition assessment is vital pre- and post-operatively.
+
+# Sensory changes
+Patients’ sense of smell and taste are altered as air no longer travels through the nose or mouth, but they can improve their sense of smell using the “polite yawn” technique. This requires them to yawn with the mouth closed, enabling them to draw in air through the nose so they can smell. Another benefit of this technique is that it can improve the sense of taste as this is partly dependent on smell.
+
+# Washing and bathing
+Showering bibs and guards can protect the airway while patients shower, bathe or wash their hair. They will need to learn to use these devices safely.
+
+# Physical changes
+Patients find it difficult to lift heavy objects after laryngectomy, as they are unable to hold their breath or to strain and bear down. Given these respiratory limitations, it is also important for them to have a balanced/fibre-rich diet to prevent constipation – if there is increased risk of constipation due to analgesics or other medications, laxatives should be prescribed.
+
+Body image is also directly affected by the presence of the stoma in the same way as it is for patients with a permanent tracheostomy (Everitt, 2016a).
+
+
+# Discharge planning
+Discharge planning should commence pre-operatively where possible to ensure appropriate discharge plans are made; patients should be involved in these discussions. Discharge documentation should provide:
+
+A summary of the patient’s surgery and continuing care needs;
+* Clear guidance on care for the stoma;
+* Contact information for the head and neck team.
+
+Laryngectomy bags with mirrors, torches, disposable bags and wipes, and emergency equipment should also be supplied along with details of how to obtain more supplies.
+
+Community or agency staff should be taught and competent in all aspects of daily and emergency laryngectomy care before the patient’s discharge (NTSP, 2013).Follow-up appointments will be provided in ear, nose and throat departments, head and neck clinics, and speech and language therapy departments to make sure ongoing support and care standards are maintained.
+
+As for those who have a tracheostomy tube, it is important to register patients who have a laryngectomy with the ambulance service – when this is done an alert can be placed so attending staff are aware the patient is a neck breather. Electricity companies should also be told to ensure patients are treated as a priority during power cuts as, without power, they will not be able to use their suction machines.
+
+# Conclusion
+Patients with a laryngectomy have similar problems of airway management as those with a tracheostomy. However, they also face a unique set of challenges around voice production and the effect of their surgery on their lifestyle. Patients need to be cared for by competent health professionals who also have insight into their unique problems and can offer compassionate support as they adapt to major life changes.
+
+# Key points
+* Laryngectomy is the surgical removal of the larynx
+* A permanent stoma is used for breathing after a patient has had a laryngectomy  
+* Patients need to learn to maintain their airway
+* Laryngectomy causes a permanent loss of speech, but patients can use speaking aids
+* Patients should be given information on local/regional support groups
