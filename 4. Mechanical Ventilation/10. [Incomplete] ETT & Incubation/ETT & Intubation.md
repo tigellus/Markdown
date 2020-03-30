@@ -67,6 +67,8 @@ Which of the following is not a goal of tracheostomy care?
 # 1. Caring for patients with a tracheostomy
 (The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-1-caring-for-patients-with-a-tracheostomy-09-05-2016/)
 
+Many nurses lack essential training to manage blocked or dislodged tracheostomy tubes. This article provides information on the care of patients with a tracheostomy
+
 # What is a tracheostomy?
 A tracheostomy is a temporary or permanent artificial opening (stoma) made into the trachea; 
 a tracheostomy tube is inserted to maintain the patency of the stoma and the procedure can be performed either surgically or percutaneously. 
@@ -239,3 +241,125 @@ Training is essential in all acute and community care settings to ensure that pa
  * Half of tracheostomy-related deaths are due to displacement of tubes
  * All patients with a tracheostomy should have a bed-head label with information about their tube and airway management
  * An emergency tracheostomy box should accompany patients on transfer
+
+
+# 2. Managing the weaning of a temporary tracheostomy
+(The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-1-caring-for-patients-with-a-tracheostomy-09-05-2016/)
+
+Removal of a temporary tracheostomy can cause anxiety for patients. Weaning and decannulation requires careful planning, and the support of a multiprofessional team
+
+# Introduction
+The majority of tracheostomies are inserted as a temporary respiratory support measure. Many patients will have their tube removed, a process known as decannulation, on the critical care unit; however, weaning programmes can take place at ward level. It is vital that staff are competent and have an understanding of the weaning process, risks and weaning accessories, such as speaking valves and decannulation caps/bungs.
+
+Tracheostomy multidisciplinary teams (MDT) can manage the weaning process for temporary tracheostomies, ensuring the plans are safe and manageable, both for the patient and ward staff.
+
+# Indications
+A temporary tracheostomy is required for short-term respiratory support and can be placed either surgically or percutaneously. Where possible, it is best practice to meet the patient pre-operatively to discuss the tracheostomy tube insertion, tracheostomy tube-care needs and weaning/decannulation process. Temporary tracheostomies may be performed electively as part of a planned procedure, for example, following some maxillofacial and ear, nose and throat procedures. They are also used to protect the airway of patients who are unable to swallow and clear their own secretions, and who are at risk of aspiration; for example, patients who have had a stroke or brain injury are at particular risk.
+
+# Infection
+Patients with a tracheostomy are more susceptible to respiratory-tract infections due to the loss of air filtration through the nose – particularly when they have a cuffed tracheostomy tube in-situ – and temporary tubes should be regularly reviewed and removed, as soon as it is safe to do so.
+
+# The weaning process
+The aim of the weaning programme is to gradually return airflow to the upper airway and restore normal physiological functions (National Tracheostomy Safety Project, 2013). Patients need to be weaned off their tracheostomy but deciding when to begin this process is hard to judge (NTSP, 2013). The weaning process is individual and may take days, weeks or occasionally months to complete. It is essential that care providers have locally agreed tracheostomy weaning and decannulation guidelines and charts, and a multidisciplinary approach that provides ongoing support for the patient and staff.
+
+When the indications for the temporary tracheostomy tube have been resolved, the patient will be assessed by the MDT and, if suitable, a weaning programme will begin. The assessment criteria are listed in Box 1. All actions and variances should be clearly documented on a tracheostomy weaning chart, which should provide clear guidance for the weaning programme. Informed consent should always be obtained, if possible, prior to commencing any aspect of the tracheostomy weaning programme.
+
+If there are known difficulties with the patient’s airway, such as stenosis or vocal cord palsy, or previous problems with decannulation, it is advisable to endoscopically review the upper airway prior to commencing a weaning programme; the patient should be monitored closely once a programme starts. Contraindications for weaning are outlined in Box 2.
+
+## Box 1. Assessment criteria for weaning
+
+ * Has the reason for the tracheostomy been resolved?
+ * Is the upper airway patent (may require endoscopic assessment)?
+ * Can the patient protect their own airway?
+ * Do they require ventilator support?
+ * Are they haemodynamically stable?
+ * Are they infection free?
+ * Do they have any known respiratory disease that may require consideration when agreeing a weaning programme?
+ * Can they cough and clear secretions independently?
+ * Is their chest condition stable?
+ * Do they maintain oxygen saturations to an agreed percentage?
+ * Do they have any forthcoming, planned procedures requiring an anaesthetic in the next 7-10 days?
+ * Is the care environment suitable to commence a tracheostomy weaning programme?
+ * Is the patient able to swallow? Speech and language therapist should perform a swallow assessment
+Source: adapted from NTSP, 2013
+
+## Box 2. Contraindications for removal of a temporary tracheostomy
+
+ * Unable to tolerate cuff deflation
+ * Airway obstruction
+ * Medically unstable
+ * Severe anxiety about removal of the tube
+ * Cognitive impairment
+ * Severe laryngeal/tracheal stenosis
+ * End-stage pulmonary disease
+ * Risk of severe aspiration/recurrent aspiration pneumonia
+
+Source: St George’s Healthcare Trust, 2012
+
+# Weaning considerations
+## Tracheostomy tube size
+Patients with a large tube, for example, a 9mm OD (outer diameter) cuffed, need to step down to the next size (8.5/8mm OD cuffed, depending on the manufacturer), and then repeat as required until they have reached 7.5mm OD for men and 6.5mm OD for women. Weaning aids, used to seal the end of the tubes, are only suitable with these smaller sizes. The small tubes create a space between the tube and trachea, allowing air to bypass the tube and pass through the upper airways when weaning aids are in place (NTSP, 2013).
+
+## Cuff deflation
+Once an appropriately sized tracheostomy tube is in place, trial cuff deflations can begin. It is important to note that when a cuffed tracheostomy tube has been in-situ for a period of time, the re-introduction of airflow to the upper airway on deflation of the cuff can cause irritation, constant coughing and distress to the patient (NTSP, 2013). The initial time of cuff deflation will depend on the patient’s response.
+
+A synchronised cuff-deflation technique should be used every time the cuff is deflated and requires two competent practitioners. As the cuff is deflated using a 10ml syringe, suction is given via the tracheostomy tube to remove any secretions that come from above the cuff into the trachea. If the patient has a tracheostomy tube with a subglottic port, it should also be aspirated prior to the cuff deflation to remove secretions above the cuff. When a standard cuffed tube is used, oral suction should be performed prior to cuff deflation (for further information on tubes types, see part 1, Everitt, 2016). Continuous monitoring of oxygen saturation levels is essential, as these may fall during the weaning process. Oxygen saturation levels should be maintained at the target levels identified by the MDT. Oxygen should be administered if required at the prescribed rate.
+
+## Using uncuffed tube
+![](assets/Fig-1-Decannulation-cap-bung.png)
+When the patient is able to tolerate the cuff being deflated for 24 hours, the tracheostomy tube may be replaced with an uncuffed tracheostomy tube  to enable more air to bypass the tube and enter the larynx. Weaning aids, such as decannulation caps/bungs (Fig 1, attached), can then be used to seal the end of the tracheostomy tube completely; if the patient copes with the cap/bung, then the tracheostomy tube may be removed with the agreement of the MDT.
+
+If a decision is made to continue to use a cuffed tube, it is important to check that the cuff is fully deflated before using a cap/bung or other device, such as a speaking valve, otherwise the patient will not be able to breathe and this could result in death.
+
+## Creating speech
+![](assets/Fig-2-Examples-of-speaking-valves.png)
+An inflated cuffed tracheostomy tube will prevent air from entering the larynx and passing through the vocal cords; as a result, patients are unable to speak. Patients can use a finger to occlude their tracheostomy tube to enable speaking during periods of cuff deflation; this can also help the MDT to decide whether they are able to start a weaning programme. If the patient struggles with finger occlusion, they are not ready to start using speaking valves and a repeat review of their upper airway may be required before trial cuff deflations.
+
+The use of aids, such as speaking valves, can help patients to vocalise (Fig 2, attached). These valves are “one way” and allow air to be inspired via the tracheostomy tube; on the outward breath, the valve closes and the air is expired via the upper airway. The use of speaking valves can cause the patient to tire easily because of the effort required to force expired air through the windpipe. This should be factored into the weaning programme, and the periods using the speaking valve gradually increased. Speaking valves should be removed if there is oxygen desaturation, respiratory distress, fatigue, and if the patient requests for the valve to be removed (St George’s Healthcare Trust, 2012). For further information on speaking valves, see part 3.
+
+## Unsuccessful weaning
+A weaning programme can fail with the initial cuff deflation or when decannulation is attempted. Patients may cough continuously following cuff deflation, their oxygen saturation levels fall and they become distressed. If this occurs, the weaning programme should be discontinued immediately and an MDT reassessment undertaken. This may include a repeat endoscopic assessment of the upper airway and further respiratory assessments.
+
+## Decannulation
+Decannulation should only be undertaken when the patient has successfully completed the weaning programme and the MDT have confirmed that it is safe to remove the tracheostomy tube. Key points for decannulation are outlined in Box 3.
+
+## Box 3. Key points for decannulation
+
+ * Local weaning and decannulation policies should be followed
+ * Decannulation should only take place when specialist staff are available.
+ * Staff able to reinsert the tracheostomy in a post-decannulation emergency should be available in the clinical area during and following the decannulation
+ * There should be clear documentation in patients’ notes of MDT assessments, interventions and plans, and a weaning chart should be available
+ * Where possible, informed consent for decannulation should be obtained
+ * A competent practitioner should remove the tracheostomy tube
+ * Bed-head signs should be in place with an emergency algorithm on the back to follow
+ * An emergency tracheostomy safety box and bedside equipment, including suction catheters, Tilly’s forceps and suction apparatus should be available for 48 hours post-decannulation
+ * Nasogastric feeding should be stopped four hours prior to decannulation to minimise risk of aspiration
+ * Monitoring of physiological observations using the national early warning score system should be carried out for 24 hours following decannulation (Royal College of Physicians, 2012). Concerns should be escalated immediately
+ * The use of weaning programmes should reduce the risk of failed decannulation
+Source: NTSP, 2012
+
+# Post-decannulation care
+Once the tracheostomy tube has been removed, the stoma site should be cleaned with 0.9% sodium chloride and dried, and an occlusive dressing applied according to local policy. If sutures have been used to hold the tube in-situ, they should be removed. The dressing should be changed daily but it may require frequent re-application during the initial period, as exhaled air pressure on the dressing from the stoma opening may cause it to become loose. Observe the site for signs of infection.
+
+The stoma can take two-to-six weeks to heal but occasionally a small trachea-cutaneous fistula may be present several weeks later and this may need to be closed surgically. Once the site has fully healed, the patient will be left with a small scar.
+
+The patient is required to press on the dressing directly over the stoma when talking or coughing to occlude the stoma fully and reduce expired air passing through the stoma, enabling the patient to have a stronger voice and cough, and help the stoma to heal.
+
+# Psychological care
+Reaching the stage for weaning is a major point in the recovery process, as for many patients and relatives the restrictions of the tracheostomy tube supersede any other medical problems or diagnosis that they have. A successful weaning programme means that social and communication restrictions are lifted for both the patient and their relatives. Griffiths et al (2005) found that good management of a patient with a tracheostomy, both in hospital and in the community, has a significant impact on quality of life.
+
+Many patients who have a tracheostomy tube are aware of their altered body image; this can cause a sense of social isolation and a feeling of reclusiveness. The removal of the tracheostomy tube reinstates a sense of normality, both physiologically and psychologically. However, upon starting a weaning programme patients can become extremely anxious and concerned they will be unable to breathe without the tube. This is a particular issue for patients who have had failed decannulation attempts. It is therefore important that practitioners discuss each step of the weaning programme with the patient and any fears or concerns they have. MDT meetings are useful to update the family and patient of plans and allow them to ask questions or raise concerns. It is the joint responsibility of all members of the MDT to develop a trusting relationship with patients and their relatives/carers.
+
+Hashmi et al (2010) found that self-image in patients undergoing elective tracheostomy could be improved using a pre-operative psychological assessment. A decline in mental health post-operatively was attributed to worsening self-esteem. The study also highlighted that patients undergoing unplanned tracheostomy insertion experienced both mental and physical decline post-operatively.
+
+# Conclusion
+A multidisciplinary approach to tracheostomy weaning will ensure safe and appropriate programmes are agreed and put into practice. The MDT also provides routine reviews of the patients’ progress and makes amendments to programmes, as required. Nurses involved in weaning and decannulation processes need to have appropriate skills to care for tracheostomised patients, and respond to their concerns and changes in their clinical condition. Psychological assessments should be used in elective pre-operative assessments as a benchmark.
+
+# Key points
+ * A temporary tracheostomy is required for short-term respiratory support
+ * Weaning charts should be used to record details of the weaning programme
+ * All staff should be made aware of the weaning programme and required equipment
+ * NTSP bed-head labels should be used to clarify whether the tracheostomy tube is temporary or permanent
+ * Pre-operative psychological assessment should be carried out for all patients undergoing a planned tracheostomy procedure
+
+
