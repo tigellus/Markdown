@@ -4,7 +4,7 @@
 
 Watch the following video for an introduction to endotracheal intubation.
 
-[Go to the video lecture](https://www.youtube.com/watch?v=iyAQR_Zpf6U&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=5)
+[embed](https://www.youtube.com/watch?v=iyAQR_Zpf6U&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=5)
 
 # Question 1
 Which artificial airway intubates both the trachea and esophagus?
