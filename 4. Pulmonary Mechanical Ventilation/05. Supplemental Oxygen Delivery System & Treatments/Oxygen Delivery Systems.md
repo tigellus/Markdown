@@ -18,7 +18,7 @@ Used for patients that need supplemental oxygen and have sufficient respiratory 
 ![](assets/aerosol.png)
 
 #### Nursing Implications for High-Flow Systems
-* Provides a reservoir of oxygen in the patient's nasopharynx which enhances delivery of oxygen with each breath 
+* Provides a reservoir of oxygen in the patient's nasopharynx which enhances delivery of oxygen with each breath
 * FiO2 delivery is fairly consistent
 * Indicated for patients with a more variable ventilatory pattern
 * Use of N95 mask required when caring for patients on HFNC.
@@ -27,10 +27,8 @@ Used for patients that need supplemental oxygen and have sufficient respiratory 
 * No Alarms (close monitoring by the nurse is necessary)
 * Monitor respiratory drive and effort- watch for signs of decompensation
 * Monitor for kinking in tubing
- *If FiO2 goes higher than
-       originally set, there might be
-       a kink on the cannula prongs
-    
+* If FiO2 goes higher than originally set, there might be a kink on the cannula prongs
+
 
 # Question 1
 When should Low-flow Oxygen Delivery Systems be used?
@@ -69,4 +67,3 @@ When caring for a patient using HFNC, the nurse must
 [WRONG] Ensure the patient is properly sedated
 [WRONG] Use a simple face mask
 [WRONG] Keep oxygen flow to less than 10 L/min
-
