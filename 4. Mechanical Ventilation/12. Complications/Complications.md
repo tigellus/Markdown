@@ -64,3 +64,42 @@ What can cause a patient to become hypotensive during mechanical ventilation?
 [WRONG] Increased pulmonary blood flow
 [WRONG] Normal positive pressure becomes negative and increases venous return
 [RIGHT] Normal negative pressure becomes positive and decreases venous return
+
+# Question 4
+How can you help prevent ventilator-associated lung injury (VALI) in mechanical ventilated patients?
+
+[WRONG] Low PEEP and high FiO2
+[WRONG] High PEEP (10-20 cmH2O) and tidal volume of 8 ml/kg
+[RIGHT] PEEP than enables the open lung ventilation and low tidal volumes (4 – 6 ml/kg)
+[WRONG]  PEEP than enables the open lung ventilation and tidal volume of 8 ml/kg
+
+# Question 5
+Which of the following sentences are correct? (I have two correct on purpose)
+
+[WRONG] To minimize the risk of VALI, hypercapnia must be avoided
+[WRONG] To minimize the risk of VALI, high plateau pressure is allowed as far as tidal volume is low
+[RIGHT] To minimize the risk of VALI, plateau pressure should be low in addition to low tidal volume
+[RIGHT] To minimize the risk of VALI, hypercapnia can be accepted
+
+# Question 6
+You are ventilating a patient with protective and controlled mechanical ventilation, fully sedated, for many days. Which risk is the patient running for?
+
+[WRONG] Mainly VALI
+[WRONG] Both VALI and VIDD
+[RIGHT] Mainly VIDD
+
+# Question 7
+Patient’s with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
+
+[RIGHT] be difficult to wean from the ventilator
+[WRONG] be difficult to ventilate with low tidal volumes
+[WRONG] encounter higher risk of infection
+[WRONG] have a low cardiac output
+
+# Question 8
+How can you prevent Ventilator-Induced Diaphragmatic Dysfunction (VIDD):
+
+[WRONG] Sedating the patient to make the diaphragm and other respiratory muscles rest until the infection if fully treated.
+[RIGHT] Limiting controlled ventilation to the minimum necessary. As soon as the patient's respiratory function allows and as soon as the patient's respiratory drive recovers, the patient should trigger the ventilator and participate in the breathing effort.
+[WRONG] Giving high level of ventilator support to the patient until the disease is completely treated, then training the patient with very little assist for long periods.
+[WRONG] Allowing spontaneous breathing during the entire period on mechanical ventilation, despite other indications. 
