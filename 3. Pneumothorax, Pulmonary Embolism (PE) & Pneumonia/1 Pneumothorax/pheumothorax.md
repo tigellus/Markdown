@@ -15,19 +15,21 @@ Most common causes of a primary spontaneous pneumothorax
 - [ ] Familial or previous pneumothorax
 
 Most common causes of a secondary spontaneous pneumothorax
-- [ ] Disease Processes
+Disease Processes
 - [ ] COPD
 - [ ] Asthma
 - [ ] Tuberculosis
 - [ ] Pulmonary fibrosis
 - [ ] Severe Acute Respiratory Distress Syndrome (ARDS)
 - [ ] Inhalational drug use like cocaine or marijuana
-- [ ] Medical interventions
+
+Medical interventions
 - [ ] Pleural biopsy or aspiration
 - [ ] Central venous catheter insertion
 - [ ] Tracheostomy
 - [ ] Positive pressure ventilation
-- [ ]Trauma
+
+Trauma
 - [ ] Penetrating or blunt trauma to the chest
 - [ ] Rib fracture
 
@@ -174,11 +176,11 @@ If the patient is discharged from the hospital after a resolved pneumothorax, re
 The management of a pneumothorax is often done by the emergency department physician. In some cases, the disorder may be managed by the ICU staff and the thoracic surgeon. The care of patients who have a chest tube is done by the nurse. All nurses who manage patients with a chest tube should know how a chest drain functions. Patients need to be examined every shift and the patency of the chest tube is important. Patients with small pneumothorax can be observed if they have no symptoms. If discharged the patient should be seen within 24 hours.
 ### Chest Drainage
 This image below shows the basic function ad setup of a water-seal chest drainage system.  
-![](http://sinaiem.org/wp-content/uploads/2016/07/image020.jpg)
+![](assets/itct1.png)
 
 ### Disposable water-seal systems
 This is an example of a disposable pleural drainage system that uses the principles of the water-seal system shown above
-![](http://sinaiem.org/wp-content/uploads/2016/07/8999tn.jpg)
+![](assets/waterseal.png)
 
 # Question 1
 All of the following are causes of pneumothorax EXCEPT:
@@ -233,14 +235,6 @@ Which of the following is not a sign or symptom of pneumothorax?
 [WRONG] Jugular venous distension
 [RIGHT] Bradypnea
 
-# Question 7 There is not content in this module about chest tube management - need content if we are going to test them.
-The healthcare provider is caring for a patient who has a pneumothorax. When assessing the patient and the chest tube drainage system, a large fibrin clot is noted in the tubing. Which additional assessment finding requires immediate action by the healthcare provider?
-
-[WRONG] Increasing pain at the insertion point
-[RIGHT] Downward trend in blood pressure
-[WRONG] Less water in the water chamber
-[WRONG] The level of water in the chamber going up and down
-
 # Question 8
 Which of the following is a sign or symptom of pneumothorax?
 
@@ -263,7 +257,7 @@ The presence of air or gas in the pleural cavity is known as what?
 [RIGHT] Pneumothorax
 [WRONG] Pneumoconiosis
 
-# Question 11 Are the order of the questions randomized?  The correct answer should be moved around in order rather than always being first.
+# Question 11 Are the order of the questions randomized?
 How does air accumulation in the pleural cavity affect the lungs?
 
 [RIGHT] The lungs collapse and vital capacity increases
@@ -312,28 +306,24 @@ A collection of blood in the pleural space is known as what?
 [WRONG] Pneumothorax
 [WRONG] Pleural effusion
 
-# Question 18 (this is not covered in the learning material - should be removed, or content added)
-Hemothorax is a frequent consequence of what?
-
-[RIGHT] Traumatic thoracic injuries
-[WRONG] Exposure to fungal spores
-[WRONG] Acute bronchial infection
-
-# Question 19 (need to edit)
+# Question 19 
+[comment]: <> (needs edit)
 What is the preferred method of evaluation for intrathoracic injuries?
 
 [RIGHT] CT scan
 [WRONG] MRI
 [WRONG] Oblique chest x-ray
 
-# Question 20 (need to edit)
+# Question 20 
+[comment]: <> (needs edit)
 What diagnostic test can be used at a patient’s bedside for triage and identification of life-threatening injuries?
 
 [RIGHT] Point-of-care ultrasound
 [WRONG] CT scan
 [WRONG] Chest x-ray
 
-# Question 21 (need to edit)
+# Question 21
+[comment]: <> (needs edit)
 Management of a pneumothorax depends on what?
 
 [RIGHT] Clinical presentation
