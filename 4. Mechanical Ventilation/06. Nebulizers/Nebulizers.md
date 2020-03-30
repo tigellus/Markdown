@@ -3,9 +3,8 @@
 
 ![](assets/nebulizer1.png)
 
-
 Instructional video:
-https://youtu.be/idjeYf9C5IU
+[embed](https://youtu.be/idjeYf9C5IU)
 
 Handheld or Mask Nebulizer Treatment
 * Used to deliver medications directly into the respiratory system
