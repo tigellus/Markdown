@@ -57,7 +57,7 @@ A drug-induced loss of consciousness during which the patient is not arousable, 
 
 It is important to determine the health team's goal for the level of sedation. Light, moderate, or deep sedation may be used in the critical care unit, based on the specific patient needs. The modified Ramsay Scale is often used to assess the patient's ongoing level of sedation and adjust the dosage and timing of sedatives.
 
-![](assets/ramsay.png) 
+![](assets/ramsay.jpg) 
 
 ## Review of the Levels of Sedation
 1. No sedation
