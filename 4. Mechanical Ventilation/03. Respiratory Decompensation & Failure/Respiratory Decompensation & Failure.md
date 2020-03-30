@@ -1,13 +1,4 @@
-# Respiratory Failure: Nursing Assessment
-
-# Change in Respiratory Status
-
-* Decreased or adventitious breath sounds
-* Mild tachycardia
-* Mild tachypnea
-* Shortness of breath (especially on exertion)
-
-# Decompensation
+# Diagnostic Criteria
 
 * Cool, clammy skin
 * Dry cough with thick, frothy sputum
@@ -21,12 +12,16 @@
 
 # Respiratory Failure
 
-## Early Signs and Symptoms
+## Early Signs 
 * Increased anxiety, confusion, aggitation
 * Restlessness (eg. Patient starts picking at things)
 * Visual disturbances
+* Decreased or adventitious breath sounds
+* Mild tachycardia
+* Mild tachypnea
+* Shortness of breath (especially on exertion)
 
-## Late Signs and Symptoms
+## Late Signs 
 * Diffuse crackles
 * Use of accessory muscles
 * Tachypnea (>30 per minute) and dyspnea
