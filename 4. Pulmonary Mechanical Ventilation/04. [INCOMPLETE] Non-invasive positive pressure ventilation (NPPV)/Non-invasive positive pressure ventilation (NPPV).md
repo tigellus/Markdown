@@ -1,18 +1,27 @@
 # PLACEHOLDER: add stuff on ambubag
 
-# Non-Invasive Positive Ventilation
+# Non-Invasive Positive Pressure Ventilation
 
-It is a method of ventilation without intubation: tight-fitting nasal, oro-nasal or face mask attached to a non-invasive pressure support ventilator (NIPSV or BIPAP) unit.
+Method of ventilation without an endotracheal tube or tracheostomy: tight-fitting nasal, oro-nasal or face mask attached to a non-invasive positive pressure ventilator (NPPV or CPAP/BIPAP) unit.
 
-The unit is programmed to set back-up:
+The NPPV unit can be programmed to deliver:
 
 * Respiratory rate
 * Inspiratory positive airway pressure(IPAP)
 * Expiratory pressure (EPAP)
-* Supplemental FiO2 to maintain O2 sat > 92%
+* Supplemental FiO2 (I deleted this last bit because this is not always the set criteria...some patients can have permissive hypoxemia etc)
+
+# Continuous Positive Airway Pressure (CPAP)
+Provides continuous positive pressure to keep alveoli open and enhance ventilation and oxygenation
+* Decreases work of breathing (WOB)
+* Increases Oxygenation by enhancing ventilation and facilitating oxygen delivery
+* Potential complication: Positive pressure increases intrathoracic pressure which can decrease cardiac preload (blood return to the heart) and thus cardiac output (blood pumped out of the heart)
 
 # Bilevel Positive Airway Pressure (BiPAP)
-Delivers different pressure depending on whether the patient is taking a breath of exhaling.
+Provides two levels of continuous positive pressure: one amount of pressure during exhalation (to keep alveoli open) and one (higher) amount of pressure during inhalation (to keep alveoli open and to further decrease WOB)
+* Decreases work of breathing (WOB)- can provide more support than CPAP
+* Increases Oxygenation by enhancing ventilation and facilitating oxygen delivery
+* Potential complication: Positive pressure increases intrathoracic pressure which can decrease cardiac preload (blood return to the heart) and thus cardiac output (blood pumped out of the heart)
 
 BiPAP Machine
 ![](assets/bipap-machine.png)
@@ -20,12 +29,36 @@ BiPAP Machine
 BiPAP Masks
 ![](assets/bipap-masks.png)
 
-# Continuous Positive Airway Pressure (CPAP)
-* Increases Oxygenation Level
-* Decreases breathing workload
-* Increases intrathoracic pressure which will lower preload thereby lowering cardia workload
+# Nursing Considerations
 
+* Indications:
+To avoid intubation in a patient with respiratory distress
+To avoid reintubation in a patient who has been extubated
+To provide ventilatory support in a patient who is "DNI" (do not intubate)
+
+* Contraindications:
+Somnolence
+Claustrophobia
+High aspiration risk
+Inability to clear secretions
+Recent facial or gastroesophageal surgery
+Craniofacial trauma
+Burns
+
+* Nursing Care
 Aerosolized Intervention: Use N95 mask when caring for patients using either BiPAP or CPAP.
+Collaborate with respiratory therapy to ensure mask fits appropriately and there are no air leaks
+Monitor patient's tidal volume, ABG, RR
+Monitor for signs of respiratory decompensation
+
+Monitor for potential complications:
+* signs of low preload and low cardiac output
+* skin integrity issues around face and drying of mucous membranes
+* patient comfort due to nature of mask
+* aspiration
+* respiratory drive
+* malnutrition or dehydration (due to possible reduced oral intake)
+
 
 # Question 1
 What type of mask should be used when caring for patients who use BiPAP or CPAP machines?
