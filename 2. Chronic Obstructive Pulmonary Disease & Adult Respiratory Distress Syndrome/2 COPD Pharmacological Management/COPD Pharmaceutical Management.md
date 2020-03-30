@@ -165,7 +165,7 @@ Documentation is an essential part of the patient’s chart to reflect the plans
 * Document modifications to plan of care
 * Document attainment or progress towards goals
 
-#Treatment
+# Treatment
 
 # Question 7
 Which treatment is NOT used to manage COPD?
