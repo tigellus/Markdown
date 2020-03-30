@@ -1,13 +1,14 @@
 # Course Structure
 
 Welcome to **Pulmonary Mechanical Ventilation** course! The course follows the structure below.
+note: typically this is just referred to as "mechanical ventilation" "pulmonary mechanical ventilation" could sound redundant
 
 1. Oxygenation and Ventilation
 2. Respiratory Decompensation 
 3. Non-invasive positive pressure ventilation (NPPV)
 4. Supplemental Oxygen Delivery System & Treatments
 5. Nebulizers
-6. Pulmonary ABG
+6. Arterial Blood Gasses 
 7. Types of Ventilators
 8. Routes & Modes of Mechanical Ventilation
 9. ETT & Intubation
