@@ -173,7 +173,7 @@ What is the most usual cause of a pulmonary embolism?
 [WRONG] Traumatic injuries to the lungs
 
 # Question 3
- The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most common sign of:
+The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most common sign of:
 
 [WRONG] Hemoptysis
 [WRONG] Syncope

@@ -16,10 +16,7 @@ Which two diseases are included in categories of COPD?
 [WRONG] Pneumonia and pleurisy
 [WRONG] Tuberculosis and pleural effusion
 
-* Chronic bronchitis and emphysema belong to the old classification of COPD
-* Option A: Asthma may be one of the chronic pulmonary diseases but atelectasis is not
-* Option C: Pneumonia and pleurisy are not classified under the COPD
-* Option D: Tuberculosis and pleural effusion are not chronic pulmonary diseases
+* Chronic bronchitis and emphysema belong to the old classification of COPD. Asthma may be one of the chronic pulmonary diseases but atelectasis is not. Pneumonia and pleurisy are not classified under the COPD. Tuberculosis and pleural effusion are not chronic pulmonary diseases.
 
 # Question 3
 Which factor is involved in the underlying pathophysiology of COPD?
@@ -29,10 +26,7 @@ Which factor is involved in the underlying pathophysiology of COPD?
 [WRONG] Alveolar wall destruction
 [RIGHT] Variations in all of the above
 
-* Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD
-* Option A: Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature
-* Option B: Hypersecretion occurs due to the increase in the number of goblet cells
-* Option C: Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil
+* Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD. Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature. Hypersecretion occurs due to the increase in the number of goblet cells. Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil.
 
 # Question 4
 In a patient with COPD, where does the abnormal inflammatory response occur?
@@ -42,10 +36,7 @@ In a patient with COPD, where does the abnormal inflammatory response occur?
 [WRONG] Pulmonary vasculature
 [RIGHT] All of the above areas
 
-* The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD
-* Option A: The airways are inflamed in COPD
-* Option B: The lung parenchyma undergoes an inflammatory response in COPD
-* Option C: The pulmonary vasculature is affected by inflammation in COPD
+* The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD. 
 
 # Question 5
 Which environmental risk factor is most important in development of emphysema?
@@ -55,10 +46,7 @@ Which environmental risk factor is most important in development of emphysema?
 [WRONG] Infectious agents
 [RIGHT] Cigarette smoking
 
-* Cigarette smoking is the foremost factor in the development of emphysema
-* Option A: Air pollution is a risk factor in the development of emphysema but it is not the primary factor
-* Option B: Allergens may contribute to the development of emphysema but it is not the main factor
-* Option C: Infectious agents are part of the risk factors for emphysema but it is not the main factor
+* Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
 
 # Definition
 * Chronic Obstructive Pulmonary Disease (COPD) is a condition of chronic dyspnea with expiratory airflow limitation that does not significantly fluctuate
@@ -86,7 +74,7 @@ Goals to achieve in management of patients with COPD include all of the followin
 [WRONG] Independence in self-care activities
 [RIGHT] Continuation of existing lifestyle
 
-* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes
+* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
 
 ### Goals to achieve include:
 * Improvement in gas exchange
