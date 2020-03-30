@@ -112,11 +112,11 @@ and placement should be checked with an endoscope. If the tube is too short, the
 A connector at the opening of the tracheostomy tube enables airway equipment to be attached, such as catheter mount or bag valve mask.
 
 ## Cuffed and uncuffed tubes
-![](assets/Fig-1-Cuffed-tube-cuff-deflated.pdf)
+![](assets/Fig-1-Cuffed-tube-cuff-deflated.png)
 Uncuffed tubes are used for patients who can protect their own airway and have an effective cough, and can clear secretions independently. Cuffed tubes are used to seal the trachea when positive pressure ventilation is used, and to reduce the risk of aspiration of secretions in patients who cannot protect their own airway, for example, due to vocal-cord palsy, swallowing dysfunction or brain injury. The cuffs are air-filled, low-pressure and soft to prevent trauma to the trachea (Fig 1, attached).
 
 ## Cuff-pressure manometer
-![](assets/Fig-2-Cuff-pressure-manometer.pdf)
+![](assets/Fig-2-Cuff-pressure-manometer.png)
 A cuff-pressure manometer should be used to assess patency and effectiveness of cuffed tubes; this hand-held gauge can add or remove air as necessary (Fig 2, attached). Pressure should be maintained between 25-34cmH2O (ICS, 2008); it should be checked at least twice a day (St George’s Healthcare Trust, 2012). The pressure should be recorded on a daily tracheostomy care chart; any evidence of significant deflation (below 25 cmH2O) may indicate a problem with the tube and should be reported, and the tube changed by a competent practitioner if required. Likewise, overinflation of the cuff can cause tracheal wall damage and should also be reported and resolved as soon as possible.
 
 A device, the Mallinckrodt Evac, enables the constant removal of secretions above the cuff and the constant monitoring of cuff pressure.
@@ -127,7 +127,7 @@ These have either a single hole or multiple holes in the arc of the inner and ou
 These tubes can cause hyper granulation of the posterior wall of the trachea, making removal and reinsertion of the inner tubes and routine tube changes difficult (St George’s University Hospitals Foundation Trust, 2015).
 
 ## Sub-glottic aspiration port
-![](assets/Fig-3-Subglottic-suction-port-tracheostomy-tube-cuff-deflated.pdf)
+![](assets/Fig-3-Subglottic-suction-port-tracheostomy-tube-cuff-deflated.png)
 Some tubes have a small aspiration port running along the outside of the tube to just above the cuff (Fig 3, attached). A syringe attached to the port can be used to remove aspirated secretions and reduce the risk of ventilator-associated pneumonia (VAP) and aspiration pneumonia. The amount aspirated over a 24-hour period should be recorded and used to decide on further management interventions to dry up respiratory and oral secretions, and to improve patient comfort and aid tracheostomy weaning trials (weaning is discussed in part 2 of this series).
 
 ## Other devices
@@ -139,13 +139,13 @@ Mini-tracheostomy uncuffed tubes with a diameter of 4mm are available to aid sec
 Nurses need to understand all aspects of tracheostomy care, including routine and emergency airway management, safe decannulation, weaning and safe discharge into the community. The patient’s airway requires close monitoring 24 hours a day using a tracheostomy care chart to record care.
 
 ## Equipment and signage
-![](assets/Fig-4-Emergency-box-should-be-available-with-the-patient-at-all-times.pdf)
+![](assets/Fig-4-Emergency-box-should-be-available-with-the-patient-at-all-times.png)
 The NTSP (2013) recommends that all patients with a tracheostomy have a bed-head label with information regarding their tube and airway, including whether it is surgical or percutaneous, the tube type, size and suction-catheter size, patency of the upper airway and whether the tracheostomy is temporary, permanent or involves a laryngectomy (removal of the larynx). Bed-head labels are available here.
 
 Individual patients should have an emergency tracheostomy box, which should accompany them on transfer and on discharge into the community, and contain an appropriate tube size/type (Fig 4, attached). The box contains equipment to insert a new tube in the event of dislodgement or blockage. Other equipment required at the bedside includes lubricating gel to aid insertion, cuff-pressure manometer, spare tracheostomy dressings and collars, Tilley forceps and a pen torch (McGrath et al, 2012). Equipment should be checked daily.
 
 ## Securing the tube
-![](assets/Fig-5-Velcro-two-piece-tracheostomy-tube-collar.pdf)
+![](assets/Fig-5-Velcro-two-piece-tracheostomy-tube-collar.png)
 A tracheostomy tube can be held in place by several different methods. At initial insertion, the tracheostomy will be held in place by suture and, in addition, a collar or twill ties may also be used. Once the sutures are removed, the tracheostomy must be secured in place by a Velcro collar or twill ties.
 
 Securement devices should be checked once a shift, or more frequently, if a patient is at risk of pulling on the collar/ties, for example, confused patients; ensure that they are not too tight or too loose – as a guide, two fingers should be able to fit down one side of the collar/twill ties.
@@ -178,7 +178,7 @@ As air passes through the mouth and the nose, it is warmed, filtered and moisten
 Ensures that inspired gas is delivered fully saturated and at core body temperature; the most effective system when secretions are tenacious and dry.
 
 ### Cold humidification
-![](assets/Fig-7-Examples-of-heat-moisture-exchangers.pdf)
+![](assets/Fig-7-Examples-of-heat-moisture-exchangers.png)
 Only delivers approximately 50% humidity to inspired gas, therefore less effective than heated systems. However, significantly more cost-effective than heated systems for short-term use.
    * Sodium chloride 0.9% nebuliser: A nebuliser turns sodium chloride 0.9% into supersaturated aerosol of liquid droplets. These droplets penetrate the lungs, moistening the airways. A dose of 5mls of sodium chloride 0.9% every two-to-four hours, and as required, should be prescribed for every tracheostomy patient (National Tracheostomy Safety Project, 2013).
    * Heat moisture exchanger devices: These attach directly onto the tracheostomy tube. Inspired gas passes through the device and is filtered, moistened and heated (Fig 7, attached). The expired gas provides the device with the heat and moisture. These should be changed at least every 24 hours, or as needed, to prevent accumulation of secretions.
@@ -196,7 +196,7 @@ During synchronised cuff deflation (see part 2)
 At patient’s request
 
 ## Suctioning
-![](assets/Fig-6-Centimetre-marked-suction-catheter.pdf)
+![](assets/Fig-6-Centimetre-marked-suction-catheter.png)
 Suction should only be used for patients who are unable to clear their own secretions into their tracheostomy tube (Box 3) (Pryor and Prasad, 2008).
 
 It is essential to encourage patients to cough and clear their own secretions. Staff should be competent in using suction to remove secretions from the tracheostomy tube, as well as deep suctioning – which may be required for patients who are desensitised and require stimulation to expectorate secretions, or who have a poor cough and struggle to clear secretions to the level of the tracheostomy tube.
