@@ -8,37 +8,37 @@ A pneumothorax is defined as a collection of air outside the lung but within the
 # Etiology 
 #### Most common causes of a primary spontaneous pneumothorax
 
-- [ ] Smoking
-- [ ] Tall, underweight young adults (most commonly males) who are otherwise healthy
-- [ ] Pregnancy
-- [ ] Marfan syndrome
-- [ ] Familial or previous pneumothorax
+* Smoking
+* Tall, underweight young adults (most commonly males) who are otherwise healthy
+* Pregnancy
+* Marfan syndrome
+* Familial or previous pneumothorax
 
 #### Most common causes of a secondary spontaneous pneumothorax:
 
 Disease Processes
-- [ ] COPD
-- [ ] Asthma
-- [ ] Tuberculosis
-- [ ] Pulmonary fibrosis
-- [ ] Severe Acute Respiratory Distress Syndrome (ARDS)
-- [ ] Inhalational drug use like cocaine or marijuana
+* COPD
+* Asthma
+* Tuberculosis
+* Pulmonary fibrosis
+* Severe Acute Respiratory Distress Syndrome (ARDS)
+* Inhalational drug use like cocaine or marijuana
 
 Medical interventions
-- [ ] Pleural biopsy or aspiration
-- [ ] Central venous catheter insertion
-- [ ] Tracheostomy
-- [ ] Positive pressure ventilation
+* Pleural biopsy or aspiration
+* Central venous catheter insertion
+* Tracheostomy
+* Positive pressure ventilation
 
 Trauma
-- [ ] Penetrating or blunt trauma to the chest
-- [ ] Rib fracture
+* Penetrating or blunt trauma to the chest
+* Rib fracture
 
 Causes that lead to tension pneumothorax
-- [ ] Barotrauma due to positive pressure ventilation
-- [ ] Percutaneous tracheostomy
-- [ ] An untreated or advancing simple pneumothorax
-- [ ] Open pneumothorax when an occlusive dressing allows air into, but not out of, the pleural space
+* Barotrauma due to positive pressure ventilation
+* Percutaneous tracheostomy
+* An untreated or advancing simple pneumothorax
+* Open pneumothorax when an occlusive dressing allows air into, but not out of, the pleural space
 
 # Epidemiology
 Primary spontaneous pneumothorax mostly occurs in 20-30 years of age. The incidence of PSP in the United States is 7 per 100,000 men and 1 per 100,000 women per year[5]. The majority of recurrence occurs within the first year, and incidence ranges widely from 25% to 50%. The recurrence rate is highest over the first 30 days.
@@ -69,20 +69,20 @@ The history of pneumothorax in the past is important as recurrence is seen in 15
 
 On examination, the following findings are noted
 
-- [ ] Respiratory discomfort
-- [ ] Increased respiratory rate
-- [ ] Asymmetrical lung expansion
-- [ ] Decreased tactile fremitus
-- [ ] Hyperresonant percussion note
-- [ ] Decreased intensity of breath sounds or absent breath sounds
+* Respiratory discomfort
+* Increased respiratory rate
+* Asymmetrical lung expansion
+* Decreased tactile fremitus
+* Hyperresonant percussion note
+* Decreased intensity of breath sounds or absent breath sounds
 
 In tension pneumothorax following additional findings are seen
-- [ ] Tachycardia more than 134 beats per minute
-- [ ] Hypotension
-- [ ] Jugular venous distension
-- [ ] Cyanosis
-- [ ] Respiratory failure
-- [ ] Cardiac arrest
+* Tachycardia more than 134 beats per minute
+* Hypotension
+* Jugular venous distension
+* Cyanosis
+* Respiratory failure
+* Cardiac arrest
 
 Some traumatic pneumothoraces are associated with subcutaneous emphysema (crepitus). Pneumothorax may be difficult to diagnose from a physical exam, especially in a noisy trauma bay. However, it is essential to make the diagnosis of tension pneumothorax on a physical exam.
 
@@ -111,50 +111,50 @@ Air can reabsorb from the pleural space at a rate of 1.5%/day. Using supplementa
 
 **Indications for surgical intervention (VATS vs. thoracotomy)**
 
-- [ ] Continuous air leak for longer than seven days
-- [ ] Bilateral pneumothoraces
-- [ ] The first episode in high-risk profession patient, i.e., Divers, pilots
-- [ ] Recurrent ipsilateral pneumothorax
-- [ ] Contralateral pneumothorax
-- [ ] Patients who have AIDS
+* Continuous air leak for longer than seven days
+* Bilateral pneumothoraces
+* The first episode in high-risk profession patient, i.e., Divers, pilots
+* Recurrent ipsilateral pneumothorax
+* Contralateral pneumothorax
+* Patients who have AIDS
 
 Patients who undergo a video-assisted thoracic surgery (VATS) get pleurodesis to occlude pleural space. Mechanical pleurodesis with bleb/bullectomy decreases the recurrence rate of pneumothorax to <5%. Options for mechanical pleurodesis include stripping of the parietal pleura versus using an abrasive "scratchpad" or dry gauze. A chemical pleurodesis is an option in patients who may not tolerate mechanical pleurodesis. Options for chemical pleurodesis include talc, tetracycline, doxycycline, or minocycline, which are all irritants to the pleural lining.
 
 # Differential Diagnosis
 Differential diagnoses of pneumothorax include:
 
-- [ ] Aspiration, bacterial or viral pneumonia
-- [ ] Acute aortic dissection
-- [ ] Myocardial infarction
-- [ ] Pulmonary embolism
-- [ ] Acute pericarditis
-- [ ] Esophageal spasm
-- [ ] Esophageal rupture
-- [ ] Rib fracture
-- [ ] Diaphragmatic injuries
+* Aspiration, bacterial or viral pneumonia
+* Acute aortic dissection
+* Myocardial infarction
+* Pulmonary embolism
+* Acute pericarditis
+* Esophageal spasm
+* Esophageal rupture
+* Rib fracture
+* Diaphragmatic injuries
 
 # Prognosis
 
 PSP is usually benign and mostly resolves on its own without any major intervention. Recurrence can occur up to three years period. Recurrence rate in the following five years is 30% for PSP and 43% for SSP. The risk of recurrence increases with each subsequent pneumothorax; it is 30% with first, 40% after the second, and more than 50% after the third recurrence. PSP is not considered a major health threat, but deaths have been reported. SSPs are more lethal depending upon underlying lung disease and the size of the pneumothorax. Patients with COPD and HIV have high mortality after pneumothorax. The mortality of SSP is 10%. Mortality of tension pneumothorax is high if appropriate measures are not taken.
 
 # Complications
-- [ ] Respiratory failure or arrest
-- [ ] Cardiac arrest
-- [ ] Pyopneumothorax
-- [ ] Empyema
-- [ ] Re-expansion pulmonary edema
-- [ ] Pneumopericardium
-- [ ] Pneumoperitoneum
-- [ ] Pneumohemothorax
-- [ ] Bronchopulmonary fistula
-- [ ] Damage to the neurovascular bundle during tube thoracostomy
-- [ ] Pain and skin infection at the site of tube thoracostomy
+* Respiratory failure or arrest
+* Cardiac arrest
+* Pyopneumothorax
+* Empyema
+* Re-expansion pulmonary edema
+* Pneumopericardium
+* Pneumoperitoneum
+* Pneumohemothorax
+* Bronchopulmonary fistula
+* Damage to the neurovascular bundle during tube thoracostomy
+* Pain and skin infection at the site of tube thoracostomy
 
 # Consultations
 
-- [ ] Interventional radiologist
-- [ ] Thoracic surgeon
-- [ ] Pulmonology consultant
+* Interventional radiologist
+* Thoracic surgeon
+* Pulmonology consultant
 
 # Deterrence and Patient Education
 Patients with pneumothorax should be educated that they should not travel by air or to remote areas until after the complete resolution of pneumothorax. Patients with high-risk occupations like scuba divers and pilots should be advised that they should not dive or fly until definitive surgical management of their pneumothorax is done.

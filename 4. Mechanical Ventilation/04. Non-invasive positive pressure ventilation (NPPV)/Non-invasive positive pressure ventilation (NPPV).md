@@ -2,10 +2,10 @@
 You can use a bag-valve–mask device to manually ventilate a patient whose respirations are absent or inadequate. Ideally, two rescuers should work together on an adult.
 
 ## DO
-- [ ] Lower the head of the bed, remove any pillows, and place the patient supine.
-- [ ] Assess his level of consciousness, open his airway, and assess his breathing and circulation.
-- [ ] If he needs emergency ventilation, get a bag-valve–mask device and make sure the mask is securely attached to the bag. Put on gloves.
-- [ ] Connect tubing from an oxygen source to the oxygen port on the device and adjust oxygen flow to 10 to 15 liters/minute.
+* Lower the head of the bed, remove any pillows, and place the patient supine.
+* Assess his level of consciousness, open his airway, and assess his breathing and circulation.
+* If he needs emergency ventilation, get a bag-valve–mask device and make sure the mask is securely attached to the bag. Put on gloves.
+* Connect tubing from an oxygen source to the oxygen port on the device and adjust oxygen flow to 10 to 15 liters/minute.
 
 ### First rescuer
 
@@ -22,9 +22,9 @@ Using both hands, slowly, gently, and completely squeeze the bag for 2 seconds u
 Provide ventilation every 5 seconds and watch the rise and fall of his chest. If it doesn't rise each time you squeeze the bag, ask the other rescuer to make sure the patient's airway is properly opened and the seal between the mask and his face is leakproof, then resume bag compressions.
 
 ## DON'T
-- [ ] Don't use the head-tilt/chin-lift method to open the patient's airway if you suspect head or neck trauma.
-- [ ] Don't remove his dentures unless they interfere with ventilations.
-- [ ] Don't use larger tidal volumes than you need to cause his chest to rise and fall. This can result in gastric distension, regurgitation, aspiration, and pneumonia.
+* Don't use the head-tilt/chin-lift method to open the patient's airway if you suspect head or neck trauma.
+* Don't remove his dentures unless they interfere with ventilations.
+* Don't use larger tidal volumes than you need to cause his chest to rise and fall. This can result in gastric distension, regurgitation, aspiration, and pneumonia.
 
 # Non-Invasive Positive Pressure Ventilation
 

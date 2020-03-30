@@ -14,10 +14,10 @@ The first session will focus on caring for patients affected by COVID-19.
 To date, **the most serious reported symptoms from COVID-19 are pulmonary complications.** This video lecture quickly provides learners with the knowledge and resources to provide essential care to ICU patients with coronavirus.
 
 Topics addressed in the session:
-- [ ] ABG Analysis, Oxygen Delivery, Airway Management, and Non-invasive Positive Pressure Ventilation - ICU
-- [ ] Assessing and Managing Respiratory Failure and ARDS - ICU
-- [ ] Invasive Mechanical Ventilation: Priorities for Endotracheal Intubation, Tracheostomy Care, Ventilator Settings and Troubleshooting - ICU
-- [ ] Spontaneous Awakening and Breathing Trials, Neuromuscular Blockade, Ventilator Weaning, Extubation Priorities, and Preventing Complications From Mechanical Ventilation - ICU
+* ABG Analysis, Oxygen Delivery, Airway Management, and Non-invasive Positive Pressure Ventilation - ICU
+* Assessing and Managing Respiratory Failure and ARDS - ICU
+* Invasive Mechanical Ventilation: Priorities for Endotracheal Intubation, Tracheostomy Care, Ventilator Settings and Troubleshooting - ICU
+* Spontaneous Awakening and Breathing Trials, Neuromuscular Blockade, Ventilator Weaning, Extubation Priorities, and Preventing Complications From Mechanical Ventilation - ICU
 
 You will need to create an account on AACN or use an existing account to login. After that, take the **COVID-19 Pulmonary Resources** course.
 
@@ -26,11 +26,11 @@ You will need to create an account on AACN or use an existing account to login. 
 # Caring for critical COVID-19 patients Pt. 2
 
 The second session will provide an overview of critical care for non-interventionists. The topic addressed in the sessions are:
-- [ ] COVID-19 Basics
-- [ ] Recognition and care of patients who are critically ill, hypotensive, in acute respiratory failure, or mechanically ventilated
-- [ ] COVID-19 unit workflow
-- [ ] Assessing patients' respiratory status
-- [ ] Ventilator basics
+* COVID-19 Basics
+* Recognition and care of patients who are critically ill, hypotensive, in acute respiratory failure, or mechanically ventilated
+* COVID-19 unit workflow
+* Assessing patients' respiratory status
+* Ventilator basics
 
 [embed](https://www.youtube.com/watch?v=UaZw_ENCyf0&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG)
 

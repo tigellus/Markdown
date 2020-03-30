@@ -5,11 +5,11 @@ Septic shock and specific organ dysfunction such as acute kidney injury appear t
 In the care of COVID-19 patients, it is important to be able to **respond promptly to a patient in shock**.
 
 The goals of this session are:
-- [ ] Review the primary categories of shock
-- [ ] Discuss goals of resuscitation in shock
-- [ ] Summarize principles of shock management
-- [ ] Describe effects of vasopressor and inotropic agents
-- [ ] Discuss the different causes and management strategies for oliguria
+* Review the primary categories of shock
+* Discuss goals of resuscitation in shock
+* Summarize principles of shock management
+* Describe effects of vasopressor and inotropic agents
+* Discuss the different causes and management strategies for oliguria
 
 [Go to the video lecture](https://covid19.sccm.org/Presentations/Diagnosis-and-Management-of-Shock/story_html5.html?lms=1)
 

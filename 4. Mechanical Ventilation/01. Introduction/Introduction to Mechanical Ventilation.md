@@ -19,9 +19,9 @@ Welcome to **Mechanical Ventilation** course! The course follows the structure b
 
 
 The course will consist of:
-- [ ] **Instructor-led sessions**
-- [ ] **Video sessions** on case studies and scenarios
-- [ ] **Final review session** consisting of a theory recap and multiple choice questions.
+* **Instructor-led sessions**
+* **Video sessions** on case studies and scenarios
+* **Final review session** consisting of a theory recap and multiple choice questions.
 
 # Instructor-led lesson
 Please attend the instructor-led session. Continue the course once you completed the session.
