@@ -186,20 +186,6 @@ A disease of the airways, defined as the presence of cough and sputum production
 
 COPD gradually worsens. HOWEVER, early detection, treatment and modification of risk factors can alter the disease course.
 
-# Question 1
-Which factors increase a person's risk for COPD?
-
-[RIGHT] Cigarette smoking, chronic respiratory infections, and occupational/environmental exposure
-[WRONG] History of pneumonia, chronic sinus infections, and allergies
-[WRONG] Traumatic pneumothorax, poor diet, and obesity
-
-# Question 2
-Which examples of occupational and environmental exposures contribute to development of COPD?
-
-[RIGHT] Dust, chemicals, and fumes
-[WRONG] Heat, physical activity, and sun exposure
-[WRONG] Poor ergonomics, toxic chemicals, and heat
-
 # Question 6
 Chronic bronchitis is characterized by:
 
