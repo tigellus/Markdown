@@ -1,73 +1,66 @@
-# PLACEHOLDER: add info on ETT, tracheostomy, nasal trumpet
-
-# Nasal Trumpet (Nasopharyngeal Airway)
-
-# Question 1
-Insertion of a nasopharyngeal airway is contraindicated in a patient with which condition?
-[WRONG] Pneumothorax
-[WRONG] Pleural effusion
-[RIGHT] Severe facial injuries
-[WRONG] Perforated stomach
-
-A nasopharyngeal airway (NPA) does not extend into the lower airway and may be used in certain situations.
-Insertion of an NPA is contraindicated in patients with severe head trauma or facial injuries.
-An NPA, also known as a nasal trumpet, is an airway adjunct designed to be inserted into the nasal passageway to maintain an open airway. When a patient is unconscious, the muscles in the jaw relax, and the tongue slides back and obstructs the airway. This makes airway management necessary. The flared end is designed to prevent the device from completely entering the nose.
-An NPA is used when an artificial form of airway maintenance is necessary, but tracheal intubation is impossible or inadvisable. A nasopharyngeal airway often is used in conscious patients where an oropharyngeal airway would trigger the gag reflex.
-
-# Question 2
-Which is an indication for a nasotracheal airway?
-[WRONG] Epiglottitis
-[WRONG] Basal skull fracture
-[WRONG] Congestive heart failure exacerbation
-[RIGHT] Macroglossia
-
-Macroglossia results in obstruction of the oropharynx due to an enlarged tongue. Therefore, intubation via orotracheal route is not possible. Nasotracheal intubation via flexible bronchoscopy allows for visualization of the hypopharynx and is not blocked by the enlarged tongue.
-Indications for nasotracheal intubation include any form of limited mouth opening, intraoral masses, trismus, and angioedema.
-When a patient has macroglossia blind nasotracheal intubation should be avoided. Intubation should occur awake and with flexible bronchoscopy.
-Macroglossia is an indication for awake intubation as sedating and paralyzing the patient will stop the patient's respiratory drive and increase the risk of desaturation if any complications occur during attempted nasal intubation.
-
-
-# Question 3
-Which complication of nasopharyngeal intubation is most common?
-[WRONG] Placement into the brain
-[WRONG] Nasal fracture
-[RIGHT] Epistaxis
-[WRONG] Abscess
-
-The most common complication of nasopharyngeal intubation is epistaxis due to a small nasal opening, turbinate damage, and poor technique.
-The nose is in direct communication with the multiple sinuses of the face, brain via cribriform plate, and the pharynx, esophagus, and trachea via the nasopharynx. The nose is separated into two nares separated by a mostly cartilaginous nasal septum. Each naris is made up of two pathways, the lower and upper pathway. The lower pathway lies along the nasal floor underneath the inferior turbinate, and the upper pathway lies above the inferior turbinate and below the middle turbinate. The middle turbinate is a vascular structure connected with the cribriform plate, so care has to be taken not to cause damage to the middle turbinate. Therefore, the lower pathway is the ideal pathway to take when placing nasotracheal (NT) intubation.
-Epistaxis can occur due to trauma from intubation causing turbinate fracture or just local irritation. By prepping the nose with Oxymetazoline or another vasoconstricting agent the risk of epistaxis from irritation or local injury. can be reduced. Turbinate fracture injury can be reduced by ensuring proper technique is utilized and the tube is placed in the lower turbinate pathway.
-Care should be taken to avoid placing a nasopharyngeal tube cephalad, but rather aimed toward the occiput and nasopharynx caudally along the nasal floor.
-
-# Question 4
-An obese 55-year-old male with past medical history of chronic obstructive pulmonary disease calls emergency medical services due to difficulty breathing after eating Chinese food. You find him at home with swollen lips and tongue, drool coming from his mouth with oxygen saturation of 80%. There are expiratory wheeze on lung exam. His oxygen saturation only increases to 90% with a non-rebreather you only get up to 90%. Which airway approach should be used?
-[WRONG] Sedate and paralyze and place a blind airway via a supraglottic airway
-[WRONG] Sedate and paralyze and place an endotracheal tube via the oral route
-[WRONG] Sedate and paralyze and place an endotracheal tube via the nasal route
-[RIGHT] Place an awake blind nasotracheal intubation
-
-In the emergent circumstance, the healthcare provider should consider nasotracheal intubation (NT) when the patient presents with a strong gag reflex, limited mouth opening, macroglossia, cervical spine instability, severe cervical kyphosis, severe arthritis, intraoral masses, structural abnormalities, trismus, or angioedema. This patient has macroglossia and will have a difficult oral airway.
-Blind NT intubation can be performed while the patient is awake in the sitting up position. It increases patient comfort, and greatly reduces the risk of losing the airway if this patient with COPD is sedated and paralyzed.
-By keeping the patient awake you allow them to keep their airway drive. If intubation is unsuccessful the patient is still breathing and they can be transferred to a hospital.
-Blind nasotracheal intubation requires skill and practice but is an important skill to have in a situation where an oral airway is not a possibility and where there is need to keep the patient awake.
-
-# Question 5
-A young teenager with an asthma exacerbation requires a nasopharyngeal airway (NPA). How is the correct size determined?
-[WRONG] It does not matter what size you used
-[WRONG] Measure from the nasal opening to the mastoid
-[RIGHT] Measure from the nasal opening to the angle of the mandible
-[WRONG] Measure from the nasal opening to the cricoid cartilage
-
-When placing an NPA, the healthcare provider should be knowledgeable regarding the sizing of the NPA. Adult sizes range from 6 mm to 9 mm. Sizes 6 to 7mm should be considered in the small adult, 7 to 8 mm in the medium size adult, and 8 to 9 mm in the large adult.
-If the healthcare provider is unsure of which size to use, and there is time to assess which size to use, then place the NPA at the nasal opening and orient it down toward the angle of the mandible. If the NPA goes past the mandible then it is too long and if it does not reach the mandible it is too short.
-Pediatric sizes should be measured via Broselow tape or should be measured from the nasal opening to the angle of the mandible.
-24 french correlated with 6 mm, 28 French with 7 mm and 32 French with 8 mm. One should start with less than 5 mm in a child.
-
 # Endotracheal Intubation for the COVID-19 Patient
 
 Watch the following video for an introduction to endotracheal intubation.
 
 [embed](https://www.youtube.com/watch?v=iyAQR_Zpf6U&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=5)
+
+# Endotracheal tube (ETT) 
+(The material in this section was adapted from this source: https://www.statpearls.com/kb/viewarticle/21126?utm_source=pubmed)
+
+## Introduction
+The endotracheal tube (ETT) was first reliably used in the early 1900s.[1] In its simplest form, it is a tube constructed of polyvinylchloride (PVC) that is placed between the vocal cords through the trachea to provide oxygen and inhaled gases to the lungs.  It also serves to protect the lungs from contamination such as gastric contents and blood. The advancement of the endotracheal tube has closely followed advancements in anesthesia and surgery.[2] Modifications have been made to minimize aspiration, isolate a lung, administer medications, and prevent airway fires. Despite advances with the endotracheal tube, more research to optimize its use is necessary. For example, ventilator-associated pneumonia (VAP) is a major concern, and the ETT itself is felt to be a primary agent for the development of VAP.[2]
+
+Pediatric ETT’s are sized by age with options across the spectrum from premature infants to adult size teenage children. Historically, pediatric endotracheal tubes were uncuffed for fear that the pressure from the cuff would damage the trachea via pressure necrosis as the airway just below the vocal cords (cricoid cartilage) is the most narrow part in children.  In adults, the narrowest portion of the airway is the vocal cords.  Except for neonatal patients, this practice has largely been discontinued in favor of cuffed pediatric ETT’s.[3] A few well-established criteria are available to aide in ETT size selection.
+
+# Anatomy
+## The tube:
+
+The endotracheal tube has a length and diameter. The endotracheal tubes size (“give me a 6.0 tube”) refers to its internal diameter in millimeters (mm). The ETT will typically list both the inner diameter and outer diameter on the tube (for example, a 6.0 endotracheal tube will list both the internal diameter, ID 6.0,  and outer diameter, OD 8.8). The narrower the tube, the greater resistance to gas flow. Medical providers thus should select the largest tube that is appropriate for the patient; this is critically important to the spontaneously breathing patient who will have to work harder to overcome the increased resistance (a size 4 ETT has 16 more times resistance to gas flow than a size 8 ETT). The ETT is measured from the distal end of the tube and is typically marked in 2 cm increments. After successfully intubating the patient the depth of the endotracheal tube ending at the teeth or lips should be noted. This depth provides a baseline measurement to ensure the tube has not traveled out of the trachea or deeper into the trachea with patient movement or transport. PVC is not radiopaque, and thus a radiopaque linear material is in included throughout the length of the tube to make it easier to visualize the placement on x-ray. Ideally, the distal tip of the ETT is 4 cm (+/- 2 cm) above the carina on chest x-ray in adults.[4] Should you desire to perform bronchoscopy on an adult patient with a standard bronchoscope (diameter 5.7 mm with a 2 mm suction channel) the patient typically needs to be intubated with at least 7.5-8.0 size ETT; ETTs larger than 8.0 are available and used for bronchoscopy.[5] The typical depth of the endotracheal tube is 23 cm for men and 21 cm for women, measured at the central incisors. The average size of the tube for an adult male is 8.0, and an adult female is 7.0, though this is somewhat an institution dependent practice. Pediatric tubes are sized using the equation: size = ((age/4) +4) for uncuffed ETTs, with cuffed tubes being one-half size smaller.[6]  Typically a pediatric ETT is taped at a depth of 3 x the tube size in a child (i.e., a 4.0 ETT commonly gets taped at around 12cm depth).  
+
+## The cuff:
+
+A cuff is an inflatable balloon at the distal end of the ETT. Pediatric ETTs are produced with and without cuffs. The inflated cuff produces a seal against the tracheal wall; this prevents gastric contents from entering the trachea and facilitates the execution of positive pressure ventilation. The cuff inflates by attaching an appropriate size syringe (10 to 20 ml for adult ETT) to the pilot balloon. The syringe provides air under pressure and inflates both the pilot balloon and the cuff. Once the cuff inflates, the syringe needs to be removed, or the air in the cuff may redistribute back to the syringe and deflate the cuff. Palpating the firmness of the pilot balloon is a good estimation to the pressure in the cuff. Cuff manometers are available but not common in clinical use.  Ideal cuff pressure should be 20 cm H2O or less. If the pilot balloon does not hold air, it must be assumed the cuff of the ETT has been damaged and is non-functional.  Some ETTs have a low volume high-pressure cuff, but it is more common to find high volume low-pressure cuffs on ETTs in current medical practice.  
+
+## The bevel:
+
+To facilitate placement through the vocal cords and to provide improved visualization ahead of the tip, the ETT has an angle or slant known as a bevel. As the endotracheal tube approaches the cords, the left facing bevel provides an optimal view.
+
+## The Murphy's eye:
+
+ETTs have a built-in safety mechanism at the distal tip known as Murphy’s eye, which is another opening in the tube positioned in the distal lateral wall. If the distal end of the ETT should become obstructed by the wall of the trachea or by touching the carina, gas flow can still occur via Murphy's eye,  This prevents complete obstruction of the tube.
+
+## The connector:
+
+ETT connectors attach the ETT to the mechanical ventilator tubing or an Ambu bag. For adult and pediatric ETTs, it is customary to use the universal 15 mm connector.
+
+# Indications
+The main indication to use an endotracheal tube is to secure a definitive airway. A definitive airway is the placement of an ETT in the trachea with an inflated cuff below the vocal cords. The main reasons to secure a definitive airway are an inability to maintain airway patency, inability to protect the airway against aspiration, failure to ventilate, failure to oxygenate, and anticipation of a deteriorating course leading to respiratory failure.
+
+# Contraindications
+The primary (relative) contraindications to the placement of an ETT in the oropharynx is severe airway trauma or obstruction that does not allow safe placement of the tube, severe cervical spine injury which requires complete immobilization, and those patients with Mallampati III/IV classification suggesting potentially difficult airway management.
+
+The main contraindications to avoid placing an ETT with the nasotracheal approach include facial trauma, head trauma concerning for basilar skull fracture, active epistaxis, expanding neck hematoma, oropharyngeal trauma, and apneic patients.[7]
+
+# Equipment
+Equipment necessary to optimize the use and function of the ETT:
+
+* Stylet
+* Syringe for cuff/pilot balloon
+* Universal 15 mm connector
+* End-tidal CO2 device
+* Personnel
+
+In the ER it is common to have an RN available to push drugs (if needed).  The RN can function as a second person and can call for help if needed for an unanticipated difficult airway.  Some hospitals commonly have an RT help with taping of the ETT and ventilation once a patient is intubated.  
+
+# Preparation
+Select an appropriate size endotracheal tube and remove it from the package. Lubricate the distal end and balloon (if not emergency placement). Attach a proper size syringe (10 to 20 cc) filled with air to the pilot balloon and test the balloon by blowing it up and then deflating it. Place a stylet into the ETT and bend it to an appropriate shape. Place the tube with the stylet and attached syringe back in the package ready for use. Repeat the same procedure with a tube one size smaller in case of difficult intubation. Set aside an end-tidal CO2 detector.
+
+# Complications
+Several mechanical complications can occur with the ETT resulting in a loss of function. A defective balloon will result in a loss of ability to protect the airway from aspirate and may make mechanical ventilation difficult. The loss of the universal 15 mm connector (either missing or defective)  essentially makes the ETT nonfunctional as the mechanical ventilator or bag-valve-mask cannot interface with it.  Some complications from the physical placement of the tube include bleeding, infection, perforation of the oropharynx (especially with the use a rigid stylet), hoarseness (vocal cord injury), damage to teeth/lips, or esophageal placement.
+
+# Enhancing Healthcare Team Outcomes
+An interprofessional team is necessary to make sure that an ETT is placed appropriately, especially in the emergency department setting. As there is not one definitive method to ensure appropriate ETT placement, an interprofessional team working together to confirm several means of tube placement is necessary to ensure optimal patient outcomes. For example, after emergent intubation in the emergency department, a respiratory therapist may ensure a good color change of the end-tidal CO2 detector while also securing the ETT. Simultaneously, nursing staff may auscultate over the lung fields and abdomen to ensure good quality, equal breath sounds in the thoracic cavity with absent breath sounds in the abdomen. The physician will be monitoring the pulse ox while ordering a stat portable chest x-ray to confirm placement of the tube. It has become more common and standard of care to have a constant waveform monitor for end tidal CO2 for intubated patients, especially in the OR and ICU.  Collaboration, closed-loop communication, and the principles of crisis resource management are necessary for the success of teams working in acute care environments.[8]
+
 
 # Question 1
 Which artificial airway intubates both the trachea and esophagus?
@@ -124,8 +117,6 @@ Which of the following is not a goal of tracheostomy care?
 [WRONG] Maintain airway patency
 [RIGHT] Ensure that the patient can swallow
 [WRONG] Prevent skin breakdown
-
-# Endotracheal Tube
 
 # Question 1
 A high volume, low pressure cuff can do which of the following?
@@ -294,15 +285,76 @@ A high volume, low pressure cuff can do which of the following?
 * This type of endotracheal tube can develop folds near the contact area when inflated and consequently the risk of aspiration is high.
 * The high-pressure low volume tubes provide better protection against aspiration but the downside is that they can induce tracheal mucosa necrosis.
 
+# Nasal Trumpet (Nasopharyngeal Airway)
 
-# Tracheostomy 
+# Question 1
+Insertion of a nasopharyngeal airway is contraindicated in a patient with which condition?
+[WRONG] Pneumothorax
+[WRONG] Pleural effusion
+[RIGHT] Severe facial injuries
+[WRONG] Perforated stomach
 
-# 1. Caring for patients with a tracheostomy
-(The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-1-caring-for-patients-with-a-tracheostomy-09-05-2016/)
+A nasopharyngeal airway (NPA) does not extend into the lower airway and may be used in certain situations.
+Insertion of an NPA is contraindicated in patients with severe head trauma or facial injuries.
+An NPA, also known as a nasal trumpet, is an airway adjunct designed to be inserted into the nasal passageway to maintain an open airway. When a patient is unconscious, the muscles in the jaw relax, and the tongue slides back and obstructs the airway. This makes airway management necessary. The flared end is designed to prevent the device from completely entering the nose.
+An NPA is used when an artificial form of airway maintenance is necessary, but tracheal intubation is impossible or inadvisable. A nasopharyngeal airway often is used in conscious patients where an oropharyngeal airway would trigger the gag reflex.
 
-Many nurses lack essential training to manage blocked or dislodged tracheostomy tubes. This article provides information on the care of patients with a tracheostomy
+# Question 2
+Which is an indication for a nasotracheal airway?
+[WRONG] Epiglottitis
+[WRONG] Basal skull fracture
+[WRONG] Congestive heart failure exacerbation
+[RIGHT] Macroglossia
 
-# What is a tracheostomy?
+Macroglossia results in obstruction of the oropharynx due to an enlarged tongue. Therefore, intubation via orotracheal route is not possible. Nasotracheal intubation via flexible bronchoscopy allows for visualization of the hypopharynx and is not blocked by the enlarged tongue.
+Indications for nasotracheal intubation include any form of limited mouth opening, intraoral masses, trismus, and angioedema.
+When a patient has macroglossia blind nasotracheal intubation should be avoided. Intubation should occur awake and with flexible bronchoscopy.
+Macroglossia is an indication for awake intubation as sedating and paralyzing the patient will stop the patient's respiratory drive and increase the risk of desaturation if any complications occur during attempted nasal intubation.
+
+
+# Question 3
+Which complication of nasopharyngeal intubation is most common?
+[WRONG] Placement into the brain
+[WRONG] Nasal fracture
+[RIGHT] Epistaxis
+[WRONG] Abscess
+
+The most common complication of nasopharyngeal intubation is epistaxis due to a small nasal opening, turbinate damage, and poor technique.
+The nose is in direct communication with the multiple sinuses of the face, brain via cribriform plate, and the pharynx, esophagus, and trachea via the nasopharynx. The nose is separated into two nares separated by a mostly cartilaginous nasal septum. Each naris is made up of two pathways, the lower and upper pathway. The lower pathway lies along the nasal floor underneath the inferior turbinate, and the upper pathway lies above the inferior turbinate and below the middle turbinate. The middle turbinate is a vascular structure connected with the cribriform plate, so care has to be taken not to cause damage to the middle turbinate. Therefore, the lower pathway is the ideal pathway to take when placing nasotracheal (NT) intubation.
+Epistaxis can occur due to trauma from intubation causing turbinate fracture or just local irritation. By prepping the nose with Oxymetazoline or another vasoconstricting agent the risk of epistaxis from irritation or local injury. can be reduced. Turbinate fracture injury can be reduced by ensuring proper technique is utilized and the tube is placed in the lower turbinate pathway.
+Care should be taken to avoid placing a nasopharyngeal tube cephalad, but rather aimed toward the occiput and nasopharynx caudally along the nasal floor.
+
+# Question 4
+An obese 55-year-old male with past medical history of chronic obstructive pulmonary disease calls emergency medical services due to difficulty breathing after eating Chinese food. You find him at home with swollen lips and tongue, drool coming from his mouth with oxygen saturation of 80%. There are expiratory wheeze on lung exam. His oxygen saturation only increases to 90% with a non-rebreather you only get up to 90%. Which airway approach should be used?
+[WRONG] Sedate and paralyze and place a blind airway via a supraglottic airway
+[WRONG] Sedate and paralyze and place an endotracheal tube via the oral route
+[WRONG] Sedate and paralyze and place an endotracheal tube via the nasal route
+[RIGHT] Place an awake blind nasotracheal intubation
+
+In the emergent circumstance, the healthcare provider should consider nasotracheal intubation (NT) when the patient presents with a strong gag reflex, limited mouth opening, macroglossia, cervical spine instability, severe cervical kyphosis, severe arthritis, intraoral masses, structural abnormalities, trismus, or angioedema. This patient has macroglossia and will have a difficult oral airway.
+Blind NT intubation can be performed while the patient is awake in the sitting up position. It increases patient comfort, and greatly reduces the risk of losing the airway if this patient with COPD is sedated and paralyzed.
+By keeping the patient awake you allow them to keep their airway drive. If intubation is unsuccessful the patient is still breathing and they can be transferred to a hospital.
+Blind nasotracheal intubation requires skill and practice but is an important skill to have in a situation where an oral airway is not a possibility and where there is need to keep the patient awake.
+
+# Question 5
+A young teenager with an asthma exacerbation requires a nasopharyngeal airway (NPA). How is the correct size determined?
+[WRONG] It does not matter what size you used
+[WRONG] Measure from the nasal opening to the mastoid
+[RIGHT] Measure from the nasal opening to the angle of the mandible
+[WRONG] Measure from the nasal opening to the cricoid cartilage
+
+When placing an NPA, the healthcare provider should be knowledgeable regarding the sizing of the NPA. Adult sizes range from 6 mm to 9 mm. Sizes 6 to 7mm should be considered in the small adult, 7 to 8 mm in the medium size adult, and 8 to 9 mm in the large adult.
+If the healthcare provider is unsure of which size to use, and there is time to assess which size to use, then place the NPA at the nasal opening and orient it down toward the angle of the mandible. If the NPA goes past the mandible then it is too long and if it does not reach the mandible it is too short.
+Pediatric sizes should be measured via Broselow tape or should be measured from the nasal opening to the angle of the mandible.
+24 french correlated with 6 mm, 28 French with 7 mm and 32 French with 8 mm. One should start with less than 5 mm in a child.
+
+
+
+# Caring for a Patient with Tracheostomy
+
+Many nurses lack essential training to manage blocked or dislodged tracheostomy tubes. This article provides information on the care of patients with a tracheostomy.
+
+## What is a tracheostomy?
 A tracheostomy is a temporary or permanent artificial opening (stoma) made into the trachea; 
 a tracheostomy tube is inserted to maintain the patency of the stoma and the procedure can be performed either surgically or percutaneously. 
 Surgical insertion is performed in theatre under general or local anaesthetic depending on the patient’s condition.
@@ -332,7 +384,7 @@ but patients with a permanent tracheostomy will also require education and train
  * Facilitate weaning from ventilator
  * Secure airway in head injury/stroke patients
 
-# Tube types
+# Tracheostomy Tube Types
 Tracheostomy tubes are either single or double cannula (with an outer and inner cannula). 
 The ICS (2014) notes that tracheostomy tubes with an inner cannula are inherently safer and are normally preferred. 
 The double cannula allows routine inspection and clearance of secretions to prevent blockage of the tube, making it safer and easier to care for in a ward environment. 
@@ -391,10 +443,10 @@ It is important to check the back and sides of the neck frequently for reddening
 
 Cotton twill ties are recommended for patients who are at risk of self-decannulating; twill and foam collars combine the softness of a Velcro collar with the robustness of the twill, enabling them to be tied and knotted into place through the flange, and hold the tracheostomy tube securely.
 
-## Inner-cannula care
+# Inner-cannula care
 When a double lumen tube is used, the inner cannula should be removed and cleaned every 2-4 hours depending on the quantity and tenacity of secretions; if these are copious, the inner cannula will require more frequent checks and cleaning, which should be done using the manufacturer’s cleaning aids. Some inner cannulas are single-use only and should be replaced at each check. When using reusable tubes, a clean tube must be available at all times at the bedside to ensure that a “one in, one out” system is used, so that an inner cannula is in-situ at all times. Dirty inner tubes should be cleaned according to local infection-prevention guidance.
 
-#### Stoma care
+# Stoma care
 Patients with a tracheostomy are particularly susceptible to respiratory and stoma infections. Leakage of respiratory track secretions around the stoma site causes a damp, moist environment that harbours bacteria, and colonisation of the site is common. Skin can also become macerated and excoriated.
 
 The stoma site should be checked at least once a day, or more frequently if required, and this requires two nurses: one to hold the tube and one to clean the stoma site. The site should be cleaned using a tracheostomy wipe or with 0.9% sodium chloride solution, and dried thoroughly. It should be monitored for any signs of infection such as offensive-smelling exudate, redness, pain and swelling, and the patient monitored for systemic signs such as pyrexia and feeling unwell. Evidence of infection should be documented and microbiology swabs sent for culture (McGrath et al, 2012) to ensure appropriate antibiotics are prescribed.
@@ -403,7 +455,7 @@ Specifically designed tracheostomy stoma dressings, placed under the flange and 
 
 A film-forming acrylate barrier, such as Cavilon No Sting Barrier Film, can be applied to broken skin; it helps to protect the stoma site from wet secretions and reduces the risk of maceration.
 
-## Humidification
+# Humidification
 As air passes through the mouth and the nose, it is warmed, filtered and moistened. Breathing via a tracheostomy bypasses the nose and mouth, so artificial humidification is crucial to keep the tracheostomy tube patent; humidification methods are outlined in Box 2.
 
 ## Box 2. Humidification
@@ -419,6 +471,8 @@ Only delivers approximately 50% humidity to inspired gas, therefore less effecti
    * Heat moisture exchanger devices: These attach directly onto the tracheostomy tube. Inspired gas passes through the device and is filtered, moistened and heated (Fig 7, attached). The expired gas provides the device with the heat and moisture. These should be changed at least every 24 hours, or as needed, to prevent accumulation of secretions.
    * Stoma bibs: These foam bibs absorb moisture from the expired air, filter and moisten inspired air. Patients like them, as they cover the tracheostomy tube.
 This is particularly important when the tracheostomy is permanent, and there are issues with body image and social reintegration. The bib can be moistened with a water spray.
+
+# Suctioning
 
 ## Box 3. Indications for suctioning
 Noisy breathing, audible secretion sounds
@@ -458,17 +512,19 @@ Local policies and procedures should be followed when using suction and all inte
 
 Any difficulty in passing a suction catheter requires immediate attention to assess if the tube is blocked or has been displaced (ICS, 2014).
 
-## Hydration and oral hygiene
+# Hydration and Oral Hygiene
+
 Hydration is an important part of tracheostomy care, as dehydration can result in secretions becoming thick and dry, increasing the risk of a blocked tube.
 
 The majority of patients with a tracheostomy will be nil by mouth, and regular mouth care is essential in preventing problems, such as mouth ulcers and oral thrush. Poor oral hygiene is also associated with VAP and daily use of 0.12% chlorhexidine gluconate mouthwash or gel is recommended (Conley et al, 2013).
 
 Contaminated tracheal secretions can leak past the inflated tracheal cuff and into the lungs, causing aspiration pneumonia.
 
-# Conclusion
+# Tracheostomy - Conclusions
+
 Training is essential in all acute and community care settings to ensure that patients with tracheostomies receive appropriate care. Cohorting of tracheostomy patients reduces the number of staff needing training and enables staff to maintain their skills and confidence. Ward areas should have appropriate equipment to ensure safe and effective tracheostomy care.Patients should have a bed-head sign and relevant algorithms available for use in an emergency. An emergency tracheostomy box should be available for all patients with tracheostomies on critical care units, wards or at home.
 
-# Key points
+## Key points
  * A tracheostomy is a temporary or permanent artificial opening in the trachea
  * Patients with a tracheostomy follow a complex pathway through critical care to general wards
  * Half of tracheostomy-related deaths are due to displacement of tubes
@@ -476,21 +532,21 @@ Training is essential in all acute and community care settings to ensure that pa
  * An emergency tracheostomy box should accompany patients on transfer
 
 
-# 2. Managing the weaning of a temporary tracheostomy
-(The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-1-caring-for-patients-with-a-tracheostomy-09-05-2016/)
+# Managing the weaning of a temporary tracheostomy
 
 Removal of a temporary tracheostomy can cause anxiety for patients. Weaning and decannulation requires careful planning, and the support of a multiprofessional team
 
-# Introduction
+## Introduction
 The majority of tracheostomies are inserted as a temporary respiratory support measure. Many patients will have their tube removed, a process known as decannulation, on the critical care unit; however, weaning programmes can take place at ward level. It is vital that staff are competent and have an understanding of the weaning process, risks and weaning accessories, such as speaking valves and decannulation caps/bungs.
 
 Tracheostomy multidisciplinary teams (MDT) can manage the weaning process for temporary tracheostomies, ensuring the plans are safe and manageable, both for the patient and ward staff.
 
-# Indications
+## Indications
 A temporary tracheostomy is required for short-term respiratory support and can be placed either surgically or percutaneously. Where possible, it is best practice to meet the patient pre-operatively to discuss the tracheostomy tube insertion, tracheostomy tube-care needs and weaning/decannulation process. Temporary tracheostomies may be performed electively as part of a planned procedure, for example, following some maxillofacial and ear, nose and throat procedures. They are also used to protect the airway of patients who are unable to swallow and clear their own secretions, and who are at risk of aspiration; for example, patients who have had a stroke or brain injury are at particular risk.
 
-# Infection
+## Infection
 Patients with a tracheostomy are more susceptible to respiratory-tract infections due to the loss of air filtration through the nose – particularly when they have a cuffed tracheostomy tube in-situ – and temporary tubes should be regularly reviewed and removed, as soon as it is safe to do so.
+
 
 # The weaning process
 The aim of the weaning programme is to gradually return airflow to the upper airway and restore normal physiological functions (National Tracheostomy Safety Project, 2013). Patients need to be weaned off their tracheostomy but deciding when to begin this process is hard to judge (NTSP, 2013). The weaning process is individual and may take days, weeks or occasionally months to complete. It is essential that care providers have locally agreed tracheostomy weaning and decannulation guidelines and charts, and a multidisciplinary approach that provides ongoing support for the patient and staff.
@@ -526,8 +582,6 @@ Source: adapted from NTSP, 2013
  * Severe laryngeal/tracheal stenosis
  * End-stage pulmonary disease
  * Risk of severe aspiration/recurrent aspiration pneumonia
-
-Source: St George’s Healthcare Trust, 2012
 
 # Weaning considerations
 ## Tracheostomy tube size
@@ -569,7 +623,6 @@ Decannulation should only be undertaken when the patient has successfully comple
  * Nasogastric feeding should be stopped four hours prior to decannulation to minimise risk of aspiration
  * Monitoring of physiological observations using the national early warning score system should be carried out for 24 hours following decannulation (Royal College of Physicians, 2012). Concerns should be escalated immediately
  * The use of weaning programmes should reduce the risk of failed decannulation
-Source: NTSP, 2012
 
 # Post-decannulation care
 Once the tracheostomy tube has been removed, the stoma site should be cleaned with 0.9% sodium chloride and dried, and an occlusive dressing applied according to local policy. If sutures have been used to hold the tube in-situ, they should be removed. The dressing should be changed daily but it may require frequent re-application during the initial period, as exhaled air pressure on the dressing from the stoma opening may cause it to become loose. Observe the site for signs of infection.
@@ -585,27 +638,26 @@ Many patients who have a tracheostomy tube are aware of their altered body image
 
 Hashmi et al (2010) found that self-image in patients undergoing elective tracheostomy could be improved using a pre-operative psychological assessment. A decline in mental health post-operatively was attributed to worsening self-esteem. The study also highlighted that patients undergoing unplanned tracheostomy insertion experienced both mental and physical decline post-operatively.
 
-# Conclusion
+# Tracheostomy Weaning Conclusion
 A multidisciplinary approach to tracheostomy weaning will ensure safe and appropriate programmes are agreed and put into practice. The MDT also provides routine reviews of the patients’ progress and makes amendments to programmes, as required. Nurses involved in weaning and decannulation processes need to have appropriate skills to care for tracheostomised patients, and respond to their concerns and changes in their clinical condition. Psychological assessments should be used in elective pre-operative assessments as a benchmark.
 
-# Key points
+## Key points
  * A temporary tracheostomy is required for short-term respiratory support
  * Weaning charts should be used to record details of the weaning programme
  * All staff should be made aware of the weaning programme and required equipment
  * NTSP bed-head labels should be used to clarify whether the tracheostomy tube is temporary or permanent
  * Pre-operative psychological assessment should be carried out for all patients undergoing a planned tracheostomy procedure
 
+# Care of patients with permanent tracheostomy
 
-# 3. Care of patients with permanent tracheostomy
-(The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-3-care-of-patients-with-permanent-tracheostomy-23-05-2016/)
 Patients who have a permanent tracheostomy have complex needs that require specialised care after they have been discharged from hospital
 
-# Introduction
+## Introduction
 Approximately 20% of patients who have a tracheostomy will be discharged with the tracheostomy in situ (Eibling and Roberson, 2012). However, discharging them can be a complex process; the National Confidential Enquiry into Patient Outcome and Death (2014) found that, out of the 91 patients reviewed who were suitable for discharge from hospital, 14 were still awaiting discharge after 30 days due to difficulties in securing appropriate community care, while 16 had difficulty finding a specialist rehabilitation-unit bed.
 
 A permanent tracheostomy is non-weanable and cannot be removed. It is inserted for a number of underlying long-term, progressive or permanent conditions, including cancer of the larynx or nasopharynx, motor neurone disease, locked-in syndrome, severe head injury, spinal-cord injury and paralysis of vocal cords.
 
-# Nursing care
+## Nursing care
 Daily tracheostomy care is the same for temporary and permanent tracheostomy tubes, and is outlined in part 1 of this series (Everitt, 2016a). However, patients with a permanent tracheostomy need to be cared for by nurses who have the skills to teach them and their carers/relatives to be independent with tracheostomy care; many patients find this a daunting prospect.
 
 Patients with a permanent tracheostomy may be in hospital for months with complex health issues and often become dependant for physical and emotional support on nurses in the acute care setting. They may be anxious about the transition to their home environment and it is important to start teaching them to care for their tracheostomy as soon as possible. This will help to reduce their length of stay in hospital and ensure they are, where possible, fully independent with their tube care before discharge.
@@ -613,6 +665,7 @@ Patients with a permanent tracheostomy may be in hospital for months with comple
 Many hospitals have, or are developing, tracheostomy multidisciplinary teams, some of which include critical-care outreach and/or tracheostomy-specialist nurses who can assist nurses with patient teaching and discharge planning (NCEPOD, 2014; National Tracheostomy Safety Project, 2013).
 
 Although some may also have an outreach in the community, these services are not common, despite the ongoing risks associated with tracheostomy (Paul, 2010); no matter how long patients have a tracheostomy in situ, there is a low but real risk of airway loss and death (Eibling and Roberson, 2012).
+
 
 # Body image/psychological support
 The need to adapt to breathing through a tracheostomy tube, the limitations it imposes on communication and the appearance of the tube can have a negative psychological effect; patients may require psychological support and antidepressants.
@@ -690,28 +743,26 @@ Patient passports can also help with multidisciplinary communication as they pro
 
 Unfortunately, support groups, and networks and counselling services specific to the needs of tracheostomy patient, are limited and there is lack of a supportive community for this patient group.
 
-# Conclusion
+# Permanent Tracheostomy - Conclusion
+
 Discharge planning and ongoing support is essential in supporting patients who live in the community with a tracheostomy. Community practitioners, general practitioners, district nurses and paramedics need clear guidance to ensure continuity of care on discharge and to maintain patients’ safety. Locally agreed numbers of tracheostomy beds in nursing homes would help in reducing the length of stay in the acute care settings for many permanent tracheostomy patients, as well as enabling discharge teams and clinical commissioning groups to provide a more robust and cost-effective discharge pathway.
 
-# Key points
+## Key points
 * A permanent tracheostomy is non-weanable and cannot be removed
 * Patients have to cope with an altered body image and communication difficulties
 * Pre- and postoperative psychological assessment/counselling can help reduce depression and reclusive behaviour on discharge  
 * Patients need support to learn new ways to communicate  
 * Discharge needs to be planned carefully, as patients have complex needs
 
-# 4. Supporting patients following a laryngectomy
-(The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-4-supporting-patients-following-a-laryngectomy-30-05-2016/)
-Patients who have a laryngectomy need help adapting to complex changes including managing their airway, speech loss, body image changes, and altered smell and taste
-
-# Introduction
+# Supporting patients following a laryngectomy
+## Introduction
 Laryngectomy is a major surgical procedure used to treat cancer of the larynx. Other indications include severe injury to the neck, such as a gunshot wound, or damage to the larynx as a result of radiotherapy (Roth, 2012). Patients should be nursed by staff with appropriate skills and competency, in acute or community care settings. Clinical practice should follow recommendations outlined in the National Confidential Enquiry into Patient Outcome and Death (2014) and National Tracheostomy Safety Project (2013) guidelines.
 
-# Definition
+## Definition
 ![](assets/fig1-Altered-anatomy-post-laryngectom_660.jpg)
 Laryngectomy is the surgical removal of the larynx (which contains the vocal cords) and the separation of the airway from the nose and mouth. An opening (stoma) onto the surface of the neck is formed and the trachea is connected to it (Fig 1). This is a permanent, irreversible stoma, which leaves patients unable to speak without assistance.
 
-# Pre-operative care
+## Pre-operative care
 Laryngectomy is a life-changing procedure, so patients need carefully planned pre- and post-operative care. A pre-operative multidisciplinary team approach enables them to meet the team that will care for them during their hospital stay and after they have been discharged.
 
 Patients will have several pre-operative sessions with a specialist speech and language therapist, who will explain every stage of their post-operative voice restoration and rehabilitation programme. They will also be given the opportunity to meet someone with a laryngectomy, thereby giving them an insight into what life will be like after their surgery. The psychological impact is similar to that experienced by patients with a permanent tracheostomy (Everitt, 2016a).
@@ -749,8 +800,7 @@ Recent technological developments mean there is now a vast array of communicatio
 
 Other devices such as keyboard-based communication aids can be used and may be available from the speech and language therapists in hospitals.
 
-
-# Stoma care
+# Stoma care - laryngectomy
 ![](assets/fig2-stoma-buttons_507.jpg)
 ![](assets/FIG-3-laryngectomy_509.jpg)
 Patients with a tracheostomy tube in place after laryngectomy will usually have it removed within 24-48 hours of surgery. The stoma site will have sutures, so removal depends on the suture material used, as well as local policy and consultant guidance.
@@ -763,7 +813,7 @@ When their stoma has healed, patients can use a variety of different stoma aids 
 
 These devices must be changed and cleaned daily, or more frequently if required; patients and carers should be taught how to do this by a head and neck specialist nurse or speech and language therapist. Ward staff should also be trained in the use of the different laryngectomy devices so they can continue to teach and support patients throughout their stay.
 
-# Humidification
+# Humidification - laryngectomy
 ![](assets/fig4-baseplate_507.jpg)
 Artificial humidification is vital to maintain the patency of the stoma, as the nose and mouth are no longer attached to the trachea. A number of devices can be used to do this, including humidification bibs (Everitt, 2016c).
 
@@ -771,13 +821,12 @@ Many patients may also require regular sodium chloride 0.9% nebulisers, particul
 
 discharge patients with a portable nebuliser or travel nebuliser, which they can use as required; this is essential for patients who are unable to use base plates and HMEs due to post surgery/radiotherapy soreness or swelling. Nebulisers should be given positioned directly over the stoma using a tracheostomy mask.
 
-
-# Suction
+# Suction - laryngectomy
 Suctioning should not be used routinely. Patients should be encouraged to cough and clear their secretions via the stoma; where necessary a yankaur suction catheter can be used to remove secretions on coughing from the stoma. Deep suctioning is only recommended to clear secretions if the patient is having difficulty because of an ineffective cough and requires further stimulation.
 
 Patients and carers should be taught to use suction. Most hospitals discharge patients with a suction machine and necessary attachments to use as required and for emergency clearance of the stoma.
 
-# Swallowing
+# Swallowing - laryngectomy
 Patients are nil by mouth for approximately 10 days after surgery to allow tissue to heal where the larynx has been removed. A contrast swallow assessment is performed to highlight any areas where fluid/food leakage could occur and cause healing to be delayed. If problems are identified, patients continue to be nil by mouth and their swallow is re-assessed at a later date.
 
 When the patient is allowed to eat and drink, diet and fluids should be gradually introduced. Some patients may experience weight loss and so nutrition assessment is vital pre- and post-operatively.
@@ -817,59 +866,6 @@ Patients with a laryngectomy have similar problems of airway management as those
 * Laryngectomy causes a permanent loss of speech, but patients can use speaking aids
 * Patients should be given information on local/regional support groups
 
-# Endotracheal tube (ETT) 
-(The material in this section was adapted from this source: https://www.statpearls.com/kb/viewarticle/21126?utm_source=pubmed)
 
-# Introduction
-The endotracheal tube (ETT) was first reliably used in the early 1900s.[1] In its simplest form, it is a tube constructed of polyvinylchloride (PVC) that is placed between the vocal cords through the trachea to provide oxygen and inhaled gases to the lungs.  It also serves to protect the lungs from contamination such as gastric contents and blood. The advancement of the endotracheal tube has closely followed advancements in anesthesia and surgery.[2] Modifications have been made to minimize aspiration, isolate a lung, administer medications, and prevent airway fires. Despite advances with the endotracheal tube, more research to optimize its use is necessary. For example, ventilator-associated pneumonia (VAP) is a major concern, and the ETT itself is felt to be a primary agent for the development of VAP.[2]
 
-Pediatric ETT’s are sized by age with options across the spectrum from premature infants to adult size teenage children. Historically, pediatric endotracheal tubes were uncuffed for fear that the pressure from the cuff would damage the trachea via pressure necrosis as the airway just below the vocal cords (cricoid cartilage) is the most narrow part in children.  In adults, the narrowest portion of the airway is the vocal cords.  Except for neonatal patients, this practice has largely been discontinued in favor of cuffed pediatric ETT’s.[3] A few well-established criteria are available to aide in ETT size selection.
 
-# Anatomy
-## The tube:
-
-The endotracheal tube has a length and diameter. The endotracheal tubes size (“give me a 6.0 tube”) refers to its internal diameter in millimeters (mm). The ETT will typically list both the inner diameter and outer diameter on the tube (for example, a 6.0 endotracheal tube will list both the internal diameter, ID 6.0,  and outer diameter, OD 8.8). The narrower the tube, the greater resistance to gas flow. Medical providers thus should select the largest tube that is appropriate for the patient; this is critically important to the spontaneously breathing patient who will have to work harder to overcome the increased resistance (a size 4 ETT has 16 more times resistance to gas flow than a size 8 ETT). The ETT is measured from the distal end of the tube and is typically marked in 2 cm increments. After successfully intubating the patient the depth of the endotracheal tube ending at the teeth or lips should be noted. This depth provides a baseline measurement to ensure the tube has not traveled out of the trachea or deeper into the trachea with patient movement or transport. PVC is not radiopaque, and thus a radiopaque linear material is in included throughout the length of the tube to make it easier to visualize the placement on x-ray. Ideally, the distal tip of the ETT is 4 cm (+/- 2 cm) above the carina on chest x-ray in adults.[4] Should you desire to perform bronchoscopy on an adult patient with a standard bronchoscope (diameter 5.7 mm with a 2 mm suction channel) the patient typically needs to be intubated with at least 7.5-8.0 size ETT; ETTs larger than 8.0 are available and used for bronchoscopy.[5] The typical depth of the endotracheal tube is 23 cm for men and 21 cm for women, measured at the central incisors. The average size of the tube for an adult male is 8.0, and an adult female is 7.0, though this is somewhat an institution dependent practice. Pediatric tubes are sized using the equation: size = ((age/4) +4) for uncuffed ETTs, with cuffed tubes being one-half size smaller.[6]  Typically a pediatric ETT is taped at a depth of 3 x the tube size in a child (i.e., a 4.0 ETT commonly gets taped at around 12cm depth).  
-
-## The cuff:
-
-A cuff is an inflatable balloon at the distal end of the ETT. Pediatric ETTs are produced with and without cuffs. The inflated cuff produces a seal against the tracheal wall; this prevents gastric contents from entering the trachea and facilitates the execution of positive pressure ventilation. The cuff inflates by attaching an appropriate size syringe (10 to 20 ml for adult ETT) to the pilot balloon. The syringe provides air under pressure and inflates both the pilot balloon and the cuff. Once the cuff inflates, the syringe needs to be removed, or the air in the cuff may redistribute back to the syringe and deflate the cuff. Palpating the firmness of the pilot balloon is a good estimation to the pressure in the cuff. Cuff manometers are available but not common in clinical use.  Ideal cuff pressure should be 20 cm H2O or less. If the pilot balloon does not hold air, it must be assumed the cuff of the ETT has been damaged and is non-functional.  Some ETTs have a low volume high-pressure cuff, but it is more common to find high volume low-pressure cuffs on ETTs in current medical practice.  
-
-## The bevel:
-
-To facilitate placement through the vocal cords and to provide improved visualization ahead of the tip, the ETT has an angle or slant known as a bevel. As the endotracheal tube approaches the cords, the left facing bevel provides an optimal view.
-
-## The Murphy's eye:
-
-ETTs have a built-in safety mechanism at the distal tip known as Murphy’s eye, which is another opening in the tube positioned in the distal lateral wall. If the distal end of the ETT should become obstructed by the wall of the trachea or by touching the carina, gas flow can still occur via Murphy's eye,  This prevents complete obstruction of the tube.
-
-## The connector:
-
-ETT connectors attach the ETT to the mechanical ventilator tubing or an Ambu bag. For adult and pediatric ETTs, it is customary to use the universal 15 mm connector.
-
-# Indications
-The main indication to use an endotracheal tube is to secure a definitive airway. A definitive airway is the placement of an ETT in the trachea with an inflated cuff below the vocal cords. The main reasons to secure a definitive airway are an inability to maintain airway patency, inability to protect the airway against aspiration, failure to ventilate, failure to oxygenate, and anticipation of a deteriorating course leading to respiratory failure.
-
-# Contraindications
-The primary (relative) contraindications to the placement of an ETT in the oropharynx is severe airway trauma or obstruction that does not allow safe placement of the tube, severe cervical spine injury which requires complete immobilization, and those patients with Mallampati III/IV classification suggesting potentially difficult airway management.
-
-The main contraindications to avoid placing an ETT with the nasotracheal approach include facial trauma, head trauma concerning for basilar skull fracture, active epistaxis, expanding neck hematoma, oropharyngeal trauma, and apneic patients.[7]
-
-# Equipment
-Equipment necessary to optimize the use and function of the ETT:
-
-* Stylet
-* Syringe for cuff/pilot balloon
-* Universal 15 mm connector
-* End-tidal CO2 device
-* Personnel
-
-In the ER it is common to have an RN available to push drugs (if needed).  The RN can function as a second person and can call for help if needed for an unanticipated difficult airway.  Some hospitals commonly have an RT help with taping of the ETT and ventilation once a patient is intubated.  
-
-# Preparation
-Select an appropriate size endotracheal tube and remove it from the package. Lubricate the distal end and balloon (if not emergency placement). Attach a proper size syringe (10 to 20 cc) filled with air to the pilot balloon and test the balloon by blowing it up and then deflating it. Place a stylet into the ETT and bend it to an appropriate shape. Place the tube with the stylet and attached syringe back in the package ready for use. Repeat the same procedure with a tube one size smaller in case of difficult intubation. Set aside an end-tidal CO2 detector.
-
-# Complications
-Several mechanical complications can occur with the ETT resulting in a loss of function. A defective balloon will result in a loss of ability to protect the airway from aspirate and may make mechanical ventilation difficult. The loss of the universal 15 mm connector (either missing or defective)  essentially makes the ETT nonfunctional as the mechanical ventilator or bag-valve-mask cannot interface with it.  Some complications from the physical placement of the tube include bleeding, infection, perforation of the oropharynx (especially with the use a rigid stylet), hoarseness (vocal cord injury), damage to teeth/lips, or esophageal placement.
-
-# Enhancing Healthcare Team Outcomes
-An interprofessional team is necessary to make sure that an ETT is placed appropriately, especially in the emergency department setting. As there is not one definitive method to ensure appropriate ETT placement, an interprofessional team working together to confirm several means of tube placement is necessary to ensure optimal patient outcomes. For example, after emergent intubation in the emergency department, a respiratory therapist may ensure a good color change of the end-tidal CO2 detector while also securing the ETT. Simultaneously, nursing staff may auscultate over the lung fields and abdomen to ensure good quality, equal breath sounds in the thoracic cavity with absent breath sounds in the abdomen. The physician will be monitoring the pulse ox while ordering a stat portable chest x-ray to confirm placement of the tube. It has become more common and standard of care to have a constant waveform monitor for end tidal CO2 for intubated patients, especially in the OR and ICU.  Collaboration, closed-loop communication, and the principles of crisis resource management are necessary for the success of teams working in acute care environments.[8]
