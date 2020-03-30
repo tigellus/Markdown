@@ -1,11 +1,5 @@
 # Description
 Pneumonia is one of the most common respiratory problems and it affects patients at all stages of life. It can be spread by droplets, and  aerosol inhalation, or result from interruptions in the respiratory microbiome. Pathogen growth and the immune response leads to damage of the lung parenchyma casuing pneumonia.
-(Note: the sources I used for this information are:
-https://www.merckmanuals.com/professional/pulmonary-disorders/pneumonia/overview-of-pneumonia?query=hospital%20acquired%20pneumonia%20hap
-https://www.merckmanuals.com/professional/pulmonary-disorders/pneumonia/community-acquired-pneumonia?query=pneumonia
-https://www.uptodate.com/contents/overview-of-community-acquired-pneumonia-in-adults?search=pneumonia&source=search_result&selectedTitle=4~150&usage_type=default&display_rank=4
-https://www.merckmanuals.com/professional/pulmonary-disorders/pneumonia/hospital-acquired-pneumonia?query=hospital%20acquired%20pneumonia%20hap
-https://www.merckmanuals.com/professional/pulmonary-disorders/interstitial-lung-diseases/overview-of-idiopathic-interstitial-pneumonias?query=hospital%20acquired%20pneumonia%20hap
 
 - [ ] **Pneumonia** is an **inflammation of the lung parenchyma** caused by various microorganisms, including bacteria, mycobacteria, fungi, and viruses.
 - [ ] **Pneumonitis** is a more general term that describes the **inflammatory process in the lung tissue** that may predispose and place the patient at risk for microbial invasion.
@@ -204,9 +198,7 @@ The type of pneumonia infections that are acquired 48 hours after being admitted
 [WRONG] Immunocompromised
 [WRONG] Aspiration
 
-removed Q5 - nurses wouldn't know this
-
-# Question 6
+# Question 5
 All of the following are common signs and symptoms of pneumonia except?
 
 [WRONG] Fever, with chills and/or rigors, 
@@ -214,7 +206,7 @@ All of the following are common signs and symptoms of pneumonia except?
 [RIGHT] Dyspnea at rest
 [WRONG] Pleuritic chest pain
 
-# Question 7
+# Question 6
 Which of the following is consistent with a pneumonia diagnosis?
 
 [RIGHT] Infiltrates on chest x-ray
@@ -222,7 +214,7 @@ Which of the following is consistent with a pneumonia diagnosis?
 [WRONG] Elevated red blood cell count
 [WRONG] Hypertension
 
-# Question 8 - change
+# Question 7
 Which labs findings would be consistent with a pneumonia diagnosis? Select all that apply:
 
 [RIGHT] Elevated ESR
@@ -230,7 +222,7 @@ Which labs findings would be consistent with a pneumonia diagnosis? Select all t
 [RIGHT] Leukocytosis
 [WRONG] BUN = 2.5 mg/dL
 
-# Question 9
+# Question 8
 What diagnostic tests are likely with pneumonia? Select all that apply:
 
 [RIGHT] Blood culture
@@ -238,7 +230,7 @@ What diagnostic tests are likely with pneumonia? Select all that apply:
 [WRONG] V/Q scan
 [RIGHT] Sputum stain
 
-# Question 10
+# Question 9
 While CAP would typically be seen before this time, HAP does not become likely until _____ hours after admission. 
 
 [RIGHT] 48
@@ -246,9 +238,7 @@ While CAP would typically be seen before this time, HAP does not become likely u
 [WRONG] 72
 [WRONG] 36
 
-Question 11 removed (combined with 10)
-
-# Question 12
+# Question 10
 Which of the following is not considered as pneumonia in the immunocompromised host?
 
 [RIGHT] Nosocomial pneumonia.
@@ -256,7 +246,7 @@ Which of the following is not considered as pneumonia in the immunocompromised h
 [WRONG] Pneumocystis pneumonia.
 [WRONG] Mycobacterium tuberculosis.
 
-# Question 13
+# Question 11
 What is the most common form of aspiration pneumonia?
 
 [RIGHT] Bacterial infection.
@@ -264,7 +254,7 @@ What is the most common form of aspiration pneumonia?
 [WRONG] Cocci infection.
 [WRONG] Antibiotic resistent infection.
 
-# Question 14
+# Question 12
 A patient was admitted to the intensive care unit 3 days ago for treatment of a gunshot wound. The patient has recently developed a productive cough and a fever of 104.3 'F. The patient is breathing on their own and doesn't require mechanical ventilation. On assessment, you note coarse crackles in the right lower lobe. A chest x-ray shows infiltrates with consolidation in the right lower lobe. Based on this specific patient scenario, what type of pneumonia do you expect?
 
 [WRONG] Aspiration pneumonia
@@ -272,7 +262,7 @@ A patient was admitted to the intensive care unit 3 days ago for treatment of a 
 [RIGHT] Hospital-acquired pneumonia
 [WRONG] Community-acquired pneumonia
 
-# Question 15
+# Question 13
 Which of the following patients are at risk for developing pneumonia? Select-all-that-apply:
  
 [RIGHT] A 53 year old female recovering from abdominal surgery.
@@ -280,7 +270,7 @@ Which of the following patients are at risk for developing pneumonia? Select-all
 [RIGHT] A 42 year old male with COPD and is on continuous oxygen via nasal cannula.
 [RIGHT] A 8 month old with RSV (respiratory syncytial virus) infection.
  
-# Question 16
+# Question 14
 A 72 year-old male patient who is diagnosed with bilateral lower lobe pneumonia is admitted to your unit. The patient has a history of systolic heart failure and arthritis. On assessment, you note the patient has a respiratory rate of 21, oxygen saturation 93% on 2L nasal cannula, is alert & oriented, and has a productive cough with green/yellowish sputum. Which of the following nursing interventions will you provide to this patient based on your assessment findings and the patient's diagnosis? Select-all-that-apply:
  
 [WRONG] Keep head-of-the-bed flat and lights dimmed to promote rest.
