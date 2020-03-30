@@ -27,7 +27,7 @@ You will need to create an account on AACN or use an existing account to login. 
 
 The second session will provide an overview of critical care for non-interventionists. The topic addressed in the sessions are:
 - [ ] COVID-19 Basics
-- [ ] Recognition and care of patients who are critically ill, hypotensive, in acute respirartory failure, or mechanically ventilated
+- [ ] Recognition and care of patients who are critically ill, hypotensive, in acute respiratory failure, or mechanically ventilated
 - [ ] COVID-19 unit workflow
 - [ ] Assessing patients' respiratory status
 - [ ] Ventilator basics
