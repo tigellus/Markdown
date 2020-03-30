@@ -4,7 +4,7 @@
 
 # Question 1
 Insertion of a nasopharyngeal airway is contraindicated in a patient with which condition?
-[WRONG]Pneumothorax
+[WRONG] Pneumothorax
 [WRONG] Pleural effusion
 [RIGHT] Severe facial injuries
 [WRONG] Perforated stomach
