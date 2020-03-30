@@ -1,6 +1,8 @@
 # Introduction
-![](assets/pneumothorax-lungs.png)
-This image is a hemothorax (blood) but content focuses on pneumothorax (air). See https://www.tabers.com/tabersonline/view/Tabers-Dictionary/762378/all/pneumothorax
+![](assets/normal-lungs.png)
+![](assets/pneumo1.png)
+![](assets/pneumo2.png)
+
 A pneumothorax is defined as a collection of air outside the lung but within the pleural cavity. It occurs when air accumulates between the parietal and visceral pleurae inside the chest. This is different from a hemothorax which results from blood collecting in the pleural cavity.  The air accumulation can apply pressure on the lung and make it collapse, impairing oxygenation and/or ventilation. The degree of collapse determines the clinical presentation of pneumothorax. Air can enter the pleural space by two mechanisms, either through the chest wall (parietal pleura) or from the lung (visceral pleura). There are two types of pneumothorax: traumatic and atraumatic. The two subtypes of atraumatic pneumothorax are primary and secondary. A primary spontaneous pneumothorax (PSP) occurs automatically without a known eliciting event, while a secondary spontaneous pneumothorax (SSP) occurs subsequent to an underlying pulmonary event. A traumatic pneumothorax can be the result of blunt or penetrating injury. Pneumothoraces can be even further classified as simple, tension, or open. A simple pneumothorax is an isloated pocket of air within the pleura that does not shift the mediastinal structures. A tension  pneumothorax occurs when a trapped pocket of air expands without ability to escape through the shest wall, causing increased pressure and shifting of the mediastinal structures including the heart. Open pneumothorax is an open wound in the chest wall through which air moves in and out of the pleura.  A tension pneumothorax is a critical event that progresses rapdily, reducing venous return to the heart, and requires immediate intervention.  The most common cause of a tension pneumothorax is mechanical ventilation.[1][2][3][4]
 
 # Etiology 
