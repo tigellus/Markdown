@@ -477,3 +477,11 @@ A 28-year old was admitted with sudden onset of breath while walking. He is a he
 [WRONG] The incidence is very high
 [RIGHT] It affects patients with extensive pneumothorax
 [WRONG] It occurs only with exudate but not transudate effusion evacuations
+
+# Question 30
+The healthcare provider is assisting during the insertion of a pulmonary artery catheter. Which of these, if assessed in the patient, would indicate the patient is experiencing a complication from the catheter insertion?
+
+[WRONG] Patient taking deeper breaths and that last longer during inspiration
+[WRONG] Excursion of the diaphragm by more than 3 cm
+[RIGHT] Tracheal deviation
+[WRONG] Vesicular breath sounds heard while auscultating

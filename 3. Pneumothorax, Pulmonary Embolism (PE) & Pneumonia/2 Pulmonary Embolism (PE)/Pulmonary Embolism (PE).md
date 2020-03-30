@@ -157,16 +157,7 @@ The focus of documentation should include:
 - Attainment or progress toward desired outcomes.
 - Modifications to plan of care.
 
-
-# Question 1 (this should be moved to the pneumothorax section).
-The healthcare provider is assisting during the insertion of a pulmonary artery catheter. Which of these, if assessed in the patient, would indicate the patient is experiencing a complication from the catheter insertion?
-
-[WRONG] Patient taking deeper breaths and that last longer during inspiration
-[WRONG] Excursion of the diaphragm by more than 3 cm
-[RIGHT] Tracheal deviation
-[WRONG] Vesicular breath sounds heard while auscultating
-
-# Question 2
+# Question 1
 What is the blockage of one of the pulmonary arteries in the lungs?
 
 [WRONG] Deep vein thrombosis
@@ -174,14 +165,14 @@ What is the blockage of one of the pulmonary arteries in the lungs?
 [WRONG] Hemothorax
 [WRONG] Pneumothorax
 
-# Question 3
+# Question 2
 What is the most usual cause of a pulmonary embolism?
 
 [RIGHT] Blood clots that travel to the lungs
 [WRONG] Pulmonary hypertension
 [WRONG] Traumatic injuries to the lungs
 
-# Question 4
+# Question 3
  The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most common sign of:
 
 [WRONG] Hemoptysis
@@ -189,7 +180,7 @@ What is the most usual cause of a pulmonary embolism?
 [WRONG] Cough
 [RIGHT] Tachypnea
 
-# Question 5
+# Question 4
 The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient include all except:
 
 [WRONG] Manage pain and anxiety
@@ -197,7 +188,7 @@ The following are nursing interventions to assist in the prevention of pulmonary
 [RIGHT] Compete bed rest
 [WRONG] Monitor thrombolytic therapy
 
-# Question 6
+# Question 5
 The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient include all except:
 
 [WRONG] Assist with active and passive leg exercises.
@@ -205,7 +196,7 @@ The following are nursing interventions to assist in the prevention of pulmonary
 [RIGHT] Monitor effectiveness of thrombolytic therapy through troponin and BNP levels.
 [WRONG] Use elastic stockings and sequential compression devices.
 
-# Question 7
+# Question 6
 Which of the following is a type of embolism?
 
 [WRONG] Burn emboli.
@@ -213,7 +204,7 @@ Which of the following is a type of embolism?
 [RIGHT] Fat emboli.
 [WRONG] Diabetic emboli.
 
-# Question 8
+# Question 7
 The following are diagnostic tests for a patient with pulmonary embolism except:
 
 [WRONG] ABG analysis
@@ -221,7 +212,7 @@ The following are diagnostic tests for a patient with pulmonary embolism except:
 [RIGHT] Pulmonary function tests
 [WRONG] V/Q scan
 
-# Question 9
+# Question 8
 All of the following are the possible complications in a patient with pulmonary embolism except?
 
 [WRONG] Right ventricular failure
@@ -229,7 +220,7 @@ All of the following are the possible complications in a patient with pulmonary 
 [RIGHT] Decreased pulmonary vascular resistance
 [WRONG] Cardiogenic shock
 
-# Question 10
+# Question 9
 Your patient is a 45 year old female 1 day post cholecystectomy.  She has been complainig of poor pain control, and has been resistant to ambulation.  Which nursing intervention should be your first priority?
 
 [WRONG] Ask the physician to order a PTT and INR.
