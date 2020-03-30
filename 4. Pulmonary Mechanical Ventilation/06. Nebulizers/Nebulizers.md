@@ -1,49 +1,35 @@
-# Nebulizer Introduction
 
-
-An N95 respirator is needed for Nebulizers as this is this an aerosolizing procedure.
-Do not use surgical mask.
-
-# Question 1
-When carrying out a Nebulizer treatment, which is an aerosolizing procedure, you must use:
-
-[RIGHT] An N95 respirator
-[WRONG] A surgical mask
-
-# Question 2
-Why must an N95 respirator be used for nebulizer treatments?
-
-[RIGHT] They are aerosolizing procedures
-[WRONG] It is standard precautions
-[WRONG] They are invasive procedures
-
-# Nebulized therapy
+# Nebulizer therapy
 
 ![](assets/nebulizer1.png)
 
-Handheld
-* Corticosteroids to fight inflammation
-* Bronchodilators to open airways
-* Delivery usually 5-10 minutes
+
+Instructional video: --- this is an ok video, but appears to have a pediatric focus- I'd recommend one that uses adults as examples
+https://youtu.be/idjeYf9C5IU
+
+Handheld or Mask Nebulizer Treatment 
+* Used to deliver medications directly into the respiratory system
+* Corticosteroids to reduce inflammation
+* Bronchodilators to aid in opening the airway
+* Delivery usually takes approx. 5-10 minutes
+* Ensure that the nebulizer chamber is held upright
+* May need to tap the nebulizer chamber to ensure all medication has been delivered
 * Instruct patient to take slow, deep breaths. Instruct patient
 if possible to hold each breath for 2 or 3 seconds so that
 the medication will be delivered to the airways.
 
-Instructional video:
-https://youtu.be/idjeYf9C5IU
-
 # Question 3
 Why are corticosteroids used?
 
-[RIGHT] To fight inflammation
-[WRONG] To open airways
+[RIGHT] To reduce inflammation
+[WRONG] To enhance opening of the airway
 [WRONG] To kill the COVID-19 virus
 
 # Question 4
 What are bronchodilators used for?
 
-[RIGHT] To open airways
-[WRONG] To fight inflammation
+[RIGHT] To enhance opening of the airway
+[WRONG] To reduce inflammation
 [WRONG] To thin mucus secretions
 
 # Question 5
@@ -76,4 +62,20 @@ How can a healthcare professional know when a nebulizer treatment is finished wh
 [WRONG] There will be mist in the bottom of the medicine cup
 [WRONG] The machine will alert by beeping
 
+# Nursing Considerations: Nebulizers
 
+An N95 respirator mask is needed when caring for patients receiving nebulizer therapy as this is this an aerosolizing procedure.
+Do not use surgical mask.
+
+# Question 8
+When carrying out a nebulizer treatment, nurses must use:
+
+[RIGHT] An N95 respirator
+[WRONG] A surgical mask
+
+# Question 9
+Why must an N95 respirator be used for nebulizer treatments?
+
+[RIGHT] They are aerosolizing procedures
+[WRONG] It is standard precautions
+[WRONG] They are invasive procedures
