@@ -32,6 +32,18 @@
 * Decreased pulmonary blood flow due to increased intrathoracic pressure compressing capillaries
 * Compression of heart between the lungs - decreasing stroke volume
 
+### Ventilator-associated lung injury (VALI)
+* Caused by over-stretching of the airways and alveoli.
+* Areas of the lung that are collapsed (atelectasis) or filled with secretions will be underinflated, while those areas that are relatively normal will be overinflated.
+* These areas will become overdistended and injured.
+* Preventing alveolar overdistension
+* Preventing cyclic atelectasis (atelectotrauma)
+
+### Ventilator-induced diaphragmatic dysfunction (VIDD)
+* Ventilatory muscle abnormalities induced by mechanical ventilatory strategies that suppress or eliminate spontaneous ventilatory muscle activity
+* Patients perform little or no work to receive ventilatory support. Ventilatory muscles thus receive virtually no neural stimulation and have virtually no muscle loading.
+* Prevent by adjusting level of unloading as fatigue recovery occurs
+
 # Question 1
 Which of the following can cause airway obstruction with mechanical ventilation?
 
