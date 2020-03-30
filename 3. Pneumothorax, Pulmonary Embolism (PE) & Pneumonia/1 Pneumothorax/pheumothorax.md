@@ -1,12 +1,12 @@
-The title of this document should be pneumothoraz.md
-This module only covers Pneumothorax.  I don't see anything on PA or pneumonia.  I think this is OK as it's not as relevant for COVID, so curious if we just need to be clear this is a single-topic module?
 # Introduction
-![](assets/pneumothorax-lungs.png)
-This image is a hemothorax (blood) but content focuses on pneumothorax (air). See https://www.tabers.com/tabersonline/view/Tabers-Dictionary/762378/all/pneumothorax
+![](assets/normal-lungs.png)
+![](assets/pneumo1.png)
+![](assets/pneumo2.png)
+
 A pneumothorax is defined as a collection of air outside the lung but within the pleural cavity. It occurs when air accumulates between the parietal and visceral pleurae inside the chest. This is different from a hemothorax which results from blood collecting in the pleural cavity.  The air accumulation can apply pressure on the lung and make it collapse, impairing oxygenation and/or ventilation. The degree of collapse determines the clinical presentation of pneumothorax. Air can enter the pleural space by two mechanisms, either through the chest wall (parietal pleura) or from the lung (visceral pleura). There are two types of pneumothorax: traumatic and atraumatic. The two subtypes of atraumatic pneumothorax are primary and secondary. A primary spontaneous pneumothorax (PSP) occurs automatically without a known eliciting event, while a secondary spontaneous pneumothorax (SSP) occurs subsequent to an underlying pulmonary event. A traumatic pneumothorax can be the result of blunt or penetrating injury. Pneumothoraces can be even further classified as simple, tension, or open. A simple pneumothorax is an isloated pocket of air within the pleura that does not shift the mediastinal structures. A tension  pneumothorax occurs when a trapped pocket of air expands without ability to escape through the shest wall, causing increased pressure and shifting of the mediastinal structures including the heart. Open pneumothorax is an open wound in the chest wall through which air moves in and out of the pleura.  A tension pneumothorax is a critical event that progresses rapdily, reducing venous return to the heart, and requires immediate intervention.  The most common cause of a tension pneumothorax is mechanical ventilation.[1][2][3][4]
 
-# Etiology (I made changes here to simply the list)
-Most common causes of a primary spontaneous pneumothorax
+# Etiology 
+#### Most common causes of a primary spontaneous pneumothorax
 
 - [ ] Smoking
 - [ ] Tall, underweight young adults (most commonly males) who are otherwise healthy
@@ -14,7 +14,8 @@ Most common causes of a primary spontaneous pneumothorax
 - [ ] Marfan syndrome
 - [ ] Familial or previous pneumothorax
 
-Most common causes of a secondary spontaneous pneumothorax
+#### Most common causes of a secondary spontaneous pneumothorax:
+
 Disease Processes
 - [ ] COPD
 - [ ] Asthma
@@ -22,11 +23,13 @@ Disease Processes
 - [ ] Pulmonary fibrosis
 - [ ] Severe Acute Respiratory Distress Syndrome (ARDS)
 - [ ] Inhalational drug use like cocaine or marijuana
+
 Medical interventions
 - [ ] Pleural biopsy or aspiration
 - [ ] Central venous catheter insertion
 - [ ] Tracheostomy
 - [ ] Positive pressure ventilation
+
 Trauma
 - [ ] Penetrating or blunt trauma to the chest
 - [ ] Rib fracture
@@ -174,11 +177,11 @@ If the patient is discharged from the hospital after a resolved pneumothorax, re
 The management of a pneumothorax is often done by the emergency department physician. In some cases, the disorder may be managed by the ICU staff and the thoracic surgeon. The care of patients who have a chest tube is done by the nurse. All nurses who manage patients with a chest tube should know how a chest drain functions. Patients need to be examined every shift and the patency of the chest tube is important. Patients with small pneumothorax can be observed if they have no symptoms. If discharged the patient should be seen within 24 hours.
 ### Chest Drainage
 This image below shows the basic function ad setup of a water-seal chest drainage system.  
-![](http://sinaiem.org/wp-content/uploads/2016/07/image020.jpg)
+![](assets/itct1.png)
 
 ### Disposable water-seal systems
 This is an example of a disposable pleural drainage system that uses the principles of the water-seal system shown above
-![](http://sinaiem.org/wp-content/uploads/2016/07/8999tn.jpg)
+![](assets/waterseal.png)
 
 # Question 1
 All of the following are causes of pneumothorax EXCEPT:
@@ -233,14 +236,6 @@ Which of the following is not a sign or symptom of pneumothorax?
 [WRONG] Jugular venous distension
 [RIGHT] Bradypnea
 
-# Question 7 There is not content in this module about chest tube management - need content if we are going to test them.
-The healthcare provider is caring for a patient who has a pneumothorax. When assessing the patient and the chest tube drainage system, a large fibrin clot is noted in the tubing. Which additional assessment finding requires immediate action by the healthcare provider?
-
-[WRONG] Increasing pain at the insertion point
-[RIGHT] Downward trend in blood pressure
-[WRONG] Less water in the water chamber
-[WRONG] The level of water in the chamber going up and down
-
 # Question 8
 Which of the following is a sign or symptom of pneumothorax?
 
@@ -263,7 +258,7 @@ The presence of air or gas in the pleural cavity is known as what?
 [RIGHT] Pneumothorax
 [WRONG] Pneumoconiosis
 
-# Question 11 Are the order of the questions randomized?  The correct answer should be moved around in order rather than always being first.
+# Question 11 Are the order of the questions randomized?
 How does air accumulation in the pleural cavity affect the lungs?
 
 [RIGHT] The lungs collapse and vital capacity increases
@@ -312,28 +307,24 @@ A collection of blood in the pleural space is known as what?
 [WRONG] Pneumothorax
 [WRONG] Pleural effusion
 
-# Question 18 (this is not covered in the learning material - should be removed, or content added)
-Hemothorax is a frequent consequence of what?
-
-[RIGHT] Traumatic thoracic injuries
-[WRONG] Exposure to fungal spores
-[WRONG] Acute bronchial infection
-
-# Question 19 (need to edit)
+# Question 19 
+[comment]: <> (needs edit)
 What is the preferred method of evaluation for intrathoracic injuries?
 
 [RIGHT] CT scan
 [WRONG] MRI
 [WRONG] Oblique chest x-ray
 
-# Question 20 (need to edit)
+# Question 20 
+[comment]: <> (needs edit)
 What diagnostic test can be used at a patient’s bedside for triage and identification of life-threatening injuries?
 
 [RIGHT] Point-of-care ultrasound
 [WRONG] CT scan
 [WRONG] Chest x-ray
 
-# Question 21 (need to edit)
+# Question 21
+[comment]: <> (needs edit)
 Management of a pneumothorax depends on what?
 
 [RIGHT] Clinical presentation
@@ -395,9 +386,7 @@ A 65-year-old male patient with a history of emphysema presents to the hospital 
 [RIGHT] Needle decrompression
 [WRONG] Extended focused abdominal sonography for trauma (E-FAST)
 
-Deleted questions 29-30 as they went far beyond expected nursing understanding of pneumothorax
-
-# Question 31
+# Question 29
 A 65-year-old male patient with a history of chronic obstructive pulmonary disease (COPD) controlled on inhaled corticosteroids presents to the hospital complaining of sudden onset dyspnea and left-sided pleuritis type chest pain. A chest radiograph is performed which shows a 1.5 cm large area of air on the left side without lung markings. On aspiration, it reduces to 0.75 cm. What is the most appropriate next step in management?
 
 [RIGHT] Admit overnight for oxygen supplementation
@@ -405,9 +394,7 @@ A 65-year-old male patient with a history of chronic obstructive pulmonary disea
 [WRONG] Admit for chest drain insertion
 [WRONG] Repeat aspiration
 
-Questions 32-33 are not covered in the learning content, and beyond the expected nursing understanding of pneumothorax
-
-# Question 34
+# Question 30
 A patient with a pneumothorax would have which of the following?
 
 [WRONG] Some breath sounds in the affected lung field
@@ -415,7 +402,7 @@ A patient with a pneumothorax would have which of the following?
 [WRONG] Stridor in the unaffected lung field
 [WRONG] Dullness to percussion
 
-# Question 35
+# Question 31
 A patient suffered a stab wound that damaged the pleura allowing air into the pleural space. What is the correct term for this?
 
 [WRONG] Tension pneumothorax
@@ -423,10 +410,7 @@ A patient suffered a stab wound that damaged the pleura allowing air into the pl
 [WRONG] Iatrogenic pneumothorax
 [WRONG] Primary pneumothorax
 
-Q36 goes beyond what was covered in the content and expected of nurse understanding
-
-Proposed additional question
-# Question 37
+# Question 32
 A 28-year old was admitted with sudden onset dyspnea while walking. He is a heavy smoker. Chest x-ray reveals a 90% pneumothorax on the right side. The emergency room resident placed a size 32F chest tube to evacuate the pneumothorax. An hour later the patient complained of severe shortness of breath and his pulse oximeter revealed oxygen saturation of 82%. Examination finds distended neck veins, distant heart sounds, and hypotension. What is the most likely diagnosis?
 
 [WRONG] It only occurs in elderly people
@@ -434,7 +418,7 @@ A 28-year old was admitted with sudden onset dyspnea while walking. He is a heav
 [RIGHT] It affects patients with extensive pneumothorax
 [WRONG] It occurs only with exudate but not transudate effusion evacuations
 
-# Question 30
+# Question 33
 The healthcare provider is assisting during the insertion of a pulmonary artery catheter. Which of these, if assessed in the patient, would indicate the patient is experiencing a complication from the catheter insertion?
 
 [WRONG] Patient taking deeper breaths and that last longer during inspiration

@@ -38,7 +38,7 @@ When should Low-flow Oxygen Delivery Systems be used?
 [WRONG] For patients that need supplemental oxygen and have variable respiratory effort
 
 # Question 2
-Question: An ascending ranking of non-aerosolized oxygen delivery systems by flow rate is: -- this question doesn't fit if we make the proposed changes above
+Question: An ascending ranking of low-flow oxygen delivery systems by flow rate is:
 
 [RIGHT] Low Flow Nasal Cannula, Simple Face Mask, Humidified High Flow Mask, Venturi Style Mask, Reservoir Mask
 [WRONG] Low Flow Nasal Cannula, Simple Face Mask, Venturi Style Mask, Humidified High Flow Mask, Reservoir Mask
@@ -46,7 +46,7 @@ Question: An ascending ranking of non-aerosolized oxygen delivery systems by flo
 [WRONG] Low Flow Nasal Cannula, Simple Face Mask, Humidified High Flow Mask, Reservoir Mask, Venturi Style Mask
 
 # Question 3
-What are the nursing implications of using non-aerosolized oxygen delivery systems? -- this question doesn't fit if we make the proposed changes above
+What are the nursing implications of using low flow oxygen delivery systems? 
 
 [RIGHT] Patients’ airway dries, secretions thicken, coughing up is harder, infection risk increases
 [WRONG] Patients’ airway dries, secretions thin, coughing up is easier, infection risk decreases
@@ -54,7 +54,7 @@ What are the nursing implications of using non-aerosolized oxygen delivery syste
 [WRONG] Patients’ airway dries, secretions thin, coughing up is harder, infection risk decreases
 
 # Question 4
-What are the key benefits of a High Flow Nasal Cannula (HFNC)?
+What are the nursing implications of a High Flow Nasal Cannula (HFNC)?
 
 [WRONG] Does not require the patient to have respiratory drive
 [RIGHT] Provides more predictable and precise delivery of FiO2

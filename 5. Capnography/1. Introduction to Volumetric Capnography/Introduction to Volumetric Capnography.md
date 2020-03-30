@@ -19,7 +19,8 @@ There are two distinct types of capnography: Conventional, **time-based capnogra
 
 In short, volumetric capnography is a valuable tool to improve the ventilation quality and efficiency for your ventilated patients.
 
-[Here's an additional video explaining the basics of capnography](https://www.youtube.com/watch?v=_KKliTT3DSo)
+Here's an additional video explaining the basics of capnography:
+[embed](https://www.youtube.com/watch?v=_KKliTT3DSo)
 
 # Question 1
 Capnography is used for all of the following reasons EXCEPT:

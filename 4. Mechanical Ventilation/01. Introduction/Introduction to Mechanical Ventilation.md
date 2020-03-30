@@ -3,20 +3,19 @@
 Welcome to **Mechanical Ventilation** course! The course follows the structure below.
 
 1. Oxygenation and Ventilation
-2. Respiratory Decompensation 
+2. Respiratory Decompensation & Failure
 3. Non-invasive positive pressure ventilation (NPPV)
 4. Supplemental Oxygen Delivery System & Treatments
 5. Nebulizers
 6. Arterial Blood Gasses 
-7. Types of Ventilators
-8. Routes & Modes of Mechanical Ventilation
+8. Settings & Modes of Mechanical Ventilation
 9. ETT & Intubation
 10. Identifying Ventilator Needs
 11. Troubleshooting the Ventilator
 12. Complications
 13. Issues in Nursing Management
 14. Nursing Interventions
-15. Mechanical Ventilation Weaning
+15. Weaning
 
 
 The course will consist of:
@@ -32,9 +31,9 @@ If you have not received information on how to access the Instructor-led lesson 
 
 Watch the following videos on OR ventilator basics.
 
-[Go to first video lecture](https://www.youtube.com/watch?v=v2VKYq4OU9c&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=2)
+[embed](https://www.youtube.com/watch?v=v2VKYq4OU9c&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=2)
 
-[Go to second video lecture](https://www.youtube.com/watch?v=CZZW7uLXtpE&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=4)
+[embed](https://www.youtube.com/watch?v=CZZW7uLXtpE&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=4)
 
 
 # Mechanical Ventilation Recap & Case Studies

@@ -29,3 +29,52 @@ Volumetric CO2 provides continuous monitoring to detect derecruitment and recrui
 Alveolar ventilation and V‘CO2 will first decrease if the lung derecruits, and will then stabilize again at equilibrium.
 
 Recruitment, during, for example,a PEEP increase, can be detected by short V‘CO2 peaks before V‘CO2 returns to equilibrium.
+
+# Question 1
+Most capnography systems measure end tidal CO2 using:
+
+[WRONG] Mass spectrometry
+[WRONG] Magnetic resonance
+[RIGHT] Infrared absorption
+[WRONG] Carbon dioxide sensitivity
+
+# Question 2
+As a person exhales:
+
+[RIGHT] The alveoli empty at varied rates and degrees
+[WRONG] The alveoli in the apices empty first followed by the alveoli in the dependent regions
+[WRONG] The alveoli that are more compliant empty first
+[WRONG] The alveoli empty equally, regardless of location
+
+# Question 3
+In the normal patient the ETCO2 reading will be within _____ mmHg of the PaCO2.
+
+[WRONG] 1-3
+[RIGHT] 3-10
+[WRONG] 5-15
+[WRONG] 10-20
+
+# Question 4
+When using capnography, it is unnecessary to do an arterial blood gas.
+
+[WRONG] True
+[RIGHT] False
+
+# Question 5
+A normotensive patient has just been intubated and the monitor is reading a PetCO2 of
+3mmHg. This would indicate:
+
+[RIGHT] An esophageal intubation
+[WRONG] Normal Function
+[WRONG] Increased shunt
+[WRONG] Cardiopulmonary instability
+
+# Question 6
+The End Tidal CO2 reatding appears to be normal but the reading varies by 15 from the
+PaCO2.  What are the possible causes? A.  Bronchospasm B. Pulmonary Emboli C. V/Q
+mismatch
+
+[RIGHT] A, B, C
+[WRONG] A only
+[WRONG] B only
+[WRONG] A and C

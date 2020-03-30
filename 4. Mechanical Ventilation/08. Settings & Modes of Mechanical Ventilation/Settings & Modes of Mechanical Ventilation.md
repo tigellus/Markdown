@@ -1,27 +1,40 @@
+# Types of Mechanical Ventilators 
 
-# Ventilator Circuit Components
-![](assets/circuit.png)
+Mechanical ventilation is indicated for patients with respiratory failure who are unable to maintain adequate gas exchange.
+Mechanical ventilators deliver positive pressure using a number of settings within a specified overall mode.
 
-# Routes
+# Mechanical Ventilator Settings 
+Mechanical ventilators can be programed to deliver a number of specific settings. Keep in mind that not all modes use all of the following settings.
+* FiO2: fraction of inspired oxygen (percentage of oxygen delivered)
+* RR/f: respiratory rate or frequency (number of breaths delivered per minute by the ventilator)
+* Vt: tidal volume (size of each breath)
+* PS: pressure support (amount of pressure delivered with each breath)
+* PEEP: Positive End Expiratory Pressure (additional positive pressure provided at the end of expiratio to keep alveoli open)
+* I:E ratio: Inspiratory/Expiratory ratio, or the duration of inhalation compared to exhalation
 
-* Endotracheal
-* Nasotracheal
-* Tracheostomy
-* Cricoidotomy
+# Measured Values
+* PIP – Peak Inspiratory Pressure
+* PEEP – Positive End Expiratory Pressure (Measured)
+* I:E – Inspiratory to Expiratory Ratio 
+* F(tot) – Total respiratory rate, mechanical and spontaneous
+* Vt(e) – Measurement of Exhaled tidal volume
+* Ve(tot) – Total Minute Volume (Ftot X Vte)
 
-![](assets/endotube.png)
+# Modes of Mechanical Ventilators
 
-![](assets/trachtube.png)
+The "mode" describes the ventilator's general relationship with the patient. Settings can vary within a mode. Modes can be pressure targetted or volume targetted and the level of support can vary from mode to mode. In some modes, the ventilator does all of the work of breathing, while other modes can require the patient to do more work of breathing.
 
-# Question 1
-Which of the following is an urgent route for mechanical ventilation?
+### Volume Targetted
+* Preset volume of gas (tidal volume or "Vt") is predetermined and delivered despite the amount of pressure generated
 
-[RIGHT] Cricoidotomy
-[WRONG] Endotracheal
-[WRONG] Nasotracheal
-[WRONG] Tracheal-Tracheostomy
+### Pressure Targetted
+* Preset pressure of gas delivery is predetermined
+* Gas flow to patient ceases when pressure reaches preset level
+* May mean that patient does not receive targeted
+tidal volume
 
-# Modes of Ventilation
+# Select modes 
+All of these modes will include a pre-set PEEP and FiO2, from there, the additional support may be provided depending on the mode
 
 ### Control Mandatory Ventilation (CMV)
 * Preset tidal volume and respiratory rate
@@ -35,10 +48,11 @@ Which of the following is an urgent route for mechanical ventilation?
 * Requires sedation/paralysis
 
 ### A/C – Assist Control
+* Volume targetted mode
 * Each breath is either “Assisted” or “Controlled”
-* Preset tidal volume and respiratory rate
+* Provides a predetermined set number of breaths (RR), each with a pre-set tidal volume (Vt). 
 * Controlled breaths are determined by the rate or frequency (“f”) that is set.
-* Assisted breaths that are triggered by the patient (spontaneous) are supported with the pre-set tidal volume
+* The patient may take additional breaths above the pre-set number (RR setting), and those additional breaths will be supported by the preset tidal volume as well.
 
 #### Advantages
 * Patient is guaranteed a set number of breaths
@@ -50,9 +64,10 @@ Which of the following is an urgent route for mechanical ventilation?
 * Respiratory alkalosis (if patient takes too many spontaneous breaths, all of those are supported with the pre-set tidal volume)
 
 ### Synchronized Intermittent Mandatory Ventilation (SIMV)
+* Volume targetted mode
 * Combines spontaneous breathing with mechanical ventilatory support
-* Preset respiratory rate and tidal volume
-* If patient takes any breaths above the pre-set rate, those breaths are not supported by the pre-set tidal volume (patient effort determines tidal volume)
+* Provides a predetermined set number of breaths (RR), each with a preset tidal volume (Vt).
+* The patient may take additional breaths above the pre-set number (RR setting), however, those additional breaths will NOT be supported by the preset tidal volume- the volume of these breaths will be determined by patient effort
 
 #### Advantages
 * Synchronized respirations – less stacking and air trapping
@@ -65,8 +80,10 @@ Which of the following is an urgent route for mechanical ventilation?
 * Fatigue of respiratory muscles can occur due to increased work of breathing placed on the patient
 
 ### Pressure Support Ventilation (PSV)
-* Pressure-assisted form of mechanical ventilation
-* Augments patient’s own spontaneous efforts- patient triggers all breaths, no pre-set respiratory rate
+* Pressure targetted mode
+* Provides a preset pressure when a patient "triggers" the ventilator (demonstrates inspiratory effort). 
+* There is NO pre-set respiratory rate or tidal volume. 
+* The patient will determine their own respiratory rate, but each effort to take a breath will be supported by a set pressure amount.
 
 #### Advantages
 * Patient controls inspiratory timing
@@ -102,6 +119,31 @@ Which of the following is an urgent route for mechanical ventilation?
 #### Disadvantages
 * Limited use – requires technical support and experience
 * Can require more sedation and patient may need neuromuscular paralysis
+
+
+
+# Ventilator Circuit Components
+![](assets/circuit.png)
+
+# Routes
+
+* Endotracheal
+* Nasotracheal
+* Tracheostomy
+* Cricoidotomy
+
+![](assets/endotube.png)
+
+![](assets/trachtube.png)
+
+# Question 1
+Which of the following is an urgent route for mechanical ventilation?
+
+[RIGHT] Cricoidotomy
+[WRONG] Endotracheal
+[WRONG] Nasotracheal
+[WRONG] Tracheal-Tracheostomy
+
 
 # Question 2
 What characterizes Control Mechanical Ventilation (CMV)? 
@@ -148,12 +190,7 @@ What type of mechanical ventilation augments the patient’s own spontaneous bre
 [RIGHT] Pressure Support Ventilation (PSV)
 
 
-# Adjuncts to Mechanical Ventilation--> I don't know why this is titled this way? PEEP is not an adjunct, it's a ventilator setting (See my comments re ventilator settings in previous module)
-
-### Positive-End Expiratory Pressure (PEEP)
-* Airway pressure is maintained at end of expiration
-* Increases functional residual capacity (FRC) thus improving lung volume and promoting alveolar recruitment
-* Used for patients with refractory hypoxemia and bilateral lung disease
+# Adjuncts to Mechanical Ventilation
 
 #### Complications of Positive Pressure Ventilation
 * Reduced cardiac output due to increased intrathoracic pressure
@@ -222,31 +259,6 @@ Which mode of ventilation allows the patient to breathe spontaneously at his or 
 [RIGHT] Synchronous Intermittent Mandatory Ventilation
 [WRONG] Assist Control Mode
 [WRONG] Pressure Control Mode
-
-
-# Ventilation Settings (I accidentally included these in the module before! can be moved here or deleted-- however, in my opinion, this needs to be introduced BEFORE modes so that modes make more sense)
-
-* f – Frequency or Rate (breaths/minute)
-* Vt – Tidal Volume (amount of air/gas in mL that is inhaled per breath)
-* FiO2 – Fraction of Inspired Oxygen, is the percentage of oxygen that is being delivered
-* PEEP – Positive End Expiratory Pressure, amount of positive pressure applied at the end  expiration
-
-# Measured Values
-* PIP – Peak Inspiratory Pressure
-* PEEP – Positive End Expiratory Pressure (Measured)
-* I:E – Inspiratory to Expiratory Ratio (this is a ratio and not a measurement of time i.e. seconds) (see my explanation on prior module)
-* F(tot) – Total respiratory rate, mechanical and spontaneous
-* Vt(e) – Measurement of Exhaled tidal volume
-* Ve(tot) – Total Minute Volume (Ftot X Vte)
-
-# Procedural Buttons
-
-* 100% FiO2 – Increases FiO2 to 100% for two minutes and then returns back to pre-set FiO2
-    * Commonly used prior to suctioning the patient
-* Inspiratory Pause – breath hold at the peak of inspiration
-    * Used to determine Plateau Pressure as well as Static and Dynamic Compliance
-* Expiratory Pause – breath hold at the end of expiration
-    *Used to determine Intrinsic PEEP or AutoPEEP
 
 # Question 15
 Minute ventilation is equal to
@@ -323,3 +335,16 @@ How does Synchronized Intermittent Mandatory Ventilation (SIMV) differ from Assi
 [RIGHT] SIMV allows the patient to control the tidal volume of spontaneous breaths
 [WRONG] A/C does not allow spontaneous breaths
 [WRONG] SIMV delivers the same tidal volume for both spontaneous and ventilator-initiated breaths.
+
+# Question 25
+What differentiates Volume targetted and Pressure targetted modes of ventilation?
+
+[RIGHT] Volume targetted ventilation has a predetermined tidal volume, Pressure targetted modes cease gas flow when pressure reaches the preset level
+[WRONG] Pressure targetted ventilation has a predetermined tidal volume, Volume targetted modes begin gas flow when pressure reaches the preset level
+
+# Question 26
+A ventilator mode with a preset volume of gas that is delivered despite the amount of pressure generated is known as what?
+
+[WRONG] Manual targetted
+[WRONG] Pressure targetted
+[RIGHT] Volume targetted
