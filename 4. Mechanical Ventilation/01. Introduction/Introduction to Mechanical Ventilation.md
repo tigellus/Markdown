@@ -1,7 +1,6 @@
 # Course Structure
 
-Welcome to **Pulmonary Mechanical Ventilation** course! The course follows the structure below.
-note: typically this is just referred to as "mechanical ventilation" "pulmonary mechanical ventilation" could sound redundant
+Welcome to **Mechanical Ventilation** course! The course follows the structure below.
 
 1. Oxygenation and Ventilation
 2. Respiratory Decompensation 
@@ -28,6 +27,13 @@ The course will consist of:
 # Instructor-led lesson
 Please attend the instructor-led session. Continue the course once you completed the session.
 If you have not received information on how to access the Instructor-led lesson please contact your course responsible.
+
+# OR Ventilator Basics
+
+Watch the following video on OR ventilator basics.
+
+[Go to the video lecture](https://www.youtube.com/watch?v=v2VKYq4OU9c&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=2)
+
 
 # Mechanical Ventilation Recap & Case Studies
 
