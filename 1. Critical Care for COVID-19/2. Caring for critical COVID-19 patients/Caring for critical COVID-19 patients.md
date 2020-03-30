@@ -7,7 +7,7 @@ The spectrum of symptomatic COVID-19 infection ranges from mild to critical; mos
 - *Critical* (eg, with respiratory failure, shock, or multiorgan dysfunction) was reported in 5 percent.
 
 
-# Caring for critical COVID-19 patients
+# Caring for critical COVID-19 patients Pt. 1
 
 The first session will focus on caring for patients affected by COVID-19.
 
@@ -22,3 +22,14 @@ Topics addressed in the session:
 You will need to create an account on AACN or use an existing account to login. After that, take the **COVID-19 Pulmonary Resources** course.
 
 [Go to the video lecture](https://www.aacn.org/education/online-courses/covid-19-pulmonary-ards-and-ventilator-resources?sc_camp=D89A9158E9C34910A638BAF9931DE4F0&_zs=s8ESX&_zl=ewR22)
+
+# Caring for critical COVID-19 patients Pt. 2
+
+The second session will provide an overview of critical care for non-interventionists. The topic addressed in the sessions are:
+- [ ] COVID-19 Basics
+- [ ] Recognition and care of patients who are critically ill, hypotensive, in acute respirartory failure, or mechanically ventilated
+- [ ] COVID-19 unit workflow
+- [ ] Assessing patients' respiratory status
+- [ ] Ventilator basics
+
+[Go to the video lecture](https://www.youtube.com/watch?v=UaZw_ENCyf0&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG)
