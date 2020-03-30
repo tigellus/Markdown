@@ -1,5 +1,5 @@
 # Bag-valve–mask ventilation
-You can use a bag-valve–mask device to manually ventilate a patient whose respirations are absent or inadequate. Ideally, two rescuers should work together on an adult.
+You can use a bag-valve–mask device to manually ventilate a patient whose respirations are absent or inadequate. Ideally,two rescuers should work together on an adult.
 
 ## DO
 * Lower the head of the bed, remove any pillows, and place the patient supine.

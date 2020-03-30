@@ -33,7 +33,7 @@ Which change in acute respiratory distress syndrome (ARDS)is caused by damage to
 * Surfactant decreases surface tension in the lungs. Therefore, the alveolar sacs will stay stable when a person exhales (hence the sac won’t collapse). With the decrease in surfactant production during ARDS, alveolar sacs can easily collapse, causing atelectasis.
 
 # Question 4
- Which finding on the chest x-ray is indicative of ARDS?
+Which finding on the chest x-ray is indicative of ARDS?
 
 [WRONG] Infiltrates in the upper lobes
 [WRONG] Enlargement of the heart with bilateral lower lobe infiltrates

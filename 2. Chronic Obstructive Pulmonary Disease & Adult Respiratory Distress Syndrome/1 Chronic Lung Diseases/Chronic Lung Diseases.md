@@ -1,21 +1,55 @@
-# Risk Factors
+# Definition
+* Chronic Obstructive Pulmonary Disease (COPD) is a condition of chronic dyspnea with expiratory airflow limitation that does not significantly fluctuate
+* COPD is the fourth leading cause of death in the United States
+* It is also known as chronic obstructive lung disease (COLD)
+* The Global Initiative for Chronic Obstructive Lung Disease defines it as “a preventable and treatable disease with some significant extrapulmonary effects that may contribute to the severity in individual patients”
+* There are two classifications of COPD: chronic bronchitis and emphysema. These two types of COPD can have overlapping signs and symptoms
+* The primary cause of the obstruction may vary; examples include airway inflammation that narrow or blocks airflow, mucous secretion that blocks airways, and alveolar wall destruction.
 
 # Question 1
-Which factors increase a person's risk for COPD?
+As a cause of death in the United States, COPD ranks:
 
-[RIGHT] Cigarette smoking, chronic respiratory infections, and occupational/environmental exposure
-[WRONG] History of pneumonia, chronic sinus infections, and allergies
-[WRONG] Traumatic pneumothorax, poor diet, and obesity
+[WRONG] Second
+[WRONG] Third
+[RIGHT] Fourth
+[WRONG] Fifth
+
+* COPD is the fourth leading cause of death in the United States
 
 # Question 2
-Which examples of occupational and environmental exposures contribute to development of COPD?
+Which two diseases are included in categories of COPD?
 
-[RIGHT] Dust, chemicals, and fumes
-[WRONG] Heat, physical activity, and sun exposure
-[WRONG] Poor ergonomics, toxic chemicals, and heat
+[WRONG] Asthma and atelectasis
+[RIGHT] Chronic bronchitis and emphysema
+[WRONG] Pneumonia and pleurisy
+[WRONG] Tuberculosis and pleural effusion
 
+* Chronic bronchitis and emphysema belong to the old classification of COPD. Asthma may be one of the chronic pulmonary diseases but atelectasis is not. Pneumonia and pleurisy are not classified under the COPD. Tuberculosis and pleural effusion are not chronic pulmonary diseases.
 
-# Emphysema
+# Question 3
+Which factor is involved in the underlying pathophysiology of COPD?
+
+[WRONG] Inflamed airways that obstruct airflow
+[WRONG] Mucus secretion that blocks airways
+[WRONG] Alveolar wall destruction
+[RIGHT] Variations in all of the above
+
+* Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD. Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature. Hypersecretion occurs due to the increase in the number of goblet cells. Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil.
+
+# Question 4
+In a patient with COPD, where does the abnormal inflammatory response occur?
+
+[WRONG] Airways
+[WRONG] Lung parenchyma
+[WRONG] Pulmonary vasculature
+[RIGHT] All of the above areas
+
+* The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD. 
+
+# Emphysema -  Pathological Diagnosis
+
+An abnormal distention of airspaces beyond the terminal bronchioles and destruction of the walls of the alveoli
+* Patients with Emphysema, often referred to as "Pink Puffers," tend to be thin, cachetic persons with marked shortness of breath. Decreased lung compliance leads to increased work of breathing and dyspnea.
 
 ### Pathology
 * Airway obstruction
@@ -88,8 +122,28 @@ Which condition is NOT considered a category of COPD?
 [WRONG] Emphysema
 [WRONG] Chronic bronchitis
 
+# Question 5
+Which environmental risk factor is most important in development of emphysema?
 
-# Chronic Bronchitis
+[WRONG] Air pollution
+[WRONG] Allergens
+[WRONG] Infectious agents
+[RIGHT] Cigarette smoking
+
+* Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
+
+# Question 15
+The most important environmental risk factor in emphysema is:
+
+[WRONG] Air pollution
+[WRONG] Allergens
+[WRONG] Infectious agents
+[RIGHT] Cigarette smoking
+
+
+# Chronic Bronchitis - Clinical Diagnosis
+A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
+* Patients with Chronic Bronchitis, often referred to as "Blue Bloaters," tend to be large persons with cyanosis, edema, and relatively little dyspnea.
 
 ### Pathology
 * Thickened bronchial walls
@@ -131,6 +185,20 @@ Which condition is NOT considered a category of COPD?
 * A-protease inhibitor deficiency
 
 COPD gradually worsens. HOWEVER, early detection, treatment and modification of risk factors can alter the disease course.
+
+# Question 1
+Which factors increase a person's risk for COPD?
+
+[RIGHT] Cigarette smoking, chronic respiratory infections, and occupational/environmental exposure
+[WRONG] History of pneumonia, chronic sinus infections, and allergies
+[WRONG] Traumatic pneumothorax, poor diet, and obesity
+
+# Question 2
+Which examples of occupational and environmental exposures contribute to development of COPD?
+
+[RIGHT] Dust, chemicals, and fumes
+[WRONG] Heat, physical activity, and sun exposure
+[WRONG] Poor ergonomics, toxic chemicals, and heat
 
 # Question 6
 Chronic bronchitis is characterized by:
@@ -183,43 +251,3 @@ Which of the following conditions require a higher PEEP to be applied in recruit
 [RIGHT] Acute Respiratory Distress Syndrome
 [WRONG] Bronchietasis
 [WRONG] Emphysema
-
-# Question 11
-As a cause of death in the United States, COPD ranks:
-
-[WRONG] Second
-[WRONG] Third
-[RIGHT] Fourth
-[WRONG] Fifth
-
-# Question 12
-Two diseases common to the etiology of COPD are:
-
-[WRONG] Asthma and atelectasis
-[RIGHT] Chronic bronchitis and emphysema
-[WRONG] Pneumonia and pleurisy
-[WRONG] Tuberculosis and pleural effusion
-
-# Question 13
-The underlying pathophysiology of COPD is:
-
-[WRONG] Inflamed airways that obstruct airflow
-[WRONG] Mucus secretion that blocks airways
-[WRONG] Alveolar wall destruction
-[RIGHT] Characterized by variations in all of the above
-
-# Question 14
-The abnormal inflammatory response in the lungs occurs primarily in the:
-
-[WRONG] Airways
-[WRONG] Parenchyma
-[WRONG] Pulmonary vasculature
-[RIGHT] Areas identified in all of the above
-
-# Question 15
-The most important environmental risk factor in emphysema is:
-
-[WRONG] Air pollution
-[WRONG] Allergens
-[WRONG] Infectious agents
-[RIGHT] Cigarette smoking

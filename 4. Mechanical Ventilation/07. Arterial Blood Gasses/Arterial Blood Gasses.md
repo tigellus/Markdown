@@ -504,10 +504,7 @@ A 54 year old male with a history of chronic obstructive pulmonary disease and w
 [WRONG] Partially compensated metabolic Acidosis
 [WRONG] Uncompensated Metabolic alkalosis
  
-This patient has a low a pH so immediately think "acidosis."
-The PaCO2 is high which reflects acidosis-- therefore, it can be determined that the cause of the low pH is respiratory.
-Also based on the clinical presentation we can imagine that due to crackles and wheezes and the yellow sputum we can imagine that this pt is not ventilating efficiently and therefore building up CO2 in the blood.
-The HCO3- is elevated, reflecting alkalosis (the opposite direction of the problematic pH), thus this reflects partial compensation because the pH is still abnormal. The patient's low PaO2 is also cause for concern- representing hypoxemia.
+* This patient has a low a pH so immediately think "acidosis." The PaCO2 is high which reflects acidosis-- therefore, it can be determined that the cause of the low pH is respiratory. Also based on the clinical presentation we can imagine that due to crackles and wheezes and the yellow sputum we can imagine that this pt is not ventilating efficiently and therefore building up CO2 in the blood. The HCO3- is elevated, reflecting alkalosis (the opposite direction of the problematic pH), thus this reflects partial compensation because the pH is still abnormal. The patient's low PaO2 is also cause for concern- representing hypoxemia.
  
 # Question 21
 A 10 year old male was rushed to the hospital due to vomiting and a decreased level of consciousness. The patient displays fast and deep respirations (Kussmaul breathing). The patient is lethargic and irritable in response to stimulation. He appears to be dehydrated—his eyes are sunken and mucous membranes are dry—and he has a two week history of polydipsia, polyuria, and weight loss. ABG results are: pH 7.1, PaO2 90 mm Hg, PaCO2 23 mm Hg, and HCO3 12 mmol/L.
@@ -518,7 +515,7 @@ Which best reflects this patient's acid base disturbance?
 [WRONG] Mixed acidosis
 [RIGHT] Partially compensated metabolic acidosis
  
-Considering the age of this patient as wel as his accompanying symptoms, the most likely cause is diabetic ketoacidosis. Kussmaul breathing demonstrates the patient's respiratory system attempting to compensate for the acidosis.
+* Considering the age of this patient as wel as his accompanying symptoms, the most likely cause is diabetic ketoacidosis. Kussmaul breathing demonstrates the patient's respiratory system attempting to compensate for the acidosis.
  
 # Question 22
 A 54 year old female arrived to the hospital with a left femur fracture and presents with tachycardia and tachypnea. The patient anxiously reports that she is still in pain and now experiencing muscle cramps, tingling, and paraesthesia. ABG results are: pH 7.6, PaO2 120 mm Hg, PaCO2 31 mm Hg, and HCO3 25 mmol/L. Which best reflects this patient's acid base disturbance?
@@ -528,7 +525,7 @@ A 54 year old female arrived to the hospital with a left femur fracture and pres
 [WRONG] Fully Compensated Metabolic Alkalosis
 [WRONG] Partially Compensated Metabolic Acidosis
  
-The pH is high, reflecting alkalosis. The pt is in pain and is breathing fast, both causes of hyperventilation which lead to loss of CO2 (remember, low CO2 leads to high pH). The patient is not compensating (HCO3- is normal) and the hyperventilation has lead to hyperoxemia (PaO2>100mmHg).
+* The pH is high, reflecting alkalosis. The pt is in pain and is breathing fast, both causes of hyperventilation which lead to loss of CO2 (remember, low CO2 leads to high pH). The patient is not compensating (HCO3- is normal) and the hyperventilation has lead to hyperoxemia (PaO2>100mmHg).
  
 # Question 23
 A 80 year old female has suffered from persistent vomiting for two days. She appears to be lethargic and weak and has myalgia. She is noted to have dry mucus membranes and her capillary refill is >4 seconds. She is diagnosed as having gastroenteritis and dehydration. ABG results are: pH 7.5, PaO2 85 mm Hg, PaCO2 50 mm Hg, and HCO3 34 mmol/L. Which best reflects this patient's acid base disturbance?
@@ -538,4 +535,4 @@ A 80 year old female has suffered from persistent vomiting for two days. She app
 [RIGHT] Uncompensated metabolic alkalosis
 [WRONG] Partially compensated Metabolic alkalosis
  
-The pH indicates alkalosis. The HCO3- is high, reflecting alkalosis in the metabolic system. In this case, the cause of alkalosis is persistent loss of H+ (in stomach acid) due to vomiting. The respiratory system has started to compensate (PaCO2 is slightly elevated causing acidosis and attempting to bring the pH down into a more acidic range). 
+* The pH indicates alkalosis. The HCO3- is high, reflecting alkalosis in the metabolic system. In this case, the cause of alkalosis is persistent loss of H+ (in stomach acid) due to vomiting. The respiratory system has started to compensate (PaCO2 is slightly elevated causing acidosis and attempting to bring the pH down into a more acidic range). 

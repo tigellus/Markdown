@@ -1,80 +1,4 @@
-# Question 1
-As a cause of death in the United States, COPD ranks:
-
-[WRONG] Second
-[WRONG] Third
-[RIGHT] Fourth
-[WRONG] Fifth
-
-* COPD is the fourth leading cause of death in the United States
-
-# Question 2
-Which two diseases are included in categories of COPD?
-
-[WRONG] Asthma and atelectasis
-[RIGHT] Chronic bronchitis and emphysema
-[WRONG] Pneumonia and pleurisy
-[WRONG] Tuberculosis and pleural effusion
-
-* Chronic bronchitis and emphysema belong to the old classification of COPD. Asthma may be one of the chronic pulmonary diseases but atelectasis is not. Pneumonia and pleurisy are not classified under the COPD. Tuberculosis and pleural effusion are not chronic pulmonary diseases.
-
-# Question 3
-Which factor is involved in the underlying pathophysiology of COPD?
-
-[WRONG] Inflamed airways that obstruct airflow
-[WRONG] Mucus secretion that blocks airways
-[WRONG] Alveolar wall destruction
-[RIGHT] Variations in all of the above
-
-* Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD. Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature. Hypersecretion occurs due to the increase in the number of goblet cells. Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil.
-
-# Question 4
-In a patient with COPD, where does the abnormal inflammatory response occur?
-
-[WRONG] Airways
-[WRONG] Lung parenchyma
-[WRONG] Pulmonary vasculature
-[RIGHT] All of the above areas
-
-* The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD. 
-
-# Question 5
-Which environmental risk factor is most important in development of emphysema?
-
-[WRONG] Air pollution
-[WRONG] Allergens
-[WRONG] Infectious agents
-[RIGHT] Cigarette smoking
-
-* Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
-
-# Definition
-* Chronic Obstructive Pulmonary Disease (COPD) is a condition of chronic dyspnea with expiratory airflow limitation that does not significantly fluctuate
-* COPD is the fourth leading cause of death in the United States
-* It is also known as chronic obstructive lung disease (COLD)
-* The Global Initiative for Chronic Obstructive Lung Disease defines it as “a preventable and treatable disease with some significant extrapulmonary effects that may contribute to the severity in individual patients”
-* There are two classifications of COPD: chronic bronchitis and emphysema. These two types of COPD can have overlapping signs and symptoms
-* The primary cause of the obstruction may vary; examples include airway inflammation that narrow or blocks airflow, mucous secretion that blocks airways, and alveolar wall destruction.
-
-### Chronic Bronchitis - Clinical Diagnosis
-A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
-* Patients with Chronic Bronchitis, often referred to as "Blue Bloaters," tend to be large persons with cyanosis, edema, and relatively little dyspnea.
-
-### Emphysema - Pathological Diagnosis
-An abnormal distention of airspaces beyond the terminal bronchioles and destruction of the walls of the alveoli
-* Patients with Emphysema, often referred to as "Pink Puffers," tend to be thin, cachetic persons with marked shortness of breath. Decreased lung compliance leads to increased work of breathing and dyspnea.
-
 # Management
-
-# Question 6
-Goals to achieve in management of patients with COPD include all of the following, EXCEPT:
-
-[WRONG] Achievement of airway clearance
-[WRONG] Improvement in breathing pattern
-[WRONG] Independence in self-care activities
-[RIGHT] Continuation of existing lifestyle
-
-* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
 
 ### Goals to achieve include:
 * Improvement in gas exchange
@@ -153,14 +77,17 @@ Documentation is an essential part of the patient’s chart to reflect the plans
 * Document modifications to plan of care
 * Document attainment or progress towards goals
 
+# Question 6
+Goals to achieve in management of patients with COPD include all of the following, EXCEPT:
+
+[WRONG] Achievement of airway clearance
+[WRONG] Improvement in breathing pattern
+[WRONG] Independence in self-care activities
+[RIGHT] Continuation of existing lifestyle
+
+* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
+
 # Treatment
-
-# Question 7
-Which treatment is NOT used to manage COPD?
-
-[RIGHT] Isolation
-[WRONG] Smoking cessation
-[WRONG] Oxygen therapy
 
 The following are treatments to manage COPD:
 * Smoking cessation 
@@ -175,20 +102,14 @@ The following are treatments to manage COPD:
 * Tipratropium bromide (Atrovent) and tiotropium bromide (Spiriva)
 * Side effects – dry mouth and hacking cough
 
+# Question 7
+Which treatment is NOT used to manage COPD?
+
+[RIGHT] Isolation
+[WRONG] Smoking cessation
+[WRONG] Oxygen therapy
+
 # Bronchodilators
-
-# Question 8
-Which classification of drugs includes albuterol, terbutaline, and metaproterenol?
-
-[RIGHT] Bronchodilators
-[WRONG] Expectorants
-[WRONG] Antibiotics
-
-# Question 9
-Which effect does the bronchodilator Salmeterol (Serevent) have?
-
-[RIGHT] A long acting inhaled agent
-[WRONG] A short acting inhaled agent
 
 ### Short acting inhaled agents - 2 puffs QID and PRN
 * Albuterol (Proventil, Ventolin)
@@ -203,8 +124,37 @@ Which effect does the bronchodilator Salmeterol (Serevent) have?
 ### Long acting inhaled agents 
 * Salmeterol (Serevent). Prolonged receptor-binding, requires patient education to avoid cardiac arrhythmias
 
+# Question 8
+Which classification of drugs includes albuterol, terbutaline, and metaproterenol?
+
+[RIGHT] Bronchodilators
+[WRONG] Expectorants
+[WRONG] Antibiotics
+
+# Question 9
+Which effect does the bronchodilator Salmeterol (Serevent) have?
+
+[RIGHT] A long acting inhaled agent
+[WRONG] A short acting inhaled agent
+
 # Corticosteroids
- 
+
+### Metered dose inhalers. 
+* Triamcinilone acetonide (Azmacort)
+* Fluticasone propionate (Flovent)
+* Beclomethasone dipropionate (Beclovent, Vanceril)
+
+### Oral tablets
+* Prednisone
+
+### Intravenous administration
+* Methylprednisone (Medrol)
+* Methylprednisone sodium succinate (Solumedrol) for severe exacerbations
+
+### Intramuscular administration
+* Methylprednisolone (Depo-medrol)
+* Triamicinole acetozide (Kenalog)
+
 # Question 10
 Which drug classification includes triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril)?
 
@@ -224,22 +174,6 @@ Which drug is an oral corticosteroid commonly prescribed for the treatment of re
 [RIGHT] Prednisone
 [WRONG] Triamcinolone
 [WRONG] Fluticasone
-
-### Metered dose inhalers. 
-* Triamcinilone acetonide (Azmacort)
-* Fluticasone propionate (Flovent)
-* Beclomethasone dipropionate (Beclovent, Vanceril)
-
-### Oral tablets
-* Prednisone
-
-### Intravenous administration
-* Methylprednisone (Medrol)
-* Methylprednisone sodium succinate (Solumedrol) for severe exacerbations
-
-### Intramuscular administration
-* Methylprednisolone (Depo-medrol)
-* Triamicinole acetozide (Kenalog)
 
 # Drug for Respiratory Muscles and Bronchodilator Activity
 
