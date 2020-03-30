@@ -356,32 +356,28 @@ Anaphylaxis is most common with opioids but can occur with any drug. Reactions c
 * For mild reactions, stop offending agent and administer diphenhydramine (Benadryl).
 * For severe reactions, O2 , IV crystalloids, epinephrine, and aminophylline. Diphenhydramine and ranitidine block unoccupied histamine receptors. Hydrocortisone and methylprednisolone also may be administered.
 
-# Patient Monitoring, Documentation and Discharge
-
-## Patient Monitoring
+# Patient Safety
 
 ### Basic Safety Measures
-* * Assess the patient’s comfort levels.
+* Assess the patient’s comfort levels.
 * Make sure the side rails are up and the wheels are locked.
 * Ensure the suction device is set-up and ready.
 
+## Patient Monitoring
 Baseline vital signs should be documented prior to initatng sedation. The patient should be on continuous cardiac, respiratory, and oxygenation monitoring. 
 * Heart rate/ECG rhythm
 * Respiratory rate
 * Blood pressure
 * O2 saturations/capnography
+
 Follow the unit policy for ongoing monitoring of patient sedation.
 * Sedation score: Evaluate patient’s response to verbal commands or tactile stimulation (level of consciousness)
 * Pain level
 * Assess for and treat any unexpected patient reactions
 * Document dose and timing of medications
+
 ### Capnography
 More hospitals are using capnography to monitor the concentration of exhaled carbon dioxide in order to assess physiologic status or determine the adequacy of ventilation during anesthesia.This measurement verifies whether ventilation is occurring and will identify bradypnea, hypoventilation, and apnea much sooner than pulse oximetry.
-
-### Ramsay Sedation Scale (Modified)
-Part of the assessment is to state the patient’s sedation scale. This will assist in proper medication administration and over sedation.
-
-![](assets/sedation5.png)
 
 **NOTE!**
 Various sedation scales may be used, including the Richmond Agitation Sedation Scale (RASS), the Pasero Opioid-Induced Sedation Scale (POSS), and the Innova Health System Sedation Scale (ISS). Determine which scale your facility uses and become familiar with that particular scale.
