@@ -1,3 +1,5 @@
+# Note: this section should focus on ETT, intubation, nasal trumpet! 
+
 # Endotracheal Intubation for the COVID-19 Patient
 
 Watch the following video for an introduction to endotracheal intubation.
