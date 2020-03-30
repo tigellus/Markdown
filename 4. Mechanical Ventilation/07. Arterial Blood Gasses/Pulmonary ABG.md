@@ -1,3 +1,6 @@
+# ABG Overview
+[embed](https://www.youtube.com/watch?v=rjrzZiprg04&list=PLZS9jYlFdlUDTGXMa5Q5xnN2S52RfwZUG&index=7)
+
 # Acid Base Terminology
 
 * Arterial Blood Gas (ABG): Used to assess acid base balance of the arterial blood
