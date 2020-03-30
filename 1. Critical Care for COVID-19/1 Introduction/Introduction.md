@@ -15,4 +15,4 @@ The course will consist of:
 - [ ] **Video sessions** with scenarios and interactive content
 - [ ] **Study sessions**
 - [ ] **Instructor-led Q&A session**
-- [ ] **Final review session** consisting of a theory recap and multiple choice questions.
+- [ ] **Final review session** consisting of a theory recap and multiple choice questions
