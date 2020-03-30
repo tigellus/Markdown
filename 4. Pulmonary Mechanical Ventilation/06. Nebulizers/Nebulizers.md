@@ -4,10 +4,10 @@
 ![](assets/nebulizer1.png)
 
 
-Instructional video: --- this is an ok video, but appears to have a pediatric focus- I'd recommend one that uses adults as examples
+Instructional video:
 https://youtu.be/idjeYf9C5IU
 
-Handheld or Mask Nebulizer Treatment 
+Handheld or Mask Nebulizer Treatment
 * Used to deliver medications directly into the respiratory system
 * Corticosteroids to reduce inflammation
 * Bronchodilators to aid in opening the airway
