@@ -63,6 +63,7 @@ Which of the following is not a goal of tracheostomy care?
 [WRONG] Prevent skin breakdown
 
 # Tracheostomy 
+(Author: Erica Everitt is specialist tracheostomy practitioner at Norfolk and Norwich University Hospitals Foundation Trust.)
 
 # 1. Caring for patients with a tracheostomy
 (The material in this section was adapted from this source: https://www.nursingtimes.net/clinical-archive/respiratory-clinical-archive/tracheostomy-1-caring-for-patients-with-a-tracheostomy-09-05-2016/)
@@ -115,10 +116,12 @@ A connector at the opening of the tracheostomy tube enables airway equipment to 
 
 ## Cuffed and uncuffed tubes
 ![](assets/Fig-1-Cuffed-tube-cuff-deflated.png)
+
 Uncuffed tubes are used for patients who can protect their own airway and have an effective cough, and can clear secretions independently. Cuffed tubes are used to seal the trachea when positive pressure ventilation is used, and to reduce the risk of aspiration of secretions in patients who cannot protect their own airway, for example, due to vocal-cord palsy, swallowing dysfunction or brain injury. The cuffs are air-filled, low-pressure and soft to prevent trauma to the trachea (Fig 1, attached).
 
 ## Cuff-pressure manometer
 ![](assets/Fig-2-Cuff-pressure-manometer.png)
+
 A cuff-pressure manometer should be used to assess patency and effectiveness of cuffed tubes; this hand-held gauge can add or remove air as necessary (Fig 2, attached). Pressure should be maintained between 25-34cmH2O (ICS, 2008); it should be checked at least twice a day (St George’s Healthcare Trust, 2012). The pressure should be recorded on a daily tracheostomy care chart; any evidence of significant deflation (below 25 cmH2O) may indicate a problem with the tube and should be reported, and the tube changed by a competent practitioner if required. Likewise, overinflation of the cuff can cause tracheal wall damage and should also be reported and resolved as soon as possible.
 
 A device, the Mallinckrodt Evac, enables the constant removal of secretions above the cuff and the constant monitoring of cuff pressure.
@@ -130,6 +133,7 @@ These tubes can cause hyper granulation of the posterior wall of the trachea, ma
 
 ## Sub-glottic aspiration port
 ![](assets/Fig-3-Subglottic-suction-port-tracheostomy-tube-cuff-deflated.png)
+
 Some tubes have a small aspiration port running along the outside of the tube to just above the cuff (Fig 3, attached). A syringe attached to the port can be used to remove aspirated secretions and reduce the risk of ventilator-associated pneumonia (VAP) and aspiration pneumonia. The amount aspirated over a 24-hour period should be recorded and used to decide on further management interventions to dry up respiratory and oral secretions, and to improve patient comfort and aid tracheostomy weaning trials (weaning is discussed in part 2 of this series).
 
 ## Other devices
@@ -142,12 +146,14 @@ Nurses need to understand all aspects of tracheostomy care, including routine an
 
 ## Equipment and signage
 ![](assets/Fig-4-Emergency-box-should-be-available-with-the-patient-at-all-times.png)
+
 The NTSP (2013) recommends that all patients with a tracheostomy have a bed-head label with information regarding their tube and airway, including whether it is surgical or percutaneous, the tube type, size and suction-catheter size, patency of the upper airway and whether the tracheostomy is temporary, permanent or involves a laryngectomy (removal of the larynx). Bed-head labels are available here.
 
 Individual patients should have an emergency tracheostomy box, which should accompany them on transfer and on discharge into the community, and contain an appropriate tube size/type (Fig 4, attached). The box contains equipment to insert a new tube in the event of dislodgement or blockage. Other equipment required at the bedside includes lubricating gel to aid insertion, cuff-pressure manometer, spare tracheostomy dressings and collars, Tilley forceps and a pen torch (McGrath et al, 2012). Equipment should be checked daily.
 
 ## Securing the tube
 ![](assets/Fig-5-Velcro-two-piece-tracheostomy-tube-collar.png)
+
 A tracheostomy tube can be held in place by several different methods. At initial insertion, the tracheostomy will be held in place by suture and, in addition, a collar or twill ties may also be used. Once the sutures are removed, the tracheostomy must be secured in place by a Velcro collar or twill ties.
 
 Securement devices should be checked once a shift, or more frequently, if a patient is at risk of pulling on the collar/ties, for example, confused patients; ensure that they are not too tight or too loose – as a guide, two fingers should be able to fit down one side of the collar/twill ties.
@@ -181,6 +187,7 @@ Ensures that inspired gas is delivered fully saturated and at core body temperat
 
 ### Cold humidification
 ![](assets/Fig-7-Examples-of-heat-moisture-exchangers.png)
+
 Only delivers approximately 50% humidity to inspired gas, therefore less effective than heated systems. However, significantly more cost-effective than heated systems for short-term use.
    * Sodium chloride 0.9% nebuliser: A nebuliser turns sodium chloride 0.9% into supersaturated aerosol of liquid droplets. These droplets penetrate the lungs, moistening the airways. A dose of 5mls of sodium chloride 0.9% every two-to-four hours, and as required, should be prescribed for every tracheostomy patient (National Tracheostomy Safety Project, 2013).
    * Heat moisture exchanger devices: These attach directly onto the tracheostomy tube. Inspired gas passes through the device and is filtered, moistened and heated (Fig 7, attached). The expired gas provides the device with the heat and moisture. These should be changed at least every 24 hours, or as needed, to prevent accumulation of secretions.
@@ -199,6 +206,7 @@ At patient’s request
 
 ## Suctioning
 ![](assets/Fig-6-Centimetre-marked-suction-catheter.png)
+
 Suction should only be used for patients who are unable to clear their own secretions into their tracheostomy tube (Box 3) (Pryor and Prasad, 2008).
 
 It is essential to encourage patients to cough and clear their own secretions. Staff should be competent in using suction to remove secretions from the tracheostomy tube, as well as deep suctioning – which may be required for patients who are desensitised and require stimulation to expectorate secretions, or who have a poor cough and struggle to clear secretions to the level of the tracheostomy tube.
@@ -307,12 +315,14 @@ A synchronised cuff-deflation technique should be used every time the cuff is de
 
 ## Using uncuffed tube
 ![](assets/Fig-1-Decannulation-cap-bung.png)
+
 When the patient is able to tolerate the cuff being deflated for 24 hours, the tracheostomy tube may be replaced with an uncuffed tracheostomy tube  to enable more air to bypass the tube and enter the larynx. Weaning aids, such as decannulation caps/bungs (Fig 1, attached), can then be used to seal the end of the tracheostomy tube completely; if the patient copes with the cap/bung, then the tracheostomy tube may be removed with the agreement of the MDT.
 
 If a decision is made to continue to use a cuffed tube, it is important to check that the cuff is fully deflated before using a cap/bung or other device, such as a speaking valve, otherwise the patient will not be able to breathe and this could result in death.
 
 ## Creating speech
 ![](assets/Fig-2-Examples-of-speaking-valves.png)
+
 An inflated cuffed tracheostomy tube will prevent air from entering the larynx and passing through the vocal cords; as a result, patients are unable to speak. Patients can use a finger to occlude their tracheostomy tube to enable speaking during periods of cuff deflation; this can also help the MDT to decide whether they are able to start a weaning programme. If the patient struggles with finger occlusion, they are not ready to start using speaking valves and a repeat review of their upper airway may be required before trial cuff deflations.
 
 The use of aids, such as speaking valves, can help patients to vocalise (Fig 2, attached). These valves are “one way” and allow air to be inspired via the tracheostomy tube; on the outward breath, the valve closes and the air is expired via the upper airway. The use of speaking valves can cause the patient to tire easily because of the effort required to force expired air through the windpipe. This should be factored into the weaning programme, and the periods using the speaking valve gradually increased. Speaking valves should be removed if there is oxygen desaturation, respiratory distress, fatigue, and if the patient requests for the valve to be removed (St George’s Healthcare Trust, 2012). For further information on speaking valves, see part 3.
@@ -399,6 +409,7 @@ Ideally, a tracheostomy nurse specialist will provide support in the community o
 
 # Communication
 ![](assets/Fig-1-Examples-of-speaking-valves.png)
+
 A key factor in coping with a permanent tracheostomy is the ability to communicate. Everyday things that most people take for granted, such as telephone banking, phoning for a taxi, asking for assistance in a shop or simply telling a partner “I love you” are difficult and often frustrating. Such frustrations can be a catalyst for depression and negatively affect relationship dynamics. Not being understood by partners, family and friends can also lead to patients becoming isolated and reclusive.
 
 Patients with cuffed tubes are unable to speak, as air cannot pass into their upper airway and through the vocal cords, so they have to rely on other forms of communication, such as pen and paper, tablet computer or keyboard-based communication aids. However, some may have literacy problems, which will affect their ability to communicate and use these methods; picture boards may be required.
@@ -476,6 +487,7 @@ Laryngectomy is a major surgical procedure used to treat cancer of the larynx. O
 
 # Definition
 ![](assets/fig1-Altered-anatomy-post-laryngectom_660.jpg)
+
 Laryngectomy is the surgical removal of the larynx (which contains the vocal cords) and the separation of the airway from the nose and mouth. An opening (stoma) onto the surface of the neck is formed and the trachea is connected to it (Fig 1). This is a permanent, irreversible stoma, which leaves patients unable to speak without assistance.
 
 # Pre-operative care
@@ -519,7 +531,9 @@ Other devices such as keyboard-based communication aids can be used and may be a
 
 # Stoma care
 ![](assets/fig2-stoma-buttons_507.jpg)
+
 ![](assets/FIG-3-laryngectomy_509.jpg)
+
 Patients with a tracheostomy tube in place after laryngectomy will usually have it removed within 24-48 hours of surgery. The stoma site will have sutures, so removal depends on the suture material used, as well as local policy and consultant guidance.
 
 Once the tracheostomy tube has been removed patients can begin to care for their stoma – initially with the support of staff; this involves using an adjustable mirror and light source such as a pen torch or adjustable desk lamp.
@@ -532,6 +546,7 @@ These devices must be changed and cleaned daily, or more frequently if required;
 
 # Humidification
 ![](assets/fig4-baseplate_507.jpg)
+
 Artificial humidification is vital to maintain the patency of the stoma, as the nose and mouth are no longer attached to the trachea. A number of devices can be used to do this, including humidification bibs (Everitt, 2016c).
 
 Many patients may also require regular sodium chloride 0.9% nebulisers, particularly in the morning to aid removal of secretions, before using other humidification aids such as the heat and moisture exchange (HME) cassette and base plate that fit over the stoma to filter and moisten inspired air (Fig 4). Many hospitals
@@ -583,3 +598,60 @@ Patients with a laryngectomy have similar problems of airway management as those
 * Patients need to learn to maintain their airway
 * Laryngectomy causes a permanent loss of speech, but patients can use speaking aids
 * Patients should be given information on local/regional support groups
+
+# Endotracheal tube (ETT) 
+(The material in this section was adapted from this source: https://www.statpearls.com/kb/viewarticle/21126?utm_source=pubmed)
+
+# Introduction
+The endotracheal tube (ETT) was first reliably used in the early 1900s.[1] In its simplest form, it is a tube constructed of polyvinylchloride (PVC) that is placed between the vocal cords through the trachea to provide oxygen and inhaled gases to the lungs.  It also serves to protect the lungs from contamination such as gastric contents and blood. The advancement of the endotracheal tube has closely followed advancements in anesthesia and surgery.[2] Modifications have been made to minimize aspiration, isolate a lung, administer medications, and prevent airway fires. Despite advances with the endotracheal tube, more research to optimize its use is necessary. For example, ventilator-associated pneumonia (VAP) is a major concern, and the ETT itself is felt to be a primary agent for the development of VAP.[2]
+
+Pediatric ETT’s are sized by age with options across the spectrum from premature infants to adult size teenage children. Historically, pediatric endotracheal tubes were uncuffed for fear that the pressure from the cuff would damage the trachea via pressure necrosis as the airway just below the vocal cords (cricoid cartilage) is the most narrow part in children.  In adults, the narrowest portion of the airway is the vocal cords.  Except for neonatal patients, this practice has largely been discontinued in favor of cuffed pediatric ETT’s.[3] A few well-established criteria are available to aide in ETT size selection.
+
+# Anatomy
+## The tube:
+
+The endotracheal tube has a length and diameter. The endotracheal tubes size (“give me a 6.0 tube”) refers to its internal diameter in millimeters (mm). The ETT will typically list both the inner diameter and outer diameter on the tube (for example, a 6.0 endotracheal tube will list both the internal diameter, ID 6.0,  and outer diameter, OD 8.8). The narrower the tube, the greater resistance to gas flow. Medical providers thus should select the largest tube that is appropriate for the patient; this is critically important to the spontaneously breathing patient who will have to work harder to overcome the increased resistance (a size 4 ETT has 16 more times resistance to gas flow than a size 8 ETT). The ETT is measured from the distal end of the tube and is typically marked in 2 cm increments. After successfully intubating the patient the depth of the endotracheal tube ending at the teeth or lips should be noted. This depth provides a baseline measurement to ensure the tube has not traveled out of the trachea or deeper into the trachea with patient movement or transport. PVC is not radiopaque, and thus a radiopaque linear material is in included throughout the length of the tube to make it easier to visualize the placement on x-ray. Ideally, the distal tip of the ETT is 4 cm (+/- 2 cm) above the carina on chest x-ray in adults.[4] Should you desire to perform bronchoscopy on an adult patient with a standard bronchoscope (diameter 5.7 mm with a 2 mm suction channel) the patient typically needs to be intubated with at least 7.5-8.0 size ETT; ETTs larger than 8.0 are available and used for bronchoscopy.[5] The typical depth of the endotracheal tube is 23 cm for men and 21 cm for women, measured at the central incisors. The average size of the tube for an adult male is 8.0, and an adult female is 7.0, though this is somewhat an institution dependent practice. Pediatric tubes are sized using the equation: size = ((age/4) +4) for uncuffed ETTs, with cuffed tubes being one-half size smaller.[6]  Typically a pediatric ETT is taped at a depth of 3 x the tube size in a child (i.e., a 4.0 ETT commonly gets taped at around 12cm depth).  
+
+## The cuff:
+
+A cuff is an inflatable balloon at the distal end of the ETT. Pediatric ETTs are produced with and without cuffs. The inflated cuff produces a seal against the tracheal wall; this prevents gastric contents from entering the trachea and facilitates the execution of positive pressure ventilation. The cuff inflates by attaching an appropriate size syringe (10 to 20 ml for adult ETT) to the pilot balloon. The syringe provides air under pressure and inflates both the pilot balloon and the cuff. Once the cuff inflates, the syringe needs to be removed, or the air in the cuff may redistribute back to the syringe and deflate the cuff. Palpating the firmness of the pilot balloon is a good estimation to the pressure in the cuff. Cuff manometers are available but not common in clinical use.  Ideal cuff pressure should be 20 cm H2O or less. If the pilot balloon does not hold air, it must be assumed the cuff of the ETT has been damaged and is non-functional.  Some ETTs have a low volume high-pressure cuff, but it is more common to find high volume low-pressure cuffs on ETTs in current medical practice.  
+
+## The bevel:
+
+To facilitate placement through the vocal cords and to provide improved visualization ahead of the tip, the ETT has an angle or slant known as a bevel. As the endotracheal tube approaches the cords, the left facing bevel provides an optimal view.
+
+## The Murphy's eye:
+
+ETTs have a built-in safety mechanism at the distal tip known as Murphy’s eye, which is another opening in the tube positioned in the distal lateral wall. If the distal end of the ETT should become obstructed by the wall of the trachea or by touching the carina, gas flow can still occur via Murphy's eye,  This prevents complete obstruction of the tube.
+
+## The connector:
+
+ETT connectors attach the ETT to the mechanical ventilator tubing or an Ambu bag. For adult and pediatric ETTs, it is customary to use the universal 15 mm connector.
+
+# Indications
+The main indication to use an endotracheal tube is to secure a definitive airway. A definitive airway is the placement of an ETT in the trachea with an inflated cuff below the vocal cords. The main reasons to secure a definitive airway are an inability to maintain airway patency, inability to protect the airway against aspiration, failure to ventilate, failure to oxygenate, and anticipation of a deteriorating course leading to respiratory failure.
+
+# Contraindications
+The primary (relative) contraindications to the placement of an ETT in the oropharynx is severe airway trauma or obstruction that does not allow safe placement of the tube, severe cervical spine injury which requires complete immobilization, and those patients with Mallampati III/IV classification suggesting potentially difficult airway management.
+
+The main contraindications to avoid placing an ETT with the nasotracheal approach include facial trauma, head trauma concerning for basilar skull fracture, active epistaxis, expanding neck hematoma, oropharyngeal trauma, and apneic patients.[7]
+
+# Equipment
+Equipment necessary to optimize the use and function of the ETT:
+
+* Stylet
+* Syringe for cuff/pilot balloon
+* Universal 15 mm connector
+* End-tidal CO2 device
+* Personnel
+
+In the ER it is common to have an RN available to push drugs (if needed).  The RN can function as a second person and can call for help if needed for an unanticipated difficult airway.  Some hospitals commonly have an RT help with taping of the ETT and ventilation once a patient is intubated.  
+
+# Preparation
+Select an appropriate size endotracheal tube and remove it from the package. Lubricate the distal end and balloon (if not emergency placement). Attach a proper size syringe (10 to 20 cc) filled with air to the pilot balloon and test the balloon by blowing it up and then deflating it. Place a stylet into the ETT and bend it to an appropriate shape. Place the tube with the stylet and attached syringe back in the package ready for use. Repeat the same procedure with a tube one size smaller in case of difficult intubation. Set aside an end-tidal CO2 detector.
+
+# Complications
+Several mechanical complications can occur with the ETT resulting in a loss of function. A defective balloon will result in a loss of ability to protect the airway from aspirate and may make mechanical ventilation difficult. The loss of the universal 15 mm connector (either missing or defective)  essentially makes the ETT nonfunctional as the mechanical ventilator or bag-valve-mask cannot interface with it.  Some complications from the physical placement of the tube include bleeding, infection, perforation of the oropharynx (especially with the use a rigid stylet), hoarseness (vocal cord injury), damage to teeth/lips, or esophageal placement.
+
+# Enhancing Healthcare Team Outcomes
+An interprofessional team is necessary to make sure that an ETT is placed appropriately, especially in the emergency department setting. As there is not one definitive method to ensure appropriate ETT placement, an interprofessional team working together to confirm several means of tube placement is necessary to ensure optimal patient outcomes. For example, after emergent intubation in the emergency department, a respiratory therapist may ensure a good color change of the end-tidal CO2 detector while also securing the ETT. Simultaneously, nursing staff may auscultate over the lung fields and abdomen to ensure good quality, equal breath sounds in the thoracic cavity with absent breath sounds in the abdomen. The physician will be monitoring the pulse ox while ordering a stat portable chest x-ray to confirm placement of the tube. It has become more common and standard of care to have a constant waveform monitor for end tidal CO2 for intubated patients, especially in the OR and ICU.  Collaboration, closed-loop communication, and the principles of crisis resource management are necessary for the success of teams working in acute care environments.[8]
