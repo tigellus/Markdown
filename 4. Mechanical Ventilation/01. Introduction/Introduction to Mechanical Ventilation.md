@@ -32,9 +32,9 @@ If you have not received information on how to access the Instructor-led lesson 
 
 Watch the following videos on OR ventilator basics.
 
-[Go to first video lecture](https://www.youtube.com/watch?v=v2VKYq4OU9c&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=2)
+[embed](https://www.youtube.com/watch?v=v2VKYq4OU9c&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=2)
 
-[Go to second video lecture](https://www.youtube.com/watch?v=CZZW7uLXtpE&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=4)
+[embed](https://www.youtube.com/watch?v=CZZW7uLXtpE&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=4)
 
 
 # Mechanical Ventilation Recap & Case Studies
