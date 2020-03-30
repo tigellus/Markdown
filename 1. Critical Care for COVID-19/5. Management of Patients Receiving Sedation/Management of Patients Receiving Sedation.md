@@ -85,7 +85,6 @@ The requirements for safe administration of medications and safe practice of pro
 ![](assets/sedation4.png)
 
 # Question 1
-
 Which level of sedation is present when a patient responds only to painful stimulation and may need help to maintain an airway?
 
 [WRONG] Moderate sedation
@@ -93,7 +92,6 @@ Which level of sedation is present when a patient responds only to painful stimu
 [WRONG] General anesthesia
 
 # Question 2
-
 Rescuers should be prepared to recognize and support a sedated patient who is not able to maintain an open airway.
 
 [RIGHT] True

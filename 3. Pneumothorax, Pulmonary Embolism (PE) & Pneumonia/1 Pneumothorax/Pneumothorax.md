@@ -308,7 +308,6 @@ A collection of blood in the pleural space is known as what?
 [WRONG] Pleural effusion
 
 # Question 19 
-[comment]: <> (needs edit)
 What is the preferred method of evaluation for intrathoracic injuries?
 
 [RIGHT] CT scan
@@ -316,7 +315,6 @@ What is the preferred method of evaluation for intrathoracic injuries?
 [WRONG] Oblique chest x-ray
 
 # Question 20 
-[comment]: <> (needs edit)
 What diagnostic test can be used at a patient’s bedside for triage and identification of life-threatening injuries?
 
 [RIGHT] Point-of-care ultrasound
@@ -324,7 +322,6 @@ What diagnostic test can be used at a patient’s bedside for triage and identif
 [WRONG] Chest x-ray
 
 # Question 21
-[comment]: <> (needs edit)
 Management of a pneumothorax depends on what?
 
 [RIGHT] Clinical presentation
