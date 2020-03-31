@@ -4,6 +4,14 @@ Pulmonary embolism is a common disorder that is related to deep vein thrombosis 
 * **Deep vein thrombosis (DVT)** refers to thrombus formation in the deep veins, usually in the calf or thigh, but sometimes in the arm, especially in patients with peripherally inserted central catheters.
 * **Pulmonary embolism (PE)** refers to the **obstruction** of the pulmonary artery or one of its branches by a thrombus that originates somewhere in the venous system or in the right side of the heart.
 
+# ~Question 1
+What is the blockage of one of the pulmonary arteries in the lungs?
+
+[WRONG] Deep vein thrombosis
+[RIGHT] Pulmonary embolism
+[WRONG] Hemothorax
+[WRONG] Pneumothorax
+
 # Classification
 Most commonly, pulmonary embolism is due to a blood clot or thrombus, but there are other types of emboli: fat, air, amniotic fluid, and septic.
 
@@ -11,6 +19,22 @@ Most commonly, pulmonary embolism is due to a blood clot or thrombus, but there 
 * **Air emboli.** Air emboli usually come from intravenous devices.
 * **Amniotic fluid emboli.** Amniotic fluid emboli are caused by amniotic fluid that has leaked into the arteries.
 * **Septic emboli.** Septic emboli originate from a bacterial invasion of the thrombus.
+
+# ~Question 2
+What is the most usual cause of a pulmonary embolism?
+
+[RIGHT] Blood clots that travel to the lungs
+[WRONG] Pulmonary hypertension
+[WRONG] Traumatic injuries to the lungs
+
+# ~Question 6
+Which of the following is a type of embolism?
+
+[WRONG] Burn emboli.
+[WRONG] Travelling emboli.
+[RIGHT] Fat emboli.
+[WRONG] Diabetic emboli.
+
 
 # Pathophysiology of Pulmonary Embolism
 
@@ -59,6 +83,14 @@ Symptoms of pulmonary embolism depend on the size of the thrombus and the area o
 * **Tachypnea.** The most frequent sign is tachypnea.
 * **Hypotension.** Increased right venticular demand results in reduced cardiac output.
 
+# ~Question 3
+The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most common sign of:
+
+[WRONG] Hemoptysis
+[WRONG] Syncope
+[WRONG] Cough
+[RIGHT] Tachypnea
+
 # Prevention
 For patients at risk for PE, the most effective approach for prevention is to prevent DVT.
 
@@ -83,6 +115,15 @@ Death from PE commonly occurs within one (1) hour after the onset of symptoms; t
 * **D-dimer.** Blood levels of D-dimer are abnormal in 95 percent of patients with PE
 * **Pulmonary angiogram.** Pulmonary angiogram allows for direct visualization under fluoroscopy of the arterial obstruction and accurate assessment of the perfusion deficit.
 * **V/Q scan.** The V/Q scan evaluates the different regions of the lung and allows comparisons of the percentage of ventilation and perfusion in each area.
+
+# ~Question 7
+The following are diagnostic tests for a patient with pulmonary embolism except:
+
+[WRONG] ABG analysis
+[WRONG] ECG test
+[RIGHT] Pulmonary function tests
+[WRONG] V/Q scan
+
 
 # Medical Management
 Because PE is often a medical emergency, emergency management is of primary concern.
@@ -158,63 +199,24 @@ The focus of documentation should include:
 - Attainment or progress toward desired outcomes.
 - Modifications to plan of care.
 
-# Question 1
-What is the blockage of one of the pulmonary arteries in the lungs?
-
-[WRONG] Deep vein thrombosis
-[RIGHT] Pulmonary embolism
-[WRONG] Hemothorax
-[WRONG] Pneumothorax
-
-# Question 2
-What is the most usual cause of a pulmonary embolism?
-
-[RIGHT] Blood clots that travel to the lungs
-[WRONG] Pulmonary hypertension
-[WRONG] Traumatic injuries to the lungs
-
-# Question 3
-The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most common sign of:
-
-[WRONG] Hemoptysis
-[WRONG] Syncope
-[WRONG] Cough
-[RIGHT] Tachypnea
-
 # Question 4
-The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient include all except:
+The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient except:
 
 [WRONG] Manage pain and anxiety
 [WRONG] Titrate oxygen therapy
-[RIGHT] Compete bed rest
+[RIGHT] Complete bed rest
 [WRONG] Monitor thrombolytic therapy
 
 # Question 5
-The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient include all except:
+The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient except:
 
 [WRONG] Assist with active and passive leg exercises.
 [WRONG] Turn and reposition patient frequently and reposition.
 [RIGHT] Monitor effectiveness of thrombolytic therapy through troponin and BNP levels.
 [WRONG] Use elastic stockings and sequential compression devices.
 
-# Question 6
-Which of the following is a type of embolism?
-
-[WRONG] Burn emboli.
-[WRONG] Travelling emboli.
-[RIGHT] Fat emboli.
-[WRONG] Diabetic emboli.
-
-# Question 7
-The following are diagnostic tests for a patient with pulmonary embolism except:
-
-[WRONG] ABG analysis
-[WRONG] ECG test
-[RIGHT] Pulmonary function tests
-[WRONG] V/Q scan
-
 # Question 8
-All of the following are the possible complications in a patient with pulmonary embolism except?
+All of the following are the possible complications in a patient with pulmonary embolism except:
 
 [WRONG] Right ventricular failure
 [WRONG] Atelectasis
