@@ -36,29 +36,6 @@ Indications:
 * Limit suctioning time per attempt
 * Once suctioning complete, ensure suction catheter tip is out of the ETT/tracheostomy. It will remain in its sterile catheter sheath.
 
-### Nutrition --> to me this goes under complications-- or the nutrition section from the prior page goes here
-
-Malnourishment may cause:
-* Reduced response to hypoxia and hypercapnia
-* Muscle atrophy
-* Respiratory infection
-* Decreased surfactant production
-* Slowed healing of damaged tissues
-* Lower serum albumin levels
-
-#### Overfeeding
-* Problems with COPD and other patients unable to clear CO2
-* Increased risk for aspiration
-* Feeding with high carbohydrate tube feedings or parenteral nutrition increases the CO2 load
-* Use of lipids to replace some of the caloric needs can reduce carbohydrate load
-
-# Question 1
-Malnourishment may cause:
-
-[RIGHT] Reduced response to hypoxia and hypercapnia, decreased surfactant production
-[WRONG] Increased response to hypoxia and hypercapnia, decreased surfactant production
-[WRONG] Increased response to hypoxia and hypercapnia, increased surfactant production 
-[WRONG] Reduced response to hypoxia and hypercapnia, increased surfactant production
 
 # Question 2
 When is suctioning clinically indicated for mechanically ventilated patients?
@@ -73,13 +50,6 @@ Which of the following describes appropriate suctioning technique?
 [WRONG] Activate suctioning while advancing the in-line suction catheter
 [WRONG] Ensure multiple suction attempts are conducted each time
 [RIGHT] Limit suction time to 10-15 seconds
-
-# Question 4
-Use of lipids to replace caloric needs can reduce what?
-
-[WRONG] Blood glucose
-[WRONG] Protein
-[RIGHT] Carbohydrate load
 
 # Question 5
 Which of the following is a risk of long-term 100% oxygen?
@@ -105,18 +75,34 @@ Identify one way to provide controlled ventilation for a patient who is consiste
 [WRONG] Tell the patient to be calm
 [WRONG] Have a nursing assistant sit with the patient throughout the shift
 
-# Question 8 ---> this was not taught in this module- I think it needs to be deleted
-Which of the following indicates 90% blockade on the Train-of-Four method of testing level of neuromuscular blockade?
+# Prone Positioning
+Patients with ARDS can benefit from prone positioning as this enhances V/Q matching. This is typically indicated for a PaO2/FiO2 ratio of less than 100 and/or in patients who are not responding to other therapies. Perfusion shifts from the posterior portions of the lung (when the patient is supine) to the anterior, larger portions of the lungs (when the patient is prone). Prone positioning also enhances ventilation by removing the weight of the heart and abdomen on the lungs. 
+Prone positioning is traditionally accomplished with a specialized bed that requires close monitoring by the RN and RT.
 
-[RIGHT] One twitch
-[WRONG] Two twitches
-[WRONG] Three twitches
-[WRONG] Four twitches
+![](assets/rotoprone.jpg)
 
-# Question 9 --> this question goes in the prior page- this content wasn't taught in this module
-If your patient accidentally extubated himself and is now having respiratory distress, what is the first thing you should do?
+Considerations:
+* Increased ocular pressure due to inadequate eyelid closure and dependent edema when prone: tape eyes closed, lubricate
+* Skin breakdown in new anterior areas (eg. knees, shins, face, breasts, shoulders, iliac crests)
+* In the case of a code, secure the patient, press the "CPR" button and the patient will be immediately placed supine, begin chest compressions
+* Facial edema: consider cooling packs to patient face when supine if indicated
+* Place IV extension tubing for all IV infusions to allow for rotation of the bed
+* Possible gastric aspiration (often pause enteral feeds prior to turning)
 
-[WRONG] Try to reinsert the endotracheal tube
-[RIGHT] Manually ventilate the patient with a manual resuscitation bag
-[WRONG] Document the pulse oximetry
-[WRONG] Obtain an ABG
+# Question 1
+What is the rationale for prone positioning?
+[RIGHT] Enhances V/Q matching
+[WRONG] It is an effective weaning mode
+[WRONG] It reduces perfusion to lung tissue
+[WRONG] It increases the weight of the heart and abdomen on the lungs
+
+# Question 2
+What are major considerations for prone positioning
+
+[RIGHT] Lubricate and tape the eyes closed
+[WRONG] Ensure IV tubing is shortened to reduce obstacles in patient care
+[WRONG] CPR cannot be performed on these patients
+[WRONG] Skin breakdown is less of a risk due to changes in weight distribution
+
+
+
