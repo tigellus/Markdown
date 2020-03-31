@@ -71,7 +71,7 @@ How can you help prevent ventilator-associated lung injury (VALI) in mechanical 
 [WRONG] Low PEEP and high FiO2
 [WRONG] High PEEP (10-20 cmH2O) and tidal volume of 8 ml/kg
 [RIGHT] PEEP than enables the open lung ventilation and low tidal volumes (4 – 6 ml/kg)
-[WRONG]  PEEP than enables the open lung ventilation and tidal volume of 8 ml/kg
+[WRONG] PEEP than enables the open lung ventilation and tidal volume of 8 ml/kg
 
 # Question 5
 Which of the following sentences are correct? (I have two correct on purpose)
@@ -91,10 +91,10 @@ You are ventilating a patient with protective and controlled mechanical ventilat
 # Question 7
 Patient’s with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
 
-[RIGHT] be difficult to wean from the ventilator
-[WRONG] be difficult to ventilate with low tidal volumes
-[WRONG] encounter higher risk of infection
-[WRONG] have a low cardiac output
+[RIGHT] Be difficult to wean from the ventilator
+[WRONG] Be difficult to ventilate with low tidal volumes
+[WRONG] Encounter higher risk of infection
+[WRONG] Have a low cardiac output
 
 # Question 8
 How can you prevent Ventilator-Induced Diaphragmatic Dysfunction (VIDD):

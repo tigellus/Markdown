@@ -56,7 +56,7 @@ tidal volume
 # Select modes 
 All of these modes will include a pre-set PEEP and FiO2, from there, the additional support may be provided depending on the mode
 
-### Control Mandatory Ventilation (CMV)
+## Control Mandatory Ventilation (CMV)
 * Preset tidal volume and respiratory rate
 * Patient cannot take any spontaneous breaths
 
@@ -67,7 +67,7 @@ All of these modes will include a pre-set PEEP and FiO2, from there, the additio
 * May lead to hyperventilation
 * Requires sedation/paralysis
 
-### A/C – Assist Control
+## A/C – Assist Control
 * Volume targetted mode
 * Each breath is either “Assisted” or “Controlled”
 * Provides a predetermined set number of breaths (RR), each with a pre-set tidal volume (Vt). 
@@ -83,7 +83,7 @@ All of these modes will include a pre-set PEEP and FiO2, from there, the additio
 * May decrease cardiac output
 * Respiratory alkalosis (if patient takes too many spontaneous breaths, all of those are supported with the pre-set tidal volume)
 
-### Synchronized Intermittent Mandatory Ventilation (SIMV)
+## Synchronized Intermittent Mandatory Ventilation (SIMV)
 * Volume targetted mode
 * Combines spontaneous breathing with mechanical ventilatory support
 * Provides a predetermined set number of breaths (RR), each with a preset tidal volume (Vt).
@@ -99,7 +99,7 @@ All of these modes will include a pre-set PEEP and FiO2, from there, the additio
 * Resp acidosis may occur if insufficient ventilation
 * Fatigue of respiratory muscles can occur due to increased work of breathing placed on the patient
 
-### Pressure Support Ventilation (PSV)
+## Pressure Support Ventilation (PSV)
 * Pressure targetted mode
 * Provides a preset pressure when a patient "triggers" the ventilator (demonstrates inspiratory effort). 
 * There is NO pre-set respiratory rate or tidal volume. 
@@ -118,7 +118,7 @@ All of these modes will include a pre-set PEEP and FiO2, from there, the additio
 * Not for full support of unstable patients
 * Back-up rate is not guaranteed if used alone
 
-### Pressure Control Ventilation (PCV)
+## Pressure Control Ventilation (PCV)
 * Pre-set amount of pressure (PS) delivere with a set number of breaths (RR)
 * If patient takes spontaneous breaths above the pre-set RR, these breaths are also supported by the present PS
 * Mechanical inspiratory phase limited to prevent lung trauma
@@ -130,7 +130,7 @@ All of these modes will include a pre-set PEEP and FiO2, from there, the additio
 * Tidal volume is not guaranteed
 * Hypoventilation risk in patients with low lung compliance
 
-### Pressure Controlled Inverse-Ratio Ventilation (PC-IRV)
+## Pressure Controlled Inverse-Ratio Ventilation (PC-IRV)
 * Same as PCV, except in addition, the inspiratory phase is longer than expiratory phase providing an I:E ratio from 2:1 to 4:1 (instead of normal I:E ratio of 1:2)
 
 #### Advantage

@@ -57,27 +57,27 @@ BiPAP Masks
 
 # Nursing Considerations
 
-* Indications:
-To avoid intubation in a patient with respiratory distress
-To avoid reintubation in a patient who has been extubated
-To provide ventilatory support in a patient who is "DNI" (do not intubate)
+### Indications:
+* To avoid intubation in a patient with respiratory distress
+* To avoid reintubation in a patient who has been extubated
+* To provide ventilatory support in a patient who is "DNI" (do not intubate)
 
-* Contraindications:
-Somnolence
-Claustrophobia
-High aspiration risk
-Inability to clear secretions
-Recent facial or gastroesophageal surgery
-Craniofacial trauma
-Burns
+### Contraindications:
+* Somnolence
+* Claustrophobia
+* High aspiration risk
+* Inability to clear secretions
+* Recent facial or gastroesophageal surgery
+* Craniofacial trauma
+* Burns
 
-* Nursing Care
-Aerosolized Intervention: Use N95 mask when caring for patients using either BiPAP or CPAP.
-Collaborate with respiratory therapy to ensure mask fits appropriately and there are no air leaks
-Monitor patient's tidal volume, ABG, RR
-Monitor for signs of respiratory decompensation
+### Nursing Care
+* Aerosolized Intervention: Use N95 mask when caring for patients using either BiPAP or CPAP.
+* Collaborate with respiratory therapy to ensure mask fits appropriately and there are no air leaks
+* Monitor patient's tidal volume, ABG, RR
+* Monitor for signs of respiratory decompensation
 
-Monitor for potential complications:
+### Monitor for potential complications:
 * signs of low preload and low cardiac output
 * skin integrity issues around face and drying of mucous membranes
 * patient comfort due to nature of mask

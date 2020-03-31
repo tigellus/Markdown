@@ -1,4 +1,7 @@
 # ABG Overview
+
+Please watch the following video for an overview on ABG.
+
 [embed](https://www.youtube.com/watch?v=rjrzZiprg04&list=PLZS9jYlFdlUDTGXMa5Q5xnN2S52RfwZUG&index=7)
 
 # Acid Base Terminology
@@ -25,15 +28,13 @@ What does pH represent?
 [WRONG] The logarithm of the hydrogen ion concentration
 [WRONG] The logarithm of the hydroxide ion concentration
 
-# Normal Arterial Blood Gas Values [I would include definitions of these below-- see my edits]
+# Normal Arterial Blood Gas Values 
 * pH: 7.35-7.45
 * PaCO2 (partial pressure of carbon dioxide in the blood) : 35-45 mm Hg
 * HCO3- (amount of bicarbonate in the blood): 22-26 meq/l
 * Base Excess (reflects the sum of all of the buffer bases in the body): -2 to +2
 * PaO2 (partial pressure of oxygen in the blood): 80-100 mm Hg
 * SaO2 (percentage of hemoglobin saturated with oxygen): 92-99%
-
-At sea level, pH = 7.4, temperature = 37C, PaCO2 = 40 mm Hg --> I'm not sure why this is here...to me, it is not essential/does not add to the content in a meaningful way
 
 # Acidemia vs. Alkalemia
 
@@ -369,7 +370,7 @@ Acidosis with normal anion gap: Renal absorption of Cl- due to the loss of HCO3-
 What is the Normal Value of the Anion Gap?
 
 [RIGHT] 12 ± 2
-[WRONG]  10 ± 2
+[WRONG] 10 ± 2
 [WRONG] 14 ± 2
 
 # Metabolic Alkalosis (Uncompensated and Partially Compensated States)
@@ -409,10 +410,10 @@ What is the Normal Value of the Anion Gap?
 Your patient exhibits the following acid base parameters: pH = 7.31, PaCO2 = 48, HCO3- = 24. 
 How should this be interpreted?
 
-[RIGHT] uncompensated respiratory acidosis
-[WRONG] mixed acidosis
-[WRONG] uncompensated metabolic acidosis
-[WRONG] mixed alkalosis
+[RIGHT] Uncompensated respiratory acidosis
+[WRONG] Mixed acidosis
+[WRONG] Uncompensated metabolic acidosis
+[WRONG] Mixed alkalosis
 
 # Question 13
 A patient presents with the following arterial blood gas values: pH: 7.47, PaCO2: 49, HCO3: 33

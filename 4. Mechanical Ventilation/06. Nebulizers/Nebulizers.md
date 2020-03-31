@@ -1,9 +1,6 @@
-
 # Nebulizer therapy
 
-![](assets/nebulizer1.png)
-
-Instructional video:
+Please watch the following instructional video:
 [embed](https://youtu.be/idjeYf9C5IU)
 
 Handheld or Mask Nebulizer Treatment
@@ -16,6 +13,8 @@ Handheld or Mask Nebulizer Treatment
 * Instruct patient to take slow, deep breaths. Instruct patient
 if possible to hold each breath for 2 or 3 seconds so that
 the medication will be delivered to the airways.
+
+![](assets/nebulizer1.png)
 
 # Question 3
 Why are corticosteroids used?

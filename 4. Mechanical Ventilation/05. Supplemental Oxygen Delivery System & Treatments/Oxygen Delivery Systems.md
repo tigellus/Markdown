@@ -38,7 +38,7 @@ When should Low-flow Oxygen Delivery Systems be used?
 [WRONG] For patients that need supplemental oxygen and have variable respiratory effort
 
 # Question 2
-Question: An ascending ranking of low-flow oxygen delivery systems by flow rate is:
+An ascending ranking of low-flow oxygen delivery systems by flow rate is:
 
 [RIGHT] Low Flow Nasal Cannula, Simple Face Mask, Humidified High Flow Mask, Venturi Style Mask, Reservoir Mask
 [WRONG] Low Flow Nasal Cannula, Simple Face Mask, Venturi Style Mask, Humidified High Flow Mask, Reservoir Mask

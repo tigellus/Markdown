@@ -15,7 +15,7 @@ Ventilator disconnect from patient is a common problem.
  * RX: Ventilate patient until cause is identified
 * Airway resistance. Compliance
  * ALARM: upper airway pressure alarm**
- * RX: Ventilate patient until cause is identified**
+ * RX: Ventilate patient until cause is identified
 
 # NO tidal volume
 * Patient disconnect from ventilator

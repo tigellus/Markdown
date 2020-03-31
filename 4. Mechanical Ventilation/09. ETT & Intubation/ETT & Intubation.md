@@ -11,12 +11,12 @@ Watch the following video for an introduction to endotracheal intubation.
  * Hypoallergenic ( since latex allergy is fairly common)
  * Transparent (easy visualization of blockage ETT due to blood, pus, secretions
 
-## Tube Components
+### Tube Components
 
-### Proxiaml End 
+#### Proximal End 
 15 mm adapter (connector) which fits to ventilator  or ambu bag
 
-### Central Portion 
+#### Central Portion 
 1. A vocal cord guide (black line ) which should be placed at the level of the opening of the vocal cords so that the tip of the ET tube is positioned above the bifurcation if the trachea.
 2. A radio-opaque marker which is essential for accurate visualization of the position of the ET tube within the trachea by means of an X-ray
 3. The distance indicator (marked in centimeters) which facilitates placement of ET tube.
@@ -27,7 +27,7 @@ Has Murphy’s eye (opening in the lateral wall ) which prevents complete blocka
 
 ![](assets/ETT.png)
 
-## Types of Tubes
+### Types of Tubes
 * ET tubes can be:
  * Cuffed
  * Uncuffed
@@ -40,7 +40,7 @@ Has Murphy’s eye (opening in the lateral wall ) which prevents complete blocka
 
 ![](assets/ETT3.png)
 
-## Tube Size
+### Tube Size
 
 * From 2 mm to 16 mm (internal diameter). 
 
@@ -57,7 +57,7 @@ of ETT in different age groups.
 
 Then increase the size of the ET tube by 0.5 cm for every 6 months rise in age so that at approximately 6 years of age size of the ET tube to be used is approximately 8 mm
 
-## Uses of ET tube
+### Uses of ET tube
 * For Mechanical Ventilation
 * For Intermittent Postive Pressure Ventilation (IPPV)
 * During resuscitation
@@ -68,15 +68,15 @@ aspiration
 * In diptheria
 * In angioneurotic edema
 
-## Complications
+### Complications
 * Mechanical trauma to tongue, teeth, palate, pharynx & larynx during intubation procedure
 * Stimulation of posterior of posterior pharyngeal wall leading to coughing, vomiting or vasovagal episode with resultant hypoxia, bradycardia.
 * Prolonged intubation may cause pressure necrosis of laryngeal structures leading to persistant hoarseness (hence tracheostomy) is indicated in patients requiring long-term mechanical ventilation)
 * Pneumothorax.
 
-## Ambu Bag
+### Ambu Bag
 
-### Parts of the Ambu Bag
+#### Parts of the Ambu Bag
 * Patient outlet (to which mask is attached)
 * One-way valve unit (just proximal to patient outlet)
 * Pressure releease valve
@@ -84,23 +84,23 @@ aspiration
 
 ![](assets/ETT5.png)
 
-### Size 
+#### Size 
 The size of the bag varies depending on the volume (ranges from 250 ml to 750 ml for paediatric use)
 
-### Pressure release valves
+#### Pressure release valves
 Are usually set to release at pressure of 30-35cms of water
 
-### At the end there are two inlets
+#### At the end there are two inlets
 **Oxygen Inlet**
 This inlet is attached to a tube carrying oxygen from the source (central oxygen line or oxygen cylinder)
 
 **Air Inlet**
 If kept open the concentration of 02 is approx 40% FiO2. for the Fi02 to be near 90 - 100%, and oxygen reservoir should be attached.
 
-## Mechanism of Ventilation
+### Mechanism of Ventilation
 In the resting stage the ambu bag is filled with air. On squeezing the bag to initiate ventilation the one wave valve proximal to the patients outlet opens resulting in release of air, stored in the bag to the patient. On releasing the pressure the bag gets re-inflated with air. The patients exhaled air cannot re-enter the bag due to one wave mechanism of the valve at the patient outlet.
 
-### Uses
+#### Uses
 for giving intermittent positive pressure ventilation
 
 # Question 1

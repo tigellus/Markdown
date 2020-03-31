@@ -28,7 +28,7 @@
 
 ### Nutrition
 
-#### Malnourishment may cause
+Malnourishment may cause:
 * Reduced response to hypoxia and hypercapnia
 * Muscle atrophy
 * Respiratory infection
