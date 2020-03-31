@@ -132,15 +132,6 @@ Which environmental risk factor is most important in development of emphysema?
 
 * Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
 
-# Question 15
-The most important environmental risk factor in emphysema is:
-
-[WRONG] Air pollution
-[WRONG] Allergens
-[WRONG] Infectious agents
-[RIGHT] Cigarette smoking
-
-
 # Chronic Bronchitis - Clinical Diagnosis
 A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
 * Patients with Chronic Bronchitis, often referred to as "Blue Bloaters," tend to be large persons with cyanosis, edema, and relatively little dyspnea.
