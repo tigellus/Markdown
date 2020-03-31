@@ -11,11 +11,9 @@ Welcome to **Mechanical Ventilation** course! The course follows the structure b
 8. Settings & Modes of Mechanical Ventilation
 9. ETT & Intubation
 10. Identifying Ventilator Needs
-11. Troubleshooting the Ventilator
-12. Complications
-13. Issues in Nursing Management
-14. Nursing Interventions
-15. Weaning
+11. Complications
+12. Nursing Care of the Mechanically Ventilated Patient
+13. Weaning
 
 
 The course will consist of:
