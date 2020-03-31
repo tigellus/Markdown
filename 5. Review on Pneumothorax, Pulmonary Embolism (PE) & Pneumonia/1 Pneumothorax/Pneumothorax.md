@@ -17,6 +17,49 @@ A tension  pneumothorax occurs when a trapped pocket of air expands without abil
 
 A tension pneumothorax is a critical event that progresses rapdily, reducing venous return to the heart, and requires immediate intervention.  The most common cause of a tension pneumothorax is mechanical ventilation
 
+# ~Question 10
+The presence of air or gas in the pleural cavity is known as what?
+
+[WRONG] Hemothorax
+[WRONG] Pulmonary edema
+[RIGHT] Pneumothorax
+[WRONG] Pneumoconiosis
+
+# ~Question 11 
+How does air accumulation in the pleural cavity affect the lungs?
+
+[RIGHT] The lungs collapse and vital capacity increases
+[WRONG] The lungs expand and vital capacity decreases
+[WRONG] The lungs collapse and vital capacity decreases
+
+# ~Question 12
+What causes the lungs to collapse in a pneumothorax?
+
+[RIGHT] Pressure on the lung due to air accumulation
+[WRONG] Pressure on the lung due to blood accumulation
+[WRONG] An excessive buildup of fluid in the pleural cavity
+
+# ~Question 13
+Which type of pneumothorax occurs automatically without a known eliciting event?
+
+[RIGHT] Primary spontaneous pneumothorax
+[WRONG] Secondary spontaneous pneumothorax
+[WRONG] Traumatic pneumothorax
+
+# ~Question 14
+Which type of pneumothorax occurs subsequent to an underlying pulmonary disease?
+
+[RIGHT] Secondary spontaneous pneumothorax
+[WRONG] Primary spontaneous pneumothorax
+[WRONG] Traumatic pneumothorax
+
+# ~Question 17
+A collection of blood in the pleural space is known as what?
+
+[RIGHT] Hemothorax
+[WRONG] Pneumothorax
+[WRONG] Pleural effusion
+
 # Etiology 
 #### Most common causes of a primary spontaneous pneumothorax
 
@@ -26,7 +69,6 @@ A tension pneumothorax is a critical event that progresses rapdily, reducing ven
 * Marfan syndrome
 * Familial or previous pneumothorax
 
-# Etiology, cont.
 #### Most common causes of a secondary spontaneous pneumothorax:
 
 Disease Processes
@@ -52,6 +94,41 @@ Causes that lead to tension pneumothorax
 * Percutaneous tracheostomy
 * An untreated or advancing simple pneumothorax
 * Open pneumothorax when an occlusive dressing allows air into, but not out of, the pleural space
+
+# ~Question 1
+All of the following are causes of pneumothorax EXCEPT:
+
+[WRONG] Air entering pleural space from atmosphere due to a trauma
+[WRONG] Air entering the pleural space from a rupture in lung parenchyma
+[RIGHT] Air being produced by a bacterial infection in pleural space
+[WRONG] Air entering pleural space from a hole in the trachea
+
+# ~Question 2
+All of the following can cause a pneumothorax EXCEPT:
+
+[WRONG] A person stabbed in the back just below the apex of the scapula by a 7 inch knife
+[WRONG] A person on a ventilator
+[RIGHT] A patient receiving chemotherapy 
+[WRONG] Placement of a central line
+[WRONG] Complication from a tracheostomy
+
+# ~Question 3
+Which of the following is a cause of primary pneumothorax?
+
+[WRONG] Trauma
+[WRONG] COPD
+[WRONG] Mechanical ventilation
+[WRONG] Pneumonia 
+[RIGHT] None of the above
+
+# ~Question 4
+All of the following are examples of Secondary pneumothorax EXCEPT:
+
+[WRONG] A patient in the ICU on a ventilator
+[RIGHT] A spontaneous pneumothorax in a young patient with a history of smoking but no known disease
+[WRONG] A patient with lung cancer
+[WRONG] A patient with Marfan syndrome
+[WRONG] A patient with tuberculosis
 
 # Epidemiology
 Primary spontaneous pneumothorax mostly occurs in 20-30 years of age. The incidence of PSP in the United States is 7 per 100,000 men and 1 per 100,000 women per year. The majority of recurrence occurs within the first year, and incidence ranges widely from 25% to 50%. The recurrence rate is highest over the first 30 days.
@@ -87,6 +164,38 @@ Secondary spontaneous pneumothorax occurs in the presence of underlying lung dis
 Iatrogenic pneumothorax is a complication of a medical or surgical procedure. Thoracentesis is the most common cause.
 
 Traumatic pneumothoraces can result from blunt or penetrating trauma, which often creates a one-way valve in the pleural space (letting the airflow in but not to flow out) and hence hemodynamic compromise. Tension pneumothorax most commonly occurs in ICU settings, in positive pressure ventilated patients.
+
+# ~Question 5
+Which of the following is NOT a sign or symptom of pneumothorax?
+
+[WRONG] A patient complaining of shortness of breath
+[WRONG] A patient who suddenly develops chest pain
+[WRONG] Sudden increase in heart rate
+[RIGHT] Increased arterial blood pressure
+[WRONG] Tracheal deviation
+
+# ~Question 6
+Which of the following is not a sign or symptom of pneumothorax?
+
+[WRONG] Tachycardia
+[WRONG] Low blood pressure
+[WRONG] Hyperresonant  precussion notes
+[WRONG] Jugular venous distension
+[RIGHT] Bradypnea
+
+# ~Question 8
+Which of the following is a sign or symptom of pneumothorax?
+
+[RIGHT] Dyspnea
+[WRONG] Hypertension
+[WRONG] Erythema
+
+# ~Question 15
+A traumatic pneumothorax is typically the result of what type of trauma?
+
+[RIGHT] Blunt or penetrating trauma
+[WRONG] Fluid-related trauma
+[WRONG] Soft-tissue trauma
 
 # History and Physical
 In primary spontaneous pneumothorax, the patient is minimally symptomatic as otherwise healthy individuals tolerate physiologic consequences well. The most common symptoms are chest pain and shortness of breath. The chest pain is pleuritic, sharp, severe, and radiates to the ipsilateral (opposite) shoulder. In SSP, dyspnea is more severe because of decreased underlying lung reserve.
@@ -136,6 +245,28 @@ An asymptomatic small primary spontaneous pneumothorax (depth less than 2cm) pat
 In secondary spontaneous pneumothorax, if size/depth of pneumothorax is less than 1cm and no dyspnea then the patient is admitted, high flow oxygen is given and observation is done for 24 hours. If size/ depth is between 1-2cm, needle aspiration is done, then the residual size of pneumothorax is seen, if the depth after the needle aspiration is less than 1cm management is done with oxygen inhalation and observation and in case of more than 2cm, tube thoracostomy is done. In case of depth more than 2cm or breathlessness, tube thoracostomy is done.
 
 Air can reabsorb from the pleural space at a rate of 1.5%/day. Using supplemental oxygen can increase this reabsorption rate. By increasing the fraction of inspired oxygen concentration, the nitrogen of atmospheric air is displaced changing the pressure gradient between the air in the pleural space and the capillaries. Pneumothorax on chest radiography approximately 25% or larger usually needs treatment with needle aspiration if symptomatic and if it fails then tube thoracostomy is done.
+
+# ~Question 9
+What should be performed if a patient is hemodynamically unstable with convincing indications of tension pneumothorax?
+
+[RIGHT] Needle decompression
+[WRONG] Tracheotomy
+[WRONG] Thoracotomy
+
+# ~Question 23
+Pneumothorax patients who are clinically stable should receive what treatment?
+
+[RIGHT] Insertion of thoracostomy tube
+[WRONG] Needle decompression
+[WRONG] Pleurodesis
+[WRONG] Chest wall repair
+
+# ~Question 24
+Which of the following pneumothoraces is treated by the administration of oxygen under observation and repeated chest radiography?
+
+[RIGHT] Asymptomatic pneumothorax
+[WRONG] Unstable pneumothorax
+[WRONG] Pneumothorax with associated hemothorax
 
 # Treatment / Management - Surgical Intervention
 ### Indications for surgical intervention (VATS vs. thoracotomy)
@@ -213,129 +344,12 @@ This image below shows the basic function ad setup of a water-seal chest drainag
 This is an example of a disposable pleural drainage system that uses the principles of the water-seal system shown above
 ![](assets/waterseal.png)
 
-# Question 1
-All of the following are causes of pneumothorax EXCEPT:
-
-[WRONG] Air entering pleural space from atmosphere due to a trauma
-[WRONG] Air entering the pleural space from a rupture in lung parenchyma
-[RIGHT] Air being produced by a bacterial infection in pleural space
-[WRONG] Air entering pleural space from a hole in the trachea
-
-# Question 2
-All of the following can cause a pneumothorax EXCEPT:
-
-[WRONG] A person stabbed in the back just below the apex of the scapula by a 7 inch knife
-[WRONG] A person on a ventilator
-[RIGHT] A patient receiving chemotherapy 
-[WRONG] Placement of a central line
-[WRONG] Complication from a tracheostomy
-
-# Question 3
-Which of the following is a cause of primary pneumothorax?
-
-[WRONG] Trauma
-[WRONG] COPD
-[WRONG] Mechanical ventilation
-[WRONG] Pneumonia 
-[RIGHT] None of the above
-
-# Question 4
-All of the following are examples of Secondary pneumothorax EXCEPT:
-
-[WRONG] A patient in the ICU on a ventilator
-[RIGHT] A spontaneous pneumothorax in a young patient with a history of smoking but no known disease
-[WRONG] A patient with lung cancer
-[WRONG] A patient with Marfan syndrome
-[WRONG] A patient with tuberculosis
-
-# Question 5
-Which of the following is NOT a sign or symptom of pneumothorax?
-
-[WRONG] A patient complaining of shortness of breath
-[WRONG] A patient who suddenly develops chest pain
-[WRONG] Sudden increase in heart rate
-[RIGHT] Increased arterial blood pressure
-[WRONG] Tracheal deviation
-
-# Question 6
-Which of the following is not a sign or symptom of pneumothorax?
-
-[WRONG] Tachycardia
-[WRONG] Low blood pressure
-[WRONG] Hyperresonant  precussion notes
-[WRONG] Jugular venous distension
-[RIGHT] Bradypnea
-
-# Question 8
-Which of the following is a sign or symptom of pneumothorax?
-
-[RIGHT] Dyspnea
-[WRONG] Hypertension
-[WRONG] Erythema
-
-# Question 9
-What should be performed if a patient is hemodynamically unstable with convincing indications of tension pneumothorax?
-
-[RIGHT] Needle decompression
-[WRONG] Tracheotomy
-[WRONG] Thoracotomy
-
-# Question 10
-The presence of air or gas in the pleural cavity is known as what?
-
-[WRONG] Hemothorax
-[WRONG] Pulmonary edema
-[RIGHT] Pneumothorax
-[WRONG] Pneumoconiosis
-
-# Question 11 Are the order of the questions randomized?
-How does air accumulation in the pleural cavity affect the lungs?
-
-[RIGHT] The lungs collapse and vital capacity increases
-[WRONG] The lungs expand and vital capacity decreases
-[WRONG] The lungs collapse and vital capacity decreases
-
-# Question 12
-What causes the lungs to collapse in a pneumothorax?
-
-[RIGHT] Pressure on the lung due to air accumulation
-[WRONG] Pressure on the lung due to blood accumulation
-[WRONG] An excessive buildup of fluid in the pleural cavity
-
-# Question 13
-Which type of pneumothorax occurs automatically without a known eliciting event?
-
-[RIGHT] Primary spontaneous pneumothorax
-[WRONG] Secondary spontaneous pneumothorax
-[WRONG] Traumatic pneumothorax
-
-# Question 14
-Which type of pneumothorax occurs subsequent to an underlying pulmonary disease?
-
-[RIGHT] Secondary spontaneous pneumothorax
-[WRONG] Primary spontaneous pneumothorax
-[WRONG] Traumatic pneumothorax
-
-# Question 15
-A traumatic pneumothorax is typically the result of what type of trauma?
-
-[RIGHT] Blunt or penetrating trauma
-[WRONG] Fluid-related trauma
-[WRONG] Soft-tissue trauma
-
 # Question 16
 Which of the following is also known as a “sucking” chest wound?
 
 [RIGHT] Open pneumothorax
 [WRONG] Simple pneumothorax
 [WRONG] Tension pneumothorax
-
-# Question 17
-A collection of blood in the pleural space is known as what?
-
-[RIGHT] Hemothorax
-[WRONG] Pneumothorax
-[WRONG] Pleural effusion
 
 # Question 19 
 What is the preferred method of evaluation for intrathoracic injuries?
@@ -366,21 +380,6 @@ Pneumothorax patients who are clinically unstable should receive what treatment?
 [WRONG] Pleurodesis
 [WRONG] Thoracotomy
 [WRONG] Video-assisted thoracic surgery (VATS)
-
-# Question 23
-Pneumothorax patients who are clinically stable should receive what treatment?
-
-[RIGHT] Insertion of thoracostomy tube
-[WRONG] Needle decompression
-[WRONG] Pleurodesis
-[WRONG] Chest wall repair
-
-# Question 24
-Which of the following pneumothoraces is treated by the administration of oxygen under observation and repeated chest radiography?
-
-[RIGHT] Asymptomatic pneumothorax
-[WRONG] Unstable pneumothorax
-[WRONG] Pneumothorax with associated hemothorax
 
 # Question 25
 Which of the following are options for chemical pleurodesis?
@@ -452,7 +451,3 @@ The healthcare provider is assisting during the insertion of a pulmonary artery 
 [WRONG] Excursion of the diaphragm by more than 3 cm
 [RIGHT] Tracheal deviation
 [WRONG] Vesicular breath sounds heard while auscultating
-[RIGHT] Tension pneumothorax
-[WRONG] Open pneumothorax
-[WRONG] Iatrogenic pneumothorax
-[WRONG] Traumatic pneumothorax
