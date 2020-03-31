@@ -1,11 +1,12 @@
-# Bag-valve–mask ventilation
-You can use a bag-valve–mask device to manually ventilate a patient whose respirations are absent or inadequate. Ideally,two rescuers should work together on an adult.
+# Bag-valve–mask (BVM) ventilation
+BVMs are used to manually ventilate a patient whose respirations are absent or inadequate. Ideally, two rescuers work to manually ventilate the patient
 
 ## DO
+* Put on gloves
 * Lower the head of the bed, remove any pillows, and place the patient supine.
-* Assess his level of consciousness, open his airway, and assess his breathing and circulation.
-* If he needs emergency ventilation, get a bag-valve–mask device and make sure the mask is securely attached to the bag. Put on gloves.
-* Connect tubing from an oxygen source to the oxygen port on the device and adjust oxygen flow to 10 to 15 liters/minute.
+* Assess his level of consciousness, open and evaluate airway, assess breathing and circulation.
+* If emergency ventilation is needed, use the BVM: make sure the mask is securely attached to the bag. 
+* Connect BVM oxygen tubing to the oxygen port on the device and adjust oxygen flow to 10 to 15 liters/minute.
 
 ### First rescuer
 
@@ -25,6 +26,7 @@ Provide ventilation every 5 seconds and watch the rise and fall of his chest. If
 * Don't use the head-tilt/chin-lift method to open the patient's airway if you suspect head or neck trauma.
 * Don't remove his dentures unless they interfere with ventilations.
 * Don't use larger tidal volumes than you need to cause his chest to rise and fall. This can result in gastric distension, regurgitation, aspiration, and pneumonia.
+
 
 # Non-Invasive Positive Pressure Ventilation
 
