@@ -7,7 +7,7 @@
 * There are two classifications of COPD: chronic bronchitis and emphysema. These two types of COPD can have overlapping signs and symptoms
 * The primary cause of the obstruction may vary; examples include airway inflammation that narrow or blocks airflow, mucous secretion that blocks airways, and alveolar wall destruction.
 
-# Question 1
+# ~Question 1
 As a cause of death in the United States, COPD ranks:
 
 [WRONG] Second
@@ -17,7 +17,7 @@ As a cause of death in the United States, COPD ranks:
 
 * COPD is the fourth leading cause of death in the United States
 
-# Question 2
+# ~Question 2
 Which two diseases are included in categories of COPD?
 
 [WRONG] Asthma and atelectasis
@@ -27,7 +27,7 @@ Which two diseases are included in categories of COPD?
 
 * Chronic bronchitis and emphysema belong to the old classification of COPD. Asthma may be one of the chronic pulmonary diseases but atelectasis is not. Pneumonia and pleurisy are not classified under the COPD. Tuberculosis and pleural effusion are not chronic pulmonary diseases.
 
-# Question 3
+# ~Question 3
 Which factor is involved in the underlying pathophysiology of COPD?
 
 [WRONG] Inflamed airways that obstruct airflow
@@ -37,7 +37,7 @@ Which factor is involved in the underlying pathophysiology of COPD?
 
 * Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD. Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature. Hypersecretion occurs due to the increase in the number of goblet cells. Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil.
 
-# Question 4
+# ~Question 4
 In a patient with COPD, where does the abnormal inflammatory response occur?
 
 [WRONG] Airways
@@ -46,6 +46,13 @@ In a patient with COPD, where does the abnormal inflammatory response occur?
 [RIGHT] All of the above areas
 
 * The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD.
+
+# ~Question 5
+Which condition is NOT considered a category of COPD?
+
+[RIGHT] Pneumonia
+[WRONG] Emphysema
+[WRONG] Chronic bronchitis
 
 # Emphysema -  Pathological Diagnosis
 
@@ -83,29 +90,13 @@ An abnormal distention of airspaces beyond the terminal bronchioles and destruct
 * Increased deadspace
 * Dilation of distal airways
 
-# Question 3
+# ~Question 3
 Which data are characteristic of a patient with emphysema?
 
 [RIGHT] Onset after 50 years of age, AP diameter increased, lung capacity increased, pursed lip breathing
 [WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity decreased, pursed lip breathing
 [WRONG] Onset after 50 years of age, AP diameter increased, lung capacity decreased, percussion (hyper resonant)
 [WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity increased, percussion (hyper resonant)
-
-# Question 4
-Which condition is characterized by an abnormal permanent enlargement of the air spaces distal to the bronchioles?
-
-[RIGHT] Emphysema
-[WRONG] Chronic bronchitis
-[WRONG] Pneumonia
-
-# Question 5
-Which condition is NOT considered a category of COPD?
-
-[RIGHT] Pneumonia
-[WRONG] Emphysema
-[WRONG] Chronic bronchitis
-
-
 
 # Alveolus and lungs in Emphysema
 
@@ -163,7 +154,7 @@ A disease of the airways, defined as the presence of cough and sputum production
 ### Airway in Chronic Bronchitis
 ![](assets/airway_in_chronic_bronchitis.png)
 
-# Question 6
+# ~Question 6
 Chronic bronchitis is characterized by:
 
 [RIGHT] Excessive secretion of bronchial mucus
@@ -193,14 +184,14 @@ May result in signs and symptoms of right heart failure
 * Hepatomegaly
 * Renal dysfunction
 
-# Question 8
+# ~Question 8
 Which condition is a complication of pulmonary hypertension?
 
 [RIGHT] Right heart failure
 [WRONG] Pulmonary embolism
 [WRONG] Pleuritis
 
-# Question 9
+# ~Question 9
 Which findings are signs and symptoms of right heart failure?
 
 [RIGHT] Dyspnea, syncope, peripheral edema
@@ -226,7 +217,7 @@ Which of the following conditions require a higher PEEP to be applied in recruit
 
 COPD gradually worsens. HOWEVER, early detection, treatment and modification of risk factors can alter the disease course.
 
-# Question 5
+# ~Question 5
 Which environmental risk factor is most important in development of emphysema?
 
 [WRONG] Air pollution
@@ -235,3 +226,10 @@ Which environmental risk factor is most important in development of emphysema?
 [RIGHT] Cigarette smoking
 
 * Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
+
+# Question 4
+Which condition is characterized by an abnormal permanent enlargement of the air spaces distal to the bronchioles?
+
+[RIGHT] Emphysema
+[WRONG] Chronic bronchitis
+[WRONG] Pneumonia

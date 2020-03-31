@@ -13,20 +13,20 @@ Gas exchange is so severely impaired that arterial hypercapnea or hypoxemia occu
 * CO2 accumulates in the blood
 * PaCO2 rises and PaO2 falls
 
-# Question 1
+# ~Question 1
 What indicates arterial hypercapnea and hypoxemia?
 
 [RIGHT] PaO2 < 80 indicates Hypoxemia, PaCO2 > 50 indicates Hypercapnea
 [WRONG] PaCO2 < 50 indicates Hypercapnea, PaO2 > 80 indicates Hypoxemia
 
-# Question 2
+# ~Question 2
 Which laboratory result indicates chronic ventilatory failure?
 
 [RIGHT] Arterial pH is close to normal regardless of PaCO2
 [WRONG] PaCO2 rises rapidly, producing an abnormal pH threat
 [WRONG] Arterial pH is abnormal as a result of high PaCO2
 
-# Question 3
+# ~Question 3
 What is the result of alevolar hypoventilation? 
 
 [RIGHT] CO2 accumulates in the blood, PaCO2 rises and PaO2 falls
@@ -60,14 +60,14 @@ Failure of arterial blood oxygenation
 * Decreased CaO2
 * Decreased VO2
 
-# Question 4
+# ~Question 4
 What are the clinical determinants of failure of alveolar ventilation?
 
 [RIGHT] Increased PaCO2 , decreased pH, decreased PaO2
 [WRONG] Decreased PaCO2 , increased pH, increased PaO2
 [WRONG] Increased PaCO2 , increased pH, decreased PaO2
 
-# Question 5
+# ~Question 5
 What are the clinical determinants of failure of arterial blood oxygenation?
 
 [RIGHT]  Decreased PaO2 , decreased SaO2

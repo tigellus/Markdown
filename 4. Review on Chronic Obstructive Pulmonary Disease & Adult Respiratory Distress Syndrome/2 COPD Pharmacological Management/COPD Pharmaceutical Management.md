@@ -52,6 +52,16 @@ Evaluating the effectiveness of the interventions outlined in the plan of care c
 * Practices breathing techniques
 * Performs activities with less shortness of breath
 
+# ~Question 6
+Goals to achieve in management of patients with COPD include all of the following, EXCEPT:
+
+[WRONG] Achievement of airway clearance
+[WRONG] Improvement in breathing pattern
+[WRONG] Independence in self-care activities
+[RIGHT] Continuation of existing lifestyle
+
+* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
+
 # Guidelines 
 
 ### Discharge and Home Care Guidelines
@@ -79,16 +89,6 @@ Documentation is an essential part of the patient’s chart to reflect the plans
 * Document modifications to plan of care
 * Document attainment or progress towards goals
 
-# Question 6
-Goals to achieve in management of patients with COPD include all of the following, EXCEPT:
-
-[WRONG] Achievement of airway clearance
-[WRONG] Improvement in breathing pattern
-[WRONG] Independence in self-care activities
-[RIGHT] Continuation of existing lifestyle
-
-* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
-
 # Treatment
 
 The following are treatments to manage COPD:
@@ -104,7 +104,7 @@ The following are treatments to manage COPD:
 * Tipratropium bromide (Atrovent) and tiotropium bromide (Spiriva)
 * Side effects – dry mouth and hacking cough
 
-# Question 7
+# ~Question 7
 Which treatment is NOT used to manage COPD?
 
 [RIGHT] Isolation
@@ -126,14 +126,14 @@ Which treatment is NOT used to manage COPD?
 ### Long acting inhaled agents 
 * Salmeterol (Serevent). Prolonged receptor-binding, requires patient education to avoid cardiac arrhythmias
 
-# Question 8
+# ~Question 8
 Which classification of drugs includes albuterol, terbutaline, and metaproterenol?
 
 [RIGHT] Bronchodilators
 [WRONG] Expectorants
 [WRONG] Antibiotics
 
-# Question 9
+# ~Question 9
 Which effect does the bronchodilator Salmeterol (Serevent) have?
 
 [RIGHT] A long acting inhaled agent
@@ -157,20 +157,20 @@ Which effect does the bronchodilator Salmeterol (Serevent) have?
 * Methylprednisolone (Depo-medrol)
 * Triamicinole acetozide (Kenalog)
 
-# Question 10
+# ~Question 10
 Which drug classification includes triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril)?
 
 [RIGHT] Corticosteroids
 [WRONG] Bronchodilators
 [WRONG] Antitussives
 
-# Question 11
+# ~Question 11
 How are triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril) delivered?
 
 [RIGHT] Metered dose inhaler
 [WRONG] Oral tablets
 
-# Question 12
+# ~Question 12
 Which drug is an oral corticosteroid commonly prescribed for the treatment of respiratory illnesses?
 
 [RIGHT] Prednisone

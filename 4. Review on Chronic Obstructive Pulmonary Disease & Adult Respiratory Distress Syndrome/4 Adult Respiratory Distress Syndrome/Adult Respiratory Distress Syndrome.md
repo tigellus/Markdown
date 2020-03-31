@@ -27,6 +27,14 @@
 * Protein exudates from the hyaline membrane causes interstitial fibrosis
 * Profound hypoxemia in spite of high-inspired oxygen fraction (FIO2)
 
+# ~Question 2
+Which statement describes acute respiratory distress syndrome (ARDS)?
+
+[WRONG] This condition develops because the exocrine glands start to work incorrectly leading to thick, copious mucous in the alveolar sacs
+[WRONG] ARDS is a pulmonary disease that gradually causes chronic obstruction of airflow from the lungs
+[WRONG] Acute respiratory distress syndrome occurs due to the collapsing of a lung because air has accumulated in the pleural space
+[RIGHT] This condition develops because alveolar capillary membrane permeability changes and fluid collects in the alveolar sacs
+
 # Pathophysiology
 ![](assets/pathophysiology.png)
 
@@ -62,12 +70,32 @@
 * Acute lung injury – 200 to 300
 * ARDS - <200
 
-# Question 16
+# ~Question 16
 Your patients' PaO2 / FiO2 ratio is < 200, what does this suggest?
 
 [RIGHT] Adult Respiratory Distress Syndrome (ARDS)
 [WRONG] Normal Pulmonary Function
 [WRONG] Acute Lung Injury
+
+# ~Question 4
+Which finding on the chest x-ray is indicative of ARDS?
+
+[WRONG] Infiltrates in the upper lobes
+[WRONG] Enlargement of the heart with bilateral lower lobe infiltrates
+[RIGHT] White-out infiltrates bilaterally 
+[WRONG] Normal chest x-ray
+
+* ARDS is a type of respiratory failure that occurs when the capillary membrane that surrounds the alveoli sac becomes damaged, which causes fluid to leak into the alveoli sac. The first answer describes cystic fibrosis, the second describes COPD, and the third describes a pneumothorax.
+
+# ~Question 13 
+Which diagnostic test is routinely used for patients with suspected respiratory failure? (Select all that apply)
+
+[RIGHT] Chest x-ray
+[RIGHT] Arterial blood gas analysis
+[WRONG] Right-sided heart catheterization
+[RIGHT] Electrocardiography
+
+* Respiratory failure may be associated with a variety of clinical manifestations. However, these are nonspecific, and very significant respiratory failure may be present without dramatic signs or symptoms. This emphasizes the importance of measuring arterial blood gases in all patients who are seriously ill or in whom respiratory failure is suspected. Chest x-ray is essential. Electrocardiography should be performed to evaluate the possibility of a cardiovascular cause of respiratory failure; it also may detect dysrhythmias resulting from severe hypoxemia or acidosis. Right-sided heart catheterization is controversial and would only be used in cases where cardiac involvement is suspected.
 
 # Management
 
@@ -118,18 +146,8 @@ A patient being treated for aspiration pneumonia receiving oxygen via a 100% non
 
 * A hallmark sign and symptom found in ARDS is refractory hypoxemia. Although the patient is receiving a high amount of oxygen (using a 100% non-rebreather mask), the patient is STILL hypoxic given that their arterial oxygen level is remaining at 45 mmHg (a normal is 80 mmHg but when treating patients with ARDS, the goal is at least 60 mmHg).
 
-# Question 2
-Which statement describes acute respiratory distress syndrome (ARDS)?
-
-[WRONG] This condition develops because the exocrine glands start to work incorrectly leading to thick, copious mucous in the alveolar sacs
-[WRONG] ARDS is a pulmonary disease that gradually causes chronic obstruction of airflow from the lungs
-[WRONG] Acute respiratory distress syndrome occurs due to the collapsing of a lung because air has accumulated in the pleural space
-[RIGHT] This condition develops because alveolar capillary membrane permeability changes and fluid collects in the alveolar sacs
-
-* ARDS is a type of respiratory failure that occurs when the capillary membrane that surrounds the alveoli sac becomes damaged, which causes fluid to leak into the alveoli sac. The first answer describes cystic fibrosis, the second describes COPD, and the third describes a pneumothorax.
-
 # Question 3
-Which change in acute respiratory distress syndrome (ARDS)is caused by damage to the lung cells that produce surfactant?
+Which change in acute respiratory distress syndrome (ARDS) is caused by damage to the lung cells that produce surfactant?
 
 [WRONG] Bronchoconstriction
 [RIGHT] Atelectasis 
@@ -138,13 +156,6 @@ Which change in acute respiratory distress syndrome (ARDS)is caused by damage to
 
 * Surfactant decreases surface tension in the lungs. Therefore, the alveolar sacs will stay stable when a person exhales (hence the sac won’t collapse). With the decrease in surfactant production during ARDS, alveolar sacs can easily collapse, causing atelectasis.
 
-# Question 4
-Which finding on the chest x-ray is indicative of ARDS?
-
-[WRONG] Infiltrates in the upper lobes
-[WRONG] Enlargement of the heart with bilateral lower lobe infiltrates
-[RIGHT] White-out infiltrates bilaterally 
-[WRONG] Normal chest x-ray
 
 # Question 5
 Which ABG results are expected during the early exudative phase of ARDS?
@@ -227,16 +238,6 @@ Which condition is a common cardiovascular complication in patients with acute r
 [WRONG] Coronary artery spasm
 
 * Common cardiovascular complications in patients with acute respiratory failure include hypotension, reduced cardiac output, arrhythmia, endocarditis, and acute myocardial infarction. These complications may be related to the underlying disease process, mechanical ventilation, or the use of pulmonary artery catheters.
-
-# Question 13 
-Which diagnostic test is routinely used for patients with suspected respiratory failure? (Select all that apply)
-
-[RIGHT] Chest x-ray
-[RIGHT] Arterial blood gas analysis
-[WRONG] Right-sided heart catheterization
-[RIGHT] Electrocardiography
-
-* Respiratory failure may be associated with a variety of clinical manifestations. However, these are nonspecific, and very significant respiratory failure may be present without dramatic signs or symptoms. This emphasizes the importance of measuring arterial blood gases in all patients who are seriously ill or in whom respiratory failure is suspected. Chest x-ray is essential. Electrocardiography should be performed to evaluate the possibility of a cardiovascular cause of respiratory failure; it also may detect dysrhythmias resulting from severe hypoxemia or acidosis. Right-sided heart catheterization is controversial and would only be used in cases where cardiac involvement is suspected.
 
 # Question 14 
 Which result indicates an airflow obstruction in a patient with suspected chronic respiratory failure?
