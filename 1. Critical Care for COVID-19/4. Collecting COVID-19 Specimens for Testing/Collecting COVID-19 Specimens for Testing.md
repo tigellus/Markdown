@@ -14,7 +14,7 @@ What does a specimen collection kit for COVID-19 consist of?
 
 [RIGHT] 1 Nasopharyngeal swab and 1 Tube of Universal Transport Media (UTM)
 [WRONG] 1 Nasopharyngeal aspirate and 1 Tube of Universal Transport Media (UTM)
-[WRONG]  2  Nasopharyngeal swabs and 1 Tube of Universal Transport Media (UTM)
+[WRONG] 2  Nasopharyngeal swabs and 1 Tube of Universal Transport Media (UTM)
 
 
 # Specimen Collection Types
@@ -40,7 +40,8 @@ The individual collecting the swab should wear a face mask, gown, gloves and fac
 
 3. If unable to obtain a specimen, escalate.
 
-Another option for upper respiratory tract specimens, especially in children is NP wash/aspirate or nasal aspirate: collect 2-3mL of specimen in a sterile, leak-proof, screw-cap sputum collection cup or sterile dry container.**
+Another option for upper respiratory tract specimens, especially in children is NP wash/aspirate or nasal aspirate: 
+* collect 2-3mL of specimen in a sterile, leak-proof, screw-cap sputum collection cup or sterile dry container.
 
 ![](assets/nasopharyngeal-specimen.png)
 

@@ -98,7 +98,15 @@ Rescuers should be prepared to recognize and support a sedated patient who is no
 [WRONG] False
 
 # Medications Generally Associated with Sedation
-## Propofol
+
+In the next modules we will cover medications generally associated with sedation:
+* propofol
+* fentanyl
+* versed
+* dilaudid
+* dexmedetomidine
+
+# Propofol
 Propofol is an intravenous anesthetic used for procedural sedation, during monitored anesthesia care, or as an induction agent for general anesthesia. It may be administered as a bolus, an infusion, or a combination. Propofol is prepared in a lipid emulsion which gives it the characteristic milky white appearance.
 
 ### Clinical Uses of Propofol:
@@ -169,7 +177,7 @@ Rescue equipment should include a bag valve mask, two sources of oxygen (central
 
 It is thought to occur due to alterations in mitochondrial metabolism and electron transport chain function, but the exact mechanism of PRIS is still unknown. The onset of PRIS usually occurs within four days of the initial propofol treatment. This syndrome has been noted to occur during prolonged infusions at high doses in pediatric/young adult patients or those with the need for prolonged sedation, such as mechanically ventilated patients with head trauma.
 
-## Fentanyl
+# Fentanyl
 A strong synthetic opioid, which produces analgesia similar to morphine but is 50 to 100 times more potent than morphine. A dose of only 100 micrograms can produce equivalent analgesia to approximately 10 mg of morphine. However, fentanyl exhibits vastly different properties and pharmacokinetics. Clinically, it is most often used as a sedative in intubated patients, as well as in severe cases of pain in patients with renal failure owing to its primarily hepatic elimination. At times, fentanyl may also be indicated to treat chronic pain patients who have developed tolerance to opiates. When used as a sedative, it is most commonly administered as a drip. It may often require large doses when used as a sedative in patients with mechanical ventilation requirements. 
 
 ### Mechanism of Action
@@ -195,7 +203,7 @@ When using fentanyl citrate injections along with medications such as CYP3A4 inh
 ### Toxicity
 Typically, a fentanyl overdose manifests as respiratory depression or respiratory arrest. In such cases, oxygen administration and respiratory assistance should be performed accordingly. An opioid drug antagonist such as naloxone is indicated to correct symptoms. Commonly, repeated doses of naloxone over time. Thus, the therapeutic approach is continued until a normal respiratory rate coincides with appropriate oxygen saturation levels. Naloxone/naltrexone are robust opioid antagonists that function by blocking µ-receptors.  Naloxone is commonly administered IV, IM, IN or subcutaneously (SC). 
 
-## Versed
+# Versed
 Intravenous midazolam (Versed) can be used for anxiolysis and hypnosis during general anesthesia and for to decrease anxiety and provide amnesia during prolonged mechaincal ventilation.
 
 ### Mechanism of Action
@@ -216,7 +224,7 @@ Frequent monitoring of blood levels of midazolam and its metabolites is a requir
 ### Toxicity
 Toxicity with midazolam is rare but can happen when combined with other CNS depressants like alcohol, opioids, and other tricyclic antidepressants. The risk increases with intravenous administration and in elderly individuals with COPD. Symptoms of overdose include ataxia, nystagmus, hypotension, slurred speech, slurred speech, impaired motor coordination, coma, and death. Flumazenil is the antidote for midazolam toxicity. 
 
-## Dilaudid
+# Dilaudid
 Hydromorphone (Dilaudid) is a pure opioid indicated for moderate to severe acute pain and severe chronic pain. It is only prescribed when other first-line of treatments have failed, due to its high potency, abuse potential, and overdose risk. 
 
 ### Mechanism of Action

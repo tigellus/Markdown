@@ -34,6 +34,7 @@ The second session will provide an overview of critical care for non-interventio
 
 [embed](https://www.youtube.com/watch?v=UaZw_ENCyf0&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG)
 
+
 In addition, the following video will show an example of how to put on PPE:
 
 [embed](https://www.youtube.com/watch?v=ShiSLGqDPDw&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=3)
