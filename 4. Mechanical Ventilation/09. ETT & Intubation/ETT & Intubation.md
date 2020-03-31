@@ -4,9 +4,104 @@ Watch the following video for an introduction to endotracheal intubation.
 
 [embed](https://www.youtube.com/watch?v=iyAQR_Zpf6U&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=5)
 
-# Endotracheal tube (ETT)
+# Endotracheal Tube (ET Tube)
+*  Endotracheal tubes are curved tubes used for intubation
+* Tubes were previously made up of latex (indian rubber) and those still available , currently plastic tubes (PVC) are preferred because of following advantages: 
+ * Disposable (less chances of infection)
+ * Hypoallergenic ( since latex allergy is fairly common)
+ * Transparent (easy visualization of blockage ETT due to blood, pus, secretions
 
-%%%%TODO PETTER ADD ETT PDF HERE
+## Tube Components
+
+### Proxiaml End 
+15 mm adapter (connector) which fits to ventilator  or ambu bag
+
+### Central Portion 
+1. A vocal cord guide (black line ) which should be placed at the level of the opening of the vocal cords so that the tip of the ET tube is positioned above the bifurcation if the trachea.
+2. A radio-opaque marker which is essential for accurate visualization of the position of the ET tube within the trachea by means of an X-ray
+3. The distance indicator (marked in centimeters) which facilitates placement of ET tube.
+4. A cuff - in case of cuff ET tube
+
+### Distal End 
+Has Murphy’s eye (opening in the lateral wall ) which prevents complete blockage of ET tube incase the distal end is impacted with secretion, blood, etc.
+
+![](assets/ETT.png)
+
+## Types of Tubes
+* ET tubes can be:
+ * Cuffed
+ * Uncuffed
+
+* Cuffed ET tubes are used in children > 8 years
+* The cuff when inflated maintains the ET tube in proper position and prevents aspiration of contents from GI tract into respiratory tract
+* In children < 8 uncuffed ET tubes are used because the narrow subglottic area performs the function of a cuff and prevents the ET tube from slipping.
+
+![](assets/ETT2.png)
+
+![](assets/ETT3.png)
+
+## Tube Size
+
+* From 2 mm to 16 mm (internal diameter). 
+
+* The size of the tube can be determined by: 
+
+** Internal diameter of ETT (mm) = age in years + 4**
+
+* Roughly the diameter of the childs little finger is the same as that required for the ETT
+
+* The following table gives an idea abpout the size
+of ETT in different age groups.
+
+![](assets/ETT4.png)
+
+Then increase the size of the ET tube by 0.5 cm for every 6 months rise in age so that at approximately 6 years of age size of the ET tube to be used is approximately 8 mm
+
+## Uses of ET tube
+* For Mechanical Ventilation
+* For Intermittent Postive Pressure Ventilation (IPPV)
+* During resuscitation
+* Direct suctioning of trachea in meconium
+aspiration
+* In Epiglottits &life threatening croup
+* In tetanus (however for long term bases, tracheostomy is preferable)
+* In diptheria
+* In angioneurotic edema
+
+## Complications
+* Mechanical trauma to tongue, teeth, palate, pharynx & larynx during intubation procedure
+* Stimulation of posterior of posterior pharyngeal wall leading to coughing, vomiting or vasovagal episode with resultant hypoxia, bradycardia.
+* Prolonged intubation may cause pressure necrosis of laryngeal structures leading to persistant hoarseness (hence tracheostomy) is indicated in patients requiring long-term mechanical ventilation)
+* Pneumothorax.
+
+## Ambu Bag
+
+### Parts of the Ambu Bag
+* Patient outlet (to which mask is attached)
+* One-way valve unit (just proximal to patient outlet)
+* Pressure releease valve
+* Attachment site for maxnometer
+
+![](assets/ETT5.png)
+
+### Size 
+The size of the bag varies depending on the volume (ranges from 250 ml to 750 ml for paediatric use)
+
+### Pressure release valves
+Are usually set to release at pressure of 30-35cms of water
+
+### At the end there are two inlets
+**Oxygen Inlet**
+This inlet is attached to a tube carrying oxygen from the source (central oxygen line or oxygen cylinder)
+
+**Air Inlet**
+If kept open the concentration of 02 is approx 40% FiO2. for the Fi02 to be near 90 - 100%, and oxygen reservoir should be attached.
+
+## Mechanism of Ventilation
+In the resting stage the ambu bag is filled with air. On squeezing the bag to initiate ventilation the one wave valve proximal to the patients outlet opens resulting in release of air, stored in the bag to the patient. On releasing the pressure the bag gets re-inflated with air. The patients exhaled air cannot re-enter the bag due to one wave mechanism of the valve at the patient outlet.
+
+### Uses
+for giving intermittent positive pressure ventilation
 
 # Question 1
 Which artificial airway intubates both the trachea and esophagus?
@@ -35,7 +130,7 @@ Which lab value must the nurse know for a patient who may receive succinylcholin
 # Question 4
 Which of the following is not a method of confirming correct positioning of an endotracheal tube?
 
-[WRONG] End tidal CO2 detector
+[WRONG] End tidal CO2 detector
 [RIGHT] Asking patient to speak
 [WRONG] Breath sounds
 [WRONG] Chest x-ray
