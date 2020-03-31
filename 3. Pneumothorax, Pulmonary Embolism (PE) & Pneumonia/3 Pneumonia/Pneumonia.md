@@ -10,8 +10,8 @@ Pneumonia is one of the most common respiratory problems and it affects patients
 Pneumonia is classified into four main categories: 
 * **Community-acquired pneumonia (CAP).**
 * **Nosocomial or hospital-acquired pneumonia (HAP).**
-* pneumonia in the **immunocompromised** host. 
-* **aspiration pneumonia**.
+* Pneumonia in the **immunocompromised** host. 
+* **Aspiration pneumonia**.
 
 ## Community-Acquired Pneumonia
 
@@ -79,9 +79,10 @@ Regardless of the cause of pneumonia, the symptoms are similarm including:
 * Dyspnea (mild, exertional and rarely present at rest)
 * Pleuritic chest pain adjecent to the area of the lungs affected (may manifest as upper abdominal pain when lower lobe infection irritates the diaphragm)
 * GI symptoms (nausea, vomiting, diarrhea) 
+
 Symptoms become variable at the extremes of age. 
-* Infection in infants may manifest as nonspecific irritability and restlessness; 
-* In the elderly, manifestation may be as confusion and obtundation.
+* Infection in infants may manifest as nonspecific irritability and restlessness
+* In the elderly, manifestation may be as confusion and obtundation
 
 ## Assessment Findings
 Signs found during assessment of patients with pheumonia will include :
@@ -91,13 +92,14 @@ Signs found during assessment of patients with pheumonia will include :
 * Crackles
 * Bronchial breath sounds
 * Egophony (E to A change—said to occur when, during auscultation, a patient says the letter “E” and the examiner hears the letter “A”),
-* Dullness to percussion. Signs of pleural effusion may also be present. 
-Signs for infants include
+* Dullness to percussion. 
+
+Signs of pleural effusion may also be present. 
+
+Signs for infants include:
 * Nasal flaring
 * Accessory muscle use during respiration
 * Cyanosis
-
-It would be good to include a video or two here to show breath sounds.
 
 ## Complications
 Pneumonia has several complications if left untreated or the interventions are inappropriate. The following complications  may develop in patients with pneumonia.
