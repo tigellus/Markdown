@@ -4,7 +4,7 @@ Prior to beginning on a critical care unit, review the handbook for critical car
 
 Please note, this document will be updated on an ongoing basis as guidance evolves.
 
-You find the handbook here
+You can find the handbook here:
 
 [Go to the handbook](https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Coronavirus/Critical-Care-Handbook.pdf)
 
