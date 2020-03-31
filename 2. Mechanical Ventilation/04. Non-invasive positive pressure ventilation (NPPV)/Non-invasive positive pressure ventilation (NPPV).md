@@ -1,33 +1,3 @@
-# Bag-valve–mask (BVM) ventilation
-BVMs are used to manually ventilate a patient whose respirations are absent or inadequate. Ideally, two rescuers work to manually ventilate the patient
-
-## DO
-* Put on gloves
-* Lower the head of the bed, remove any pillows, and place the patient supine.
-* Assess his level of consciousness, open and evaluate airway, assess breathing and circulation.
-* If emergency ventilation is needed, use the BVM: make sure the mask is securely attached to the bag. 
-* Connect BVM oxygen tubing to the oxygen port on the device and adjust oxygen flow to 10 to 15 liters/minute.
-
-### First rescuer
-
-Stand at the top of the patient's head. Place the apex of the mask over the bridge of his nose with the base of the mask between his lower lip and chin to ensure a tight seal.
-![](assets/ambu_1.jpeg)
-
-Place the thumb and index finger of each hand along the mask's lateral edges to provide a complete seal. With the remaining fingers of both hands, lift the patient's mandible and extend his neck to open his airway.
-
-### Second rescuer
-
-Using both hands, slowly, gently, and completely squeeze the bag for 2 seconds until you see the patient's chest rise. Then let the bag reinflate, and you should see his chest fall.
-
-![](assets/ambu_2.jpeg)
-Provide ventilation every 5 seconds and watch the rise and fall of his chest. If it doesn't rise each time you squeeze the bag, ask the other rescuer to make sure the patient's airway is properly opened and the seal between the mask and his face is leakproof, then resume bag compressions.
-
-### DON'T
-* Don't use the head-tilt/chin-lift method to open the patient's airway if you suspect head or neck trauma.
-* Don't remove his dentures unless they interfere with ventilations.
-* Don't use larger tidal volumes than you need to cause his chest to rise and fall. This can result in gastric distension, regurgitation, aspiration, and pneumonia.
-
-
 # Non-Invasive Positive Pressure Ventilation
 
 Method of ventilation without an endotracheal tube or tracheostomy: tight-fitting nasal, oro-nasal or face mask attached to a non-invasive positive pressure ventilator (NPPV or CPAP/BIPAP) unit.
