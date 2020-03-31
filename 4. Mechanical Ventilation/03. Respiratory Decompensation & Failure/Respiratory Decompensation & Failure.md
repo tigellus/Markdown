@@ -1,5 +1,7 @@
-# Diagnostic Criteria
 
+# Respiratory Failure
+
+# Assessment findings
 * Cool, clammy skin
 * Dry cough with thick, frothy sputum
 * Expiratory crackles
@@ -9,8 +11,6 @@
 * Increased blood pressure
 * Tachycardia
 * Increasing anxiety and agitation, restlessness, confusion
-
-# Respiratory Failure
 
 ## Early Signs 
 * Increased anxiety, confusion, aggitation
@@ -33,6 +33,11 @@
 * Few or no spontaneous respirations
 * Bradycardia with dysrhythmias
 * Metabolic and respiratory acidosis
+
+## Diagnostic Criteria
+* PaO2 <60 while patient receiving room air (Hypoxemic respiratory failure)
+* PaCO2 >50 with pH <7.3 (Hypercapneic respiratory failure)
+
 
 # Question 1
 What is an early sign of respiratory failure?
