@@ -1,50 +1,71 @@
-# Important Information Needed
-* Adequacy of PaO2, pH, PaCO
-* FIO2 - .4 to .5
-* Very low or no PEEP
-* Reasonable spontaneous respiratory rate
+# Introduction
+Once the underlying cause for need of mechanical ventilation is resolved or resolving, the healthcare team may begin to wean the patient off the ventilator. During weaning, the patient assumes more responsibility for work of breathing and the ventilator provides less support. These weaning trials may last minutes to hours depending on the weaning mode and patient status/tolerance of weaning. This is a delicate process and requires close monitoring of patient response to weaning. Ultimately, the goal is to "liberate" the patient from the ventilator so that the patient no longer needs mechanical ventilatory support.
 
-# Parameters
+# Assessing Readiness to Wean
+* Improving ABGs and PaO2/FiO2 ratio
+* Underlying reason for needing mechanical ventilation is resolving
+* FIO2: less than 50%
+* Mental readiness/ability to follow commands
+* Hemodynamic stability
+* Spontaneous respiratory drive
+* Ensure adequate rest
+* Evaluate potential complicating issues (eg. anemia, hydration, medications, comorbidities, complications)
+
+# Parameters for Weaning
+Indications that a patient is ready to wean
 * Vital capacity greater than 10 ml/kg
 * Tidal volume greater than 5ml/kg
 * Maximum inspiratory force (-20 ml H2O)
+* PaO2 >60mmHg with FiO2 less than 50%
+* Cuff leak (able to hear air bubbling around cuff when some air released from cuff)
 
-# Steps & Methodology
+# Weaning Trials: Procedure
 
 ### Steps
-* Describe process to the patient – relax
-* Vital signs stable
-* Hemodynamics stable
-* Evaluate level of consciousness
-* Correct anemia
-* Adequate hydration
+* Describe process to the patient
+* Reduce or remove sedation as indicated to enhance respiratory drive
+* Reassure the patient (high potential for anxiety)
+* Monitor VS and hemodynamics before, during, after - monitor for signs of fatigue (cease weaning trial if patient becomes tachycardic, hypertensive, diaphoretic, aggitated, hypoxemic)
+* Evaluate level of consciousness and mental readiness
 
-### Methodology
-* T-piece
-* SIMV
-* Pressure support ventilation - CPAP
+### Weaning Strategies
+* T-piece: ETT is disconnected from the ventilator- replaced with T-piece (humidified oxygen) patient does ALL work of breathing (no PEEP)
+* SIMV: Only set number of pre-set breaths delivered from the ventilator, patient is responsible for remaining respiratory drive and tidal volume 
+* Pressure support ventilation: Patient triggers all breaths, receives pressure support to enhance respiratory effort
+* CPAP: No respiratory rate or tidal volume, patient responsible for all breaths and tidal volume
 
-### Mechanics
-* Vital capacity >10 to 15 cc/kg (usually 1000 cc)
-* Tidal volume >5 cc/kg(usually 200cc)
-* Minute ventilation <10L/min indicates a high ventilatory requirement has been reduced
-
-#### Maximal voluntary ventilation: >twice the minute ventilation
-
-#### Maximal inspiratory pressure > -20 ml H2O
-
-#### Oxygenation
+### Monitoring
+* Vital capacity should be >10 to 15 cc/kg
+* Spontaneous tidal volume >5 cc/kg
+* Minute ventilation 5-10L/min.
 * PaO2: 60 to 70 mmHg (50-60 mmHg for COPD) with FIO2<0.40
-
-#### Ventilation
 * PaCO2: <45 mmHg or equal to the patient’s baseline PaCO2
 
-# Failure Signs
+deleted- (not in RN scope)
+
+# Failure to Wean
+Continually evaluate the patient for signs of failed weaning: fatigue/exhaustion, hypoxia, hypoventilation, aggitation, hemodynamic instability, accessory muscle use
 * BP deviation of 20 mmHg or more
 * HR deviation of 20 bpm or more
 * Respiratory rate >35 breaths per minute
 * Arrhythmias – new onset
 * Change in LOC
+
+# Extubation
+Patients who have successfully weaned and met criteria (typically sustained spontaneous breathing x 90-120 minutes), may be extubated
+* Assess whether weaning criteria have been met
+* Assess patient's cough/ability to independently clear airway
+* Prepare supplemental oxygen for post extubation
+STEPS:
+* Inform the patient
+* Place towel on patient chest
+* Suction the mouth and secretions above the cuff
+* Deflate the cuff
+* Ask the patient to cough as the ETT is removed
+* Place supplemental oxygen
+* CLOSELY monitor for signs of respiratory distress, stridor, hoarseness, or decompensation-- patient may need to be reintubated
+* Ensure patient passes a swallow evaluation before taking anything PO
+
 
 # Question 1
 Define ventilator weaning:
@@ -52,12 +73,12 @@ Define ventilator weaning:
 [WRONG] Turning off the ventilator and letting the patient breathe spontaneously
 [WRONG] Changing to a noninvasive form of ventilation
 [WRONG] Increasing the tidal volume delivered by the ventilator
-[RIGHT] Decreasing the number of ventilator breaths while allowing an increased number of spontaneous breaths
+[RIGHT] Decreasing the ventilator support while allowing an increased number of spontaneous breaths
 
 # Question 2
 When using T-piece trials to wean, which of the following is true?
 
-[RIGHT] The patient alternates time on the ventilator with time breathing spontaneously
+[RIGHT] The patient does all work of breathing
 [WRONG] The number of ventilator breaths is gradually decreased
 [WRONG] The patient has the benefit of the ventilator alarms while on the T-piece
 [WRONG] The T-piece gives a postive pressure “boost” to decrease the work of breathing
@@ -65,10 +86,10 @@ When using T-piece trials to wean, which of the following is true?
 # Question 3
 What should a patient’s minimum spontaneous tidal volume be in order to be successfully weaned from the ventilator?
 
-[WRONG] 10 ml/kg
+[WRONG] 3 ml/kg
 [WRONG] 20 ml/kg
-[RIGHT] 5ml/kg
-[WRONG] 7-10 ml/kg
+[RIGHT] >5ml/kg
+[WRONG] 15 ml/kg
 
 # Question 4
 Which of the following is not a component of weaning criteria?
@@ -93,3 +114,11 @@ Which of the following should be done to assess respiratory status after extubat
 [WRONG] Electrolyte panel
 [WRONG] Monitor end tidal CO2
 [WRONG] Bronchoscopy
+
+# Question 6
+Which of the following is a concerning complication after extubation?
+
+[RIGHT] Stridor
+[WRONG] Cough
+[WRONG] Thirst
+[WRONG] Need for supplemental oxygen
