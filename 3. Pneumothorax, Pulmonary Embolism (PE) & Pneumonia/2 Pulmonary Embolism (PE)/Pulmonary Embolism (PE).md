@@ -14,8 +14,6 @@ Most commonly, pulmonary embolism is due to a blood clot or thrombus, but there 
 
 # Pathophysiology of Pulmonary Embolism
 
-(The material in this section was adapted from this source: https://www.merckmanuals.com/professional/pulmonary-disorders/pulmonary-embolism-pe/pulmonary-embolism-pe)
-
 When a DVT forms, clots can dislodge and travel through the right side of the heart and become lodged in the pulmonary vasculature. A PE can cause partial or complete occlusion of one or more of the pulmonary vessels. Small to moderate emboli can spontaneously resolve, but additional emboli can expand the blockage. 
 
 A large emboli with significant occulsion is a life-threatening medical emergency, leading to the following physiologic effects:
