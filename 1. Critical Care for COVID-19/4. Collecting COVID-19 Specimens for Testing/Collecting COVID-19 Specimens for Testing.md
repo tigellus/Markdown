@@ -47,9 +47,9 @@ Another option for upper respiratory tract specimens, especially in children is 
 # Question 2
 What should an individual wear while collecting a specimen for COVID-19 testing?
 
-[RIGHT] face mask, gown, face shield and gloves
-[WRONG] face mask, gown, gloves
-[WRONG]  face mask, face shield and gloves
+[RIGHT] Face mask, gown, face shield and gloves
+[WRONG] Face mask, gown, gloves
+[WRONG] Face mask, face shield and gloves
 
 # Question 3
 Is an individual collecting a specimen for COVID-19 required to wear an N95 mask?
