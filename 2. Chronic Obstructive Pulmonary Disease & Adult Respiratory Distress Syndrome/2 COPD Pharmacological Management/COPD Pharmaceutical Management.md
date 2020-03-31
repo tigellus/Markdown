@@ -52,6 +52,8 @@ Evaluating the effectiveness of the interventions outlined in the plan of care c
 * Practices breathing techniques
 * Performs activities with less shortness of breath
 
+# Guidelines 
+
 ### Discharge and Home Care Guidelines
 
 It is important for the nurse to assess the knowledge of patient and family members about self-care and the therapeutic regimen.
