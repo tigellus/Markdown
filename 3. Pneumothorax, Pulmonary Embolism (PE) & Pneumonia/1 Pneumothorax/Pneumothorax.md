@@ -3,7 +3,19 @@
 ![](assets/pneumo1.png)
 ![](assets/pneumo2.png)
 
-A pneumothorax is defined as a collection of air outside the lung but within the pleural cavity. It occurs when air accumulates between the parietal and visceral pleurae inside the chest. This is different from a hemothorax which results from blood collecting in the pleural cavity.  The air accumulation can apply pressure on the lung and make it collapse, impairing oxygenation and/or ventilation. The degree of collapse determines the clinical presentation of pneumothorax. Air can enter the pleural space by two mechanisms, either through the chest wall (parietal pleura) or from the lung (visceral pleura). There are two types of pneumothorax: traumatic and atraumatic. The two subtypes of atraumatic pneumothorax are primary and secondary. A primary spontaneous pneumothorax (PSP) occurs automatically without a known eliciting event, while a secondary spontaneous pneumothorax (SSP) occurs subsequent to an underlying pulmonary event. A traumatic pneumothorax can be the result of blunt or penetrating injury. Pneumothoraces can be even further classified as simple, tension, or open. A simple pneumothorax is an isloated pocket of air within the pleura that does not shift the mediastinal structures. A tension  pneumothorax occurs when a trapped pocket of air expands without ability to escape through the shest wall, causing increased pressure and shifting of the mediastinal structures including the heart. Open pneumothorax is an open wound in the chest wall through which air moves in and out of the pleura.  A tension pneumothorax is a critical event that progresses rapdily, reducing venous return to the heart, and requires immediate intervention.  The most common cause of a tension pneumothorax is mechanical ventilation.[1][2][3][4]
+A pneumothorax is defined as a collection of air outside the lung but within the pleural cavity. It occurs when air accumulates between the parietal and visceral pleurae inside the chest. This is different from a hemothorax which results from blood collecting in the pleural cavity. The air accumulation can apply pressure on the lung and make it collapse, impairing oxygenation and/or ventilation. The degree of collapse determines the clinical presentation of pneumothorax. 
+
+Air can enter the pleural space by two mechanisms, either through the chest wall (parietal pleura) or from the lung (visceral pleura). There are two types of pneumothorax: 
+* traumatic 
+* atraumatic 
+
+The two subtypes of atraumatic pneumothorax are primary and secondary. A primary spontaneous pneumothorax (PSP) occurs automatically without a known eliciting event, while a secondary spontaneous pneumothorax (SSP) occurs subsequent to an underlying pulmonary event. A traumatic pneumothorax can be the result of blunt or penetrating injury. Pneumothoraces can be even further classified as *simple*, *tension*, or *open*. 
+
+A simple pneumothorax is an isloated pocket of air within the pleura that does not shift the mediastinal structures. 
+
+A tension  pneumothorax occurs when a trapped pocket of air expands without ability to escape through the shest wall, causing increased pressure and shifting of the mediastinal structures including the heart. Open pneumothorax is an open wound in the chest wall through which air moves in and out of the pleura.  
+
+A tension pneumothorax is a critical event that progresses rapdily, reducing venous return to the heart, and requires immediate intervention.  The most common cause of a tension pneumothorax is mechanical ventilation
 
 # Etiology 
 #### Most common causes of a primary spontaneous pneumothorax
@@ -14,6 +26,7 @@ A pneumothorax is defined as a collection of air outside the lung but within the
 * Marfan syndrome
 * Familial or previous pneumothorax
 
+# Etiology, cont.
 #### Most common causes of a secondary spontaneous pneumothorax:
 
 Disease Processes
@@ -41,9 +54,9 @@ Causes that lead to tension pneumothorax
 * Open pneumothorax when an occlusive dressing allows air into, but not out of, the pleural space
 
 # Epidemiology
-Primary spontaneous pneumothorax mostly occurs in 20-30 years of age. The incidence of PSP in the United States is 7 per 100,000 men and 1 per 100,000 women per year[5]. The majority of recurrence occurs within the first year, and incidence ranges widely from 25% to 50%. The recurrence rate is highest over the first 30 days.
+Primary spontaneous pneumothorax mostly occurs in 20-30 years of age. The incidence of PSP in the United States is 7 per 100,000 men and 1 per 100,000 women per year. The majority of recurrence occurs within the first year, and incidence ranges widely from 25% to 50%. The recurrence rate is highest over the first 30 days.
 
-Secondary spontaneous pneumothorax is more seen in old age patients 60-65 years. The incidence of SSP is 6.3 and 2 cases for men and women per 100,000 patients, respectively. The male to female ratio is 3:1. COPD has an incidence of 26 pneumothoraces per 100,000 patients.[6] The risk of spontaneous pneumothorax in heavy smokers is 102 times higher than non-smokers.
+Secondary spontaneous pneumothorax is more seen in old age patients 60-65 years. The incidence of SSP is 6.3 and 2 cases for men and women per 100,000 patients, respectively. The male to female ratio is 3:1. COPD has an incidence of 26 pneumothoraces per 100,000 patients. The risk of spontaneous pneumothorax in heavy smokers is 102 times higher than non-smokers.
 
 The leading cause of medically induced (iatrogenic) pneumothorax is transthoracic needle aspiration (usually for biopsies), and the second leading cause is central venous catheterization. These occur more frequently than spontaneous pneumothorax, and their number is increasing as intensive care modalities are advancing. The incidence of iatrogenic pneumothorax is 5 per 10,000 admissions in the hospital.
 
@@ -52,7 +65,20 @@ The incidence of tension pneumothorax is difficult to determine as one-third of 
 Pneumomediastinum (air in the medistinum) has an incidence of 1 case per 10,000 admissions in the hospital.
 
 # Pathophysiology
-The pressure gradient inside the thorax changes with a pneumothorax. Normally the pressure of the pleural space is negative when compared to atmospheric pressure. When the chest wall expands outwards, the lung also expands outwards due to surface tension between the parietal and visceral pleurae. Lungs have a tendency to collapse due to elastic recoil. When there is communication between the alveoli and the pleural space (caused by a rupture in the visceral pleura), air fills this space, changing the pressure gradient.  This causes the lung to collapse until equilibrium is restored by restoring the presure gradient or sealing the rupture. As a pneumothorax enlarges, the lung gets smaller which will reduce vital capacity and decrease oxygen partial pressure. Clinical presentation of a pneumothorax can range anywhere from asymptomatic to chest pain and shortness of breath. A tension pneumothorax can cause severe hypotension (obstructive shock) and even death. Beck's triad describes symptoms commonly associated with tension pneumothorax. The three components of Beck's triad are distended neck veins, distant heart sounds, and hypotension. Other symptoms include tachypnea, dyspnea, tachycardia, and hypoxia.
+The pressure gradient inside the thorax changes with a pneumothorax. Normally the pressure of the pleural space is negative when compared to atmospheric pressure. When the chest wall expands outwards, the lung also expands outwards due to surface tension between the parietal and visceral pleurae. Lungs have a tendency to collapse due to elastic recoil. When there is communication between the alveoli and the pleural space (caused by a rupture in the visceral pleura), air fills this space, changing the pressure gradient. This causes the lung to collapse until equilibrium is restored by restoring the presure gradient or sealing the rupture. As a pneumothorax enlarges, the lung gets smaller which will reduce vital capacity and decrease oxygen partial pressure. 
+
+Clinical presentation of a pneumothorax can range anywhere from asymptomatic to chest pain and shortness of breath. A tension pneumothorax can cause severe hypotension (obstructive shock) and even death. Beck's triad describes symptoms commonly associated with tension pneumothorax. 
+
+The three components of Beck's triad are:
+* distended neck veins
+* distant heart sounds
+* hypotension 
+
+Other symptoms include:
+* tachypnea
+* dyspnea
+* tachycardia
+* hypoxia
 
 Spontaneous pneumothorax in the majority of patients occurs due to the rupture of bullae or blebs. Primary spontaneous pneumothorax is defined as occurring in patients without underlying lung disease but these patients had asymptomatic bullae or blebs on thoracotomy. Primary spontaneous pneumothorax occurs in tall and thin young people due to increased shear forces or more negative pressure at the apex of the lung. Lung inflammation and oxidative stress are essential to the pathogenesis of primary spontaneous pneumothorax. Current smokers have increased inflammatory cells in small airways and are at increased risk of pneumothorax.
 
@@ -94,12 +120,14 @@ Chest radiography, ultrasonography, or CT can be used for diagnosis, although di
 ### Pneumothorax: CT scan (right sided)
 ![](assets/pneumothorax-CTscan.png)
 
-The extended focused abdominal sonography for trauma (E-FAST) exam has been a more recent diagnostic tool for pneumothorax. The diagnosis of ultrasound is usually made by the absence of lung sliding, the absence of a comet-tails artifact, and the presence of a lung point. Unfortunately, this diagnostic method is very operator dependent and sensitivity, and specificity can vary. In skilled hands, ultrasonography has up to a 94% sensitivity and 100% specificity (better than chest x-ray). If a patient is hemodynamically unstable with suspected tension pneumothorax, intervention is not withheld to await imaging. Needle decompression can be performed if the patient is hemodynamically unstable with a convincing history and physical exam, indicating tension pneumothorax.
+The extended focused abdominal sonography for trauma (E-FAST) exam has been a more recent diagnostic tool for pneumothorax. The diagnosis of ultrasound is usually made by the absence of lung sliding, the absence of a comet-tails artifact, and the presence of a lung point. Unfortunately, this diagnostic method is very operator dependent and sensitivity, and specificity can vary. In skilled hands, **ultrasonography has up to a 94% sensitivity and 100% specificity** (better than chest x-ray). If a patient is hemodynamically unstable with suspected tension pneumothorax, intervention is not withheld to await imaging. Needle decompression can be performed if the patient is hemodynamically unstable with a convincing history and physical exam, indicating tension pneumothorax.
 
 # Treatment / Management
 Management depends on the clinical scenario.
 
-For patients who have associated symptoms and are showing signs of instability, needle decompression is the treatment of a pneumothorax. This usually is performed with a 14- to 16-gauge and 4.5 cm in length angiocatheter, just superior to the rib in the second intercostal space in the midclavicular line. After needle decompression or for stable pneumothoraces, the treatment is the insertion of a thoracostomy tube. This usually is placed above the rib in the fifth intercostal space anterior to the midaxillary line. The size of the thoracostomy tube usually ranges depending on the patient's height and weight and whether there is an associated hemothorax.
+For patients who have associated symptoms and are showing signs of instability, needle decompression is the treatment of a pneumothorax. This usually is performed with a **14- to 16-gauge and 4.5 cm in length angiocatheter**, just superior to the rib in the second intercostal space in the midclavicular line. 
+
+After needle decompression or for stable pneumothoraces, the treatment is the insertion of a thoracostomy tube. This usually is placed above the rib in the fifth intercostal space anterior to the midaxillary line. The size of the thoracostomy tube usually ranges depending on the patient's height and weight and whether there is an associated hemothorax.
 
 Open "sucking" chest wounds are treated initially with a three-sided occlusive dressing. Further treatment may require tube thoracostomy and/or chest wall defect repair.
 
@@ -109,7 +137,8 @@ In secondary spontaneous pneumothorax, if size/depth of pneumothorax is less tha
 
 Air can reabsorb from the pleural space at a rate of 1.5%/day. Using supplemental oxygen can increase this reabsorption rate. By increasing the fraction of inspired oxygen concentration, the nitrogen of atmospheric air is displaced changing the pressure gradient between the air in the pleural space and the capillaries. Pneumothorax on chest radiography approximately 25% or larger usually needs treatment with needle aspiration if symptomatic and if it fails then tube thoracostomy is done.
 
-**Indications for surgical intervention (VATS vs. thoracotomy)**
+# Treatment / Management - Surgical Intervention
+### Indications for surgical intervention (VATS vs. thoracotomy)
 
 * Continuous air leak for longer than seven days
 * Bilateral pneumothoraces
@@ -135,7 +164,9 @@ Differential diagnoses of pneumothorax include:
 
 # Prognosis
 
-PSP is usually benign and mostly resolves on its own without any major intervention. Recurrence can occur up to three years period. Recurrence rate in the following five years is 30% for PSP and 43% for SSP. The risk of recurrence increases with each subsequent pneumothorax; it is 30% with first, 40% after the second, and more than 50% after the third recurrence. PSP is not considered a major health threat, but deaths have been reported. SSPs are more lethal depending upon underlying lung disease and the size of the pneumothorax. Patients with COPD and HIV have high mortality after pneumothorax. The mortality of SSP is 10%. Mortality of tension pneumothorax is high if appropriate measures are not taken.
+PSP is usually benign and mostly resolves on its own without any major intervention. Recurrence can occur up to three years period. Recurrence rate in the following five years is **30% for PSP** and **43% for SSP**. The risk of recurrence increases with each subsequent pneumothorax; it is **30% with first**, **40% after the second**, and more than **50% after the third recurrence**. 
+
+PSP is not considered a major health threat, but deaths have been reported. SSPs are more lethal depending upon underlying lung disease and the size of the pneumothorax. Patients with COPD and HIV have high mortality after pneumothorax. **The mortality of SSP is 10%**. Mortality of tension pneumothorax is high if appropriate measures are not taken.
 
 # Complications
 * Respiratory failure or arrest
@@ -178,7 +209,6 @@ The management of a pneumothorax is often done by the emergency department physi
 ### Chest Drainage
 This image below shows the basic function ad setup of a water-seal chest drainage system.  
 ![](assets/itct1.png)
-
 ### Disposable water-seal systems
 This is an example of a disposable pleural drainage system that uses the principles of the water-seal system shown above
 ![](assets/waterseal.png)
