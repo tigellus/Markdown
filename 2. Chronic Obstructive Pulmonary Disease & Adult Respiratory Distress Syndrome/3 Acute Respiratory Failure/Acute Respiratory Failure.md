@@ -56,6 +56,10 @@ Failure of arterial blood oxygenation
 * Inadequate systemic O2 delivery
 * Inadequate tissue O2 extraction
 
+### Clinical Determinants
+* Decreased CaO2
+* Decreased VO2
+
 # Question 4
 What are the clinical determinants of failure of alveolar ventilation?
 
