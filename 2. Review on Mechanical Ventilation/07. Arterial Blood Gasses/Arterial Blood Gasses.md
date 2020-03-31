@@ -14,13 +14,13 @@ Please watch the following video for an overview on ABG.
  * Sampled from a Pulmonary Artery Catheter
  * Used to assess tissue oxygenation
 
-# Question 1
-What is Arterial Blood Gas used for? --> was this taught in this section? General purpose of ABG doesn't seem to have been covered above
+# ~Question 1
+What is Arterial Blood Gas used for? 
 
 [RIGHT] To assess acid base status and alveolar oxygenation
 [WRONG] To assess tissue oxygenation
 
-# Question 2
+# ~Question 2
 What does pH represent?
 
 [RIGHT] The negative logarithm of the hydrogen ion concentration
@@ -48,14 +48,14 @@ What does pH represent?
 * Caused by accumulation of too much base OR loss of acids
 * pH > 7.8 incompatible with life
 
-# Question 3
+# ~Question 3
 At what pH value should you suspect acidemia?
 
 [RIGHT] pH < 7.35
 [WRONG] pH < 7.45
 [WRONG] pH < 7.00
 
-# Question 4
+# ~Question 4
 At what pH value should you suspect alkalemia?
 
 [RIGHT] pH > 7.45
@@ -89,7 +89,7 @@ At what pH value should you suspect alkalemia?
 * Non-respiratory Acidosis [Metabolic Acidosis] -> Respiratory system attempts to compensate by "blowing off" CO2--> patient presents with increased ventilation
 * Non-respiratory Alkalosis [Metabolic Alkalosis] -> Respiratory system attempts to compensate by retaining CO2--> patient presents with decreased ventilation
 
-# Question 5
+# ~Question 5
 What is the effect of Hypoventilation? 
 
 [RIGHT] Increased CO2 retention, Acidemia
@@ -97,7 +97,7 @@ What is the effect of Hypoventilation?
 [WRONG] Decreased CO2 retention, Acidemia
 [WRONG] Decreased CO2 retention, Alkalemia
 
-# Question 6
+# ~Question 6
 What is the effect of Hyperventilation? 
 
 [RIGHT] Decreased CO2 retention, Alkalemia
@@ -105,7 +105,7 @@ What is the effect of Hyperventilation?
 [WRONG] Increased CO2 retention, Alkalemia
 [WRONG] Increased CO2 retention, Acidemia
 
-# Question 7
+# ~Question 7
 Which of the following is NOT a cause of hyperventilation? 
 
 [RIGHT] Taking opioid medication
@@ -113,7 +113,7 @@ Which of the following is NOT a cause of hyperventilation?
 [WRONG] Hypoxia
 [WRONG] Anxiety
 
-# Question 8
+# ~Question 8
 Which of the following is NOT a cause of hyperventilation?
 
 [WRONG] Asthma
@@ -163,13 +163,13 @@ Which of the following is NOT a cause of hyperventilation?
 * Attempts to restore ratio of 1 part acid to 20 parts base
 * Can be partial or complete compensation
 
-# Question 9
+# ~Question 9
 What is Full Compensation?
 
 [RIGHT] The primary disorder is repaired: all acid base parameters return to normal
 [WRONG] The primary disorder continues and the opposite system begins to adjust (partially or completely)
 
-# Question 10
+# ~Question 10
 A patient is admitted to the ICU due to respiratory failure. Once in the ICU, the patient was placed on the ventilator. The patient's ABG results demonstrate a PaCO2 of 50mmHg and a HCO3- of 12mEq/L. Which best describes this patient's condition?
 
 [WRONG] This patient's acid base disorder is compensated
@@ -178,7 +178,7 @@ A patient is admitted to the ICU due to respiratory failure. Once in the ICU, th
 [RIGHT] This patient'sacid base disorder is neither compensated nor corrected
 [WRONG] This patient's acid base disorder is compensated but not corrected
 
-# Question 11
+# ~Question 11
 What is partial compensation?
 
 [RIGHT] The primary disorder continues and the opposing system begins to adjust (partially or completely)
@@ -366,7 +366,7 @@ Acidosis with increased anion gap: Accumulation of anions other than Cl-
 
 Acidosis with normal anion gap: Renal absorption of Cl- due to the loss of HCO3-
 
-# Question 11
+# ~Question 11
 What is the Normal Value of the Anion Gap?
 
 [RIGHT] 12 ± 2
@@ -462,7 +462,7 @@ What do Blood Gas Values pH > 7.45, PaCO2 = Normal , HCO3- > 26 meq/l indicate?
 
 ![](assets/shifts.png)
 
-# Question 17
+# ~Question 17
 What shifts the Oxyhemoglobin Dissociation Curve Right? 
 
 [RIGHT] A pH Decrease and/or a Temperature Increase
@@ -476,14 +476,7 @@ What shifts the Oxyhemoglobin Dissociation Curve Right?
 * Right to left cardiac shunt
 * Impaired respiration
 
-# Body's Compensation for Tissue Hypoxia
-
-* Tachycardia
-* Tachypnea
-* Erythrocytosis
-* Further desaturation of hemoglobin
-
-# Question 18
+# ~Question 18
 What factors lead to Tissue Hypoxia? 
 
 [RIGHT] Low cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, right to left cardiac shunt
@@ -491,7 +484,14 @@ What factors lead to Tissue Hypoxia?
 [WRONG] Low cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, left to right cardiac shunt
 [WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, left to right cardiac shunt
 
-# Question 19
+# Body's Compensation for Tissue Hypoxia
+
+* Tachycardia
+* Tachypnea
+* Erythrocytosis
+* Further desaturation of hemoglobin
+
+# ~Question 19
 How does the body compensate for tissue hypoxia?
 
 [RIGHT] Tachycardia, Tachypnea, Erythrocytosis, further desaturation of hemoglobin

@@ -1,7 +1,7 @@
 
 # Respiratory Failure
 
-# Assessment findings
+## Assessment findings
 * Cool, clammy skin
 * Dry cough with thick, frothy sputum
 * Expiratory crackles
@@ -38,21 +38,20 @@
 * PaO2 <60 while patient receiving room air (Hypoxemic respiratory failure)
 * PaCO2 >50 with pH <7.3 (Hypercapneic respiratory failure)
 
-
-# Question 1
+# ~Question 1
 What is an early sign of respiratory failure?
 
 [RIGHT] Confusion, Anxiety and Visual Disturbances
 [WRONG] Fatigue, Nausea
 
-# Question 2
+# ~Question 2
 Which of the following is a NOT a sign of respiratory failure?
 
 [RIGHT] Increased energy
 [WRONG] Tachycardia
 [WRONG] Pale, cyanotic skin
 
-# Question 3
+# ~Question 3
 Which of the following is indicative of respiratory failure?
 
 [RIGHT] Hypotension

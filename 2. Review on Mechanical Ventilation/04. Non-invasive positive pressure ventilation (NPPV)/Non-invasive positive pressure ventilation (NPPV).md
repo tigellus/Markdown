@@ -57,8 +57,7 @@ BiPAP Masks
 * respiratory drive
 * malnutrition or dehydration (due to possible reduced oral intake)
 
-
-# Question 1
+# ~Question 1
 What type of mask should be used when caring for patients who use BiPAP or CPAP machines?
 
 [RIGHT] N95 respirator mask
@@ -83,14 +82,6 @@ Iron lung ventilators used after the polio epidemics in the first half of the 20
 [WRONG] Positive Pressure Ventilation
 [RIGHT] Negative pressure Ventilation
 
-# Question 5
-CPAP and BiPAP modes are usually used
-
-[WRONG] in conjunction with bronchodilators and steroids
-[WRONG] to delay intubation
-[WRONG] as a weaning protocol
-[RIGHT] All of the above
-
 # Question 6
 List one indication for non-invasive mechanical ventilation:
 
@@ -98,3 +89,11 @@ List one indication for non-invasive mechanical ventilation:
 [RIGHT] Sleep apnea
 [WRONG] Upper airway tumor
 [WRONG] Copious secretions
+
+# Question 5
+CPAP and BiPAP modes are usually used
+
+[WRONG] in conjunction with bronchodilators and steroids
+[WRONG] to delay intubation
+[WRONG] as a weaning protocol
+[RIGHT] All of the above
