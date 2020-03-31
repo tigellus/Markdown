@@ -1,9 +1,11 @@
 # Complications of Mechanical Ventilation
 
 ### Infection
-* Normal filtering system (nose) is bypassed
-* Breaks in aseptic technique
-* Debilitated patients
+* Normal filtering system (nasopharynx) is bypassed by the artificial airway
+* Breaks in aseptic technique and nosocomial infections
+* Immunocompromised, unstable, and/or critically ill patients at higher risk
+* Common infection: Ventilator Associated Pneumonia (VAP) due to aspiration of gastric contents or colonized oral secretions
+-->strategies to reduce VAP: Elevate HOB 30-45 degrees, hand hygiene, ensure condensation in ventilator circuit drains away from the patient's airway, suctioning of subglottic secretions, thorough oral hygiene per facility protocol, peptic ulcer prevention
 
 ### Airway Obstruction
 * Inadequate humidification causing thickened mucus
@@ -11,33 +13,30 @@
 * Patient biting tube
 
 ### Atelectasis
-* Bedrest
-* Inadequate tidal volume
-* Absent intermittent deep lung infections
+* Due to immobility/bedrest and/or inadequate tidal volume
+* Monitor for low grade fever
+* Frequent respiratory assessments
 
-### Oxygen Toxicity
+
+### Oxygen Toxicity --> can combine this one with what I put in the last module
 * Prolonged high oxygen levels – FiO2 0.7-1.0
-* Impaired surfactant activity
+* Excessive oxygen can impairs surfactant activity
 
-### Gastrointestinal Bleeding
-* Stress
-* Gastric hypersecretion of acid
-* Lack of antacid therapy
+### Gastrointestinal Complications
+* GI bleed --> monitor for gross and occult blood
+* Stress increases gastric acid production, PUD --> PUD prophylaxis, reduce stress
+* Malnutrition --> early supplemental nutrition (enteral preferred if indicated)
 
-### Pneumothorax
-* Positive pressure causing a break in the integrity of the visceral pleura
+### Pulmonary Trauma (I believe this was also on the prior module-- barotrauma)
+* Barotrauma: alveolar injury or rupture due to excess pressure (can be due to excessive PEEP, high Vt)
+* Pneumothorax: Positive pressure causing a break in the integrity of the visceral pleura-- can result from severe barotrauma
+* Tension Pneumothorax: watch for mediastinal shift, immediate intervention indicated- use BVM until physician can perform needle decompression
 
-### Hypotension
-* Normal negative pressure becomes positive – decreases venous return
-* Decreased pulmonary blood flow due to increased intrathoracic pressure compressing capillaries
-* Compression of heart between the lungs - decreasing stroke volume
+[I deleted this because it was parsed out in other sections- atelectasis, pulmonary trauma etc]
 
-### Ventilator-associated lung injury (VALI)
-* Caused by over-stretching of the airways and alveoli.
-* Areas of the lung that are collapsed (atelectasis) or filled with secretions will be underinflated, while those areas that are relatively normal will be overinflated.
-* These areas will become overdistended and injured.
-* Preventing alveolar overdistension
-* Preventing cyclic atelectasis (atelectotrauma)
+### Hypotension ---> this should be deleted and replaced by the reduced cardiac output section from the previous module
+I deleted all of this- can be replaced with what was in prior module r/t decreased preload and cardiac output
+
 
 ### Ventilator-induced diaphragmatic dysfunction (VIDD)
 * Ventilatory muscle abnormalities induced by mechanical ventilatory strategies that suppress or eliminate spontaneous ventilatory muscle activity
@@ -52,7 +51,7 @@ Which of the following can cause airway obstruction with mechanical ventilation?
 [RIGHT] Patient biting the tube
 
 # Question 2
-When using mechanical ventilation, what can form when positive pressure causes a break in the integrity of the visceral pleura?
+What mechanical ventilation complication causes a break in the integrity of the visceral pleura?
 
 [WRONG] Pneumonia
 [WRONG] Pulmonary embolism
@@ -62,31 +61,31 @@ When using mechanical ventilation, what can form when positive pressure causes a
 What can cause a patient to become hypotensive during mechanical ventilation?
 
 [WRONG] Increased pulmonary blood flow
-[WRONG] Normal positive pressure becomes negative and increases venous return
-[RIGHT] Normal negative pressure becomes positive and decreases venous return
+[WRONG] Normal positive pressure becomes negative pressure and increases venous return
+[RIGHT] Normal negative pressure becomes positive pressure and decreases venous return
 
 # Question 4
-How can you help prevent ventilator-associated lung injury (VALI) in mechanical ventilated patients?
+How can you help prevent ventilator-associated  (VAP) pneumonia in mechanical ventilated patients?
 
-[WRONG] Low PEEP and high FiO2
-[WRONG] High PEEP (10-20 cmH2O) and tidal volume of 8 ml/kg
-[RIGHT] PEEP than enables the open lung ventilation and low tidal volumes (4 – 6 ml/kg)
-[WRONG] PEEP than enables the open lung ventilation and tidal volume of 8 ml/kg
+[WRONG] Decreasing PEEP and increasing FiO2 settings
+[WRONG] Placing the head of bed at 15 degrees
+[RIGHT] Subglottic suctioning
+[WRONG] Increase stomach acid production
 
 # Question 5
-Which of the following sentences are correct? (I have two correct on purpose)
+Which of the following is correct?
 
-[WRONG] To minimize the risk of VALI, hypercapnia must be avoided
-[WRONG] To minimize the risk of VALI, high plateau pressure is allowed as far as tidal volume is low
-[RIGHT] To minimize the risk of VALI, plateau pressure should be low in addition to low tidal volume
-[RIGHT] To minimize the risk of VALI, hypercapnia can be accepted
+[WRONG] Mechanically ventilated patients are at reduced risk for peptic ulcer disease
+[WRONG] Thinning secretions can increase airway obstruction
+[RIGHT] Mechanically ventilated patients are at increased risk for GI bleed
+[RIGHT] High amounts of FiO2 can place patients at risk for oxygen toxicity
 
 # Question 6
-You are ventilating a patient with protective and controlled mechanical ventilation, fully sedated, for many days. Which risk is the patient running for?
+A patient has been on the mechanical ventilator with continuous sedation fo 7 days in CMV mode. What problem is this patient at highest risk for?
 
-[WRONG] Mainly VALI
-[WRONG] Both VALI and VIDD
-[RIGHT] Mainly VIDD
+[WRONG] Pneumothorax
+[WRONG] Airway obstruction
+[RIGHT] VIDD
 
 # Question 7
 Patient’s with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
