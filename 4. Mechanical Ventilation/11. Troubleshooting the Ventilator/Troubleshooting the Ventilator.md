@@ -1,183 +1,154 @@
-# Introductory Note
-Guard against incorrect ventilator settings.
-Ventilator disconnect from patient is a common problem.
-
-# High pressure alarm
-* Patient needs suctioning
-* Patient is biting the tube
-* Tracheal tube has become misplaced
-* Compliance is decreased
-* Barotrauma
-
-# Not receiving set tidal volume
-* Cuff leak/insufficient air in cuff
- * ALARM: low volume air
- * RX: Ventilate patient until cause is identified
-* Airway resistance. Compliance
- * ALARM: upper airway pressure alarm**
- * RX: Ventilate patient until cause is identified**
-
-# NO tidal volume
-* Patient disconnect from ventilator
-* Large cuff leak
-* Tube disconnect
-* ALARM: low volume alarm
-* RX: Reconnect tubing, attempt to ambu until reintubation
-
-# Increased Airway Pressure
-* Secretions, mucous plug, biting on the tube
-* Decreased compliance – pneumothorax, atelectasis
-* ETT slipped into RIGHT mainstem bronchus
-* Increased resistance – high diaphragm
-* ALARM: airway pressure alarm
-* RX: Suctioning, bite plate
- * Assess breath sounds for ET placement
- * Position patient
- * Sedation
-
-# Decreased or Loss of Volume
-* Leak in ventilator system
-* Cuff leak
-* Humidifier leak
-* RX: Correct leak source
-
-# Respiratory Alkalosis
-* CO2<35 pH >7.45
-* Increased respiratory rate
-* Restlessness, pain, anxiety
-* Rate set up too high
-* Tidal volume set too high
-* RX: Sedation
- * Adjust rate, tidal volume
-
-# Question 1
-What ventilator settings may cause respiratory alkalosis?
-
-[RIGHT] Rate and tidal volume set too high
-[WRONG] Rate and tidal volume set too low
-
-# Respiratory Acidosis
-* CO2>45 pH <7.35
-* RX: Increase tidal volume
- * Adjust rate, tidal volume
-
-# Question 2
-In the event of respiratory acidosis, what should you do?
-
-[RIGHT] Increase tidal volume and adjust the rate 
-[WRONG] Decrease tidal volume and adjust the rate
-
-# Thick Secretions
-* Inadequate hydration
-* Insufficient humidification
-* Infection, fever
-* RX: Water in humidifier
- * Monitor fluid status
-
-# High PaO2
-* Delivering too high FiO2
-* Improved clinical status
-
-# Low PaO2
-* VQ mismatch
-* Pulmonary embolus
-* Pulmonary edema
-* RX: Monitor ABG and adjust FiO2 accordingly
- * PEEP
-
-# Decreased cardiac output
-* Decreased venous return
-* Relief of work effort
-* PEEP
-* Inadequate fluid volume status
-
-Always assess patient first, then check the ventilator tubing while ambuing.
 
 # Alarms
 
-### Common Alarms
+# Introduction
+Alarm systems are used to alert the healthcare team to potential problems with the ventilator and/or patient. Never turn off alarms for a ventilator. Alarms can be silenced temoprarily, but immmediate assessment and action is indicated. The most common alarms that nurses will encounter are "high pressure," "low pressure," and "low volume" alarms, but during the ventilator weaning process, a patient may also trigger an "apnea" alarm. Upon hearing any alarm, an efficient focused assessment should be conducted followed by an action to address the issue causing the alarm. 
 
-#### ↑Ppeak–High peak pressure
-Most common causes are: coughing, thick secretions, mucous plug, kinks in the circuit
+In an emergency, or when the ventilator has failed/malfunctioned, manual ventilation with the bag valve mask (BVM) hooked up to oxygen may be necessary- this is why it is critical that all patients receiving mechanical ventilation have a BVM readily available at the bedside.
 
-#### ↓Ppeak–Low peak pressure
-* Leak (either in the circuit or the airway cuff)
-* Will most likely also be associated with ↓ Vte and ↓ Ve
-* Vt does not meat patients demand
+# High Pressure Alarm
+Triggered when pressure increases anywhere in circuit. Typically occurs when the ventilator encounters 10cmH2O above average PIP. 
+Potential causes:
+* Secretions (Patient needs suctioning, thickened secretions can benefit from humidification)
+* Patient agitation/noncompliance with the ventilator (sedation may need to be increased, pain/anxiety may need to be addressed)
+* Patient is biting the ETT (Patient may need more sedation and/or a bite block)
+* Tracheal tube has migrated down into a main bronchus (Chest X-Ray to confirm placement, consultation with physician, tube likely needs to be pulled back a specified number of centimeters according to physician recommendations)
+* Lung compliance is decreased (Consider patient's condition could be declining, is also a sign of ARDS, consultation with physician)
+* Barotrauma (Chest X-ray, consultation with physician)
 
-#### ↑Vte – High expired tidal volume
-Most common cause is a nebulizer is being run inline which the vent reads as additional tidal volume.
+# Low Pressure Alarm
+Triggered when pressure is decreased anywhere in the circuit. 
+Potential causes:
+* Patient has disconnected themselves from the ventilator/extubated themselves (Provide supplemental oxygen and bag valve mask (BVM) if necessary, call the physician, patient often needs to be reintubated)
+* A part of the ventilator circuitry has been disconnected (assess all ventilator circuitry and reconnect, consult with RT)
 
-#### ↓Vte
-Most common causes are either a leak in the circuit or airway cuff or Ventilator-Patient Desynchrony
+# Low Volume Alarm
+Triggered with the patient's minute volume or tidal volume is low. This can be very similar to low pressure alarms, but not always.
+Potential causes:
+* Cuff leak/insufficient air in cuff- presents as gurgling or bubbling around the airway (Consult with RT to reinflate the cuff at appropriate pressure)
+*  A part of the ventilator circuitry has been disconnected (assess all ventilator circuitry and reconnect, consult with RT)
+* If patient has a chest tube, air leak in chest tube system (assess severity, consult withe the physician)
+* Decreased lung compliance in a patient in a pressure-targetted mode (patient resistance to the ventilator is reducing the amount of volume delivered- could be due to fatigue or worsening condition- consult with the physician and RT) 
 
-#### ↑Ve – High minute ventilation
-Most commonly due to tachypnea or secondary to ↑Vte due to nebulizer running inline
+# Apnea Alarm
+This most commonly occurs for patients who are being "weaned" from the ventilator and are in a less supportive mode (eg. CPAP, PS). Commonly triggers when the patient does not initiate a breath for > 20 seconds. Ventilator will default to a back up mode pre-set by the RT. 
+Potential causes:
+* Poor respiratory drive (assess level of sedation or underlying pathology, consult with physician and RT)
+* Oversedation (assess level of sedation- often sedation needs to be stopped during CPAP and PS to ensure adequate respiratory drive)
+* Patient's general condition is worsening (consult with the physician, CPAP or PS trial needs to be stopped and patient needs to be placed on a more supportive mode)
 
-#### ↓Ve – Low minute volume
-Leaks
-
-#### Circuit Disconnect - Patient may have become disconnected from the vent.
-This will also occur with patient-ventilator dyssynchrony(patient vent demands are not met)
-
+# Summary: Alarms
 
 ### High-Priority Alarms
 
-* These alarms must not be ignored, patient safety is at risk! If any of these alarms occur assess your
-patient (if vital signs are stable then attempt to rectify, if not then manually ventilate and call RCS)
-* Patient Disconnect
-* Severe Occlusion
-* These alarms cannot be reset until rectified
+These alarms must not be ignored, patient safety is at risk! These alarms cannot be reset until rectified.
+If any of these alarms occur, assess your
+patient: If VS are stable, then attempt to correct the issue, if VS are not stable (especially SpO2), manually ventilate the patient with BVM and call the RT.
+* Persistent high pressure alarms due to severe occlusion
+* Low pressure alarms (often can signify the patient has extubated themselves)
 
 ### Low and Medium Priority (! And !!)
 
 * These alarms are indicators of a change in a patients ventilation status and should be addressed.
-    * Coughing
-    * Secretions
-    * Water in the tube
+    * Temporary high pressure alarms: Coughing, Secretions, Water/condensation in the ventilator circuitry
 
-
-# Question 3
+# Question 1
 What type of alarm is the result of a patient who needs suctioning?
 
 [WRONG] Low pressure alarm
-[WRONG] Low volume alarm
 [RIGHT] High pressure alarm
+[WRONG] Apnea alarm
 
-# Question 4
-What type of alarm is the result of a tracheal tube that has become misplaced?
+# Question 2
+A patient's ETT has migrated into the right mainstem bronchus. Which type of alarm does the nurse expect?
 
 [WRONG] Low pressure alarm
-[WRONG] Low volume alarm
 [RIGHT] High pressure alarm
+[WRONG] Apnea alarm
 
-# Question 5
+# Question 3
 What type of alarm is the result of a patient who is biting the tube?
 
 [WRONG] Low pressure alarm
-[WRONG] Low volume alarm
 [RIGHT] High pressure alarm
+[WRONG] Apnea alarm
 
 # Question 6
-What type of alarm is the result of a tube disconnect?
+What type of alarm is the result of a ventilator circuitry disconnect?
 
-[WRONG] Low pressure alarm
 [WRONG] High pressure alarm
-[RIGHT] Low volume alarm
+[RIGHT] Low pressure alarm
+[WRONG] Apnea alarm
 
 # Question 7
-What type of alarm is the result of a large cuff leak?
+What type of alarm is the result of a ETT cuff leak?
+
+[RIGHT] Low volume alarm
+[WRONG] High pressure alarm
+[WRONG] Apnea alarm
+
+# Question 8
+What type of alarm is mostly likely to occur in a patient with low lung compliance in a pressure-targetted mode?
+
+[RIGHT] Low volume alarm
+[WRONG] High pressure alarm
+[WRONG] Apnea alarm
+
+# Question 9
+A patient in CPAP mode has received too much sedation. Which alarm is most likely to occur?
 
 [WRONG] Low pressure alarm
 [WRONG] High pressure alarm
-[RIGHT] Low volume alarm
+[RIGHT] Apnea alarm
+
+(deleted these questions as they do not test on ventilator alarms/trouble shooting the ventilator and this content was discussed in ABGs)
+
+(deleted this question- this was tested prior and is often in the RT scope of practice, not the RN)
+
+(Deleted this and added in above to be more logical)
+
+# Potential Mechanical Ventilator Complications
+
+# Laryngeal or tracheal injury
+* The ETT cuff can place excessive pressure on the trachea and cause tracheal ischemia or even necrosis
+* As the patient moves, the ETT may also irritate the trachea and larynx causing abraisive injury
+* Prevention is key: RTs are often responsible for regularly monitoring cuff pressures with a monometer. Target cuff pressure should be 25-30mmHg
+
+# Skin integrity
+* ETT securement devices can cause skin breakdown and also damage mucosa
+* Securement devices and/or tape should be changed per facility protocol and patient's skin should  be assessed and protected regularly.
+
+# Oxygen toxicity
+* Delivering too high FiO2 ("hyperoxia")- irritant effects of oxygen can cause lung damage
+* --> Avoid long term delivery of high FiO2 (eg. avoid 100% FiO2 longer than 24h), consider other strategies to enhance oxygenation outside of increasing FiO2 (eg. increase PEEP)
+
+# Hypoxemia
+* VQ mismatch
+* Underlying pulmonary conditions and complications, or iatrogenic complications: pulmonary embolus, pulmonary edema
+* --> Monitor ABG, adjust FiO2 accordingly, Adjust ventilator settings (eg. PEEP) to enhance ventilation and oxygenation
+
+# Respiratory Acidosis or Alkalosis
+* Ventilator mode is not providing enough ventilator support and/or the patient does not have enough respiratory effort--> hypoventilation--> respiratory acidosis
+* Ventilator mode is providing too much ventilation and/or the patient is hyperventilating --> hyperventilation --> respiratory alkalosis
+* --> Changes to ventilator modes and settings as well as sedation or even neuromuscular blockade are considerations to correct acid base disturbances.
+
+
+# Decreased cardiac output
+* Decreased venous return (preload) due to positive pressure from the ventilator (especially with high PEEP settings)
+* Decreased preload leads to decreased cardiac output
+
+
+ (deleted this- redundant)
+
+(this is a low pressure alarm/redundant for RN knowledge level- deleted)
+
 
 # Question 8 
-What is a possible cause of no tidal volume?
+What is a possible cause of a low volume alarm?
 
 [WRONG] Patient needs suctioning
 [WRONG] Patient biting the tube
-[RIGHT] Tube disconnect
+[RIGHT] Ventilator circuitry disconnect
 
 # Question 9
 Which of the following will cause a high pressure alarm?
@@ -185,12 +156,12 @@ Which of the following will cause a high pressure alarm?
 [RIGHT] Secretions
 [WRONG] Disconnected ventilator tubing
 [WRONG] Hypoxia
-[WRONG] A cuff leak
+[WRONG] An ETT cuff leak
 
 # Question 10
-Which of the following could you do for a high respiratory rate alarm?
+A patient presents with respiratory alkalosis, which action is appropriate?
 
-[WRONG] Turn off the Versed infusion
+[WRONG] Reduce sedation drip rate
 [WRONG] Increase the respiratory rate alarm parameters
-[WRONG] Test Train-of-Four
+[WRONG] Increase the PEEP setting
 [RIGHT] Assess the patient for pain and/or anxiety
