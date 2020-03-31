@@ -50,49 +50,49 @@ Ventilator disconnect from patient is a common problem.
 * RX: Sedation
  * Adjust rate, tidal volume
 
-# Question 3
+# ~Question 3
 What type of alarm is the result of a patient who needs suctioning?
 
 [WRONG] Low pressure alarm
 [WRONG] Low volume alarm
 [RIGHT] High pressure alarm
 
-# Question 4
+# ~Question 4
 What type of alarm is the result of a tracheal tube that has become misplaced?
 
 [WRONG] Low pressure alarm
 [WRONG] Low volume alarm
 [RIGHT] High pressure alarm
 
-# Question 5
+# ~Question 5
 What type of alarm is the result of a patient who is biting the tube?
 
 [WRONG] Low pressure alarm
 [WRONG] Low volume alarm
 [RIGHT] High pressure alarm
 
-# Question 6
+# ~Question 6
 What type of alarm is the result of a tube disconnect?
 
 [WRONG] Low pressure alarm
 [WRONG] High pressure alarm
 [RIGHT] Low volume alarm
 
-# Question 7
+# ~Question 7
 What type of alarm is the result of a large cuff leak?
 
 [WRONG] Low pressure alarm
 [WRONG] High pressure alarm
 [RIGHT] Low volume alarm
 
-# Question 8 
+# ~Question 8 
 What is a possible cause of no tidal volume?
 
 [WRONG] Patient needs suctioning
 [WRONG] Patient biting the tube
 [RIGHT] Tube disconnect
 
-# Question 9
+# ~Question 9
 Which of the following will cause a high pressure alarm?
 
 [RIGHT] Secretions
@@ -100,7 +100,7 @@ Which of the following will cause a high pressure alarm?
 [WRONG] Hypoxia
 [WRONG] A cuff leak
 
-# Question 10
+# ~Question 10
 Which of the following could you do for a high respiratory rate alarm?
 
 [WRONG] Turn off the Versed infusion
@@ -169,29 +169,29 @@ Malnourishment may cause:
 * Feeding with high carbohydrate tube feedings or parenteral nutrition increases the CO2 load
 * Use of lipids to replace some of the caloric needs can reduce carbohydrate load
 
-# Question 1
+# ~Question 1
 Which of the following can cause airway obstruction with mechanical ventilation?
 
 [WRONG] Decreased secretions
 [WRONG] Excessive humidification
 [RIGHT] Patient biting the tube
 
-# Question 2
+# ~Question 2
 What mechanical ventilation complication causes a break in the integrity of the visceral pleura?
 
 [WRONG] Pneumonia
 [WRONG] Pulmonary embolism
 [RIGHT] Pneumothorax
 
-# Question 3
+# ~Question 3
 What can cause a patient to become hypotensive during mechanical ventilation?
 
 [WRONG] Increased pulmonary blood flow
 [WRONG] Normal positive pressure becomes negative pressure and increases venous return
 [RIGHT] Normal negative pressure becomes positive pressure and decreases venous return
 
-# Question 4
-How can you help prevent ventilator-associated  (VAP) pneumonia in mechanical ventilated patients?
+# ~Question 4
+How can you help prevent ventilator-associated (VAP) pneumonia in mechanical ventilated patients?
 
 [WRONG] Decreasing PEEP and increasing FiO2 settings
 [WRONG] Placing the head of bed at 15 degrees
@@ -213,7 +213,7 @@ A patient has been on the mechanical ventilator with continuous sedation fo 7 da
 [WRONG] Airway obstruction
 [RIGHT] VIDD
 
-# Question 7
+# ~Question 7
 Patient’s with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
 
 [RIGHT] Be difficult to wean from the ventilator
@@ -221,7 +221,7 @@ Patient’s with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
 [WRONG] Encounter higher risk of infection
 [WRONG] Have a low cardiac output
 
-# Question 8
+# ~Question 8
 How can you prevent Ventilator-Induced Diaphragmatic Dysfunction (VIDD):
 
 [WRONG] Sedating the patient to make the diaphragm and other respiratory muscles rest until the infection if fully treated.
@@ -229,7 +229,7 @@ How can you prevent Ventilator-Induced Diaphragmatic Dysfunction (VIDD):
 [WRONG] Giving high level of ventilator support to the patient until the disease is completely treated, then training the patient with very little assist for long periods.
 [WRONG] Allowing spontaneous breathing during the entire period on mechanical ventilation, despite other indications. 
 
-# Question 1
+# ~Question 1
 Malnourishment may cause:
 
 [RIGHT] Reduced response to hypoxia and hypercapnia, decreased surfactant production
@@ -237,7 +237,7 @@ Malnourishment may cause:
 [WRONG] Increased response to hypoxia and hypercapnia, increased surfactant production 
 [WRONG] Reduced response to hypoxia and hypercapnia, increased surfactant production
 
-# Question 4
+# ~Question 4
 Use of lipids to replace caloric needs can reduce what?
 
 [WRONG] Blood glucose

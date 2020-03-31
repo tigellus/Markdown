@@ -11,6 +11,16 @@ Changes in the shape of the waveform and the partial pressure of end tidal CO2 (
 
 A colorimetric CO2 detector can be used to help determine whether an airway is established. However, this device can not verify that an airway management device is correctly placed
 
+# ~Question 1
+What is end tidal CO2?
+
+[WRONG] Amount of CO2 in blood stream
+[WRONG] Amount of CO2 in venous blood
+[RIGHT] Partial pressure of CO2 in lungs measured at the end of expiration
+[WRONG] 2nd derivative of Cardiac Output
+[WRONG] Cardiac output during exhalation
+
+
 # Physiology
 Monitoring end-tidal CO2 (PetCO2) provides instantaneous information about ventilation (how effectively CO2 gas is being exhaled/eliminated by the respiratory system), perfusion (how effectively CO2 is being transported through the vascular system to the lungs), and metabolism (how effectively CO2 is being produced by cellular metabolism). 
 
@@ -31,6 +41,15 @@ The PCO2 of the venous blood entering the pulmonary capillary is 45 mmHg and the
 The PACO2 is the measurement of CO2 that is continually being formed in the body, then discharged into the alveoli; and continually being removed from the alveoli by ventilation. This amount is measured through the PACO2. This pressure difference of 5 mmHg causes all of the required CO2 to diffuse out of pulmonary  capillary into the alveoli. 
 
 Patients with diseases such as chronic obstructive pulmonary disease and adult respiratory distress syndrome produce increased dead space ventilation and have high V/Q ratios. This occurs when lung units have more dead space ventilation than perfusion and end-tidal gas has less CO2.
+
+# ~Question 2
+End tidal CO2 is a useful measurement for all of the following EXCEPT:
+
+[WRONG] Ventilation
+[WRONG] Approximating PaCO2
+[RIGHT] Oxygenation
+[WRONG] Perfusion
+[WRONG] Circulation
 
 # The Capnogram
 The capnogram displays a waveform of CO2 concentration elevation on expiration.
@@ -167,23 +186,6 @@ The value of using quantitative waveform capnography in non-intubated patients t
   * Sudden increase to near 35-40mm Hg
   * Inability to achieve PetCO2 >10mm Hg
 
-# Question 1
-What is end tidal CO2?
-
-[WRONG] Amount of CO2 in blood stream
-[WRONG] Amount of CO2 in venous blood
-[RIGHT] Partial pressure of CO2 in lungs measured at the end of expiration
-[WRONG] 2nd derivative of Cardiac Output
-[WRONG] Cardiac output during exhalation
-
-# Question 2
-End tidal CO2 is a useful measurement for all of the following EXCEPT:
-
-[WRONG] Ventilation
-[WRONG] Approximating PaCO2
-[RIGHT] Oxygenation
-[WRONG] Perfusion
-[WRONG] Circulation
 
 # Question 3
 You should expect a normal to high end-tidal CO2 in all of the following pts EXCEPT 

@@ -37,21 +37,21 @@ Indications:
 * Once suctioning complete, ensure suction catheter tip is out of the ETT/tracheostomy. It will remain in its sterile catheter sheath.
 
 
-# Question 2
+# ~Question 2
 When is suctioning clinically indicated for mechanically ventilated patients?
 
 [WRONG] Every 2 hours
 [WRONG] Hypotension
 [RIGHT] Coughing or respiratory distress
 
-# Question 3
+# ~Question 3
 Which of the following describes appropriate suctioning technique?
 
 [WRONG] Activate suctioning while advancing the in-line suction catheter
 [WRONG] Ensure multiple suction attempts are conducted each time
 [RIGHT] Limit suction time to 10-15 seconds
 
-# Question 5
+# ~Question 5
 Which of the following is a risk of long-term 100% oxygen?
 
 [RIGHT] Oxygen toxicity
@@ -59,7 +59,7 @@ Which of the following is a risk of long-term 100% oxygen?
 [WRONG] Cyanosis
 [WRONG] Hypercapnia
 
-# Question 6
+# ~Question 6
 Identify one way to decrease the complications associated with sterile suctioning:
 
 [WRONG] Use only 50% oxygen before and after suctioning
@@ -67,7 +67,7 @@ Identify one way to decrease the complications associated with sterile suctionin
 [WRONG] Do not used a closed suction system
 [RIGHT] Only suction when patient assessment indicates a need
 
-# Question 7
+# ~Question 7
 Identify one way to provide controlled ventilation for a patient who is consistently agitated?
 
 [WRONG] Restrain the patient
@@ -89,14 +89,14 @@ Considerations:
 * Place IV extension tubing for all IV infusions to allow for rotation of the bed
 * Possible gastric aspiration (often pause enteral feeds prior to turning)
 
-# Question 1
+# ~Question 1
 What is the rationale for prone positioning?
 [RIGHT] Enhances V/Q matching
 [WRONG] It is an effective weaning mode
 [WRONG] It reduces perfusion to lung tissue
 [WRONG] It increases the weight of the heart and abdomen on the lungs
 
-# Question 2
+# ~Question 2
 What are major considerations for prone positioning
 
 [RIGHT] Lubricate and tape the eyes closed

@@ -1,6 +1,14 @@
 # Introduction
 Once the underlying cause for need of mechanical ventilation is resolved or resolving, the healthcare team may begin to wean the patient off the ventilator. During weaning, the patient assumes more responsibility for work of breathing and the ventilator provides less support. These weaning trials may last minutes to hours depending on the weaning mode and patient status/tolerance of weaning. This is a delicate process and requires close monitoring of patient response to weaning. Ultimately, the goal is to "liberate" the patient from the ventilator so that the patient no longer needs mechanical ventilatory support.
 
+# ~Question 1
+Define ventilator weaning:
+
+[WRONG] Turning off the ventilator and letting the patient breathe spontaneously
+[WRONG] Changing to a noninvasive form of ventilation
+[WRONG] Increasing the tidal volume delivered by the ventilator
+[RIGHT] Decreasing the ventilator support while allowing an increased number of spontaneous breaths
+
 # Assessing Readiness to Wean
 * Improving ABGs and PaO2/FiO2 ratio
 * Underlying reason for needing mechanical ventilation is resolving
@@ -41,6 +49,22 @@ Indications that a patient is ready to wean
 * PaO2: 60 to 70 mmHg (50-60 mmHg for COPD) with FIO2<0.40
 * PaCO2: <45 mmHg or equal to the patient’s baseline PaCO2
 
+# ~Question 4
+Which of the following is not a component of weaning criteria?
+
+[WRONG] Negative inspiratory force
+[RIGHT] I:E ratio
+[WRONG] Minute volume
+[WRONG] Vital capacity
+
+# ~Question 3
+What should a patient’s minimum spontaneous tidal volume be in order to be successfully weaned from the ventilator?
+
+[WRONG] 3 ml/kg
+[WRONG] 20 ml/kg
+[RIGHT] >5ml/kg
+[WRONG] 15 ml/kg
+
 # Failure to Wean
 Continually evaluate the patient for signs of failed weaning: fatigue/exhaustion, hypoxia, hypoventilation, aggitation, hemodynamic instability, accessory muscle use
 * BP deviation of 20 mmHg or more
@@ -54,6 +78,7 @@ Patients who have successfully weaned and met criteria (typically sustained spon
 * Assess whether weaning criteria have been met
 * Assess patient's cough/ability to independently clear airway
 * Prepare supplemental oxygen for post extubation
+
 STEPS:
 * Inform the patient
 * Place towel on patient chest
@@ -64,14 +89,14 @@ STEPS:
 * CLOSELY monitor for signs of respiratory distress, stridor, hoarseness, or decompensation-- patient may need to be reintubated
 * Ensure patient passes a swallow evaluation before taking anything PO
 
+# Question 6
+Which of the following should be done to assess respiratory status after extubation?
 
-# Question 1
-Define ventilator weaning:
+[RIGHT] ABG
+[WRONG] Electrolyte panel
+[WRONG] Monitor end tidal CO2
+[WRONG] Bronchoscopy
 
-[WRONG] Turning off the ventilator and letting the patient breathe spontaneously
-[WRONG] Changing to a noninvasive form of ventilation
-[WRONG] Increasing the tidal volume delivered by the ventilator
-[RIGHT] Decreasing the ventilator support while allowing an increased number of spontaneous breaths
 
 # Question 2
 When using T-piece trials to wean, which of the following is true?
@@ -81,22 +106,6 @@ When using T-piece trials to wean, which of the following is true?
 [WRONG] The patient has the benefit of the ventilator alarms while on the T-piece
 [WRONG] The T-piece gives a postive pressure “boost” to decrease the work of breathing
 
-# Question 3
-What should a patient’s minimum spontaneous tidal volume be in order to be successfully weaned from the ventilator?
-
-[WRONG] 3 ml/kg
-[WRONG] 20 ml/kg
-[RIGHT] >5ml/kg
-[WRONG] 15 ml/kg
-
-# Question 4
-Which of the following is not a component of weaning criteria?
-
-[WRONG] Negative inspiratory force
-[RIGHT] I:E ratio
-[WRONG] Minute volume
-[WRONG] Vital capacity
-
 # Question 5
 What kind of oxygen administration system should be used for a patient immediately after extubation?
 
@@ -104,14 +113,6 @@ What kind of oxygen administration system should be used for a patient immediate
 [WRONG] Venturi mask
 [WRONG] Room air
 [RIGHT] Humidified mask
-
-# Question 6
-Which of the following should be done to assess respiratory status after extubation?
-
-[RIGHT] ABG
-[WRONG] Electrolyte panel
-[WRONG] Monitor end tidal CO2
-[WRONG] Bronchoscopy
 
 # Question 6
 Which of the following is a concerning complication after extubation?
