@@ -6,6 +6,14 @@ Pneumonia is one of the most common respiratory problems and it affects patients
 
 ![](assets/Pneumonia–Image.jpg)
 
+# ~Question 2
+What is an acute infection of the lung caused by bacteria or viruses?
+
+[RIGHT] Pneumonia
+[WRONG] Pneumoconiosis
+[WRONG] Pneumonitis
+[WRONG] Pulmonary edema
+
 # Classification
 Pneumonia is classified into four main categories: 
 * **Community-acquired pneumonia (CAP).**
@@ -47,6 +55,37 @@ Pneumonia is classified into four main categories:
 * The most common form of aspiration pneumonia is a bacterial infection casued when bacteria that normally reside in the upper airways are aspirated into the lungs.
 * Aspiration pneumonia may occur in the community or hospital setting.
 * Common pathogens are S. pneumonia, H. influenza, and S. aureus.
+
+# ~Question 3
+Which of the following are the two most common pneumonia classifications
+
+[RIGHT] Community and Hospital acquired
+[WRONG] Naturally and Medically acquired
+[WRONG] Passively and Actively acquired
+
+# ~Question 4
+The type of pneumonia infections that are acquired 48 hours after being admitted to a hospital are known as what?
+
+[RIGHT] Nosocomial 
+[WRONG] Community 
+[WRONG] Immunocompromised
+[WRONG] Aspiration
+
+# ~Question 9
+While CAP would typically be seen before this time, HAP does not become likely until _____ hours after admission. 
+
+[RIGHT] 48
+[WRONG] 24
+[WRONG] 72
+[WRONG] 36
+
+# ~Question 11
+What is the most common form of aspiration pneumonia?
+
+[RIGHT] Bacterial infection.
+[WRONG] Fungal infection.
+[WRONG] Cocci infection.
+[WRONG] Antibiotic resistent infection.
 
 # Pathophysiology
 Having an idea about the disease process helps the patient understand the treatment regimen and its importance, increasing patient compliance.
@@ -107,6 +146,14 @@ Pneumonia has several complications if left untreated or the interventions are i
 * **Shock and respiratory failure.** These complications are encountered chiefly in patients who have received no specific treatment and inadequate or delayed treatment.
 * **Pleural effusion.** In **pleural effusion**, the fluid is sent to the laboratory for analysis, and there are three stages: uncomplicated, complicated, and thoracic empyema.
 
+# ~Question 5
+All of the following are common signs and symptoms of pneumonia except?
+
+[WRONG] Fever, with chills and/or rigors, 
+[WRONG] Productive cough with purulent sputum
+[RIGHT] Dyspnea at rest
+[WRONG] Pleuritic chest pain
+
 # Treatment
 A variety of tests are used to diagnose pneumonia, identify the specific pathogen, and monitor treatment and recovry.
 
@@ -130,6 +177,30 @@ A variety of tests are used to diagnose pneumonia, identify the specific pathoge
 * **BUN.** An elevated BUN (BUN ≥19 mg/dL [6.78 mmol/L]) is a sign of uremia.
 * **Electrolytes.** Sodium and chloride levels may be low.
 * **Bilirubin.** May be increased.
+
+# ~Question 6
+Which of the following is consistent with a pneumonia diagnosis?
+
+[RIGHT] Infiltrates on chest x-ray
+[WRONG] Decreased platelets
+[WRONG] Elevated red blood cell count
+[WRONG] Hypertension
+
+# ~Question 7
+Which labs findings would be consistent with a pneumonia diagnosis? Select all that apply:
+
+[RIGHT] Elevated ESR
+[WRONG] PaO2 of 70 mmHg
+[RIGHT] Leukocytosis
+[WRONG] BUN = 2.5 mg/dL
+
+# ~Question 8
+What diagnostic tests are likely with pneumonia? Select all that apply:
+
+[RIGHT] Blood culture
+[WRONG] D-Dimer
+[WRONG] V/Q scan
+[RIGHT] Sputum stain
 
 # Nursing Interventions
 **Improve airway patency:**
@@ -177,69 +248,6 @@ A patient who has a diagnosis of pneumonia reports a sudden onset of sharp pain 
 [WRONG] Lower head of patient
 [WRONG] Take a full set of vitals
 
-# Question 2
-What is an acute infection of the lung caused by bacteria or viruses?
-
-[RIGHT] Pneumonia
-[WRONG] Pneumoconiosis
-[WRONG] Pneumonitis
-[WRONG] Pulmonary edema
-
-# Question 3
-Which of the following are the two most common pneumonia classifications
-
-[RIGHT] Community and Hospital acquired
-[WRONG] Naturally and Medically acquired
-[WRONG] Passively and Actively acquired
-
-# Question 4
-The type of pneumonia infections that are acquired 48 hours after being admitted to a hospital are known as what?
-
-[RIGHT] Nosocomial 
-[WRONG] Community 
-[WRONG] Immunocompromised
-[WRONG] Aspiration
-
-# Question 5
-All of the following are common signs and symptoms of pneumonia except?
-
-[WRONG] Fever, with chills and/or rigors, 
-[WRONG] Productive cough with purulent sputum
-[RIGHT] Dyspnea at rest
-[WRONG] Pleuritic chest pain
-
-# Question 6
-Which of the following is consistent with a pneumonia diagnosis?
-
-[RIGHT] Infiltrates on chest x-ray
-[WRONG] Decreased platelets
-[WRONG] Elevated red blood cell count
-[WRONG] Hypertension
-
-# Question 7
-Which labs findings would be consistent with a pneumonia diagnosis? Select all that apply:
-
-[RIGHT] Elevated ESR
-[WRONG] PaO2 of 70 mmHg
-[RIGHT] Leukocytosis
-[WRONG] BUN = 2.5 mg/dL
-
-# Question 8
-What diagnostic tests are likely with pneumonia? Select all that apply:
-
-[RIGHT] Blood culture
-[WRONG] D-Dimer
-[WRONG] V/Q scan
-[RIGHT] Sputum stain
-
-# Question 9
-While CAP would typically be seen before this time, HAP does not become likely until _____ hours after admission. 
-
-[RIGHT] 48
-[WRONG] 24
-[WRONG] 72
-[WRONG] 36
-
 # Question 10
 Which of the following is not considered as pneumonia in the immunocompromised host?
 
@@ -247,14 +255,6 @@ Which of the following is not considered as pneumonia in the immunocompromised h
 [WRONG] Fungal pneumonia.
 [WRONG] Pneumocystis pneumonia.
 [WRONG] Mycobacterium tuberculosis.
-
-# Question 11
-What is the most common form of aspiration pneumonia?
-
-[RIGHT] Bacterial infection.
-[WRONG] Fungal infection.
-[WRONG] Cocci infection.
-[WRONG] Antibiotic resistent infection.
 
 # Question 12
 A patient was admitted to the intensive care unit 3 days ago for treatment of a gunshot wound. The patient has recently developed a productive cough and a fever of 104.3 'F. The patient is breathing on their own and doesn't require mechanical ventilation. On assessment, you note coarse crackles in the right lower lobe. A chest x-ray shows infiltrates with consolidation in the right lower lobe. Based on this specific patient scenario, what type of pneumonia do you expect?
