@@ -12,9 +12,13 @@ Most commonly, pulmonary embolism is due to a blood clot or thrombus, but there 
 * **Amniotic fluid emboli.** Amniotic fluid emboli are caused by amniotic fluid that has leaked into the arteries.
 * **Septic emboli.** Septic emboli originate from a bacterial invasion of the thrombus.
 
-# Pathophysiology of Pulmonary Embolism.
+# Pathophysiology of Pulmonary Embolism
 
-(The material in this section was adapted from this source: https://www.merckmanuals.com/professional/pulmonary-disorders/pulmonary-embolism-pe/pulmonary-embolism-pe) When a DVT forms, clots can dislodge and travel through the right side of the heart and become lodged in the pulmonary vasculature. A PE can cause partial or complete occlusion of one or more of the pulmonary vessels. Small to moderate emboli can spontaneously resolve, but additional emboli can expand the blockage. A large emboli with significant occulsion is a life-threatening medical emergency, leading to the following physiologic effects:
+(The material in this section was adapted from this source: https://www.merckmanuals.com/professional/pulmonary-disorders/pulmonary-embolism-pe/pulmonary-embolism-pe)
+
+When a DVT forms, clots can dislodge and travel through the right side of the heart and become lodged in the pulmonary vasculature. A PE can cause partial or complete occlusion of one or more of the pulmonary vessels. Small to moderate emboli can spontaneously resolve, but additional emboli can expand the blockage. 
+
+A large emboli with significant occulsion is a life-threatening medical emergency, leading to the following physiologic effects:
 * **Tachypnea** from reflex increase in ventilation. 
 * **Hypoxemia** due to ventilation/perfusion (V/Q) mismatch.
 * **Low mixed venous oxygen content** as a result of low cardiac output.
@@ -96,10 +100,9 @@ Management of the emboli may sometimes need surgical removal.
 * **Transvenous catheter embolectomy.** This is a technique in which a vacuum-cupped catheter is introduced transvenously into the affected pulmonary artery.
 * **Inferior vena cava (IVC) filter.** This approach prevents dislodged thrombi from being swept into the lungs while allowing adequate blood flow.
 
-# Nursing Management
+# Nursing Management - Assessment
 A key role of the nurse is to identify the patient at high risk for DVT and PE, and to utilize preventative measures for emboli formation in all patients.
 
-## Nursing Assessment
 All patients are evaluated for risk factors for thrombus formation and pulmonary embolus.
 
 * **Health history.** Health history is assessed to determine any previous cardiovascular disease.
@@ -108,7 +111,7 @@ All patients are evaluated for risk factors for thrombus formation and pulmonary
 * **Physical exam.** Extremities are evaluated for warmth, redness, inflammation, and pain. A DVT can cause pain on dorsiflextion (pulling the toes toward the knees).
 * **Activity levels.** Patients who are bed-bound or have limited activity and ambulation are at risk for emboli formation.
 
-## Nursing Care Planning & Goals
+# Nursing Management - Care Planning & Goals
 
 Planning and goals for a patient with pulmonary embolism include the following:
 
@@ -118,7 +121,7 @@ Planning and goals for a patient with pulmonary embolism include the following:
 - Report pain is relieved or controlled.
 - Follow prescribed pharmacologic regimen.
 
-## Nursing Interventions
+# Nursing Management - Interventions
 
 Nursing care for a patient with pulmonary embolism includes:
 
@@ -128,7 +131,7 @@ Nursing care for a patient with pulmonary embolism includes:
 * **Manage oxygen therapy.** Assess for signs of hypoxemia and monitor the pulse oximetry values.
 * **Relieve anxiety.** Encourage the patient to talk about any fears or concerns related to this frightening episode.
 
-## Evaluation
+# Nursing Management - Evaluation
 Success of the treatment plan will be evaluated with the following:
 
 - Increased perfusion.
@@ -137,7 +140,7 @@ Success of the treatment plan will be evaluated with the following:
 - Reported pain is relieved or controlled.
 - Followed prescribed pharmacologic regimen.
 
-## Discharge and Home Care Guidelines
+# Nursing Management - Discharge and Home Care Guidelines
 After discharge, there are some guidelines that the nurse must teach the patient.
 
 * **Prevent recurrence.** The nurse should instruct the patient about preventing recurrence and reporting signs and symptoms
@@ -145,7 +148,7 @@ After discharge, there are some guidelines that the nurse must teach the patient
 * **Residual effects.** The nurse should also monitor for residual effects of the PE and recovery.
 * **Follow-up checkups.** Remind the patient about keeping up with follow-up appointments for coagulation tests and appointments with the primary care provider.
 
-## Documentation Guidelines
+# Nursing Management - Documentation Guidelines
 The focus of documentation should include:
 
 - Individual findings, noting nature, extent, and duration of the problem, effects on independence and lifestyle.
