@@ -1,32 +1,42 @@
-# Issues in Nursing Management
+# Nursing Care of the Mechanically Ventilated Patient
 
 ### Assessment of patient
-* Signs and symptoms of inadequate ventilation or oxygenation
-* Signs and symptoms of possible pneumothorax and progression to tension pneumothorax
+* Signs and symptoms of inadequate ventilation or oxygenation --> monitor minute volume, tidal volume, ABG, SpO2
+* Signs and symptoms of possible pneumothorax and progression to tension pneumothorax --> caution with high PEEP, monitor lung sounds, watch for mediastinal shift
 
-### Helping patient cope
-* Remove airway secretions
-* Provide different ways to communicate
-* Remove accumulated water from tubing
-* Comfort measures
-* Sedation
+### Patient Care: Comfort and Communication
+* Remove airway secretions- both oral and endotracheal
+* Provide different ways to communicate (communication board, yes/no questions)
+* Remove accumulated water from tubing/ensure that it drains away from the patient's airway
+* Comfort measures: assist with positioning, turn q2 hours, range of motion exercises, reduce pressure on bony prominences, oral care
+
+### Safety
+* Patients are often restrained when mechanically ventilated: ensure physician orders are per facility policy, monitor skin integrity under and around restraints, ensure patient cannot reach the ETT or ventilator circuitry but also that restraints are not excessively tight or restrictive.
+* Monitor for agitation and resltessness due to restraints and/or the discomfort of mechanical ventilation
+* Monitor and titrate continuous sedation to facilitate patient comfort and increase compliance with the ventilator. Do not oversedate- ensure physician orders indicate a clear goal sedation score.
+* Educate patient and family members about importance of the mechanical ventilator and ETT.
 
 ### Clinical Indications for Suctioning
-* Audible airway noises
+* Do not suction routinely- should have a clear indication to suction. This is stressful for the patient.
+Indications:
+* Audible secretions
 * Coughing
-* Respiratory distress
+* Respiratory distress/ hypoxia due to secretions
 * Assess and improve airway patency
 
 ### Technique
-* Sterile technique
-* Suction catheter size and pressure
-* Preoxygenated with a high FiO2
-* Hyperventilation prior to suctioning
-* Do not suction during cath insertion
+* Sterile technique: use in-line suction that is part of the ventilator set up- this should be constantly connected to suction tubing with wall suction on. Compressing the thumb control button activates suctioning.
+* Diameter of suction tubing should be no more than half the diameter of the ETT/tracheostomy
+* Ensure wall suction is appropriately set up in the patient's room
+* Ensure that suctioning is indicated by assessment
+* Preoxygenate patient with "O2 Breath" or FiO2 100% x2mn, inform the patient that suctioning will occur
+* Secure ETT/tracheostomy with non-dominant hand
+* Quickly but gently advance in-line suction catheter down the ETT/tracheostomy with dominant hand until resistance is met (patient may cough)- Do not compress suction button during catheter insertion
+* Compress the thumb control button to activate suction and simultaneously pull the catheter out of the ETT/tracheostomy- this should take no longer than 10-15 seconds
 * Limit suctioning time per attempt
-* Saline instillation
+* Once suctioning complete, ensure suction catheter tip is out of the ETT/tracheostomy. It will remain in its sterile catheter sheath.
 
-### Nutrition
+### Nutrition --> to me this goes under complications-- or the nutrition section from the prior page goes here
 
 Malnourishment may cause:
 * Reduced response to hypoxia and hypercapnia
@@ -38,6 +48,7 @@ Malnourishment may cause:
 
 #### Overfeeding
 * Problems with COPD and other patients unable to clear CO2
+* Increased risk for aspiration
 * Feeding with high carbohydrate tube feedings or parenteral nutrition increases the CO2 load
 * Use of lipids to replace some of the caloric needs can reduce carbohydrate load
 
@@ -50,18 +61,18 @@ Malnourishment may cause:
 [WRONG] Reduced response to hypoxia and hypercapnia, increased surfactant production
 
 # Question 2
-When is suctioning clinically indicated for vented patients?
+When is suctioning clinically indicated for mechanically ventilated patients?
 
-[WRONG] Lack of airway noises
+[WRONG] Every 2 hours
 [WRONG] Hypotension
 [RIGHT] Coughing or respiratory distress
 
 # Question 3
-Which of the following demonstrates proper technique for ventilator use?
+Which of the following describes appropriate suctioning technique?
 
-[WRONG] Use the highest pressure possible
-[WRONG] Avoid limiting suctioning time per attempt
-[RIGHT] Do not suction during cath insertion
+[WRONG] Activate suctioning while advancing the in-line suction catheter
+[WRONG] Ensure multiple suction attempts are conducted each time
+[RIGHT] Limit suction time to 10-15 seconds
 
 # Question 4
 Use of lipids to replace caloric needs can reduce what?
@@ -82,19 +93,19 @@ Which of the following is a risk of long-term 100% oxygen?
 Identify one way to decrease the complications associated with sterile suctioning:
 
 [WRONG] Use only 50% oxygen before and after suctioning
-[WRONG] Suction routinely every hour
+[WRONG] Remove the sterile suction set up each time a patient is suctioned
 [WRONG] Do not used a closed suction system
-[RIGHT] Do not routinely instill saline prior to suctioning
+[RIGHT] Only suction when patient assessment indicates a need
 
 # Question 7
 Identify one way to provide controlled ventilation for a patient who is consistently agitated?
 
 [WRONG] Restrain the patient
-[RIGHT] Administer continuous sedation and neuromuscular blockade
+[RIGHT] Administer continuous sedation
 [WRONG] Tell the patient to be calm
 [WRONG] Have a nursing assistant sit with the patient throughout the shift
 
-# Question 8
+# Question 8 ---> this was not taught in this module- I think it needs to be deleted
 Which of the following indicates 90% blockade on the Train-of-Four method of testing level of neuromuscular blockade?
 
 [RIGHT] One twitch
@@ -102,7 +113,7 @@ Which of the following indicates 90% blockade on the Train-of-Four method of tes
 [WRONG] Three twitches
 [WRONG] Four twitches
 
-# Question 9
+# Question 9 --> this question goes in the prior page- this content wasn't taught in this module
 If your patient accidentally extubated himself and is now having respiratory distress, what is the first thing you should do?
 
 [WRONG] Try to reinsert the endotracheal tube
