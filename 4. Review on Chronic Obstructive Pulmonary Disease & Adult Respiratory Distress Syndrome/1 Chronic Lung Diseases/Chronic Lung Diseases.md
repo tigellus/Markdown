@@ -1,4 +1,5 @@
-# Definition
+# Chronic Lung Disease
+
 * Chronic Obstructive Pulmonary Disease (COPD) is a condition of chronic dyspnea with expiratory airflow limitation that does not significantly fluctuate
 * COPD is the fourth leading cause of death in the United States
 * It is also known as chronic obstructive lung disease (COLD)
@@ -44,7 +45,7 @@ In a patient with COPD, where does the abnormal inflammatory response occur?
 [WRONG] Pulmonary vasculature
 [RIGHT] All of the above areas
 
-* The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD. 
+* The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD.
 
 # Emphysema -  Pathological Diagnosis
 
@@ -106,7 +107,7 @@ Which condition is NOT considered a category of COPD?
 
 
 
-# Alveolus and lungs in Emphysema 
+# Alveolus and lungs in Emphysema
 
 ### Alveolus in Emphysema
 
@@ -234,4 +235,3 @@ Which environmental risk factor is most important in development of emphysema?
 [RIGHT] Cigarette smoking
 
 * Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
-
