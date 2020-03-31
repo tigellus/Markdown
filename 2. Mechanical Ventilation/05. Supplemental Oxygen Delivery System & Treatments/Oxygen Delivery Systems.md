@@ -1,8 +1,11 @@
 ## Low-Flow Oxygen Delivery Systems
 
-![](assets/no_aerosol.png) ---> this picture doesn't match now-- need a picture of only low flow devices (like this one: https://www.google.com/imgres?imgurl=https%3A%2F%2Fbreathe.ersjournals.com%2Fcontent%2Fbreathe%2F15%2F3%2Fe108%2FF4.large.jpg%3Fdownload%3Dtrue&imgrefurl=https%3A%2F%2Fbreathe.ersjournals.com%2Fcontent%2F15%2F3%2Fe108&tbnid=E1U2A2WNzZqMQM&vet=12ahUKEwiL6r6N98PoAhUrgJ4KHV4YCl8QMygRegUIARCbAg..i&docid=zx559Vuy7NoAgM&w=1254&h=1280&q=low%20flow%20oxygen%20delivery%20devices&ved=2ahUKEwiL6r6N98PoAhUrgJ4KHV4YCl8QMygRegUIARCbAg) 
+![](assets/F4.large.jpg) 
+
+a) Nasal cannula. b) Non-rebreather mask. c) Venturi mask with different sized ports to change the FIO2 delivered (24–50%). d) FIO2 and oxygen flow are clearly stated on the bottom of each port.
 
 Used for patients that need supplemental oxygen and have sufficient respiratory drive (breathing on their own)
+
 #### Nursing Implications for Low-Flow Systems
 
 * Can dry the airway, thicken secretions, and therefore cause difficulty in clearing secretions
@@ -36,14 +39,6 @@ When should Low-flow Oxygen Delivery Systems be used?
 [RIGHT] For patients that need supplemental oxygen and are breathing on their own
 [WRONG] For patients that need supplemental oxygen and have decreased respiratory drive
 [WRONG] For patients that need supplemental oxygen and have variable respiratory effort
-
-# Question 2
-An ascending ranking of low-flow oxygen delivery systems by flow rate is:
-
-[RIGHT] Low Flow Nasal Cannula, Simple Face Mask, Humidified High Flow Mask, Venturi Style Mask, Reservoir Mask
-[WRONG] Low Flow Nasal Cannula, Simple Face Mask, Venturi Style Mask, Humidified High Flow Mask, Reservoir Mask
-[WRONG] Low Flow Nasal Cannula, Simple Face Mask, Venturi Style Mask, Reservoir Mask, Humidified High Flow Mask
-[WRONG] Low Flow Nasal Cannula, Simple Face Mask, Humidified High Flow Mask, Reservoir Mask, Venturi Style Mask
 
 # Question 3
 What are the nursing implications of using low flow oxygen delivery systems? 
