@@ -41,8 +41,6 @@ Indications that a patient is ready to wean
 * PaO2: 60 to 70 mmHg (50-60 mmHg for COPD) with FIO2<0.40
 * PaCO2: <45 mmHg or equal to the patient’s baseline PaCO2
 
-deleted- (not in RN scope)
-
 # Failure to Wean
 Continually evaluate the patient for signs of failed weaning: fatigue/exhaustion, hypoxia, hypoventilation, aggitation, hemodynamic instability, accessory muscle use
 * BP deviation of 20 mmHg or more
