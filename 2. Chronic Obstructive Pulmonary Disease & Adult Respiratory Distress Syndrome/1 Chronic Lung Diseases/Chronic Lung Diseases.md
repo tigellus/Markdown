@@ -57,24 +57,6 @@ An abnormal distention of airspaces beyond the terminal bronchioles and destruct
 * Loss of lung elastic recoil
 * Destruction of the alveolar-capillar interface
 
-### Alveolus in Emphysema
-
-![](assets/alveolus_in_emphysema1.png)
-
-![](assets/alveolus_in_emphysema2.png)
-
-### Lung in Emphysema
-
-![](assets/lung_in_emphysema.png)
-
-### Destroyed Lung parenchyma
-
-![](assets/destroyed_lung_parenchyma.png)
-
-### CXR of patient with Emphysema
-
-![](assets/CXR.png)
-
 ### Emphysema (Pink puffer)
 * Progressive constant dyspnea
 * Onset after 50 years of age
@@ -122,15 +104,27 @@ Which condition is NOT considered a category of COPD?
 [WRONG] Emphysema
 [WRONG] Chronic bronchitis
 
-# Question 5
-Which environmental risk factor is most important in development of emphysema?
 
-[WRONG] Air pollution
-[WRONG] Allergens
-[WRONG] Infectious agents
-[RIGHT] Cigarette smoking
 
-* Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
+# Alveolus and lungs in Emphysema 
+
+### Alveolus in Emphysema
+
+![](assets/alveolus_in_emphysema1.png)
+
+![](assets/alveolus_in_emphysema2.png)
+
+### Lung in Emphysema
+
+![](assets/lung_in_emphysema.png)
+
+### Destroyed Lung parenchyma
+
+![](assets/destroyed_lung_parenchyma.png)
+
+### CXR of patient with Emphysema
+
+![](assets/CXR.png)
 
 # Chronic Bronchitis - Clinical Diagnosis
 A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
@@ -167,15 +161,6 @@ A disease of the airways, defined as the presence of cough and sputum production
 
 ### Airway in Chronic Bronchitis
 ![](assets/airway_in_chronic_bronchitis.png)
-
-### Risk Factors
-* Cigarette smoking
-* Chronic respiratory infections
-* Occupational/environmental exposure – dust,chemicals, fumes
-* Allergies
-* A-protease inhibitor deficiency
-
-COPD gradually worsens. HOWEVER, early detection, treatment and modification of risk factors can alter the disease course.
 
 # Question 6
 Chronic bronchitis is characterized by:
@@ -228,3 +213,25 @@ Which of the following conditions require a higher PEEP to be applied in recruit
 [RIGHT] Acute Respiratory Distress Syndrome
 [WRONG] Bronchietasis
 [WRONG] Emphysema
+
+
+# Risk Factors in Chronic Bronchitis and Emphysema
+
+* Cigarette smoking
+* Chronic respiratory infections
+* Occupational/environmental exposure – dust,chemicals, fumes
+* Allergies
+* A-protease inhibitor deficiency
+
+COPD gradually worsens. HOWEVER, early detection, treatment and modification of risk factors can alter the disease course.
+
+# Question 5
+Which environmental risk factor is most important in development of emphysema?
+
+[WRONG] Air pollution
+[WRONG] Allergens
+[WRONG] Infectious agents
+[RIGHT] Cigarette smoking
+
+* Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
+
