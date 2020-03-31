@@ -1,74 +1,40 @@
-# Interventions Pt. 1
+# Interventions Pt. 1 ---> all of this should be combined with prior modules related to nursing assessment... I'm not seeing anything new here?
 
-* Frequent monitoring of vital signs
-
-* Maintain airway with supplemental oxygen or mechanical ventilation
-
-* Correct fluid/electrolyte imbalances
-
-* Turn/position every 2 hours to: 
- * Promote adequate ventilation and perfusion to the lungs
- * Prevent skin breakdown
+I deleted this because it shows up elsewhere
  
-* Prone position for selected patients
+* Prone position for selected patients --> this is the only new and important content that I think should be in this section
 
-* Oral Care (every 4 hours vented, every 6 hours non-vented)
+I deleted this because I added in oral care before-- and frequency of oral care will depend on facility (sometimes it's every 2 hours)
+
+My idea for what could be included here:
+
+
+# Prone Positioning
+Patients with ARDS can benefit from prone positioning as this enhances V/Q matching. This is typically indicated for a PaO2/FiO2 ratio of less than 100 and/or in patients who are not responding to other therapies. Perfusion shifts from the posterior portions of the lung (when the patient is supine) to the anterior, larger portions of the lungs (when the patient is prone). Prone positioning also enhances ventilation by removing the weight of the heart and abdomen on the lungs. 
+Prone positioning is traditionally accomplished with a specialized bed that requires close monitoring by the RN and RT.
+
+Considerations:
+* Increased ocular pressure due to inadequate eyelid closure and dependent edema when prone: tape eyes closed, lubricate
+* Skin breakdown in new anterior areas (eg. knees, shins, face, breasts, shoulders, iliac crests)
+* In the case of a code, secure the patient, press the "CPR" button and the patient will be immediately placed supine, begin chest compressions
+* Facial edema: consider cooling packs to patient face when supine if indicated
+* Place IV extension tubing for all IV infusions to allow for rotation of the bed
+* Possible gastric aspiration (often pause enteral feeds prior to turning)
 
 # Question 1
-How often should Oral Care be provided to a vented patient? 
-
-[RIGHT] Every 4 hours 
-[WRONG] Every 6 hours
-[WRONG] Every 2 hours
+What is the rationale for prone positioning?
+[RIGHT] Enhances V/Q matching
+[WRONG] It is an effective weaning mode
+[WRONG] It reduces perfusion to lung tissue
+[WRONG] It increases the weight of the heart and abdomen on the lungs
 
 # Question 2
-How can skin breakdown be prevented for vented patients?
+What are major considerations for prone positioning
 
-[RIGHT] Turn patients every 2 hours
-[WRONG] Moisturize patient’s skin every 24 hours
-[WRONG] Provide weekly hydrotherapy
+[RIGHT] Lubricate and tape the eyes closed
+[WRONG] Ensure IV tubing is shortened to reduce obstacles in patient care
+[WRONG] CPR cannot be performed on these patients
+[WRONG] Skin breakdown is less of a risk due to changes in weight distribution
 
-# Question 3
-What should healthcare providers frequently monitor for vented patients?
 
-[RIGHT] Vital signs
-[WRONG] Weight
-[WRONG] Nutrient intake
 
-# Interventions Pt. 2
-
-* Eye care for the prevention of **Ocular Surface Disease (OSD)**
- * There are many risk factors for OSD, some of which maybe fluid maldistribution(edema, altered level of consciousness, paralytics, etc.)
-
-* Assessment of eyelid closure must be done regularly throughout the patient’s stay
-
-* The main aim of this assessment if to grade the severity of incomplete eyelid closure (lagophthalmos)
-
-![](assets/interventions.png)
-
-* All ventilator dependent patients with either a endotracheal tube/tracheostomy should receive Lacrilubeevery 4 hours while on the ventilator.
-
-* Patients with Grade 1 or Grade 2 lagaphthalmosin addition require an eye shield covering the eye, taped and sealed on all sides
-
-![](assets/interventions2.png)
-
-# Question 4
-Why should eyelid closure be done regularly for vented patients?
-
-[RIGHT] To prevent Ocular Surface Disease
-[WRONG] To prevent cataract formation
-[WRONG] To prevent glaucoma
-
-# Question 5
-How often should ventilator dependent patients with an endotracheal tube or tracheostomy receive Lacrilube?
-
-[RIGHT] Every 4 hours
-[WRONG] Every 2 hours
-[WRONG] Every 8 hours
-
-# Question 6
-Which types of ventilator patients require an eye shield, taped and sealed on all sides?
-
-[RIGHT] Those with Grade 1 or Grade 2 Lagophthalmos
-[WRONG] Those who are also diabetic
-[WRONG] Those who have been vented for longer than three days
