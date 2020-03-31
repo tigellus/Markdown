@@ -1,7 +1,7 @@
 # Bag-valve–mask ventilation
 You can use a bag-valve–mask device to manually ventilate a patient whose respirations are absent or inadequate. Ideally,two rescuers should work together on an adult.
 
-## DO
+### DO
 * Lower the head of the bed, remove any pillows, and place the patient supine.
 * Assess his level of consciousness, open his airway, and assess his breathing and circulation.
 * If he needs emergency ventilation, get a bag-valve–mask device and make sure the mask is securely attached to the bag. Put on gloves.
@@ -21,7 +21,7 @@ Using both hands, slowly, gently, and completely squeeze the bag for 2 seconds u
 ![](assets/ambu_2.jpeg)
 Provide ventilation every 5 seconds and watch the rise and fall of his chest. If it doesn't rise each time you squeeze the bag, ask the other rescuer to make sure the patient's airway is properly opened and the seal between the mask and his face is leakproof, then resume bag compressions.
 
-## DON'T
+### DON'T
 * Don't use the head-tilt/chin-lift method to open the patient's airway if you suspect head or neck trauma.
 * Don't remove his dentures unless they interfere with ventilations.
 * Don't use larger tidal volumes than you need to cause his chest to rise and fall. This can result in gastric distension, regurgitation, aspiration, and pneumonia.
@@ -33,9 +33,9 @@ Method of ventilation without an endotracheal tube or tracheostomy: tight-fittin
 The NPPV unit can be programmed to deliver:
 
 * Respiratory rate
-* Inspiratory positive airway pressure(IPAP)
+* Inspiratory positive airway pressure (IPAP)
 * Expiratory pressure (EPAP)
-* Supplemental FiO2 (I deleted this last bit because this is not always the set criteria...some patients can have permissive hypoxemia etc)
+* Supplemental FiO2 
 
 # Continuous Positive Airway Pressure (CPAP)
 Provides continuous positive pressure to keep alveoli open and enhance ventilation and oxygenation
