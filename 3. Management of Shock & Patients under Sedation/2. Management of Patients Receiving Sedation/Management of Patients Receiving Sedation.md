@@ -13,6 +13,18 @@ Sedation can decrease anxiety, pain, and discomfort. Some sedatives can induce a
 ### Note!
 Keep in mind that your facility will also have very specific policies and procedures that indicate where and who can perform or assist with sedation. Do not assist with procedural sedation unless you have received appropriate training. Critical care nurses routinely administer sedation to mechanically ventilated patients. Only anesthesia providers administer procedural sedation to patients who are not already on mechanical ventilation. The Joint Commission and the American Society of Anesthesiologists (ASA) recommend that persons administering or monitoring procedural sedation be trained to administer any advance lifesaving measures if the patient changes from moderate sedation to deep sedation.
 
+# ~Question 1
+Rescuers should be prepared to recognize and support a sedated patient who is not able to maintain an open airway.
+
+[RIGHT] True
+[WRONG] False
+
+# ~Question 2
+Sedation is seldom used in critical care settings.
+
+[WRONG] True
+[RIGHT] False
+
 # Levels of Anesthesia
 There are four levels of anesthesia:
 1. Minimal or light sedation (anxiolytics)
@@ -53,6 +65,30 @@ Independent ventilatory function may be impaired. The patient may require assist
 ## General Anesthesia
 A drug-induced loss of consciousness during which the patient is not arousable, even to painful stimuli. The ability to maintain independent ventilatory function is often impaired. Assistance is often required in maintaining a patent airway. Positive pressure ventilation may be required due to depressed spontaneous ventilation or drug-induced depression of neuromuscular function. Cardiovascular function may be impaired.
 
+# ~Question 3 
+Which level of sedetaion signifies a drug-induced depression of consciousness during which patients respond purposefully to verbal commands and/or light tactile stimulation, no interventions are required to maintain a patent airway, spontaneous ventilation is adequate, and cardiovascular function is usually maintained is defined as which of the following states of sedation?
+
+[WRONG] Minimal sedation
+[RIGHT] Moderate sedation
+[WRONG] Deep sedation
+[WRONG] General anesthesia
+
+# ~Question 4
+Which of the following is an INCORRECT clinical characteristic of Minimal Sedation
+
+[WRONG] Normal response to verbal stimulation
+[WRONG] Unaffected airway
+[WRONG] Unaffected spontaneous ventilation
+[RIGHT] Cardiovascular function may be impaired
+
+# ~Question 5
+During which level of sedation is a patient's responsiveness unarousable?
+
+[WRONG] Deep Sedation
+[RIGHT] General Anaesthesia
+[WRONG] Minimal Sedation
+[WRONG] Moderate Sedation
+
 # Levels of Sedation: Modified Ramsay Scale
 
 It is important to determine the health team's goal for the level of sedation. Light, moderate, or deep sedation may be used in the critical care unit, based on the specific patient needs. The modified Ramsay Scale is often used to assess the patient's ongoing level of sedation and adjust the dosage and timing of sedatives.
@@ -79,23 +115,29 @@ Be prepared to rescue a patient who moves to an unintended level of sedation.
 
 ![](assets/sedation3.png)
 
+# ~Question 6
+The modified Ramsay Scale is often used to assess the patient's ongoing level of sedation and adjust the dosage and timing of sedatives.
+
+[RIGHT] True
+[WRONG] False
+
 # Regulation and Oversight of Sedation
 The requirements for safe administration of medications and safe practice of procedural sedation are defined by The Joint Commission and other accreditation agencies, the Board of Registration in Medicine, individual states, and individual hospital policies. Practitioners should review and understand their scope of practice with procedural sedation as they will need to follow the policies for patient safety and to ensure regulatory compliance.
 
 ![](assets/sedation4.png)
 
-# Question 1
+# ~Question 7
 Which level of sedation is present when a patient responds only to painful stimulation and may need help to maintain an airway?
 
 [WRONG] Moderate sedation
 [RIGHT] Deep sedation
 [WRONG] General anesthesia
 
-# Question 2
-Rescuers should be prepared to recognize and support a sedated patient who is not able to maintain an open airway.
+# ~Question 8
+When regulating and overseeing sedation, who is generally the operator?
 
-[RIGHT] True
-[WRONG] False
+[WRONG] The RN
+[RIGHT] The MD
 
 # Medications Generally Associated with Sedation
 
@@ -203,6 +245,14 @@ When using fentanyl citrate injections along with medications such as CYP3A4 inh
 ### Toxicity
 Typically, a fentanyl overdose manifests as respiratory depression or respiratory arrest. In such cases, oxygen administration and respiratory assistance should be performed accordingly. An opioid drug antagonist such as naloxone is indicated to correct symptoms. Commonly, repeated doses of naloxone over time. Thus, the therapeutic approach is continued until a normal respiratory rate coincides with appropriate oxygen saturation levels. Naloxone/naltrexone are robust opioid antagonists that function by blocking µ-receptors.  Naloxone is commonly administered IV, IM, IN or subcutaneously (SC). 
 
+# ~Question 9
+Which of the following is NOT a method for adminestring Fentanyl?
+
+[WRONG] Intramuscular (IM) 
+[WRONG] Intravenous (IV)
+[WRONG] Transdermally (TD)
+[RIGHT] Oral
+
 # Versed
 Intravenous midazolam (Versed) can be used for anxiolysis and hypnosis during general anesthesia and for to decrease anxiety and provide amnesia during prolonged mechaincal ventilation.
 
@@ -223,6 +273,14 @@ Frequent monitoring of blood levels of midazolam and its metabolites is a requir
 
 ### Toxicity
 Toxicity with midazolam is rare but can happen when combined with other CNS depressants like alcohol, opioids, and other tricyclic antidepressants. The risk increases with intravenous administration and in elderly individuals with COPD. Symptoms of overdose include ataxia, nystagmus, hypotension, slurred speech, slurred speech, impaired motor coordination, coma, and death. Flumazenil is the antidote for midazolam toxicity. 
+
+# ~Question 10
+Which of the following is not an adverse affect typically associated with Midazolam (Versed)
+
+[RIGHT] Constipation
+[WRONG] Cough
+[WRONG] Hiccups
+[WRONG] Vomiting
 
 # Dilaudid
 Hydromorphone (Dilaudid) is a pure opioid indicated for moderate to severe acute pain and severe chronic pain. It is only prescribed when other first-line of treatments have failed, due to its high potency, abuse potential, and overdose risk. 
@@ -266,7 +324,20 @@ Concurrent use of hydromorphone with other CNS depressants, including benzodiaze
 ### Toxicity
 Overdose may cause respiratory depression and lead to death. Naloxone is the antidote, and repeated doses of naloxone may be needed.
 
-##  Dexmedetomidine
+# ~Question 11
+Which of the following is an antidote to overdosing on Dilaudid?
+[RIGHT] Naloxone
+[WRONG] Flumazenil
+[WRONG] Erythromycin
+
+# ~Question 12
+Which of the following drugs may cause respiratory depression and lead to death when overdosed?
+
+[WRONG] Dexmedetomidine
+[WRONG] Versed
+[RIGHT] Dilaudid
+
+#  Dexmedetomidine
 Dexomentadine (Precedex) is FDA-approved for sedation of intubated and mechanically ventilated patients in the intensive care unit (ICU), and peri-procedural (or peri-operative) sedation of non-intubated patients. Usage has expanded to off-label uses, including treatment and prevention of delirium, adjunctive analgesia, therapy for insomnia in the ICU, and treatment of alcohol withdrawal.  commonly produces a sedated state allowing patients to be both comfortable and cooperative during mechanical ventilation. Additionally, it does not require stoppage to accomplish extubation and is safe to use in non-intubated patients because it does not produce significant respiratory depression.
 
 ### Mechanism of Action
@@ -362,6 +433,19 @@ Anaphylaxis is most common with opioids but can occur with any drug. Reactions c
 * For mild reactions, stop offending agent and administer diphenhydramine (Benadryl).
 * For severe reactions, O2 , IV crystalloids, epinephrine, and aminophylline. Diphenhydramine and ranitidine block unoccupied histamine receptors. Hydrocortisone and methylprednisolone also may be administered.
 
+# ~Question 13
+How should you NOT treat a patient experiencing hypertension
+
+[RIGHT] Provide Fentanyl
+[WRONG] Provide Labetalol: α and β antagonist 5-10 mg IV push
+[WRONG] Provide Hydralazine: Direct vasodilator 5-10 mg IV (wait 10-20 minutes) 
+
+# ~Question 14
+When a patient experiences Agitation, they should be provided with Hydralazine
+
+[WRONG] True
+[RIGHT] False
+
 # Patient Safety
 
 ### Basic Safety Measures
@@ -387,3 +471,11 @@ More hospitals are using capnography to monitor the concentration of exhaled car
 
 **NOTE!**
 Various sedation scales may be used, including the Richmond Agitation Sedation Scale (RASS), the Pasero Opioid-Induced Sedation Scale (POSS), and the Innova Health System Sedation Scale (ISS). Determine which scale your facility uses and become familiar with that particular scale.
+
+# ~Question 15
+Which of the following is NOT a basic safety measure for patients?
+
+[WRONG] Assess the patient’s comfort levels.
+[WRONG] Make sure the side rails are up and the wheels are locked.
+[RIGHT] Administer appropriate reversal agents
+[WRONG] Ensure the suction device is set-up and ready.
