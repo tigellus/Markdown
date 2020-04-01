@@ -66,7 +66,7 @@ The critical care nurse recognizes normal capnograms. The capnogram is a pictori
 3. Alveolar plateau 
 4. Descending limb. 
 
-At baseline, the beginning of exhalation (AB), the initial sample is of C02 free gas from anatomic dead space with a CO2 concentration of 0 mmHg. On the ascending limb (BC), C02 concentration increases as CO2 empties from rapidly exchanging alveolar spaces and mixes with dead space gas. During alveolar plateau, the gas from uniformly ventilated alveoli are exhaled, the CO2 concentration remains relatively stable (CD). At the end of exhalation, where CO, concentration is highest (D), PetCO2, is measured. It is taken at a point 4/5 of the time after the beginning of exhalation and represents alveolar gas.
+At baseline, the beginning of exhalation (AB), the initial sample is of CO2 free gas from anatomic dead space with a CO2 concentration of 0 mmHg. On the ascending limb (BC), CO2 concentration increases as CO2 empties from rapidly exchanging alveolar spaces and mixes with dead space gas. During alveolar plateau, the gas from uniformly ventilated alveoli are exhaled, the CO2 concentration remains relatively stable (CD). At the end of exhalation, where CO, concentration is highest (D), PetCO2, is measured. It is taken at a point 4/5 of the time after the beginning of exhalation and represents alveolar gas.
 
 ### Normal capnographs must have 
 * A zero baseline
@@ -77,7 +77,6 @@ At baseline, the beginning of exhalation (AB), the initial sample is of C02 free
 
 To be an accurate estimator of PaCO2 within +/- 1.5 mmHg. 
 
-%%%IF SEPEARTE CHAPTERS BREAK HERE%%%
 
 # Nursing Actions
 In viewing capnogram waveforms, the critical care nurse should monitor for a **sudden loss of PetCO2**, on the capnograms waveform to baseline or near baseline (0 mmHg) because it implies immediate danger as no respirations are detected. This indicates a loss of ventilation to the patient. Possible causes are esophageal intubation, complete ventilator malfunction, airway disconnection from ventilator or kinked/ obstructed ETT.

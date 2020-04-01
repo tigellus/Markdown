@@ -11,7 +11,7 @@ Oxygenation and ventilation are measured differently.
 
 **Ventilation**
 
-* PCo2 (35-45 mmHg)
+* PCO2 (35-45 mmHg)
 * End tidal CO2 (30-43 mmHg)
 * Minute ventilation
  * Vt (tidal volume) x RR

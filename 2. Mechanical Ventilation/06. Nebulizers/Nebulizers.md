@@ -68,11 +68,11 @@ Do not use surgical mask.
 # ~Question 8
 When carrying out a nebulizer treatment, nurses must use:
 
-[RIGHT] An N95 respirator
+[RIGHT] An N95 respirator mask
 [WRONG] A surgical mask
 
 # ~Question 9
-Why must an N95 respirator be used for nebulizer treatments?
+Why must an N95 respirator mask be used for nebulizer treatments?
 
 [RIGHT] They are aerosolizing procedures
 [WRONG] It is standard precautions

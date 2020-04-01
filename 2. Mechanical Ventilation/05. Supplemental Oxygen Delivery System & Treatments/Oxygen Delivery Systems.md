@@ -14,7 +14,7 @@ Used for patients that need supplemental oxygen and have sufficient respiratory 
 * Monitor respiratory drive and effort- watch for signs of decompensation
 * Increases infection risk of the patient
 * Can cause patient discomfort
-* Actual amount of inspirted oxygen (FiO2) cannot be precisely controlled or predicted (is affected by patient's respiratory pattern)
+* Actual amount of inspired oxygen (FiO2) cannot be precisely controlled or predicted (is affected by patient's respiratory pattern)
 
 
 ## High-Flow Oxygen Delivery Systems
