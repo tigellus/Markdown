@@ -1,0 +1,1 @@
+Critical COVID-19 patients are often sedated to facilitate mechanical ventilation while they recover from the illness. A significant proportion of them often develop septic shock and specific organ dysfunction such as acute kidney injury. This course provides guidelines on how to respond promptly to a patient in shock and on how to manage a patient receiving sedation.

@@ -1,0 +1,1 @@
+This course lays the foundation for providing medical attention to patients infected by COVID-19 in an ICU setting. The course structure involves several aspects of using protective personal equipment, detecting patient symptoms, collecting specimens for testing and managing sedated patients, all of which will assist learners in caring for critical COVID-19 patients.
