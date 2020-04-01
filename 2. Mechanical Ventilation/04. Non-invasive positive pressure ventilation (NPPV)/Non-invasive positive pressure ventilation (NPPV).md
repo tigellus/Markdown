@@ -100,4 +100,4 @@ CPAP and BiPAP modes are usually used
 [WRONG] in conjunction with bronchodilators and steroids
 [WRONG] to delay intubation
 [WRONG] as a weaning protocol
-[RIGHT] All of the above
+[RIGHT] All of the options
