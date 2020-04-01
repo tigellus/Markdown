@@ -7,6 +7,13 @@
 4. Demonstrate techniques to maintain a patent airway and adequate oxygenation.
 5. Identify potential complications related to sedation.
 
+## The modules will also cover the following medications generally associated with sedation:
+1. Propofol
+2. Fentanyl
+3. Versed
+4. Dilaudid
+5. Dexmedetomidine
+
 ## Brief Introduction
 Sedation can decrease anxiety, pain, and discomfort. Some sedatives can induce amnesia, so that the patient does not remember an unpleasant procedure. Sedation is often used in critical care settings to facilitate mechanical ventilation while the patient receives treatment and recovers from an illness or injury.  Sedation is a high risk activity, requiring careful patient assessment. Protocols for medication usage, monitoring, and documentation standards will be discussed in this course.
 
@@ -138,15 +145,6 @@ When regulating and overseeing sedation, who is generally the operator?
 
 [WRONG] The RN
 [RIGHT] The MD
-
-# Medications Generally Associated with Sedation
-
-In the next modules we will cover medications generally associated with sedation:
-* Propofol
-* Fentanyl
-* Versed
-* Dilaudid
-* Dexmedetomidine
 
 # Propofol
 Propofol is an intravenous anesthetic used for procedural sedation, during monitored anesthesia care, or as an induction agent for general anesthesia. It may be administered as a bolus, an infusion, or a combination. Propofol is prepared in a lipid emulsion which gives it the characteristic milky white appearance.
