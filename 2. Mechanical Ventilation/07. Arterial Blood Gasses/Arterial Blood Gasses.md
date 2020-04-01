@@ -149,6 +149,12 @@ Which of the following is NOT a cause of hyperventilation?
 * Attempts to restore ratio of 1 part acid to 20 parts base
 * Can be partial or complete compensation
 
+# ~Question 11
+What is partial compensation?
+
+[RIGHT] The primary disorder continues and the opposing system begins to adjust (partially or completely)
+[WRONG] The primary disorder is repaired: all acid base parameters return to normal
+
 # Steps to Acid Base Interpretation
 
 ### Analyze each acid base parameters. 
@@ -240,12 +246,6 @@ A patient is admitted to the ICU due to respiratory failure. Once in the ICU, th
 [WRONG] This patient's acid base disorder is both compensated and corrected
 [RIGHT] This patient'sacid base disorder is neither compensated nor corrected
 [WRONG] This patient's acid base disorder is compensated but not corrected
-
-# ~Question 11
-What is partial compensation?
-
-[RIGHT] The primary disorder continues and the opposing system begins to adjust (partially or completely)
-[WRONG] The primary disorder is repaired: all acid base parameters return to normal
 
 # Anion Gap
 
