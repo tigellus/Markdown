@@ -96,7 +96,7 @@ Causes that lead to tension pneumothorax
 * Open pneumothorax when an occlusive dressing allows air into, but not out of, the pleural space
 
 # ~Question 1
-All of the following are causes of pneumothorax EXCEPT:
+All of the following are causes of pneumothorax except:
 
 [WRONG] Air entering pleural space from atmosphere due to a trauma
 [WRONG] Air entering the pleural space from a rupture in lung parenchyma
@@ -104,7 +104,7 @@ All of the following are causes of pneumothorax EXCEPT:
 [WRONG] Air entering pleural space from a hole in the trachea
 
 # ~Question 2
-All of the following can cause a pneumothorax EXCEPT:
+All of the following can cause a pneumothorax except:
 
 [WRONG] A person stabbed in the back just below the apex of the scapula by a 7 inch knife
 [WRONG] A person on a ventilator
@@ -122,7 +122,7 @@ Which of the following is a cause of primary pneumothorax?
 [RIGHT] None of the options
 
 # ~Question 4
-All of the following are examples of Secondary pneumothorax EXCEPT:
+All of the following are examples of Secondary pneumothorax except:
 
 [WRONG] A patient in the ICU on a ventilator
 [RIGHT] A spontaneous pneumothorax in a young patient with a history of smoking but no known disease
