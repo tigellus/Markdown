@@ -20,10 +20,10 @@ Rescuers should be prepared to recognize and support a sedated patient who is no
 [WRONG] False
 
 # ~Question 2
-Sedation is seldom used in critical care settings.
+Sedation is often used in critical care settings.
 
-[WRONG] True
-[RIGHT] False
+[RIGHT] True
+[WRONG] False
 
 # Levels of Anesthesia
 There are four levels of anesthesia:
@@ -43,7 +43,7 @@ Moderate sedation is often used with procedures in the gastrointestinal or endos
 ## Definition of Moderate Sedation
 A minimally depressed level of consciousness in which a patient retains the ability to independently and continuously maintain an open airway and a regular breathing pattern. The patient can respond appropriately and rationally to physical stimulation and verbal commands. Moderate sedation may be induced by parenteral or oral medications. Drugs, dosages, and techniques utilized are not intended to produce loss of consciousness.
 
-## Clinical Characteristics Moderate Sedation
+## Clinical Characteristics of Moderate Sedation
 * Maintenance of protective reflexes (e.g., ability to control secretions, avoid aspiration, and breathe without assistance)
 * Independent and continuous maintenance of a patent airway
 * Appropriate response to physical stimulation and/or verbal command
@@ -66,7 +66,7 @@ Independent ventilatory function may be impaired. The patient may require assist
 A drug-induced loss of consciousness during which the patient is not arousable, even to painful stimuli. The ability to maintain independent ventilatory function is often impaired. Assistance is often required in maintaining a patent airway. Positive pressure ventilation may be required due to depressed spontaneous ventilation or drug-induced depression of neuromuscular function. Cardiovascular function may be impaired.
 
 # ~Question 3 
-Which level of sedetaion signifies a drug-induced depression of consciousness during which patients respond purposefully to verbal commands and/or light tactile stimulation, no interventions are required to maintain a patent airway, spontaneous ventilation is adequate, and cardiovascular function is usually maintained is defined as which of the following states of sedation?
+Which level of sedeation signifies a drug-induced depression of consciousness during which patients respond purposefully to verbal commands and/or light tactile stimulation, no interventions are required to maintain a patent airway, spontaneous ventilation is adequate, and cardiovascular function is usually maintained?
 
 [WRONG] Minimal sedation
 [RIGHT] Moderate sedation
@@ -74,24 +74,24 @@ Which level of sedetaion signifies a drug-induced depression of consciousness du
 [WRONG] General anesthesia
 
 # ~Question 4
-Which of the following is an INCORRECT clinical characteristic of Minimal Sedation
+Which finding is NOT expected with the level of Minimal Sedation?
 
 [WRONG] Normal response to verbal stimulation
-[WRONG] Unaffected airway
-[WRONG] Unaffected spontaneous ventilation
+[WRONG] Airway is patent
+[WRONG] Spontaneous ventilation
 [RIGHT] Cardiovascular function may be impaired
 
 # ~Question 5
-During which level of sedation is a patient's responsiveness unarousable?
+During which level of sedation is a patient unarousable?
 
 [WRONG] Deep Sedation
-[RIGHT] General Anaesthesia
+[RIGHT] General Anesthesia
 [WRONG] Minimal Sedation
 [WRONG] Moderate Sedation
 
 # Levels of Sedation: Modified Ramsay Scale
 
-It is important to determine the health team's goal for the level of sedation. Light, moderate, or deep sedation may be used in the critical care unit, based on the specific patient needs. The modified Ramsay Scale is often used to assess the patient's ongoing level of sedation and adjust the dosage and timing of sedatives.
+It is important to determine the health team's goal for the level of sedation. Light, moderate, or deep sedation may be used in the critical care unit, based on the specific patient needs. The Modified Ramsay Scale is often used to assess the patient's ongoing level of sedation and adjust the dosage and timing of sedatives.
 
 ![](assets/ramsay.jpg) 
 
@@ -122,7 +122,7 @@ The modified Ramsay Scale is often used to assess the patient's ongoing level of
 [WRONG] False
 
 # Regulation and Oversight of Sedation
-The requirements for safe administration of medications and safe practice of procedural sedation are defined by The Joint Commission and other accreditation agencies, the Board of Registration in Medicine, individual states, and individual hospital policies. Practitioners should review and understand their scope of practice with procedural sedation as they will need to follow the policies for patient safety and to ensure regulatory compliance.
+The requirements for safe administration of medications and safe practice of procedural sedation are defined by The Joint Commission and other accreditation agencies, professional regulatory boards, and individual hospital policies. Practitioners should review and understand their scope of practice with procedural sedation as they will need to follow the policies for patient safety and to ensure regulatory compliance.
 
 ![](assets/sedation4.png)
 
@@ -214,10 +214,27 @@ Propofol can cause profound cardiovascular and respiratory depression and will u
 
 Rescue equipment should include a bag valve mask, two sources of oxygen (centrally supplied or cylinders), laryngoscopes, endotracheal tubes of differing sizes, laryngeal mask airways, a crash cart with appropriate ACLS medications and a defibrillator.   
 
+# ~Question 9
+Which effect is expected after administration of propofol?
+
+[WRONG] Increased respiratory rate
+[RIGHT] Decreased level of consciousness
+[WRONG] Increased blood pressure
+[WRONG] Decreased QT interval duration
+
+# ~Question 10
+For which situation would propofol be used in the critical care unit?
+
+[WRONG] Maintenance of general anesthesia
+[WRONG] Relief of chronic pain
+[WRONG] Facilitate sleep for tired patients
+[RIGHT] Sedation in a mechanically-ventilated patient
+ 
+
 ### Toxicity
 **Propofol Infusion Syndrome (PRIS):** Is a rare but serious side effect of prolonged infusion of propofol (usually > 4mg/kg/h for more than 24 hours). The syndrome presents as metabolic acidosis, hyperkalemia, hyperlipidemia, and rhabdomyolysis and may proceed to renal and cardiac failure and ultimately death.
 
-It is thought to occur due to alterations in mitochondrial metabolism and electron transport chain function, but the exact mechanism of PRIS is still unknown. The onset of PRIS usually occurs within four days of the initial propofol treatment. This syndrome has been noted to occur during prolonged infusions at high doses in pediatric/young adult patients or those with the need for prolonged sedation, such as mechanically ventilated patients with head trauma.
+The exact mechanism of PRIS is still unknown. The onset of PRIS usually occurs within four days of the initial propofol treatment. This syndrome has been noted to occur during prolonged infusions at high doses in pediatric/young adult patients or those with the need for prolonged sedation, such as mechanically ventilated patients with head trauma.
 
 # Fentanyl
 A strong synthetic opioid, which produces analgesia similar to morphine but is 50 to 100 times more potent than morphine. A dose of only 100 micrograms can produce equivalent analgesia to approximately 10 mg of morphine. However, fentanyl exhibits vastly different properties and pharmacokinetics. Clinically, it is most often used as a sedative in intubated patients, as well as in severe cases of pain in patients with renal failure owing to its primarily hepatic elimination. At times, fentanyl may also be indicated to treat chronic pain patients who have developed tolerance to opiates. When used as a sedative, it is most commonly administered as a drip. It may often require large doses when used as a sedative in patients with mechanical ventilation requirements. 
@@ -226,7 +243,7 @@ A strong synthetic opioid, which produces analgesia similar to morphine but is 5
 Fentanyl is similar to other opioid drugs. Fentanyl molecules target a subclass of opioid receptor systems in the body, many of which are localized in the brain within specialized neuroanatomical structures particularly regarded to the control of emotions, pain, and speaking to the point of its infamous addictive properties, reward. Biochemically, it is referred to as a Mu-selective opioid agonist. 
 
 ### Administration
-Fentanyl is typically administered intravenously (IV), intramuscularly (IM), transdermally (TD) as skin patches (Durogesic DTrans; Fencino; Fentalis), intranasally (IN) in the form of a volatile nasal spray (Instanyl or PecFent, and intrathecally (IT). 
+Fentanyl is typically administered intravenously (IV), intramuscularly (IM), transdermally (TD) as skin patches, intranasally (IN) in the form of a volatile nasal spray, and intrathecally (IT). 
 
 ### Adverse Effects
 Fentanyl's side effects are similar to those of heroin, which produce euphoria, confusion, respiratory depression (which, if extensive and untreated, may lead to arrest), drowsiness, nausea, visual disturbances, dyskinesia, hallucinations, delirium, analgesia, constipation, narcotic ileus, muscle rigidity, constipation, addiction, loss of consciousness, hypotension, coma, and even death. Alcohol and other drugs (i.e., cocaine, heroin) can synergistically exacerbate fentanyl's side effects. 
@@ -245,8 +262,8 @@ When using fentanyl citrate injections along with medications such as CYP3A4 inh
 ### Toxicity
 Typically, a fentanyl overdose manifests as respiratory depression or respiratory arrest. In such cases, oxygen administration and respiratory assistance should be performed accordingly. An opioid drug antagonist such as naloxone is indicated to correct symptoms. Commonly, repeated doses of naloxone over time. Thus, the therapeutic approach is continued until a normal respiratory rate coincides with appropriate oxygen saturation levels. Naloxone/naltrexone are robust opioid antagonists that function by blocking µ-receptors.  Naloxone is commonly administered IV, IM, IN or subcutaneously (SC). 
 
-# ~Question 9
-Which of the following is NOT a method for adminestring Fentanyl?
+# ~Question 11
+Three of the routes below are used for administering fentanyl. Which route is NOT used for administering fentanyl?
 
 [WRONG] Intramuscular (IM) 
 [WRONG] Intravenous (IV)
@@ -274,8 +291,8 @@ Frequent monitoring of blood levels of midazolam and its metabolites is a requir
 ### Toxicity
 Toxicity with midazolam is rare but can happen when combined with other CNS depressants like alcohol, opioids, and other tricyclic antidepressants. The risk increases with intravenous administration and in elderly individuals with COPD. Symptoms of overdose include ataxia, nystagmus, hypotension, slurred speech, slurred speech, impaired motor coordination, coma, and death. Flumazenil is the antidote for midazolam toxicity. 
 
-# ~Question 10
-Which of the following is not an adverse affect typically associated with Midazolam (Versed)
+# ~Question 12
+Three of the adverse effects below are associated with midazolam (Versed). Which adverse affect is NOT typically associated with midazolam (Versed)?
 
 [RIGHT] Constipation
 [WRONG] Cough
@@ -290,8 +307,6 @@ Hydromorphone is an opioid agonist that binds to several opioid receptors. Its a
 
 ### Administration and dosing
 Hydromorphone is administtered through intramuscular, intravenous, subcutaneous, or oral routes.
-
-**Intramuscular, intravenous, or subcutaneous:** injected at a concentration up to 10 mg/ml.
 
 ### Pharmacology
 Excretion is mainly through urine in the glucuronidated form. The residual unchanged form gets excreted in the urine (7%) and the feces (1%).
@@ -324,14 +339,14 @@ Concurrent use of hydromorphone with other CNS depressants, including benzodiaze
 ### Toxicity
 Overdose may cause respiratory depression and lead to death. Naloxone is the antidote, and repeated doses of naloxone may be needed.
 
-# ~Question 11
-Which of the following is an antidote to overdosing on Dilaudid?
+# ~Question 13
+Which drug is an antidote to Dilaudid?
 [RIGHT] Naloxone
 [WRONG] Flumazenil
 [WRONG] Erythromycin
 
-# ~Question 12
-Which of the following drugs may cause respiratory depression and lead to death when overdosed?
+# ~Question 14
+Which drug may cause respiratory depression and lead to death?
 
 [WRONG] Dexmedetomidine
 [WRONG] Versed
@@ -372,13 +387,14 @@ All of which will be discussed in the following articles.
 
 ## Inadequate Airway
 
-### Loss of artifical airway
+### Loss of artificial airway
 * To prevent this, vigilance is key
 * Oxygen desaturation and tachycardia occur after two to three minutes
 
 **What do we do about it?**
 * Assure artifical airway is secure
 * Assess bilateral breath sounds routinely and after position changes
+* Note level of endotracheal tube insertion and assure it stays constant
 * Provide supplemental oxygen
 * Provide positive pressure ventilation; use bag/mask if ventilator function is uncertain
 * Administer appropriate reversal agents
@@ -396,7 +412,7 @@ Hypotension is generally due to vasodilation. When managing hypotension, conside
 5. Start vasopressors.
 
 ### Bradycardia
-First, the practitioner must rule out hypoxia. Bradycardia is usually vaso-vagal secondary to the procedure (bowel or bladder distension, pain, uterine traction).
+First, the practitioner must rule out hypoxia.
 
 **What do we do about it?**
 * Increase oxygen if needed
@@ -404,15 +420,15 @@ First, the practitioner must rule out hypoxia. Bradycardia is usually vaso-vagal
 * Atropine: 0.5-1 mg IV q 3-5 minutes not to exceed 3 mg
 
 ### Tachycardia
-Tachycardia is usually from pain. The healthcare providers should consider the cause and co-morbidities of the patient. Sometimes it can be caused from epinephrine given locally.
+Tachycardia is usually from pain and/or fever. The healthcare providers should consider the cause and co-morbidities of the patient. Sometimes it can be caused from epinephrine given locally.
 
 **What do we do about it?**
 * Fentanyl for pain: Vagotonic properties
-* If from the epinephrine, will generally resolve in a few minutes
+* If from epinephrine, will generally resolve in a few minutes
 * β-Blocker if prolonged and problematic, IV
 
 ### Hypertension
-Hypertension is usually from pain or from the epinephrine. The healthcare providers should consider hypercarbia.
+Hypertension is usually from pain or from epinephrine. Also consider hypercarbia.
 
 **What do we do about it?**
 * Analgesics as appropriate
@@ -424,24 +440,24 @@ With agitation, the healthcare providers must rule out hypoxia or hypercarbia. I
 
 **What do we do about it?**
 * Monitor respiratory status and treat accordingly
-* Give benzodiazepines
+* Give benzodiazepines cautiously
 
 ## Managing Allergic Reactions/Anaphylaxis
-Anaphylaxis is most common with opioids but can occur with any drug. Reactions can occur within 60 minutes, with symptoms ranging from urticarial to bronchoconstriction, laryngeal edema, hypotension, or circulatory collapse. Other reactions include drug fever, vasculitis, serum sickness syndrome, and gastrointestinal symptoms (abdominal pain, nausea, vomiting, and diarrhea).
+Anaphylaxis is most common with opioids but can occur with any drug. Reactions can occur within 60 minutes, with symptoms ranging from hives to bronchoconstriction, laryngeal edema, hypotension, or circulatory collapse. Other reactions include drug fever, vasculitis, serum sickness syndrome, and gastrointestinal symptoms (abdominal pain, nausea, vomiting, and diarrhea).
 
 **What do we do about it?**
 * For mild reactions, stop offending agent and administer diphenhydramine (Benadryl).
 * For severe reactions, O2 , IV crystalloids, epinephrine, and aminophylline. Diphenhydramine and ranitidine block unoccupied histamine receptors. Hydrocortisone and methylprednisolone also may be administered.
 
-# ~Question 13
-How should you NOT treat a patient experiencing hypertension
+# ~Question 15
+Which drug would be contraindicated for a patient experiencing hypertension?
 
-[RIGHT] Provide Fentanyl
-[WRONG] Provide Labetalol: α and β antagonist 5-10 mg IV push
-[WRONG] Provide Hydralazine: Direct vasodilator 5-10 mg IV (wait 10-20 minutes) 
+[RIGHT] Atropine
+[WRONG] Labetalol
+[WRONG] Hydralazine
 
-# ~Question 14
-When a patient experiences Agitation, they should be provided with Hydralazine
+# ~Question 16
+A patient experiencing agitation should be treated with hydralazine.
 
 [WRONG] True
 [RIGHT] False
@@ -454,7 +470,7 @@ When a patient experiences Agitation, they should be provided with Hydralazine
 * Ensure the suction device is set-up and ready.
 
 ## Patient Monitoring
-Baseline vital signs should be documented prior to initatng sedation. The patient should be on continuous cardiac, respiratory, and oxygenation monitoring. 
+Baseline vital signs should be documented prior to initiating sedation. The patient should be on continuous cardiac, respiratory, and oxygenation monitoring. 
 * Heart rate/ECG rhythm
 * Respiratory rate
 * Blood pressure
@@ -472,10 +488,18 @@ More hospitals are using capnography to monitor the concentration of exhaled car
 **NOTE!**
 Various sedation scales may be used, including the Richmond Agitation Sedation Scale (RASS), the Pasero Opioid-Induced Sedation Scale (POSS), and the Innova Health System Sedation Scale (ISS). Determine which scale your facility uses and become familiar with that particular scale.
 
-# ~Question 15
-Which of the following is NOT a basic safety measure for patients?
+# ~Question 17
+Which nursing action is NOT a basic safety measure?
+
+[WRONG] Assessing the patient’s comfort levels.
+[WRONG] Making sure the side rails are up and the bed wheels are locked.
+[WRONG] Ensuring the suction device is set-up and ready.
+[RIGHT] Administering intravenous diphenhydramine.
+
+# ~Question 18
+Which action would the nurse plan to use for a patient on mechanical ventilation who experiences henodynamic instability from a sedative overdose?
 
 [WRONG] Assess the patient’s comfort levels.
 [WRONG] Make sure the side rails are up and the wheels are locked.
-[RIGHT] Administer appropriate reversal agents
+[RIGHT] Administer a bolus of intravenous fluid.
 [WRONG] Ensure the suction device is set-up and ready.
