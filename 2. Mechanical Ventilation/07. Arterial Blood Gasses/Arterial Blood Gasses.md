@@ -80,7 +80,7 @@ At what pH value should you suspect alkalemia?
 
 # Respiratory & Renal Systems
 
-## Respiratory Stsem
+## Respiratory System
 ### Effects of Changes in Ventilation
 
 * Hypoventilation leads to ineffective clearance of CO2--> ↑CO2 retention in the arterial blod -> Acidemia --> lowered pH
