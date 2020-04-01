@@ -50,7 +50,7 @@ Define ventilator weaning:
 [RIGHT] Decreasing the ventilator support while allowing an increased number of spontaneous breaths
 
 # ~Question 4
-Which of the following is not a component of weaning criteria?
+Which of the following is NOT a component of weaning criteria?
 
 [WRONG] Negative inspiratory force
 [RIGHT] I:E ratio
@@ -68,7 +68,7 @@ What should a patient’s minimum spontaneous tidal volume be in order to be suc
 # ~Question 2
 When using T-piece trials to wean, which of the following is true?
 
-[RIGHT] The patient does all work of breathing
+[RIGHT] The patient does all the work of breathing for a period of time
 [WRONG] The number of ventilator breaths is gradually decreased
 [WRONG] The patient has the benefit of the ventilator alarms while on the T-piece
 [WRONG] The T-piece gives a postive pressure “boost” to decrease the work of breathing
@@ -82,9 +82,9 @@ Continually evaluate the patient for signs of failed weaning: fatigue/exhaustion
 * Change in LOC
 
 # ~Question 6
-Which is NOT a sign of failed weaning?
+Which is a sign of effective weaning?
 
-[RIGHT] Normal respiratory rate
+[RIGHT] Respiratory rate < 20
 [WRONG] Hypoxia
 [WRONG] Hemodynamic instability
 [WRONG] Fatigue
@@ -103,7 +103,7 @@ STEPS:
 * Ask the patient to cough as the ETT is removed
 * Place supplemental oxygen
 * CLOSELY monitor for signs of respiratory distress, stridor, hoarseness, or decompensation-- patient may need to be reintubated
-* Ensure patient passes a swallow evaluation before taking anything PO
+* Ensure patient passes a swallow evaluation before taking anything orally
 
 # ~Question 6
 Which of the following should be done to assess respiratory status after extubation?
@@ -122,7 +122,7 @@ What kind of oxygen administration system should be used for a patient immediate
 [RIGHT] Humidified mask
 
 # ~Question 6
-Which of the following is a concerning complication after extubation?
+Which finding indicates a complication after extubation?
 
 [RIGHT] Stridor
 [WRONG] Cough
