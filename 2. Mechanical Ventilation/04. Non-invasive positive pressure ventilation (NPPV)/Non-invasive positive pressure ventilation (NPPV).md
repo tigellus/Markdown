@@ -58,26 +58,26 @@ BiPAP Masks
 * malnutrition or dehydration (due to possible reduced oral intake)
 
 # ~Question 1
-What type of mask should be used when caring for patients who use BiPAP or CPAP machines?
+What type of mask should the nurse use when caring for patients who use BiPAP or CPAP machines?
 
 [RIGHT] N95 respirator mask
 [WRONG] Standard surgical mask
 [WRONG] Full face mask
 
 # Question 2
-An artificial airway, like an endotracheal tube, is used in the following type of ventilation
+What is the difference between invasive and non-invasive positive pressure ventilation?
 
-[RIGHT] Positive Pressure
-[WRONG] Negative pressure
+[RIGHT] Invasive positive pressure ventilation is delivered via an endotracheal tube or tracheostomy
+[WRONG] Non-invasive positive pressure ventilation is delivered via an endotracheal tube or tracheostomy
 
 # Question 3
-Pressure is applied to the abdomen and thorax to draw air into the lungs through the upper airway in the following type of ventilation
+Which mechanism describes normal ventilation for the non-mechanically ventilated patient?
 
 [WRONG] Positive Pressure
 [RIGHT] Negative pressure
 
 # Question 4
-Iron lung ventilators used after the polio epidemics in the first half of the 20th century belong to
+Iron lung ventilators used after the polio epidemics in the first half of the 20th century used which type of ventilation?
 
 [WRONG] Positive Pressure Ventilation
 [RIGHT] Negative pressure Ventilation
@@ -85,10 +85,10 @@ Iron lung ventilators used after the polio epidemics in the first half of the 20
 # Question 6
 List one indication for non-invasive mechanical ventilation:
 
-[WRONG] Difficulty weaning from the ventilator
+[WRONG] Somnolence
 [RIGHT] Sleep apnea
 [WRONG] Upper airway tumor
-[WRONG] Copious secretions
+[WRONG] Copious thick secretions
 
 # Question 5
 CPAP and BiPAP modes are usually used
