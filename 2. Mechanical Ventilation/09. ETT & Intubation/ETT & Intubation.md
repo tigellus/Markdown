@@ -151,14 +151,6 @@ How often should the bite block be cleaned for a patient with an endotracheal tu
 [WRONG] Every 24 hours
 [WRONG] Every 4 hours
 
-# Question 7
-Which of the following is not a goal of tracheostomy care?
-
-[WRONG] Prevent infection
-[WRONG] Maintain airway patency
-[RIGHT] Ensure that the patient can swallow
-[WRONG] Prevent skin breakdown
-
 # Question 1
 A high volume, low pressure cuff can do which of the following?
 [WRONG] Prevent aspiration
@@ -372,3 +364,11 @@ Patients with a laryngectomy have similar problems of airway management as those
 * Patients need to learn to maintain their airway
 * Laryngectomy causes a permanent loss of speech, but patients can use speaking aids
 * Patients should be given information on local/regional support groups
+
+# Question 7
+Which of the following is not a goal of tracheostomy care?
+
+[WRONG] Prevent infection
+[WRONG] Maintain airway patency
+[RIGHT] Ensure that the patient can swallow
+[WRONG] Prevent skin breakdown
