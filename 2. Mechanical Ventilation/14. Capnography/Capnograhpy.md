@@ -11,7 +11,7 @@ Changes in the shape of the waveform and the partial pressure of end tidal CO2 (
 
 A colorimetric CO2 detector can be used to help determine whether an airway is established. However, this device can not verify that an airway management device is correctly placed
 
-# ~Question 1
+# Question 1
 What is end tidal CO2?
 
 [WRONG] Amount of CO2 in blood stream
@@ -42,7 +42,7 @@ The PACO2 is the measurement of CO2 that is continually being formed in the body
 
 Patients with diseases such as chronic obstructive pulmonary disease and adult respiratory distress syndrome produce increased dead space ventilation and have high V/Q ratios. This occurs when lung units have more dead space ventilation than perfusion and end-tidal gas has less CO2.
 
-# ~Question 2
+# Question 2
 End tidal CO2 is a useful measurement for all of the following EXCEPT:
 
 [WRONG] Ventilation
