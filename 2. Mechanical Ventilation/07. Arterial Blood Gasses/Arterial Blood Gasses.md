@@ -14,6 +14,16 @@ Please watch the following video for an overview on ABG.
  * Sampled from a Pulmonary Artery Catheter
  * Used to assess tissue oxygenation
 
+## Normal Arterial Blood Gas Values 
+* pH: 7.35-7.45
+* PaCO2 (partial pressure of carbon dioxide in the blood) : 35-45 mm Hg
+* HCO3- (amount of bicarbonate in the blood): 22-26 meq/l
+* Base Excess (reflects the sum of all of the buffer bases in the body): -2 to +2
+* PaO2 (partial pressure of oxygen in the blood): 80-100 mm Hg
+* SaO2 (percentage of hemoglobin saturated with oxygen): 92-99%
+
+![](assets/values.png)
+
 # ~Question 1
 What is Arterial Blood Gas used for? 
 
@@ -28,14 +38,6 @@ What does pH represent?
 [WRONG] The logarithm of the hydrogen ion concentration
 [WRONG] The logarithm of the hydroxide ion concentration
 
-# Normal Arterial Blood Gas Values 
-* pH: 7.35-7.45
-* PaCO2 (partial pressure of carbon dioxide in the blood) : 35-45 mm Hg
-* HCO3- (amount of bicarbonate in the blood): 22-26 meq/l
-* Base Excess (reflects the sum of all of the buffer bases in the body): -2 to +2
-* PaO2 (partial pressure of oxygen in the blood): 80-100 mm Hg
-* SaO2 (percentage of hemoglobin saturated with oxygen): 92-99%
-
 # Acidemia vs. Alkalemia
 
 ### Acidemia
@@ -47,6 +49,20 @@ What does pH represent?
 * pH > 7.45
 * Caused by accumulation of too much base OR loss of acids
 * pH > 7.8 incompatible with life
+
+## Buffers
+
+### Carbonic Acid
+
+![](assets/carbonic.png)
+
+### Protein
+
+![](assets/protein.png)
+
+### Phosphate
+
+![](assets/phosphate.png)
 
 # ~Question 3
 At what pH value should you suspect acidemia?
@@ -62,23 +78,9 @@ At what pH value should you suspect alkalemia?
 [WRONG] pH > 7.35
 [WRONG] pH > 7.00
 
-# Buffers
+# Respiratory & Renal Systems
 
-## Carbonic Acid
-
-![](assets/carbonic.png)
-
-## Protein
-
-![](assets/protein.png)
-
-## Phosphate
-
-![](assets/phosphate.png)
-
-
-# Respiratory System
-
+## Respiratory Stsem
 ### Effects of Changes in Ventilation
 
 * Hypoventilation leads to ineffective clearance of CO2--> ↑CO2 retention in the arterial blod -> Acidemia --> lowered pH
@@ -88,6 +90,19 @@ At what pH value should you suspect alkalemia?
 
 * Non-respiratory Acidosis [Metabolic Acidosis] -> Respiratory system attempts to compensate by "blowing off" CO2--> patient presents with increased ventilation
 * Non-respiratory Alkalosis [Metabolic Alkalosis] -> Respiratory system attempts to compensate by retaining CO2--> patient presents with decreased ventilation
+
+## Renal System
+### Metabolic Causes of Acidosis
+
+* Causes of acidosis (lowered pH) outside of the respiratory system that leads to too much retention of H+ or too much excretion of HCO3-
+* Patient presents with: ↓HCO3- and ↓pH
+* Kidneys may attempt to compensate by increasing excretion of H+ and retention of HCO3-
+
+### Metabolic Causes of Alkalosis
+
+* Causes of alkalosis (increased pH) outside of the respiratory system that leads to too much retention of HCO3- or too much excretion of H+
+* Patient presents with: ↑HCO3- and ↑pH
+* Kidneys may attempt to compensate by increasing excretion of HCO3- and retention of H+
 
 # ~Question 5
 What is the effect of Hypoventilation? 
@@ -122,84 +137,35 @@ Which of the following is NOT a cause of hyperventilation?
 [WRONG] Dyspnea
 [RIGHT] CO2 poisoning
 
-# Renal System
-
-### Metabolic Causes of Acidosis
-
-* Causes of acidosis (lowered pH) outside of the respiratory system that leads to too much retention of H+ or too much excretion of HCO3-
-* Patient presents with: ↓HCO3- and ↓pH
-* Kidneys may attempt to compensate by increasing excretion of H+ and retention of HCO3-
-
-### Metabolic Causes of Alkalosis
-
-* Causes of alkalosis (increased pH) outside of the respiratory system that leads to too much retention of HCO3- or too much excretion of H+
-* Patient presents with: ↑HCO3- and ↑pH
-* Kidneys may attempt to compensate by increasing excretion of HCO3- and retention of H+
-
-# Tubular Controls
-
-### Tubular Control of H+ by the Bicarbonate-Carbonic Acid System
-
-![](assets/bicarb.png)
-
-### Tubular Control of H+ by Phosphate
-
-![](assets/phosph.png)
-
-### Tubular Control of H+ by Ammonia
-
-![](assets/ammonia.png)
-
-
 # Full and Partial Compensation
 
 ### Full Compensation
 
 * Primary disorder is repaired. All acid base parameters return to normal.
 
+* pH is within normal range, but PaCO2 and HCO3 are abnormal
+ * Use "7.4" as a reference point: pH= 7.35-7.4 is now labeled "acidosis", pH= 7.4-7.45 is now labeled as "alkalosis"
+ First: Identify the cause:
+* If the cause of the ABG disturbance is respiratory: PaCO2 matches the pH (pH= 7.35-7.4 and PaCO2↑ or pH=7.4-7.45 and PaCO2↓) and thus, you can determine that the cause of the ABG disturbance is a respiratory issue
+* If the cause o the ABG disturbance is metabolic: The HCO3- matches the pH ( pH= 7.35-7.4 and HCO3-↓ or pH=7.4-7.45 and HCO3-↑) and thus, you can determine that the cause of the ABG disturbance is a metabolic issue
+
+Next: Identify if there is full compensation
+* The opposite system (not causing the ABG disturbance) has changed in a manner that would have caused the opposite pH change. For example, in respiratory acidosis (pH↓ and PaCO2↑), the metabolic system would reflect alkalosis (HCO3-↑) in an effort to compensate. 
+
+* Example: 
+ * pH= 7.36 (pH is "normal", but falls between 7.35-7.4)
+ * PaCO2= 50 (high, causing acidosis)
+ * HCO3-= 20 (low, causing alkalosis)
+ * CO2 and pH reflect acidosis (respiratory system is causing the disturbance)
+ * HCO3 reflects alkalosis (metabolic system is compensating)
+ * pH is now within NORMAL range (this is the key component that moves the ABG from partially compensated to fully compensated)
+ * ABG Disturbance: Fully compensated respiratory acidosis
+
 ### Partial Compensation
 
 * Primary disorder continues, opposite system begins to adjust (eg. Respiratory disorder, metabolic system attempts to compensate)
 * Attempts to restore ratio of 1 part acid to 20 parts base
 * Can be partial or complete compensation
-
-# ~Question 9
-What is Full Compensation?
-
-[RIGHT] The primary disorder is repaired: all acid base parameters return to normal
-[WRONG] The primary disorder continues and the opposite system begins to adjust (partially or completely)
-
-# ~Question 10
-A patient is admitted to the ICU due to respiratory failure. Once in the ICU, the patient was placed on the ventilator. The patient's ABG results demonstrate a PaCO2 of 50mmHg and a HCO3- of 12mEq/L. Which best describes this patient's condition?
-
-[WRONG] This patient's acid base disorder is compensated
-[WRONG] This patient's acid base disorder is corrected
-[WRONG] This patient's acid base disorder is both compensated and corrected
-[RIGHT] This patient'sacid base disorder is neither compensated nor corrected
-[WRONG] This patient's acid base disorder is compensated but not corrected
-
-# ~Question 11
-What is partial compensation?
-
-[RIGHT] The primary disorder continues and the opposing system begins to adjust (partially or completely)
-[WRONG] The primary disorder is repaired: all acid base parameters return to normal
-
-# Steps to Acid Base Interpretation
-
-### Analyze each acid base parameters. 
-
-* pH, PaCO2, HCO3-: using normal reference ranges, determine whether each value is low, normal, or high
-
-### Match acid base disturbance with parameter causing disturbance
-
-* pH↓ and PaCO2↑ = Respiratory Acidosis
-* pH↑ and PaCO2↓ = Respiratory Alkalosis
-* pH↓ and HCO3-↓ = Metabolic Acidosis
-* pH↑ and HCO3-↑ = Metabolic Alkalosis
-
-### Look for Compensation
-
-# Partial Compensation
 
 * All ABG values are abnormal
 
@@ -227,25 +193,21 @@ Next: Identify if there is partial compensation
  * PaCO2 reflects acidosis (respiratory system is compensating)
  * pH is abnormal (the primary problem is still a problem and has not been fully compensated)
  * ABG Disturbance: Partially compensated metabolic alkalosis
- 
- # Full Compensation
- * pH is within normal range, but PaCO2 and HCO3 are abnormal
- * Use "7.4" as a reference point: pH= 7.35-7.4 is now labeled "acidosis", pH= 7.4-7.45 is now labeled as "alkalosis"
- First: Identify the cause:
-* If the cause of the ABG disturbance is respiratory: PaCO2 matches the pH (pH= 7.35-7.4 and PaCO2↑ or pH=7.4-7.45 and PaCO2↓) and thus, you can determine that the cause of the ABG disturbance is a respiratory issue
-* If the cause o the ABG disturbance is metabolic: The HCO3- matches the pH ( pH= 7.35-7.4 and HCO3-↓ or pH=7.4-7.45 and HCO3-↑) and thus, you can determine that the cause of the ABG disturbance is a metabolic issue
 
-Next: Identify if there is full compensation
-* The opposite system (not causing the ABG disturbance) has changed in a manner that would have caused the opposite pH change. For example, in respiratory acidosis (pH↓ and PaCO2↑), the metabolic system would reflect alkalosis (HCO3-↑) in an effort to compensate. 
+## Steps to Acid Base Interpretation
 
-* Example: 
- * pH= 7.36 (pH is "normal", but falls between 7.35-7.4)
- * PaCO2= 50 (high, causing acidosis)
- * HCO3-= 20 (low, causing alkalosis)
- * CO2 and pH reflect acidosis (respiratory system is causing the disturbance)
- * HCO3 reflects alkalosis (metabolic system is compensating)
- * pH is now within NORMAL range (this is the key component that moves the ABG from partially compensated to fully compensated)
- * ABG Disturbance: Fully compensated respiratory acidosis
+### Analyze each acid base parameters. 
+
+* pH, PaCO2, HCO3-: using normal reference ranges, determine whether each value is low, normal, or high
+
+### Match acid base disturbance with parameter causing disturbance
+
+* pH↓ and PaCO2↑ = Respiratory Acidosis
+* pH↑ and PaCO2↓ = Respiratory Alkalosis
+* pH↓ and HCO3-↓ = Metabolic Acidosis
+* pH↑ and HCO3-↑ = Metabolic Alkalosis
+
+### Look for Compensation
 
 ### Look for Combined Disorders
 
@@ -260,8 +222,49 @@ Next: Identify if there is full compensation
  * HCO3 reflects alkalosis (metabolic system is compensating)
  * ABG Disturbance: Mixed acidosis
 
+# ~Question 9
+What is Full Compensation?
 
-# Respiratory Acidosis (Uncompensated and Partially Compensated States)
+[RIGHT] The primary disorder is repaired: all acid base parameters return to normal
+[WRONG] The primary disorder continues and the opposite system begins to adjust (partially or completely)
+
+# ~Question 10
+A patient is admitted to the ICU due to respiratory failure. Once in the ICU, the patient was placed on the ventilator. The patient's ABG results demonstrate a PaCO2 of 50mmHg and a HCO3- of 12mEq/L. Which best describes this patient's condition?
+
+[WRONG] This patient's acid base disorder is compensated
+[WRONG] This patient's acid base disorder is corrected
+[WRONG] This patient's acid base disorder is both compensated and corrected
+[RIGHT] This patient'sacid base disorder is neither compensated nor corrected
+[WRONG] This patient's acid base disorder is compensated but not corrected
+
+# ~Question 11
+What is partial compensation?
+
+[RIGHT] The primary disorder continues and the opposing system begins to adjust (partially or completely)
+[WRONG] The primary disorder is repaired: all acid base parameters return to normal
+
+# Anion Gap
+
+Definition: Unmeasured anions in the serum
+
+Calculated: (Na+ + K+) - (HCO3- - Cl-)
+
+Normal Value: 12 ± 2
+
+Acidosis with increased anion gap: Accumulation of anions other than Cl-
+
+Acidosis with normal anion gap: Renal absorption of Cl- due to the loss of HCO3-
+
+# ~Question 11
+What is the Normal Value of the Anion Gap?
+
+[RIGHT] 12 ± 2
+[WRONG] 10 ± 2
+[WRONG] 14 ± 2
+
+# Acidosis, Alkalosis
+
+## Respiratory Acidosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
@@ -294,7 +297,7 @@ Increase/improve ventilation:
 * Raise HOB/reposition for optimal ventilation
 * Positive pressure ventilation (either NPPV or intubation and mechanical ventilation)
 
-# Respiratory Alkalosis (Uncompensated and Partially Compensated States)
+## Respiratory Alkalosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
@@ -321,7 +324,7 @@ Slow the hyperventilation
 * Address the underlying cause (eg. anxiety, pain)
 * Changes to mechanical ventilator to reduce ventilation
 
-# Metabolic Acidosis (Uncompensated and Partially Compensated States)
+## Metabolic Acidosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
@@ -354,26 +357,7 @@ Slow the hyperventilation
 * Assess hemodynamic and respiratory status
 * Careful administration of NaHCO3
 
-# Anion Gap
-
-Definition: Unmeasured anions in the serum
-
-Calculated: (Na+ + K+) - (HCO3- - Cl-)
-
-Normal Value: 12 ± 2
-
-Acidosis with increased anion gap: Accumulation of anions other than Cl-
-
-Acidosis with normal anion gap: Renal absorption of Cl- due to the loss of HCO3-
-
-# ~Question 11
-What is the Normal Value of the Anion Gap?
-
-[RIGHT] 12 ± 2
-[WRONG] 10 ± 2
-[WRONG] 14 ± 2
-
-# Metabolic Alkalosis (Uncompensated and Partially Compensated States)
+## Metabolic Alkalosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
@@ -406,7 +390,7 @@ What is the Normal Value of the Anion Gap?
 
 * Address underlying cause (eg. antiemetic, medication changes)
 
-# Question 12
+# ~Question 12
 Your patient exhibits the following acid base parameters: pH = 7.31, PaCO2 = 48, HCO3- = 24. 
 How should this be interpreted?
 
@@ -415,7 +399,7 @@ How should this be interpreted?
 [WRONG] Uncompensated metabolic acidosis
 [WRONG] Mixed alkalosis
 
-# Question 13
+# ~Question 13
 A patient presents with the following arterial blood gas values: pH: 7.47, PaCO2: 49, HCO3: 33
 What is the most accurate diagnosis?
 
@@ -425,7 +409,7 @@ What is the most accurate diagnosis?
 [WRONG] Mixed acidosis
 [RIGHT] Partially Compensated Metabolic Alkalosis
 
-# Question 14
+# ~Question 14
 Your patient exhibits the following acid base parameters: pH = 7.32, PaCO2 = 56, HCO3- = 31. 
 How should this be interpreted?
 
@@ -434,25 +418,20 @@ How should this be interpreted?
 [WRONG] Partially compensated metabolic acidosis
 [RIGHT] Mixed Acidosis
 
-# Question 15
+# ~Question 15
 What do Blood Gas Values pH < 7.35, PaCO2 > 45mm Hg, HCO3- = Normal or Elevated indicate?
 
 [RIGHT] Uncompensated Respiratory Acidosis
 [WRONG] Normal acid base parameters
 [WRONG] Fully Compensated Respiratory Alkalosis
 
-# Question 16
+# ~Question 16
 What do Blood Gas Values pH > 7.45, PaCO2 = Normal , HCO3- > 26 meq/l indicate?
 
 [RIGHT] Uncompensated Metabolic Alkalosis
 [WRONG] Normal acid base values
 [WRONG] Uncompensated Respiratory Acidosis
 [WRONG] Partially Compensated Respiratory Aciosis
-
-
-# Arterial and Mixed Venous Gases
-
-![](assets/values.png)
 
 # Oxyhemoglobin Dissociation Curve
 
@@ -468,13 +447,22 @@ What shifts the Oxyhemoglobin Dissociation Curve Right?
 [RIGHT] A pH Decrease and/or a Temperature Increase
 [WRONG] A pH Increase and/or a Temperature Decrease
 
-# Factors Leading to Tissue Hypoxia
+# Hypoxia
+
+## Factors Leading to Tissue Hypoxia
 
 * Low cardiac output
 * Decreased oxygen carrying capacity
 * Non-functional hemoglobin
 * Right to left cardiac shunt
 * Impaired respiration
+
+## Body's Compensation for Tissue Hypoxia
+
+* Tachycardia
+* Tachypnea
+* Erythrocytosis
+* Further desaturation of hemoglobin
 
 # ~Question 18
 What factors lead to Tissue Hypoxia? 
@@ -483,13 +471,6 @@ What factors lead to Tissue Hypoxia?
 [WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, right to left cardiac shunt
 [WRONG] Low cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, left to right cardiac shunt
 [WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, left to right cardiac shunt
-
-# Body's Compensation for Tissue Hypoxia
-
-* Tachycardia
-* Tachypnea
-* Erythrocytosis
-* Further desaturation of hemoglobin
 
 # ~Question 19
 How does the body compensate for tissue hypoxia?
