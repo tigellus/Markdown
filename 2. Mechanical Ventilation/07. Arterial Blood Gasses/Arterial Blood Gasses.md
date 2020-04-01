@@ -143,29 +143,28 @@ Which of the following is NOT a cause of hyperventilation?
 
 * Primary disorder is repaired. All acid base parameters return to normal.
 
-* pH is within normal range, but PaCO2 and HCO3 are abnormal
- * Use "7.4" as a reference point: pH= 7.35-7.4 is now labeled "acidosis", pH= 7.4-7.45 is now labeled as "alkalosis"
- First: Identify the cause:
-* If the cause of the ABG disturbance is respiratory: PaCO2 matches the pH (pH= 7.35-7.4 and PaCO2↑ or pH=7.4-7.45 and PaCO2↓) and thus, you can determine that the cause of the ABG disturbance is a respiratory issue
-* If the cause o the ABG disturbance is metabolic: The HCO3- matches the pH ( pH= 7.35-7.4 and HCO3-↓ or pH=7.4-7.45 and HCO3-↑) and thus, you can determine that the cause of the ABG disturbance is a metabolic issue
-
-Next: Identify if there is full compensation
-* The opposite system (not causing the ABG disturbance) has changed in a manner that would have caused the opposite pH change. For example, in respiratory acidosis (pH↓ and PaCO2↑), the metabolic system would reflect alkalosis (HCO3-↑) in an effort to compensate. 
-
-* Example: 
- * pH= 7.36 (pH is "normal", but falls between 7.35-7.4)
- * PaCO2= 50 (high, causing acidosis)
- * HCO3-= 20 (low, causing alkalosis)
- * CO2 and pH reflect acidosis (respiratory system is causing the disturbance)
- * HCO3 reflects alkalosis (metabolic system is compensating)
- * pH is now within NORMAL range (this is the key component that moves the ABG from partially compensated to fully compensated)
- * ABG Disturbance: Fully compensated respiratory acidosis
-
 ### Partial Compensation
 
 * Primary disorder continues, opposite system begins to adjust (eg. Respiratory disorder, metabolic system attempts to compensate)
 * Attempts to restore ratio of 1 part acid to 20 parts base
 * Can be partial or complete compensation
+
+# Steps to Acid Base Interpretation
+
+### Analyze each acid base parameters. 
+
+* pH, PaCO2, HCO3-: using normal reference ranges, determine whether each value is low, normal, or high
+
+### Match acid base disturbance with parameter causing disturbance
+
+* pH↓ and PaCO2↑ = Respiratory Acidosis
+* pH↑ and PaCO2↓ = Respiratory Alkalosis
+* pH↓ and HCO3-↓ = Metabolic Acidosis
+* pH↑ and HCO3-↑ = Metabolic Alkalosis
+
+### Look for Compensation
+
+# Partial Compensation
 
 * All ABG values are abnormal
 
@@ -193,21 +192,25 @@ Next: Identify if there is partial compensation
  * PaCO2 reflects acidosis (respiratory system is compensating)
  * pH is abnormal (the primary problem is still a problem and has not been fully compensated)
  * ABG Disturbance: Partially compensated metabolic alkalosis
+ 
+ # Full Compensation
+ * pH is within normal range, but PaCO2 and HCO3 are abnormal
+ * Use "7.4" as a reference point: pH= 7.35-7.4 is now labeled "acidosis", pH= 7.4-7.45 is now labeled as "alkalosis"
+ First: Identify the cause:
+* If the cause of the ABG disturbance is respiratory: PaCO2 matches the pH (pH= 7.35-7.4 and PaCO2↑ or pH=7.4-7.45 and PaCO2↓) and thus, you can determine that the cause of the ABG disturbance is a respiratory issue
+* If the cause o the ABG disturbance is metabolic: The HCO3- matches the pH ( pH= 7.35-7.4 and HCO3-↓ or pH=7.4-7.45 and HCO3-↑) and thus, you can determine that the cause of the ABG disturbance is a metabolic issue
 
-## Steps to Acid Base Interpretation
+Next: Identify if there is full compensation
+* The opposite system (not causing the ABG disturbance) has changed in a manner that would have caused the opposite pH change. For example, in respiratory acidosis (pH↓ and PaCO2↑), the metabolic system would reflect alkalosis (HCO3-↑) in an effort to compensate. 
 
-### Analyze each acid base parameters. 
-
-* pH, PaCO2, HCO3-: using normal reference ranges, determine whether each value is low, normal, or high
-
-### Match acid base disturbance with parameter causing disturbance
-
-* pH↓ and PaCO2↑ = Respiratory Acidosis
-* pH↑ and PaCO2↓ = Respiratory Alkalosis
-* pH↓ and HCO3-↓ = Metabolic Acidosis
-* pH↑ and HCO3-↑ = Metabolic Alkalosis
-
-### Look for Compensation
+* Example: 
+ * pH= 7.36 (pH is "normal", but falls between 7.35-7.4)
+ * PaCO2= 50 (high, causing acidosis)
+ * HCO3-= 20 (low, causing alkalosis)
+ * CO2 and pH reflect acidosis (respiratory system is causing the disturbance)
+ * HCO3 reflects alkalosis (metabolic system is compensating)
+ * pH is now within NORMAL range (this is the key component that moves the ABG from partially compensated to fully compensated)
+ * ABG Disturbance: Fully compensated respiratory acidosis
 
 ### Look for Combined Disorders
 
@@ -221,6 +224,7 @@ Next: Identify if there is partial compensation
  * CO2, HCO3-, and pH reflect acidosis (both the respiratory and metabolic systems are causing the acidosis)
  * HCO3 reflects alkalosis (metabolic system is compensating)
  * ABG Disturbance: Mixed acidosis
+
 
 # ~Question 9
 What is Full Compensation?
