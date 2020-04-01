@@ -1,4 +1,4 @@
-# Types of Mechanical Ventilators 
+# Mechanical Ventilators 
 
 Mechanical ventilation is indicated for patients with respiratory failure who are unable to maintain adequate gas exchange.
 Mechanical ventilators deliver positive pressure using a number of settings within a specified overall mode.
