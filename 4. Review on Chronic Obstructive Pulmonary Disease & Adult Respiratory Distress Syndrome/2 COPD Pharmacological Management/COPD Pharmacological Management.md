@@ -62,8 +62,9 @@ Goals to achieve in management of patients with COPD include all of the followin
 
 * The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
 
-# Guidelines 
+# Guidelines and Treatment
 
+## Guidelines
 ### Discharge and Home Care Guidelines
 
 It is important for the nurse to assess the knowledge of patient and family members about self-care and the therapeutic regimen.
@@ -89,7 +90,7 @@ Documentation is an essential part of the patient’s chart to reflect the plans
 * Document modifications to plan of care
 * Document attainment or progress towards goals
 
-# Treatment
+## Treatments
 
 The following are treatments to manage COPD:
 * Smoking cessation 
@@ -99,10 +100,21 @@ The following are treatments to manage COPD:
 * Treating infection/purulent sputum with antimicrobials
 * Administering medications similar to those used for asthma
 
-# Anticholinergic agents
+## Anticholinergic agents
+
 * Decrease airway secretions and smooth muscle tone
 * Tipratropium bromide (Atrovent) and tiotropium bromide (Spiriva)
 * Side effects – dry mouth and hacking cough
+
+## Drug for Respiratory Muscles and Bronchodilator Activity
+### Theophylline
+* Theodur
+* Undur
+* Uniphyl-theophylline time released
+
+## Drug for Thinning Sputum
+* Guaifenesin (Hytuss, Robitussin)
+* Acetylcysteine (Mucomyst)
 
 # ~Question 7
 Which treatment is NOT used to manage COPD?
@@ -176,14 +188,3 @@ Which drug is an oral corticosteroid commonly prescribed for the treatment of re
 [RIGHT] Prednisone
 [WRONG] Triamcinolone
 [WRONG] Fluticasone
-
-# Drug for Respiratory Muscles and Bronchodilator Activity
-
-### Theophylline
-* Theodur
-* Undur
-* Uniphyl-theophylline time released
-
-# Drug for Thinning Sputum
-* Guaifenesin (Hytuss, Robitussin)
-* Acetylcysteine (Mucomyst)

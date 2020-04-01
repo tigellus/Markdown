@@ -12,32 +12,9 @@ What is the blockage of one of the pulmonary arteries in the lungs?
 [WRONG] Hemothorax
 [WRONG] Pneumothorax
 
-# Classification
-Most commonly, pulmonary embolism is due to a blood clot or thrombus, but there are other types of emboli: fat, air, amniotic fluid, and septic.
+# Pathophysiology and Classification of Pulmonary Embolism
 
-* **Fat emboli.** Fat emboli are cholesterol or fatty substances that may clog the arteries when fatty foods are consumed more.
-* **Air emboli.** Air emboli usually come from intravenous devices.
-* **Amniotic fluid emboli.** Amniotic fluid emboli are caused by amniotic fluid that has leaked into the arteries.
-* **Septic emboli.** Septic emboli originate from a bacterial invasion of the thrombus.
-
-# ~Question 2
-What is the most usual cause of a pulmonary embolism?
-
-[RIGHT] Blood clots that travel to the lungs
-[WRONG] Pulmonary hypertension
-[WRONG] Traumatic injuries to the lungs
-
-# ~Question 6
-Which of the following is a type of embolism?
-
-[WRONG] Burn emboli.
-[WRONG] Travelling emboli.
-[RIGHT] Fat emboli.
-[WRONG] Diabetic emboli.
-
-
-# Pathophysiology of Pulmonary Embolism
-
+## Pathophysiology
 When a DVT forms, clots can dislodge and travel through the right side of the heart and become lodged in the pulmonary vasculature. A PE can cause partial or complete occlusion of one or more of the pulmonary vessels. Small to moderate emboli can spontaneously resolve, but additional emboli can expand the blockage. 
 
 A large emboli with significant occulsion is a life-threatening medical emergency, leading to the following physiologic effects:
@@ -60,21 +37,32 @@ A PE can trigger the following chain reaction:
 * **Consequences.** Increased pulmonary vascular resistance due to regional vasoconstriction leads to increase in pulmonary arterial pressure and increased right ventricle workload.
 * **Failure.** Increased workload of the right ventricle leads to failure, shock, and sudden death.
 
-# Statistics and Epidemiology
-Pulmonary embolism may also occur in healthy people.
+## Classification
+Most commonly, pulmonary embolism is due to a blood clot or thrombus, but there are other types of emboli: fat, air, amniotic fluid, and septic.
 
-There are 237,000 nonfatal cases of pulmonary embolism in the United States every year.
-294,000 cases are considered fatal each year.
+* **Fat emboli.** Fat emboli are cholesterol or fatty substances that may clog the arteries when fatty foods are consumed more.
+* **Air emboli.** Air emboli usually come from intravenous devices.
+* **Amniotic fluid emboli.** Amniotic fluid emboli are caused by amniotic fluid that has leaked into the arteries.
+* **Septic emboli.** Septic emboli originate from a bacterial invasion of the thrombus.
 
-# Causes
-Pulmonary embolism is linked to a lot of causes and these are the most common:
+# ~Question 2
+What is the most usual cause of a pulmonary embolism?
 
-* **Trauma.** Trauma anywhere in the body could cause PE especially if a clot is released from the venous system.
-* **Surgery.** Certain surgical procedures such as orthopedic, major abdominal, pelvic, and gynecologic surgeries could cause PE.
-* **Hypercoagulable states.** A patient with hypercoagulability disorders would most likely develop a clot that could result in PE.
-* **Prolonged immobility.** Being unable to move for a prolonged time predisposes a person to PE.
+[RIGHT] Blood clots that travel to the lungs
+[WRONG] Pulmonary hypertension
+[WRONG] Traumatic injuries to the lungs
 
-# Clinical Manifestations
+# ~Question 6
+Which of the following is a type of embolism?
+
+[WRONG] Burn emboli.
+[WRONG] Travelling emboli.
+[RIGHT] Fat emboli.
+[WRONG] Diabetic emboli.
+
+# Clinical Manifestations, Causes and Statistics
+
+##Clinical Manifestations
 Symptoms of pulmonary embolism depend on the size of the thrombus and the area of the pulmonary artery occluded by the thrombus.
 
 * **Dyspnea.** Dyspnea is the most frequent symptom; the duration and intensity of the dyspnea depend on the extent of embolization.
@@ -82,6 +70,20 @@ Symptoms of pulmonary embolism depend on the size of the thrombus and the area o
 * **Tachycardia.** Increase in heart rate occurs because the right ventricle catches up with its workload.
 * **Tachypnea.** The most frequent sign is tachypnea.
 * **Hypotension.** Increased right venticular demand results in reduced cardiac output.
+
+## Causes
+Pulmonary embolism is linked to a lot of causes and these are the most common:
+
+* **Trauma.** Trauma anywhere in the body could cause PE especially if a clot is released from the venous system.
+* **Surgery.** Certain surgical procedures such as orthopedic, major abdominal, pelvic, and gynecologic surgeries could cause PE.
+* **Hypercoagulable states.** A patient with hypercoagulability disorders would most likely develop a clot that could result in PE.
+* **Prolonged immobility.** Being unable to move for a prolonged time predisposes a person to PE.
+
+## Statistics and Epidemiology
+Pulmonary embolism may also occur in healthy people.
+
+There are 237,000 nonfatal cases of pulmonary embolism in the United States every year.
+294,000 cases are considered fatal each year.
 
 # ~Question 3
 The nurse assesses a patient for a possible pulmonary embolism. The nurse looks for the most common sign of:
@@ -91,7 +93,14 @@ The nurse assesses a patient for a possible pulmonary embolism. The nurse looks 
 [WRONG] Cough
 [RIGHT] Tachypnea
 
-# Prevention
+# Complications and Prevention
+## Complications
+When caring for a patient who has had PE, the nurse must be alert for potential complications.
+
+* **Right ventricular failure.** A sudden increase in pulmonary resistance increases the work of the right ventricle leading to increased pressure and failure.
+* **Cardiogenic shock.** Roght ventricular failure can lead to shock and sudden death.
+
+## Prevention
 For patients at risk for PE, the most effective approach for prevention is to prevent DVT.
 
 * **Avoid venous stasis.** Active leg exercises, early ambulation, and use of anti-embolism stockings are general preventive measures for DVT.
@@ -100,11 +109,13 @@ For patients at risk for PE, the most effective approach for prevention is to pr
 * **Graduated compression stockings.** This involves the sequential movement of air in the sleeve up the leg, followed by relaxation of the sleeve.
 * **Anticoagulant therapy.** Anticoagulant therapy may be prescribed for patients whose hemostasis is adequate and who are undergoing major elective abdominal or thoracic surgery.
 
-# Complications
-When caring for a patient who has had PE, the nurse must be alert for potential complications.
+# ~Question 8
+All of the following are the possible complications in a patient with pulmonary embolism except:
 
-* **Right ventricular failure.** A sudden increase in pulmonary resistance increases the work of the right ventricle leading to increased pressure and failure.
-* **Cardiogenic shock.** Roght ventricular failure can lead to shock and sudden death.
+[WRONG] Right ventricular failure
+[WRONG] Atelectasis
+[RIGHT] Decreased pulmonary vascular resistance
+[WRONG] Cardiogenic shock
 
 # Assessment and Diagnostic Findings
 Death from PE commonly occurs within one (1) hour after the onset of symptoms; therefore, early recognition and diagnosis are priorities.
@@ -124,22 +135,23 @@ The following are diagnostic tests for a patient with pulmonary embolism except:
 [RIGHT] Pulmonary function tests
 [WRONG] V/Q scan
 
-
-# Medical Management
+# Management
+## Medical Management
 Because PE is often a medical emergency, emergency management is of primary concern.
 
 * **Anticoagulation therapy.** Heparin, and warfarin sodium has been traditionally been the primary method for managing acute DVT and PE.
 * **Thrombolytic therapy.** Urokinase, streptokinase, alteplase are used in treating PE, particularly in patients who are severely compromised.
 
-# Surgical Management
-
+## Surgical Management
 Management of the emboli may sometimes need surgical removal.
 
 * **Surgical embolectomy.** This is the removal of the actual clot and must be performed by a cardiovascular surgical team with the patient on cardiopulmonary bypass.
 * **Transvenous catheter embolectomy.** This is a technique in which a vacuum-cupped catheter is introduced transvenously into the affected pulmonary artery.
 * **Inferior vena cava (IVC) filter.** This approach prevents dislodged thrombi from being swept into the lungs while allowing adequate blood flow.
 
-# Nursing Management - Assessment
+## Nursing Management 
+
+### Assessment
 A key role of the nurse is to identify the patient at high risk for DVT and PE, and to utilize preventative measures for emboli formation in all patients.
 
 All patients are evaluated for risk factors for thrombus formation and pulmonary embolus.
@@ -150,8 +162,7 @@ All patients are evaluated for risk factors for thrombus formation and pulmonary
 * **Physical exam.** Extremities are evaluated for warmth, redness, inflammation, and pain. A DVT can cause pain on dorsiflextion (pulling the toes toward the knees).
 * **Activity levels.** Patients who are bed-bound or have limited activity and ambulation are at risk for emboli formation.
 
-# Nursing Management - Care Planning & Goals
-
+### Care Planning & Goals
 Planning and goals for a patient with pulmonary embolism include the following:
 
 - Increase perfusion.
@@ -160,8 +171,7 @@ Planning and goals for a patient with pulmonary embolism include the following:
 - Report pain is relieved or controlled.
 - Follow prescribed pharmacologic regimen.
 
-# Nursing Management - Interventions
-
+### Interventions
 Nursing care for a patient with pulmonary embolism includes:
 
 * **Prevent venous stasis.** Encourage ambulation and active and passive leg exercises to prevent venous stasis.
@@ -170,7 +180,7 @@ Nursing care for a patient with pulmonary embolism includes:
 * **Manage oxygen therapy.** Assess for signs of hypoxemia and monitor the pulse oximetry values.
 * **Relieve anxiety.** Encourage the patient to talk about any fears or concerns related to this frightening episode.
 
-# Nursing Management - Evaluation
+### Evaluation
 Success of the treatment plan will be evaluated with the following:
 
 - Increased perfusion.
@@ -179,7 +189,7 @@ Success of the treatment plan will be evaluated with the following:
 - Reported pain is relieved or controlled.
 - Followed prescribed pharmacologic regimen.
 
-# Nursing Management - Discharge and Home Care Guidelines
+### Discharge and Home Care Guidelines
 After discharge, there are some guidelines that the nurse must teach the patient.
 
 * **Prevent recurrence.** The nurse should instruct the patient about preventing recurrence and reporting signs and symptoms
@@ -187,7 +197,7 @@ After discharge, there are some guidelines that the nurse must teach the patient
 * **Residual effects.** The nurse should also monitor for residual effects of the PE and recovery.
 * **Follow-up checkups.** Remind the patient about keeping up with follow-up appointments for coagulation tests and appointments with the primary care provider.
 
-# Nursing Management - Documentation Guidelines
+### Documentation Guidelines
 The focus of documentation should include:
 
 - Individual findings, noting nature, extent, and duration of the problem, effects on independence and lifestyle.
@@ -199,7 +209,7 @@ The focus of documentation should include:
 - Attainment or progress toward desired outcomes.
 - Modifications to plan of care.
 
-# Question 4
+# ~Question 4
 The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient except:
 
 [WRONG] Manage pain and anxiety
@@ -207,7 +217,7 @@ The following are nursing interventions to assist in the prevention of pulmonary
 [RIGHT] Complete bed rest
 [WRONG] Monitor thrombolytic therapy
 
-# Question 5
+# ~Question 5
 The following are nursing interventions to assist in the prevention of pulmonary embolism in a hospitalized patient except:
 
 [WRONG] Assist with active and passive leg exercises.
@@ -215,19 +225,10 @@ The following are nursing interventions to assist in the prevention of pulmonary
 [RIGHT] Monitor effectiveness of thrombolytic therapy through troponin and BNP levels.
 [WRONG] Use elastic stockings and sequential compression devices.
 
-# Question 8
-All of the following are the possible complications in a patient with pulmonary embolism except:
-
-[WRONG] Right ventricular failure
-[WRONG] Atelectasis
-[RIGHT] Decreased pulmonary vascular resistance
-[WRONG] Cardiogenic shock
-
-# Question 9
+# ~Question 9
 Your patient is a 45 year old female 1 day post cholecystectomy.  She has been complainig of poor pain control, and has been resistant to ambulation.  Which nursing intervention should be your first priority?
 
 [WRONG] Ask the physician to order a PTT and INR.
 [WRONG] Administer oxygen therapy.
 [RIGHT] Apply sequential compression devices or compression stockings.
 [WRONG] Encourage deep breathing exercises every 2 hours.
-

@@ -90,15 +90,7 @@ An abnormal distention of airspaces beyond the terminal bronchioles and destruct
 * Increased deadspace
 * Dilation of distal airways
 
-# ~Question 3
-Which data are characteristic of a patient with emphysema?
-
-[RIGHT] Onset after 50 years of age, AP diameter increased, lung capacity increased, pursed lip breathing
-[WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity decreased, pursed lip breathing
-[WRONG] Onset after 50 years of age, AP diameter increased, lung capacity decreased, percussion (hyper resonant)
-[WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity increased, percussion (hyper resonant)
-
-# Alveolus and lungs in Emphysema
+## Alveolus and lungs in Emphysema
 
 ### Alveolus in Emphysema
 
@@ -117,6 +109,14 @@ Which data are characteristic of a patient with emphysema?
 ### CXR of patient with Emphysema
 
 ![](assets/CXR.png)
+
+# ~Question 3
+Which data are characteristic of a patient with emphysema?
+
+[RIGHT] Onset after 50 years of age, AP diameter increased, lung capacity increased, pursed lip breathing
+[WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity decreased, pursed lip breathing
+[WRONG] Onset after 50 years of age, AP diameter increased, lung capacity decreased, percussion (hyper resonant)
+[WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity increased, percussion (hyper resonant)
 
 # Chronic Bronchitis - Clinical Diagnosis
 A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years

@@ -1,5 +1,4 @@
 # Respiratory Failure 
-
 Gas exchange is so severely impaired that arterial hypercapnea or hypoxemia occurs
 * Hypoxemia - PaO2 <80
 * Hypercapnea - PaCO2>50. Directly linked to inadequate gas exchange
@@ -76,8 +75,9 @@ What are the clinical determinants of failure of arterial blood oxygenation?
 [WRONG]  Increased PaO2 , decreased SaO2
 [WRONG]  Decreased PaO2 , increased SaO2
 
-# Clinical Presentation
+# Clinical Presentation, Diagnostics and Management
 
+## Clinical Presentation
 ### Hypoxemia
 Symptoms: Restlessness, agitation, disorientation, confusion, delirium, dyspnea
 
@@ -93,11 +93,11 @@ Symptoms: Coma
 
 Physical Findings: Cardiac dysrhythmias
 
-# Diagnostics
+## Diagnostics
 * ABG. PaO2 < 80 mmHg, PaCO2 >50mmHg
 * CXR
 
-# Management 
+## Management 
 * Improve oxygenation and ventilation
 * Maintain optimal cardiac output: Fluid or inotropic support or vasoactive support
 * Normalize Hgb

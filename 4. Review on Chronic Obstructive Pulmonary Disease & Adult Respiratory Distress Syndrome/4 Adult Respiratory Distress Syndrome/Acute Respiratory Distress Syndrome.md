@@ -2,7 +2,7 @@
 * Severe form of respiratory failure that may occur even in previously healthy individuals
 * Characterized by lung edema, formation of hyaline membranes, microatelectasis, and alveolar hemorrhage causing dyspnea and hypoxia
 
-# Etiology
+## Etiology
 * Shock of any etiology
 * Infectious cause (sepsis)
 * Micro emboli- fat or air embolism
@@ -17,7 +17,7 @@
 * Drug overdose – particularly heroin
 * Cardiopulmonary bypass
 
-# Pathogenesis
+## Pathogenesis
 * Diffuse damage to that alveolar-capillary membrane
 * Increased permeability and leakage of fluid at the alveolar-capillary membrane
 * Damage to type II pneumocytes
@@ -35,10 +35,11 @@ Which statement describes acute respiratory distress syndrome (ARDS)?
 [WRONG] Acute respiratory distress syndrome occurs due to the collapsing of a lung because air has accumulated in the pleural space
 [RIGHT] This condition develops because alveolar capillary membrane permeability changes and fluid collects in the alveolar sacs
 
-# Pathophysiology
+# Pathophysiology and Clinical Presentation
+### Pathophysiology
 ![](assets/pathophysiology.png)
 
-# Clinical Presentation
+### Clinical Presentation
 * Tachypnea
 * Increasing dyspnea
 * Hyperventilation
@@ -48,7 +49,8 @@ Which statement describes acute respiratory distress syndrome (ARDS)?
 * Cyanosis
 * Restlessness, anxiety
 
-# Diagnostics
+# Diagnostics and Management
+## Diagnostics
 
 ### ABG
 * Refractory hypoxemia – hallmark of disease refractory to O2 therapy (PaO2<55 mmHg)
@@ -70,34 +72,7 @@ Which statement describes acute respiratory distress syndrome (ARDS)?
 * Acute lung injury – 200 to 300
 * ARDS - <200
 
-# ~Question 16
-Your patients' PaO2 / FiO2 ratio is < 200, what does this suggest?
-
-[RIGHT] Adult Respiratory Distress Syndrome (ARDS)
-[WRONG] Normal Pulmonary Function
-[WRONG] Acute Lung Injury
-
-# ~Question 4
-Which finding on the chest x-ray is indicative of ARDS?
-
-[WRONG] Infiltrates in the upper lobes
-[WRONG] Enlargement of the heart with bilateral lower lobe infiltrates
-[RIGHT] White-out infiltrates bilaterally 
-[WRONG] Normal chest x-ray
-
-* ARDS is a type of respiratory failure that occurs when the capillary membrane that surrounds the alveoli sac becomes damaged, which causes fluid to leak into the alveoli sac. The first answer describes cystic fibrosis, the second describes COPD, and the third describes a pneumothorax.
-
-# ~Question 13 
-Which diagnostic test is routinely used for patients with suspected respiratory failure? (Select all that apply)
-
-[RIGHT] Chest x-ray
-[RIGHT] Arterial blood gas analysis
-[WRONG] Right-sided heart catheterization
-[RIGHT] Electrocardiography
-
-* Respiratory failure may be associated with a variety of clinical manifestations. However, these are nonspecific, and very significant respiratory failure may be present without dramatic signs or symptoms. This emphasizes the importance of measuring arterial blood gases in all patients who are seriously ill or in whom respiratory failure is suspected. Chest x-ray is essential. Electrocardiography should be performed to evaluate the possibility of a cardiovascular cause of respiratory failure; it also may detect dysrhythmias resulting from severe hypoxemia or acidosis. Right-sided heart catheterization is controversial and would only be used in cases where cardiac involvement is suspected.
-
-# Management
+## Management
 
 ### Maintaining Oxygenation
 * Restoration of arterial oxygen levels
@@ -135,6 +110,33 @@ Which diagnostic test is routinely used for patients with suspected respiratory 
 * Antipyretics – avoid cooling blankets which may cause shivering
 
 ### Nutritional Support
+
+# ~Question 16
+Your patients' PaO2 / FiO2 ratio is < 200, what does this suggest?
+
+[RIGHT] Adult Respiratory Distress Syndrome (ARDS)
+[WRONG] Normal Pulmonary Function
+[WRONG] Acute Lung Injury
+
+# ~Question 4
+Which finding on the chest x-ray is indicative of ARDS?
+
+[WRONG] Infiltrates in the upper lobes
+[WRONG] Enlargement of the heart with bilateral lower lobe infiltrates
+[RIGHT] White-out infiltrates bilaterally 
+[WRONG] Normal chest x-ray
+
+* ARDS is a type of respiratory failure that occurs when the capillary membrane that surrounds the alveoli sac becomes damaged, which causes fluid to leak into the alveoli sac. The first answer describes cystic fibrosis, the second describes COPD, and the third describes a pneumothorax.
+
+# ~Question 13 
+Which diagnostic test is routinely used for patients with suspected respiratory failure? (Select all that apply)
+
+[RIGHT] Chest x-ray
+[RIGHT] Arterial blood gas analysis
+[WRONG] Right-sided heart catheterization
+[RIGHT] Electrocardiography
+
+* Respiratory failure may be associated with a variety of clinical manifestations. However, these are nonspecific, and very significant respiratory failure may be present without dramatic signs or symptoms. This emphasizes the importance of measuring arterial blood gases in all patients who are seriously ill or in whom respiratory failure is suspected. Chest x-ray is essential. Electrocardiography should be performed to evaluate the possibility of a cardiovascular cause of respiratory failure; it also may detect dysrhythmias resulting from severe hypoxemia or acidosis. Right-sided heart catheterization is controversial and would only be used in cases where cardiac involvement is suspected.
 
 # Question 1
 A patient being treated for aspiration pneumonia receiving oxygen via a 100% non-rebreather mask. Which finding is a hallmark sign that the patient is developing acute respiratory distress syndrome (ARDS)?
