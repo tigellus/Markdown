@@ -119,7 +119,7 @@ Which of the following is a cause of primary pneumothorax?
 [WRONG] COPD
 [WRONG] Mechanical ventilation
 [WRONG] Pneumonia
-[RIGHT] None of the above
+[RIGHT] None of the options
 
 # ~Question 4
 All of the following are examples of Secondary pneumothorax EXCEPT:
