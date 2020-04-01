@@ -41,12 +41,12 @@ When should Low-flow Oxygen Delivery Systems be used?
 [WRONG] For patients that need supplemental oxygen and have variable respiratory effort
 
 # ~Question 3
-What are the nursing implications of using low flow oxygen delivery systems? 
+What potential complications should nurses monitor in patients using low flow oxygen delivery systems? 
 
-[RIGHT] Patients’ airway dries, secretions thicken, coughing up is harder, infection risk increases
-[WRONG] Patients’ airway dries, secretions thin, coughing up is easier, infection risk decreases
-[WRONG] Patients’ airway dries, secretions thicken, coughing up is easier, infection risk increases
-[WRONG] Patients’ airway dries, secretions thin, coughing up is harder, infection risk decreases
+[RIGHT] Dryness of mucous membranes, thickened secretions thicken, infection risk increases
+[WRONG] Dryness of mucous membranes, reduced secretions, infection risk decreases
+[WRONG] Dryness of mucous membranes, thickened secretions, infection risk increases
+[WRONG] Dryness of mucous membranes, reduced secretions, infection risk decreases
 
 # ~Question 4
 What are the nursing implications of a High Flow Nasal Cannula (HFNC)?
