@@ -1,0 +1,1 @@
+This course will cover the fundamentals of Pneumothorax, Pulmonary Embolism and Pneumonia, three lung-conditions with potentially severe implications on affected patients. The course structure will cover ethnological elements of the three conditions as well as practical matters in terms of of treatment and potential patient complications.
