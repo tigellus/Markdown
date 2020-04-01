@@ -20,3 +20,5 @@ The topic addressed in the sessions are:
 * Ventilator basics
 
 [embed](https://www.youtube.com/watch?v=UaZw_ENCyf0&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG)
+
+Source: Mount Sinai Health System

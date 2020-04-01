@@ -3,3 +3,5 @@
 In this session you will learn the sequence for donning and doffing personal protective equipment (PPE)
 
 [embed](https://www.youtube.com/watch?v=ShiSLGqDPDw&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=3)
+
+Source: Mount Sinai Health System

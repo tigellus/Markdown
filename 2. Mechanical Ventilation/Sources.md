@@ -1,0 +1,2 @@
+* American Association of Critical-Care Nurses (AACN) - https://www.aacn.org/education/online-courses/covid-19-pulmonary-ards-and-ventilator-resources?sc_camp=D89A9158E9C34910A638BAF9931DE4F0&_zs=s8ESX&_zl=ewR22
+* Ahmed RA, Boyer TJ. Endotracheal Tube (ET) [Updated 2019 Jun 1]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2020 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK539747/

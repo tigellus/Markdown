@@ -11,4 +11,6 @@ The goals of this session are:
 * Describe effects of vasopressor and inotropic agents
 * Discuss the different causes and management strategies for oliguria
 
+The following links redirects to a video lecture provided by the Society of Critical Care Medicine (SCCM) to inform, prepare, and equip ICU and other healthcare clinicians during the coronavirus disease 2019 (COVID-19) pandemic.
+
 [Go to the video lecture](https://covid19.sccm.org/Presentations/Diagnosis-and-Management-of-Shock/story_html5.html?lms=1)
