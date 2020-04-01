@@ -1,11 +1,11 @@
 # Introductory Note
-Guard against incorrect ventilator settings. 
+Guard against incorrect ventilator settings.
 Ventilator disconnection is a common problem.
 
 ## High pressure alarm
 * Patient needs suctioning
 * Patient is biting the tube
-* Circuit tubing is compressed 
+* Circuit tubing is compressed
 * Tracheal tube has become misplaced
 * Compliance is decreased
 * Barotrauma -pneumothorax
@@ -86,7 +86,7 @@ What type of alarm is the result of a large cuff leak?
 [WRONG] High volume alarm
 [RIGHT] Low volume alarm
 
-# ~Question 8 
+# ~Question 8
 What is a possible cause of no tidal volume?
 
 [WRONG] Patient needs suctioning
@@ -208,14 +208,14 @@ How can you prevent Ventilator-Induced Diaphragmatic Dysfunction (VIDD):
 [WRONG] Sedating the patient to make the diaphragm and other respiratory muscles rest until the infection is fully treated.
 [RIGHT] Limiting controlled ventilation to the minimum necessary. As soon as the patient's respiratory drive recovers, the patient should trigger the ventilator and participate in the breathing effort.
 [WRONG] Giving high level of ventilator support to the patient until the disease is completely treated, then training the patient with very little assist for long periods.
-[WRONG] Allowing spontaneous breathing during the entire period on mechanical ventilation, despite other indications. 
+[WRONG] Allowing spontaneous breathing during the entire period on mechanical ventilation, despite other indications.
 
 # ~Question 1
 Malnourishment may cause:
 
 [RIGHT] Reduced response to hypoxia and hypercapnia, decreased surfactant production
 [WRONG] Increased response to hypoxia and hypercapnia, decreased surfactant production
-[WRONG] Increased response to hypoxia and hypercapnia, increased surfactant production 
+[WRONG] Increased response to hypoxia and hypercapnia, increased surfactant production
 [WRONG] Reduced response to hypoxia and hypercapnia, increased surfactant production
 
 # ~Question 4
@@ -226,7 +226,7 @@ Which factor can be reduced be replacing some caloric needs with lipids?
 [RIGHT] Carbohydrate load
 
 # ~Question 5
-Which information about care of mechnically ventialted patients is correct? Select all that apply.
+Which information about care of mechanically ventilated patients is correct? Select all that apply.
 
 [WRONG] Mechanically ventilated patients are at reduced risk for peptic ulcer disease
 [WRONG] Thinning secretions can increase airway obstruction
@@ -240,7 +240,7 @@ A patient has been on the mechanical ventilator with continuous sedation for 14 
 [WRONG] Airway obstruction
 [RIGHT] VIDD
 
-# ~Question 9 
+# ~Question 9
 A patient accidentally extubated himself and is now having respiratory distress. What action would the nurse take first?
 
 [WRONG] Try to reinsert the endotracheal tube

@@ -1,4 +1,4 @@
-# Types of Mechanical Ventilators 
+# Mechanical Ventilators 
 
 Mechanical ventilation is indicated for patients with respiratory failure who are unable to maintain adequate gas exchange.
 Mechanical ventilators deliver positive pressure using a number of settings within a specified overall mode.
@@ -74,6 +74,19 @@ The "mode" describes the ventilator's general relationship with the patient. Set
 * Gas flow to patient ceases when pressure reaches preset level
 * May mean that patient does not receive targeted
 tidal volume
+
+# ~Question 25
+What differentiates Volume targetted and Pressure targetted modes of ventilation?
+
+[RIGHT] Volume targetted ventilation has a predetermined tidal volume, Pressure targetted modes cease gas flow when pressure reaches the preset level
+[WRONG] Pressure targetted ventilation has a predetermined tidal volume, Volume targetted modes begin gas flow when pressure reaches the preset level
+
+# ~Question 26
+A ventilator mode with a preset volume of gas that is delivered despite the amount of pressure generated is known as what?
+
+[WRONG] Manual targetted
+[WRONG] Pressure targetted
+[RIGHT] Volume targetted
 
 # Select modes 
 All of these modes will include a pre-set PEEP and FiO2, from there, the additional support may be provided depending on the mode
@@ -267,19 +280,6 @@ How does Synchronized Intermittent Mandatory Ventilation (SIMV) differ from Assi
 [RIGHT] SIMV allows the patient to control the tidal volume of spontaneous breaths
 [WRONG] A/C does not allow spontaneous breaths
 [WRONG] SIMV delivers the same tidal volume for both spontaneous and ventilator-initiated breaths.
-
-# ~Question 25
-What differentiates Volume targetted and Pressure targetted modes of ventilation?
-
-[RIGHT] Volume targetted ventilation has a predetermined tidal volume, Pressure targetted modes cease gas flow when pressure reaches the preset level
-[WRONG] Pressure targetted ventilation has a predetermined tidal volume, Volume targetted modes begin gas flow when pressure reaches the preset level
-
-# ~Question 26
-A ventilator mode with a preset volume of gas that is delivered despite the amount of pressure generated is known as what?
-
-[WRONG] Manual targetted
-[WRONG] Pressure targetted
-[RIGHT] Volume targetted
 
 # Adjuncts to Mechanical Ventilation
 
