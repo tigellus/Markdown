@@ -62,7 +62,7 @@ Which of the following is a type of embolism?
 
 # Clinical Manifestations, Causes and Statistics
 
-##Clinical Manifestations
+## Clinical Manifestations
 Symptoms of pulmonary embolism depend on the size of the thrombus and the area of the pulmonary artery occluded by the thrombus.
 
 * **Dyspnea.** Dyspnea is the most frequent symptom; the duration and intensity of the dyspnea depend on the extent of embolization.
