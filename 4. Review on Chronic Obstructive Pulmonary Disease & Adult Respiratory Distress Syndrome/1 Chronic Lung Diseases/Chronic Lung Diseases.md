@@ -118,6 +118,21 @@ Which data are characteristic of a patient with emphysema?
 [WRONG] Onset after 50 years of age, AP diameter increased, lung capacity decreased, percussion (hyper resonant)
 [WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity increased, percussion (hyper resonant)
 
+# ~Question 10
+Which of the following conditions require a higher PEEP to be applied in recruiting collapsed alveoli?
+
+[WRONG] Asthma
+[RIGHT] Acute Respiratory Distress Syndrome
+[WRONG] Bronchietasis
+[WRONG] Emphysema
+
+# ~Question 26
+Which condition is characterized by an abnormal permanent enlargement of the air spaces distal to the bronchioles?
+
+[RIGHT] Emphysema
+[WRONG] Chronic bronchitis
+[WRONG] Pneumonia
+
 # Chronic Bronchitis - Clinical Diagnosis
 A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
 * Patients with Chronic Bronchitis, often referred to as "Blue Bloaters," tend to be large persons with cyanosis, edema, and relatively little dyspnea.
@@ -161,7 +176,7 @@ Chronic bronchitis is characterized by:
 [WRONG] Irritation of the sinus cavities
 [WRONG] Permanent enlargement of air spaces distal to the bronchiole
 
-# Question 7
+# ~Question 7
 Which condition is manifested by a productive cough for greater than 3 months in at least 2 consecutive years in the absence of any other disease?
 
 [RIGHT] Chronic bronchitis
@@ -198,15 +213,6 @@ Which findings are signs and symptoms of right heart failure?
 [WRONG] Productive cough, fever, elevated white blood count
 [WRONG] Hypotension, erythema, palpitations
 
-# Question 10
-Which of the following conditions require a higher PEEP to be applied in recruiting collapsed alveoli?
-
-[WRONG] Asthma
-[RIGHT] Acute Respiratory Distress Syndrome
-[WRONG] Bronchietasis
-[WRONG] Emphysema
-
-
 # Risk Factors in Chronic Bronchitis and Emphysema
 
 * Cigarette smoking
@@ -227,9 +233,3 @@ Which environmental risk factor is most important in development of emphysema?
 
 * Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
 
-# Question 4
-Which condition is characterized by an abnormal permanent enlargement of the air spaces distal to the bronchioles?
-
-[RIGHT] Emphysema
-[WRONG] Chronic bronchitis
-[WRONG] Pneumonia
