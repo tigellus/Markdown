@@ -63,8 +63,8 @@ A PE can trigger the following chain reaction:
 # Statistics and Epidemiology
 Pulmonary embolism may also occur in healthy people.
 
-There are 237, 000 nonfatal cases of pulmonary embolism in the United States every year.
-294, 000 cases are considered fatal each year.
+There are 237000 nonfatal cases of pulmonary embolism in the United States every year.
+294000 cases are considered fatal each year.
 
 # Causes
 Pulmonary embolism is linked to a lot of causes and these are the most common:
