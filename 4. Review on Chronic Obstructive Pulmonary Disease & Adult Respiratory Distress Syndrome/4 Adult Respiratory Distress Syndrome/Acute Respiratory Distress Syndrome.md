@@ -27,19 +27,10 @@
 * Protein exudates from the hyaline membrane causes interstitial fibrosis
 * Profound hypoxemia in spite of high-inspired oxygen fraction (FIO2)
 
-# ~Question 2
-Which statement describes acute respiratory distress syndrome (ARDS)?
-
-[WRONG] This condition develops because the exocrine glands start to work incorrectly leading to thick, copious mucous in the alveolar sacs
-[WRONG] ARDS is a pulmonary disease that gradually causes chronic obstruction of airflow from the lungs
-[WRONG] Acute respiratory distress syndrome occurs due to the collapsing of a lung because air has accumulated in the pleural space
-[RIGHT] This condition develops because alveolar capillary membrane permeability changes and fluid collects in the alveolar sacs
-
-# Pathophysiology and Clinical Presentation
-### Pathophysiology
+## Pathophysiology
 ![](assets/pathophysiology.png)
 
-### Clinical Presentation
+## Clinical Presentation
 * Tachypnea
 * Increasing dyspnea
 * Hyperventilation
@@ -48,6 +39,14 @@ Which statement describes acute respiratory distress syndrome (ARDS)?
 * Retractions
 * Cyanosis
 * Restlessness, anxiety
+
+# ~Question 2
+Which statement describes acute respiratory distress syndrome (ARDS)?
+
+[WRONG] This condition develops because the exocrine glands start to work incorrectly leading to thick, copious mucous in the alveolar sacs
+[WRONG] ARDS is a pulmonary disease that gradually causes chronic obstruction of airflow from the lungs
+[WRONG] Acute respiratory distress syndrome occurs due to the collapsing of a lung because air has accumulated in the pleural space
+[RIGHT] This condition develops because alveolar capillary membrane permeability changes and fluid collects in the alveolar sacs
 
 # Diagnostics and Management
 ## Diagnostics
