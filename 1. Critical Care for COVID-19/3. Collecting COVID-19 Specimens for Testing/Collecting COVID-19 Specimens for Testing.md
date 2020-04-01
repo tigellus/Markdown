@@ -36,7 +36,7 @@ The individual collecting the swab should wear a face mask, gown, gloves and fac
     * Repeat in the other nostril, using the same swab for both nostrils.
     * Immediately place the swab into a vial containing viral transport media (i.e. Hank’s® Media) and break off remaining shaft to close the vial.
 
-2. Send the swab to the laboratory (tube station 91).
+2. Send the swab to the laboratory.
 
 3. If unable to obtain a specimen, escalate.
 
