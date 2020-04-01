@@ -1,4 +1,4 @@
-# Introductory Note
+# Introductory Note & Troubleshooting
 Guard against incorrect ventilator settings.
 Ventilator disconnect from patient is a common problem.
 
