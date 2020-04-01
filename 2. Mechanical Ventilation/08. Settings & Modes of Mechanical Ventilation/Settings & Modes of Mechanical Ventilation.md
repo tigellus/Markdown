@@ -3,6 +3,20 @@
 Mechanical ventilation is indicated for patients with respiratory failure who are unable to maintain adequate gas exchange.
 Mechanical ventilators deliver positive pressure using a number of settings within a specified overall mode.
 
+## Ventilator Circuit Components
+![](assets/circuit.png)
+
+## Routes
+
+* Endotracheal
+* Nasotracheal
+* Tracheostomy
+* Cricoidotomy
+
+![](assets/endotube.png)
+
+![](assets/trachtube.png)
+
 # ~Question 22
 Mechanical ventilation is:
 
@@ -266,21 +280,6 @@ A ventilator mode with a preset volume of gas that is delivered despite the amou
 [WRONG] Manual targetted
 [WRONG] Pressure targetted
 [RIGHT] Volume targetted
-
-
-# Ventilator Circuit Components
-![](assets/circuit.png)
-
-# Routes
-
-* Endotracheal
-* Nasotracheal
-* Tracheostomy
-* Cricoidotomy
-
-![](assets/endotube.png)
-
-![](assets/trachtube.png)
 
 # Adjuncts to Mechanical Ventilation
 

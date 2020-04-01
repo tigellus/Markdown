@@ -2,14 +2,14 @@
 Guard against incorrect ventilator settings.
 Ventilator disconnect from patient is a common problem.
 
-# High pressure alarm
+## High pressure alarm
 * Patient needs suctioning
 * Patient is biting the tube
 * Tracheal tube has become misplaced
 * Compliance is decreased
 * Barotrauma
 
-# Not receiving set tidal volume
+## Not receiving set tidal volume
 * Cuff leak/insufficient air in cuff
  * ALARM: low volume air
  * RX: Ventilate patient until cause is identified
@@ -17,14 +17,14 @@ Ventilator disconnect from patient is a common problem.
  * ALARM: upper airway pressure alarm**
  * RX: Ventilate patient until cause is identified
 
-# NO tidal volume
+## NO tidal volume
 * Patient disconnect from ventilator
 * Large cuff leak
 * Tube disconnect
 * ALARM: low volume alarm
 * RX: Reconnect tubing, attempt to ambu until reintubation
 
-# Increased Airway Pressure
+## Increased Airway Pressure
 * Secretions, mucous plug, biting on the tube
 * Decreased compliance – pneumothorax, atelectasis
 * ETT slipped into RIGHT mainstem bronchus
@@ -35,13 +35,13 @@ Ventilator disconnect from patient is a common problem.
  * Position patient
  * Sedation
 
-# Decreased or Loss of Volume
+## Decreased or Loss of Volume
 * Leak in ventilator system
 * Cuff leak
 * Humidifier leak
 * RX: Correct leak source
 
-# Respiratory Alkalosis
+## Respiratory Alkalosis
 * CO2<35 pH >7.45
 * Increased respiratory rate
 * Restlessness, pain, anxiety
@@ -139,7 +139,7 @@ Which of the following could you do for a high respiratory rate alarm?
 
 [I deleted this because it was parsed out in other sections- atelectasis, pulmonary trauma etc]
 
-# Decreased cardiac output
+## Decreased cardiac output
 * Decreased venous return
 * Relief of work effort
 * PEEP
@@ -229,7 +229,7 @@ Use of lipids to replace caloric needs can reduce what?
 [WRONG] Protein
 [RIGHT] Carbohydrate load
 
-# Question 5
+# ~Question 5
 Which of the following is correct?
 
 [WRONG] Mechanically ventilated patients are at reduced risk for peptic ulcer disease
@@ -237,14 +237,14 @@ Which of the following is correct?
 [RIGHT] Mechanically ventilated patients are at increased risk for GI bleed
 [RIGHT] High amounts of FiO2 can place patients at risk for oxygen toxicity
 
-# Question 6
+# ~Question 6
 A patient has been on the mechanical ventilator with continuous sedation fo 7 days in CMV mode. What problem is this patient at highest risk for?
 
 [WRONG] Pneumothorax
 [WRONG] Airway obstruction
 [RIGHT] VIDD
 
-# Question 9 
+# ~Question 9 
 If your patient accidentally extubated himself and is now having respiratory distress, what is the first thing you should do?
 
 [WRONG] Try to reinsert the endotracheal tube

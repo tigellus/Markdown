@@ -187,7 +187,7 @@ The value of using quantitative waveform capnography in non-intubated patients t
 
 
 # Question 3
-You should expect a normal to high end-tidal CO2 in all of the following pts EXCEPT 
+You should expect a normal to high end-tidal CO2 in all of the following except:
 
 [WRONG] 25 year old who just ran up a flight of stairs
 [WRONG] Return of normal circulation during CPR
@@ -196,7 +196,7 @@ You should expect a normal to high end-tidal CO2 in all of the following pts EXC
 [WRONG] A patient on a ventilator
 
 # Question 4
-You should expect a low end tidal CO2 in all of the following pts EXCEPT 
+You should expect a low end tidal CO2 in all of the following except:
 
 [WRONG] A person who just suffered a pulmonary embolism
 [WRONG] A patient in hemorrhagic shock
@@ -205,7 +205,7 @@ You should expect a low end tidal CO2 in all of the following pts EXCEPT
 [RIGHT] A patient receiving sodium bicarbonate
 
 # Question 5
-An end tidal CO2 level < 10 mmHg is associated to any of the following EXCEPT
+An end tidal CO2 level < 10 mmHg is associated to any of the following except:
 
 [WRONG] Endotracheal tube placed into esophagus
 [RIGHT] Return of normal circulation during CPR
