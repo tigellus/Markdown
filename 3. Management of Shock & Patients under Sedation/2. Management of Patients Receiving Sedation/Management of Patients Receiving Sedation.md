@@ -1,6 +1,6 @@
 # Introduction to Sedation Monitoring
 
-## After successful completion of this course, you will be able to:
+## After successful completion of this unit, you will be able to:
 1. Differentiate minimal, moderate or procedural sedation/analgesia, deep sedation, and anesthesia.
 2. State recommended dosage, rate of administration, onset and duration of action, and adverse effects of sedation agents.
 3. Describe the recommended dosage, rate of administration, onset, and duration of action of reversal agents for opiates and benzodiazepines.
@@ -8,7 +8,7 @@
 5. Identify potential complications related to sedation.
 
 ## Brief Introduction
-Sedation can decrease anxiety, pain, and discomfort. Some sedatives can induce amnesia, so that the patient does not remember an unpleasant procedure. Sedation is often used in critical care settings to facilitate mechanical ventilation while the patient receives treatment and recovers from an illness or injury.  Sedation is a high risk activity, requiring careful patient assessment. Protocols for medication usage, monitoring, and documentation standards will be discussed in this course. 
+Sedation can decrease anxiety, pain, and discomfort. Some sedatives can induce amnesia, so that the patient does not remember an unpleasant procedure. Sedation is often used in critical care settings to facilitate mechanical ventilation while the patient receives treatment and recovers from an illness or injury.  Sedation is a high risk activity, requiring careful patient assessment. Protocols for medication usage, monitoring, and documentation standards will be discussed in this course.
 
 ### Note!
 Keep in mind that your facility will also have very specific policies and procedures that indicate where and who can perform or assist with sedation. Do not assist with procedural sedation unless you have received appropriate training. Critical care nurses routinely administer sedation to mechanically ventilated patients. Only anesthesia providers administer procedural sedation to patients who are not already on mechanical ventilation. The Joint Commission and the American Society of Anesthesiologists (ASA) recommend that persons administering or monitoring procedural sedation be trained to administer any advance lifesaving measures if the patient changes from moderate sedation to deep sedation.
@@ -65,7 +65,7 @@ Independent ventilatory function may be impaired. The patient may require assist
 ## General Anesthesia
 A drug-induced loss of consciousness during which the patient is not arousable, even to painful stimuli. The ability to maintain independent ventilatory function is often impaired. Assistance is often required in maintaining a patent airway. Positive pressure ventilation may be required due to depressed spontaneous ventilation or drug-induced depression of neuromuscular function. Cardiovascular function may be impaired.
 
-# ~Question 3 
+# ~Question 3
 Which level of sedetaion signifies a drug-induced depression of consciousness during which patients respond purposefully to verbal commands and/or light tactile stimulation, no interventions are required to maintain a patent airway, spontaneous ventilation is adequate, and cardiovascular function is usually maintained is defined as which of the following states of sedation?
 
 [WRONG] Minimal sedation
@@ -93,7 +93,7 @@ During which level of sedation is a patient's responsiveness unarousable?
 
 It is important to determine the health team's goal for the level of sedation. Light, moderate, or deep sedation may be used in the critical care unit, based on the specific patient needs. The modified Ramsay Scale is often used to assess the patient's ongoing level of sedation and adjust the dosage and timing of sedatives.
 
-![](assets/ramsay.jpg) 
+![](assets/ramsay.jpg)
 
 ## Review of the Levels of Sedation
 1. No sedation
@@ -159,12 +159,12 @@ Propofol is an intravenous anesthetic used for procedural sedation, during monit
 ### Mechanism of Action
 The mechanism of action for propofol is poorly understood but thought to be related to the effects on GABA-mediated chloride channels in the brain.
 
-### Administration 
-**Route of Administration:** Intravenous 
+### Administration
+**Route of Administration:** Intravenous
 
 **Onset of action:** Propofol has a rapid onset of action that is dose-dependent, less than a minute.
 
-**Duration of action:** An induction dose of propofol has a clinical effect for approximately 10 minutes. With prolonged or repeated administration, the drug accumulates in peripheral tissues and has an increased duration of action. 
+**Duration of action:** An induction dose of propofol has a clinical effect for approximately 10 minutes. With prolonged or repeated administration, the drug accumulates in peripheral tissues and has an increased duration of action.
 
 **Metabolism:** Hepatic oxidation and conjugation to sulfate and glucuronide conjugates.
 
@@ -174,18 +174,18 @@ The mechanism of action for propofol is poorly understood but thought to be rela
 
 **Excretion:** Primarily renal.
 
-### Adverse reactions 
-* Transient local pain at the injection site is the most common adverse reaction which may be decreased by administering IV lidocaine before propofol bolus. 
+### Adverse reactions
+* Transient local pain at the injection site is the most common adverse reaction which may be decreased by administering IV lidocaine before propofol bolus.
 * Hypotension
 * Myoclonus
 * Occasionally causes EKG changes (QT interval prolongation).  This is rarely clinically significant.
 * Rarely causes discolored urine (a green tint)
 
-### Pregnancy: 
+### Pregnancy:
 Propofol is safe for use in pregnancy but crosses the placenta and may be associated with neonatal CNS and respiratory depression.  It is the drug of choice for induction of general anesthesia in the stable obstetric patient and in the lowest risk class of all of the induction agents currently used.
 
 ### Drug Interactions:
-Propofol may potentiate other medications that cause CNS or respiratory depression and a decrease in blood pressure. Caution is advised when using other agents that may prolong QT interval. 
+Propofol may potentiate other medications that cause CNS or respiratory depression and a decrease in blood pressure. Caution is advised when using other agents that may prolong QT interval.
 
 ### Contraindications
 Propofol is contraindicated in any patient that has any known hypersensitivity reaction to the drug. Caution should be taken in any patient with abnormally low blood pressure.  
@@ -194,12 +194,12 @@ Some package inserts state that propofol should not be given to those with repor
 
 ### Monitoring
 **Therapeutic effects of propofol:**
-When administered as a bolus, propofol has a predictably rapid and smooth onset. 
+When administered as a bolus, propofol has a predictably rapid and smooth onset.
 
 **Central nervous system effects:**
-Propofol causes a dose-dependent decreased level of consciousness and can be used for moderate sedation to general anesthesia.  This decreased sensorium may lead to loss of protective airway reflexes and propofol should not be used in any patient unless they have a secure artifical airway or are appropriately fasting.  The American Society of Anesthesiologists' (ASA) NPO guidelines should be used as a template for the duration of fast following varying oral intake. 
+Propofol causes a dose-dependent decreased level of consciousness and can be used for moderate sedation to general anesthesia.  This decreased sensorium may lead to loss of protective airway reflexes and propofol should not be used in any patient unless they have a secure artifical airway or are appropriately fasting.  The American Society of Anesthesiologists' (ASA) NPO guidelines should be used as a template for the duration of fast following varying oral intake.
 
-Propofol will cause a decrease in cerebral blood flow, intracranial pressure, and cerebral oxygen consumption.  At higher doses, it can lead to an isoelectric EEG. It also has been shown to cause transient excitatory phenomena such as choreiform movements and opisthotonus (abnormal posturing caused by spasm of the muscles) after injection. 
+Propofol will cause a decrease in cerebral blood flow, intracranial pressure, and cerebral oxygen consumption.  At higher doses, it can lead to an isoelectric EEG. It also has been shown to cause transient excitatory phenomena such as choreiform movements and opisthotonus (abnormal posturing caused by spasm of the muscles) after injection.
 
 **Cardiovascular effects:**
 Propofol causes vasodilation by inhibiting sympathetic vasoconstrictor activity along with mild depression of myocardial contractility which accounts for the hypotension often seen when administered. This effect can be substantial with a profound reduction in the mean arterial pressure, especially when propofol is administered as a bolus. Use caution in hypovolemic or in catecholamine-depleted patients.
@@ -220,16 +220,16 @@ Rescue equipment should include a bag valve mask, two sources of oxygen (central
 It is thought to occur due to alterations in mitochondrial metabolism and electron transport chain function, but the exact mechanism of PRIS is still unknown. The onset of PRIS usually occurs within four days of the initial propofol treatment. This syndrome has been noted to occur during prolonged infusions at high doses in pediatric/young adult patients or those with the need for prolonged sedation, such as mechanically ventilated patients with head trauma.
 
 # Fentanyl
-A strong synthetic opioid, which produces analgesia similar to morphine but is 50 to 100 times more potent than morphine. A dose of only 100 micrograms can produce equivalent analgesia to approximately 10 mg of morphine. However, fentanyl exhibits vastly different properties and pharmacokinetics. Clinically, it is most often used as a sedative in intubated patients, as well as in severe cases of pain in patients with renal failure owing to its primarily hepatic elimination. At times, fentanyl may also be indicated to treat chronic pain patients who have developed tolerance to opiates. When used as a sedative, it is most commonly administered as a drip. It may often require large doses when used as a sedative in patients with mechanical ventilation requirements. 
+A strong synthetic opioid, which produces analgesia similar to morphine but is 50 to 100 times more potent than morphine. A dose of only 100 micrograms can produce equivalent analgesia to approximately 10 mg of morphine. However, fentanyl exhibits vastly different properties and pharmacokinetics. Clinically, it is most often used as a sedative in intubated patients, as well as in severe cases of pain in patients with renal failure owing to its primarily hepatic elimination. At times, fentanyl may also be indicated to treat chronic pain patients who have developed tolerance to opiates. When used as a sedative, it is most commonly administered as a drip. It may often require large doses when used as a sedative in patients with mechanical ventilation requirements.
 
 ### Mechanism of Action
-Fentanyl is similar to other opioid drugs. Fentanyl molecules target a subclass of opioid receptor systems in the body, many of which are localized in the brain within specialized neuroanatomical structures particularly regarded to the control of emotions, pain, and speaking to the point of its infamous addictive properties, reward. Biochemically, it is referred to as a Mu-selective opioid agonist. 
+Fentanyl is similar to other opioid drugs. Fentanyl molecules target a subclass of opioid receptor systems in the body, many of which are localized in the brain within specialized neuroanatomical structures particularly regarded to the control of emotions, pain, and speaking to the point of its infamous addictive properties, reward. Biochemically, it is referred to as a Mu-selective opioid agonist.
 
 ### Administration
-Fentanyl is typically administered intravenously (IV), intramuscularly (IM), transdermally (TD) as skin patches (Durogesic DTrans; Fencino; Fentalis), intranasally (IN) in the form of a volatile nasal spray (Instanyl or PecFent, and intrathecally (IT). 
+Fentanyl is typically administered intravenously (IV), intramuscularly (IM), transdermally (TD) as skin patches (Durogesic DTrans; Fencino; Fentalis), intranasally (IN) in the form of a volatile nasal spray (Instanyl or PecFent, and intrathecally (IT).
 
 ### Adverse Effects
-Fentanyl's side effects are similar to those of heroin, which produce euphoria, confusion, respiratory depression (which, if extensive and untreated, may lead to arrest), drowsiness, nausea, visual disturbances, dyskinesia, hallucinations, delirium, analgesia, constipation, narcotic ileus, muscle rigidity, constipation, addiction, loss of consciousness, hypotension, coma, and even death. Alcohol and other drugs (i.e., cocaine, heroin) can synergistically exacerbate fentanyl's side effects. 
+Fentanyl's side effects are similar to those of heroin, which produce euphoria, confusion, respiratory depression (which, if extensive and untreated, may lead to arrest), drowsiness, nausea, visual disturbances, dyskinesia, hallucinations, delirium, analgesia, constipation, narcotic ileus, muscle rigidity, constipation, addiction, loss of consciousness, hypotension, coma, and even death. Alcohol and other drugs (i.e., cocaine, heroin) can synergistically exacerbate fentanyl's side effects.
 
 ### Contraindications
 The use of fentanyl is contraindicated in patients,
@@ -237,18 +237,18 @@ The use of fentanyl is contraindicated in patients,
 * With respiratory depression or obstructive airway diseases (i.e., asthma, COPD, obstructive sleep apnea, obesity hypoventilation also know as, Pickwickian syndrome) unless they are menchanically ventilated
 * With liver failure
 * With known intolerance to fentanyl or other morphine-like drugs including codeine
-* With known hypersensitivity (i.e., anaphylaxis) or to any of the common drug delivery excipients (i.e., sodium chloride, sodium hydroxide). 
+* With known hypersensitivity (i.e., anaphylaxis) or to any of the common drug delivery excipients (i.e., sodium chloride, sodium hydroxide).
 
 ### Monitoring
-When using fentanyl citrate injections along with medications such as CYP3A4 inhibitors, or stopping the CYP3A4 inducers in patients treated with fentanyl injections, the patients should be monitored closely and frequently. Also, consider lowering the dose of fentanyl. 
+When using fentanyl citrate injections along with medications such as CYP3A4 inhibitors, or stopping the CYP3A4 inducers in patients treated with fentanyl injections, the patients should be monitored closely and frequently. Also, consider lowering the dose of fentanyl.
 
 ### Toxicity
-Typically, a fentanyl overdose manifests as respiratory depression or respiratory arrest. In such cases, oxygen administration and respiratory assistance should be performed accordingly. An opioid drug antagonist such as naloxone is indicated to correct symptoms. Commonly, repeated doses of naloxone over time. Thus, the therapeutic approach is continued until a normal respiratory rate coincides with appropriate oxygen saturation levels. Naloxone/naltrexone are robust opioid antagonists that function by blocking µ-receptors.  Naloxone is commonly administered IV, IM, IN or subcutaneously (SC). 
+Typically, a fentanyl overdose manifests as respiratory depression or respiratory arrest. In such cases, oxygen administration and respiratory assistance should be performed accordingly. An opioid drug antagonist such as naloxone is indicated to correct symptoms. Commonly, repeated doses of naloxone over time. Thus, the therapeutic approach is continued until a normal respiratory rate coincides with appropriate oxygen saturation levels. Naloxone/naltrexone are robust opioid antagonists that function by blocking µ-receptors.  Naloxone is commonly administered IV, IM, IN or subcutaneously (SC).
 
 # ~Question 9
 Which of the following is NOT a method for adminestring Fentanyl?
 
-[WRONG] Intramuscular (IM) 
+[WRONG] Intramuscular (IM)
 [WRONG] Intravenous (IV)
 [WRONG] Transdermally (TD)
 [RIGHT] Oral
@@ -260,7 +260,7 @@ Intravenous midazolam (Versed) can be used for anxiolysis and hypnosis during ge
 The mechanism of action of midazolam is indirect, related to GABA accumulation and its affinity to the benzodiazepine receptors. The anticonvulsant activity of midazolam is related to the excess GABA action on motor circuits in the brain. Midazolam acts on glycine receptors and produces a muscle relaxation effect. Almost all the pharmacologic effects, including sedation, anxiolysis, anterograde amnesia, and anticonvulsant effect, are explainable through its action on GABA receptors. Age-related deficits, hepatic, and renal insufficiency, also affect the pharmacokinetics of midazolam.
 
 ### Administration
-Midazolam administration can be through oral, intranasal, buccal, intravenous, and intramuscular routes. For intravenous sedation, the dose is titrated at 0.05 to 0.15 mg/kg/hr. 
+Midazolam administration can be through oral, intranasal, buccal, intravenous, and intramuscular routes. For intravenous sedation, the dose is titrated at 0.05 to 0.15 mg/kg/hr.
 
 ### Adverse Effects
 The common adverse effects associated with midazolam use are hiccups, cough, nausea, and vomiting. Thrombophlebitis, thrombosis, and pain on injection are other adverse effects. Midazolam causes anterograde amnesia, drowsiness, ataxia, falls, and confusion in the elderly. Hypotension and tachycardia can occur with rapid intravenous administration. A higher dose can result in midazolam infusion syndrome and respiratory depression. Instances of midazolam infusion syndrome require continuous ventilator support. Paradoxical effects of midazolam are possible in individuals with a history of alcohol abuse and aggressive behavior, potentially leading to involuntary movements, verbalization, uncontrollable crying, and aggressive behavior. Respiratory depression can happen with a dose of 0.15 mg/kg, and the risk increases when used along with fentanyl. Concomitant use of midazolam with other CNS depressants can result in severe respiratory depression and death even at therapeutic doses.
@@ -269,10 +269,10 @@ The common adverse effects associated with midazolam use are hiccups, cough, nau
 Contraindications for the use of midazolam include acute angle-closure glaucoma, hypotension, and shock. Careful dose adjustment is necessary in cases of kidney and liver diseases, alcohol, and drug-dependent individuals. Caution is necessary for pregnant individuals, children, and individuals with comorbid psychiatric conditions. Administration in elderly individuals and acutely ill patients requires caution to prevent the accumulation of active metabolites. Extra precautions should be taken in critically ill individuals as dose accumulation can occur.
 
 ### Monitoring
-Frequent monitoring of blood levels of midazolam and its metabolites is a requirement during the treatment of midazolam overdose. Levels of midazolam and its metabolites are measurable in blood, plasma, and serum. Monitoring is essential for elderly individuals and individuals with liver and kidney disease. The elimination of both the drug and its metabolite decreases with renal insufficiency. Monitoring is also necessary for drug interactions with erythromycin, clarithromycin, diltiazem, sertraline, protease inhibitors, rifampin, phenytoin, phenobarbital, carbamazepine, opioids, antipsychotics, and alcohol. 
+Frequent monitoring of blood levels of midazolam and its metabolites is a requirement during the treatment of midazolam overdose. Levels of midazolam and its metabolites are measurable in blood, plasma, and serum. Monitoring is essential for elderly individuals and individuals with liver and kidney disease. The elimination of both the drug and its metabolite decreases with renal insufficiency. Monitoring is also necessary for drug interactions with erythromycin, clarithromycin, diltiazem, sertraline, protease inhibitors, rifampin, phenytoin, phenobarbital, carbamazepine, opioids, antipsychotics, and alcohol.
 
 ### Toxicity
-Toxicity with midazolam is rare but can happen when combined with other CNS depressants like alcohol, opioids, and other tricyclic antidepressants. The risk increases with intravenous administration and in elderly individuals with COPD. Symptoms of overdose include ataxia, nystagmus, hypotension, slurred speech, slurred speech, impaired motor coordination, coma, and death. Flumazenil is the antidote for midazolam toxicity. 
+Toxicity with midazolam is rare but can happen when combined with other CNS depressants like alcohol, opioids, and other tricyclic antidepressants. The risk increases with intravenous administration and in elderly individuals with COPD. Symptoms of overdose include ataxia, nystagmus, hypotension, slurred speech, slurred speech, impaired motor coordination, coma, and death. Flumazenil is the antidote for midazolam toxicity.
 
 # ~Question 10
 Which of the following is not an adverse affect typically associated with Midazolam (Versed)
@@ -283,7 +283,7 @@ Which of the following is not an adverse affect typically associated with Midazo
 [WRONG] Vomiting
 
 # Dilaudid
-Hydromorphone (Dilaudid) is a pure opioid indicated for moderate to severe acute pain and severe chronic pain. It is only prescribed when other first-line of treatments have failed, due to its high potency, abuse potential, and overdose risk. 
+Hydromorphone (Dilaudid) is a pure opioid indicated for moderate to severe acute pain and severe chronic pain. It is only prescribed when other first-line of treatments have failed, due to its high potency, abuse potential, and overdose risk.
 
 ### Mechanism of Action
 Hydromorphone is an opioid agonist that binds to several opioid receptors. Its analgesic characteristics are through its effect on the mu-opioid receptors. It also acts centrally at the level medulla, depressing the respiratory drive and suppressing cough.
@@ -306,7 +306,7 @@ Serious adverse effects include hypotension, syncope, adrenal insufficiency, com
 ### Contraindications
 Hydromorphone is contraindicated in patients reporting allergies to the drug itself, sulfites, or any other component of the formulation used.
 
-Clinicians should not administer this drug to patients with bronchial asthma, or any other form of respiratory disease with clinical respiratory compromise; this can induce respiratory arrest. 
+Clinicians should not administer this drug to patients with bronchial asthma, or any other form of respiratory disease with clinical respiratory compromise; this can induce respiratory arrest.
 
 Hydromorphone is to be avoided in any gastrointestinal obstruction or hypomotility, including ileus. Postoperative ileum should prompt careful administration of hydromorphone, to prevent prolonged ileus.
 
@@ -319,7 +319,7 @@ Naltrexone and nalmefene are opioid receptor antagonists that can precipitate wi
 
 The use of hydromorphone in patients taking safinamide (MAO inhibitor) can precipitate serotonin syndrome and necessitates caution in dosing. It also requires careful administration for patients taking selective serotonin inhibitors (SSRI) or tricyclic antidepressants (TCA) for this same reason.
 
-Concurrent use of hydromorphone with other CNS depressants, including benzodiazepine and barbiturates, can induce severe respiratory and/or CNS depression. 
+Concurrent use of hydromorphone with other CNS depressants, including benzodiazepine and barbiturates, can induce severe respiratory and/or CNS depression.
 
 ### Toxicity
 Overdose may cause respiratory depression and lead to death. Naloxone is the antidote, and repeated doses of naloxone may be needed.
@@ -341,7 +341,7 @@ Which of the following drugs may cause respiratory depression and lead to death 
 Dexomentadine (Precedex) is FDA-approved for sedation of intubated and mechanically ventilated patients in the intensive care unit (ICU), and peri-procedural (or peri-operative) sedation of non-intubated patients. Usage has expanded to off-label uses, including treatment and prevention of delirium, adjunctive analgesia, therapy for insomnia in the ICU, and treatment of alcohol withdrawal.  commonly produces a sedated state allowing patients to be both comfortable and cooperative during mechanical ventilation. Additionally, it does not require stoppage to accomplish extubation and is safe to use in non-intubated patients because it does not produce significant respiratory depression.
 
 ### Mechanism of Action
-Dexmedetomidine is an alpha agonist having sedative, anxiolytic, hypnotic, analgesic, and sympatholytic properties. It produces these effects by inhibition of central sympathetic outflow by blocking the alpha receptors in the brainstem, thereby inhibiting the release of norepinephrine. 
+Dexmedetomidine is an alpha agonist having sedative, anxiolytic, hypnotic, analgesic, and sympatholytic properties. It produces these effects by inhibition of central sympathetic outflow by blocking the alpha receptors in the brainstem, thereby inhibiting the release of norepinephrine.
 
 ### Administration
 For ICU sedation, the typical dosage range is 0.2 to 0.7 mcg/kg/hr. However, the dose can be increased to 1.5 mcg/kg/hr to achieve the desired sedation level. Dosage adjustments for renal or hepatic impairment are not required but should be considered, especially for hepatic impairment. The manufacturer does not recommend durations longer than 24 hours; however, longer durations have demonstrated to be safe and effective. Clinicians can administer a loading dose of 0.5 to 1.0 mcg/kg; this is usually not needed in labile critically ill patients.
@@ -349,7 +349,7 @@ For ICU sedation, the typical dosage range is 0.2 to 0.7 mcg/kg/hr. However, the
 When used in anesthesia, the typical dosing is a loading dose of 0.5 to 1.0 mcg/kg, usually followed by a continuous infusion of 0.2 to 0.7 mcg/kg per hour titrated to desired sedation goals.
 
 ### Adverse Effects
-The most common adverse effects of dexmedetomidine are hypotension, bradycardia, and hypertension. Hypertension can result from the stimulation of alpha subtypes of receptors in vascular smooth muscles and can be avoided by the slow administration or omission of the loading dose. Hypotension and bradycardia are the results of the stimulation of presynaptic alpha receptors, which leads to a decreased release of norepinephrine; this is in addition to the decrease in the central sympathetic outflow. These are concerns regardless of the route of administration. 
+The most common adverse effects of dexmedetomidine are hypotension, bradycardia, and hypertension. Hypertension can result from the stimulation of alpha subtypes of receptors in vascular smooth muscles and can be avoided by the slow administration or omission of the loading dose. Hypotension and bradycardia are the results of the stimulation of presynaptic alpha receptors, which leads to a decreased release of norepinephrine; this is in addition to the decrease in the central sympathetic outflow. These are concerns regardless of the route of administration.
 
 ### Contraindications
 There are no absolute contraindications to the use of dexmedetomidine. However, it should be used cautiously in patients with bradycardia and hypotension. Additionally, it should be used cautiously in patients with known heart failure.
@@ -368,7 +368,7 @@ Complications can occur when providing continuous sedation to a mechanically ven
 * Anaphylaxis
 * Drug reactions
 
-All of which will be discussed in the following articles. 
+All of which will be discussed in the following articles.
 
 ## Inadequate Airway
 
@@ -438,7 +438,7 @@ How should you NOT treat a patient experiencing hypertension
 
 [RIGHT] Provide Fentanyl
 [WRONG] Provide Labetalol: α and β antagonist 5-10 mg IV push
-[WRONG] Provide Hydralazine: Direct vasodilator 5-10 mg IV (wait 10-20 minutes) 
+[WRONG] Provide Hydralazine: Direct vasodilator 5-10 mg IV (wait 10-20 minutes)
 
 # ~Question 14
 When a patient experiences Agitation, they should be provided with Hydralazine
@@ -454,7 +454,7 @@ When a patient experiences Agitation, they should be provided with Hydralazine
 * Ensure the suction device is set-up and ready.
 
 ## Patient Monitoring
-Baseline vital signs should be documented prior to initatng sedation. The patient should be on continuous cardiac, respiratory, and oxygenation monitoring. 
+Baseline vital signs should be documented prior to initatng sedation. The patient should be on continuous cardiac, respiratory, and oxygenation monitoring.
 * Heart rate/ECG rhythm
 * Respiratory rate
 * Blood pressure

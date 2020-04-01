@@ -1,7 +1,5 @@
 # Course Content and Structure
 
-## Welcome to the Sana platform!
-
 This course will provide knowledge and resources to **provide essential care to ICU patients affected by COVID-19.**
 
 
