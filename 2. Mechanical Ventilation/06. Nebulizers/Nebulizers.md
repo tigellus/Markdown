@@ -17,21 +17,21 @@ the medication will be delivered to the airways.
 ![](assets/nebulizer1.png)
 
 # ~Question 3
-Why are corticosteroids used?
+Why are corticosteroids used in nebulizer treatments?
 
 [RIGHT] To reduce inflammation
 [WRONG] To enhance opening of the airway
 [WRONG] To kill the COVID-19 virus
 
 # ~Question 4
-What are bronchodilators used for?
+What are bronchodilators used for in nebulizer treatments?
 
 [RIGHT] To enhance opening of the airway
 [WRONG] To reduce inflammation
 [WRONG] To thin mucus secretions
 
 # ~Question 5
-How long does it typically take to deliver nebulized therapy?
+How long does it typically take to deliver nebulizer therapy?
 
 [RIGHT] 5-10 minutes
 [WRONG] 2-3 minutes
@@ -56,7 +56,7 @@ When carrying out a Nebulizer treatment…
 # ~Question 7
 How can a healthcare professional know when a nebulizer treatment is finished when it is delivered via ventilator?
 
-[RIGHT] The mist in the medicine cup will be gone
+[RIGHT] The misting in the medicine cup will cease
 [WRONG] There will be mist in the bottom of the medicine cup
 [WRONG] The machine will alert by beeping
 
@@ -74,6 +74,6 @@ When carrying out a nebulizer treatment, nurses must use:
 # ~Question 9
 Why must an N95 respirator be used for nebulizer treatments?
 
-[RIGHT] They are aerosolizing procedures
-[WRONG] It is standard precautions
-[WRONG] They are invasive procedures
+[RIGHT] Nebulizers treatments are aerosolizing procedures
+[WRONG] Use of a N95 respirator is included in standard precautions
+[WRONG] Nebulizer treatments are invasive procedures
