@@ -493,4 +493,10 @@ This is an example of a disposable pleural drainage system that uses the princip
 
 ![](assets/waterseal.jpg)
 
+# ~Question 1
+The management of a pneumothorax is often done by the emergency department physician. In some cases, the disorder may be managed by the ICU staff and who else?
+[RIGHT] The thoracic surgeon
+[WRONG] The anesthesiologist
+[WRONG] The respiratory therapist
+
 

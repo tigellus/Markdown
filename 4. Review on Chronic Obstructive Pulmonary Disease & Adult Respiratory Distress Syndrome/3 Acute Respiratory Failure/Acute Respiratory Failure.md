@@ -31,51 +31,33 @@ What is the result of alevolar hypoventilation?
 [RIGHT] CO2 accumulates in the blood, PaCO2 rises and PaO2 falls
 [WRONG] O2 accumulates in the blood, PaCO2 falls and PaO2 rises
 
-# Clinical Categories and Determinants of Acute Respiratory Failure
+# Clinical Categories, Determinants and Presentation of Acute Respiratory Failure
 
-### Clinical Category 
+## Clinical Category 
 Failure of alveolar ventilation
 
-### Clinical Determinants
+## Clinical Determinants
 *  Increased PaCO2
 *  Decreased pH
 *  Decreased PaO2
 
-### Clinical Category 
+## Clinical Category 
 Failure of arterial blood oxygenation
 * Hypoxemia
 * Inadequate inspired oxygen
 
-### Clinical Determinants
+## Clinical Determinants
 * Decreased PaO2
 * Decreased SaO2
 
-### Clinical Category
+## Clinical Category
 * Failure of tissue oxygenation
 * Inadequate systemic O2 delivery
 * Inadequate tissue O2 extraction
 
-### Clinical Determinants
+## Clinical Determinants
 * Decreased CaO2
 * Decreased VO2
-
-# ~Question 4
-What are the clinical determinants of failure of alveolar ventilation?
-
-[RIGHT] Increased PaCO2 , decreased pH, decreased PaO2
-[WRONG] Decreased PaCO2 , increased pH, increased PaO2
-[WRONG] Increased PaCO2 , increased pH, decreased PaO2
-
-# ~Question 5
-What are the clinical determinants of failure of arterial blood oxygenation?
-
-[RIGHT]  Decreased PaO2 , decreased SaO2
-[WRONG]  Decreased PaCO2 , increased SaO2
-[WRONG]  Increased PaCO2 , decreased SaO2
-[WRONG]  Increased PaO2 , decreased SaO2
-[WRONG]  Decreased PaO2 , increased SaO2
-
-# Clinical Presentation, Diagnostics and Management
 
 ## Clinical Presentation
 ### Hypoxemia
@@ -93,6 +75,23 @@ Symptoms: Coma
 
 Physical Findings: Cardiac dysrhythmias
 
+# ~Question 4
+What are the clinical determinants of failure of alveolar ventilation?
+
+[RIGHT] Increased PaCO2 , decreased pH, decreased PaO2
+[WRONG] Decreased PaCO2 , increased pH, increased PaO2
+[WRONG] Increased PaCO2 , increased pH, decreased PaO2
+
+# ~Question 5
+What are the clinical determinants of failure of arterial blood oxygenation?
+
+[RIGHT]  Decreased PaO2 , decreased SaO2
+[WRONG]  Decreased PaCO2 , increased SaO2
+[WRONG]  Increased PaCO2 , decreased SaO2
+[WRONG]  Increased PaO2 , decreased SaO2
+[WRONG]  Decreased PaO2 , increased SaO2
+
+# Diagnostics and Management
 ## Diagnostics
 * ABG. PaO2 < 80 mmHg, PaCO2 >50mmHg
 * CXR
@@ -105,3 +104,11 @@ Physical Findings: Cardiac dysrhythmias
 * Sedation/paralysis/pain management
 * Nutritional support
 * Positioning
+
+# ~Question 6
+Three of the following are objectives in managing Acute Respiratory Failure. Which is NOT an objective in managing Acute Respiratory Failure?
+
+[WRONG] Improve oxygenation and ventilation
+[WRONG] Maintain optimal cardiac output: Fluid or inotropic support or vasoactive support
+[RIGHT] Decrease Hgb to levels beyond normal
+[WRONG] Treat underlying conditions

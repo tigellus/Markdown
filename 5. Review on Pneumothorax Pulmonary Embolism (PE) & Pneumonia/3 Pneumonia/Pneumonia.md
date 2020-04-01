@@ -6,6 +6,17 @@ Pneumonia is one of the most common respiratory problems and it affects patients
 
 ![](assets/Pneumonia–Image.jpg)
 
+## Pathophysiology 
+Having an idea about the disease process helps the patient understand the treatment regimen and its importance, increasing patient compliance.
+
+* Pneumonia arises from **normal flora** present in patients whose **resistance has been altered** or from **aspiration** of flora present in the oropharynx.
+* An **inflammatory reaction** may occur in the alveoli, producing **exudates** that interfere with the diffusion of oxygen and carbon dioxide.
+* **White blood cells** also migrate into the alveoli and **fill the normally air-filled spaces.**
+* Due to secretions and mucosal edema, there are areas of the lung that are not adequately ventilated and cause partial occlusion of the alveoli or bronchi.
+* **Hypoventilation** may follow, causing ventilation-perfusion mismatch.
+* Venous blood entering the pulmonary circulation passes through the under ventilated areas and returns to the left side of the heart before being adequately oxygenated.
+* The mixing of oxygenated and poorly oxygenated blood can result in **arterial hypoxemia**.
+
 # ~Question 2
 What is an acute infection of the lung caused by bacteria or viruses?
 
@@ -87,17 +98,29 @@ What is the most common form of aspiration pneumonia?
 [WRONG] Cocci infection.
 [WRONG] Antibiotic resistent infection.
 
-# Pathophysiology
-Having an idea about the disease process helps the patient understand the treatment regimen and its importance, increasing patient compliance.
+# ~Question 12
+A patient was admitted to the intensive care unit 3 days ago for treatment of a gunshot wound. The patient has recently developed a productive cough and a fever of 104.3 'F. The patient is breathing on their own and doesn't require mechanical ventilation. On assessment, you note coarse crackles in the right lower lobe. A chest x-ray shows infiltrates with consolidation in the right lower lobe. Based on this specific patient scenario, what type of pneumonia do you expect?
 
-* Pneumonia arises from **normal flora** present in patients whose **resistance has been altered** or from **aspiration** of flora present in the oropharynx.
-* An **inflammatory reaction** may occur in the alveoli, producing **exudates** that interfere with the diffusion of oxygen and carbon dioxide.
-* **White blood cells** also migrate into the alveoli and **fill the normally air-filled spaces.**
-* Due to secretions and mucosal edema, there are areas of the lung that are not adequately ventilated and cause partial occlusion of the alveoli or bronchi.
-* **Hypoventilation** may follow, causing ventilation-perfusion mismatch.
-* Venous blood entering the pulmonary circulation passes through the under ventilated areas and returns to the left side of the heart before being adequately oxygenated.
-* The mixing of oxygenated and poorly oxygenated blood can result in **arterial hypoxemia**.
+[WRONG] Aspiration pneumonia
+[WRONG] Ventilator acquired pneumonia
+[RIGHT] Hospital-acquired pneumonia
+[WRONG] Community-acquired pneumonia
 
+# ~Question 13
+Which of the following patients are at risk for developing pneumonia? Select-all-that-apply:
+ 
+[RIGHT] A 53 year old female recovering from abdominal surgery.
+[WRONG] A 69 year old patient who received the pneumococcal vaccine 48 hours ago.
+[RIGHT] A 42 year old male with COPD and is on continuous oxygen via nasal cannula.
+[RIGHT] A 8 month old with RSV (respiratory syncytial virus) infection.
+
+# ~Question 10
+Which of the following is not considered as pneumonia in the immunocompromised host?
+
+[RIGHT] Nosocomial pneumonia.
+[WRONG] Fungal pneumonia.
+[WRONG] Pneumocystis pneumonia.
+[WRONG] Mycobacterium tuberculosis.
 
 # Epidemiology
 Pneumonia is one of the most common illnesses today, especially for those in the hospital setting or who have a weak immune system. 
@@ -107,6 +130,22 @@ Pneumonia is one of the most common illnesses today, especially for those in the
 * It is estimated that more than 915,000 episodes of CAP occur in adults 65 years old and above in the United States.
 * HAP accounts for 15% of hospital-acquired infections and is the leading cause of death in patients with such infections.
 * The estimated incidence of HAP 4 to 7 episodes per 1000 hospitalizations.
+
+# ~Question 5
+Where does pneumonia rank in terms of leading causes of death in the United States?
+
+[WRONG] Third
+[WRONG] Tenth
+[RIGHT] Eighth
+[WRONG] Not in top 15
+
+# ~Question 6
+Approximately how many deaths do pneumonia and influenza account for annually?
+
+[WRONG] <10,000
+[WRONG] 30,000
+[RIGHT] 60,000
+[WRONG] >100,000
 
 # Signs and Symptoms
 
@@ -149,10 +188,11 @@ Pneumonia has several complications if left untreated or the interventions are i
 # ~Question 5
 All of the following are common signs and symptoms of pneumonia except?
 
-[WRONG] Fever, with chills and/or rigors, 
+[WRONG] Fever, with chills and/or rigors
 [WRONG] Productive cough with purulent sputum
 [RIGHT] Dyspnea at rest
 [WRONG] Pleuritic chest pain
+
 
 # Treatment
 A variety of tests are used to diagnose pneumonia, identify the specific pathogen, and monitor treatment and recovry.
@@ -177,14 +217,6 @@ A variety of tests are used to diagnose pneumonia, identify the specific pathoge
 * **BUN.** An elevated BUN (BUN ≥19 mg/dL [6.78 mmol/L]) is a sign of uremia.
 * **Electrolytes.** Sodium and chloride levels may be low.
 * **Bilirubin.** May be increased.
-
-# ~Question 6
-Which of the following is consistent with a pneumonia diagnosis?
-
-[RIGHT] Infiltrates on chest x-ray
-[WRONG] Decreased platelets
-[WRONG] Elevated red blood cell count
-[WRONG] Hypertension
 
 # ~Question 7
 Which labs findings would be consistent with a pneumonia diagnosis? Select all that apply:
@@ -239,40 +271,7 @@ What diagnostic tests are likely with pneumonia? Select all that apply:
 * **Smoking cessation.** Smoking should be stopped because it inhibits tracheobronchial ciliary action and irritates the mucous cells of the bronchi.
 * **Pneumococcal vaccine.** This vaccine can prevent pneumonia in healthy patients with an **efficiency of 65% to 85%.**
 
-
-# Question 1
-A patient who has a diagnosis of pneumonia reports a sudden onset of sharp pain on one side of the chest. The patient is dyspneic and oxygen saturation falls to 89%. After administering oxygen to the patient, which of these actions should the nurse perform next?
-
-[RIGHT] Auscultate lungs bilaterally 
-[WRONG] Check capillary refill
-[WRONG] Lower head of patient
-[WRONG] Take a full set of vitals
-
-# Question 10
-Which of the following is not considered as pneumonia in the immunocompromised host?
-
-[RIGHT] Nosocomial pneumonia.
-[WRONG] Fungal pneumonia.
-[WRONG] Pneumocystis pneumonia.
-[WRONG] Mycobacterium tuberculosis.
-
-# Question 12
-A patient was admitted to the intensive care unit 3 days ago for treatment of a gunshot wound. The patient has recently developed a productive cough and a fever of 104.3 'F. The patient is breathing on their own and doesn't require mechanical ventilation. On assessment, you note coarse crackles in the right lower lobe. A chest x-ray shows infiltrates with consolidation in the right lower lobe. Based on this specific patient scenario, what type of pneumonia do you expect?
-
-[WRONG] Aspiration pneumonia
-[WRONG] Ventilator acquired pneumonia
-[RIGHT] Hospital-acquired pneumonia
-[WRONG] Community-acquired pneumonia
-
-# Question 13
-Which of the following patients are at risk for developing pneumonia? Select-all-that-apply:
- 
-[RIGHT] A 53 year old female recovering from abdominal surgery.
-[WRONG] A 69 year old patient who received the pneumococcal vaccine 48 hours ago.
-[RIGHT] A 42 year old male with COPD and is on continuous oxygen via nasal cannula.
-[RIGHT] A 8 month old with RSV (respiratory syncytial virus) infection.
- 
-# Question 14
+# ~Question 14
 A 72 year-old male patient who is diagnosed with bilateral lower lobe pneumonia is admitted to your unit. The patient has a history of systolic heart failure and arthritis. On assessment, you note the patient has a respiratory rate of 21, oxygen saturation 93% on 2L nasal cannula, is alert & oriented, and has a productive cough with green/yellowish sputum. Which of the following nursing interventions will you provide to this patient based on your assessment findings and the patient's diagnosis? Select-all-that-apply:
  
 [WRONG] Keep head-of-the-bed flat and lights dimmed to promote rest.
@@ -280,3 +279,15 @@ A 72 year-old male patient who is diagnosed with bilateral lower lobe pneumonia 
 [RIGHT] Encourage 3L of fluids a day to keep secretions thin.
 [RIGHT] Encourage incentive spirometer usage
 [RIGHT] Provide education about receiving the Pneumovax vaccine every 5 years.
+
+# ~Question 1
+A patient who has a diagnosis of pneumonia reports a sudden onset of sharp pain on one side of the chest. The patient is dyspneic and oxygen saturation falls to 89%. After administering oxygen to the patient, which of these actions should the nurse perform next?
+
+[RIGHT] Auscultate lungs bilaterally 
+[WRONG] Check capillary refill
+[WRONG] Lower head of patient
+[WRONG] Take a full set of vitals
+
+
+ 
+
