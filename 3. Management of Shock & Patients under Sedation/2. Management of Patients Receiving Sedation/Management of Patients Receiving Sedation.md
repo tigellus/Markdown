@@ -212,6 +212,11 @@ Propofol can cause profound cardiovascular and respiratory depression and will u
 
 Rescue equipment should include a bag valve mask, two sources of oxygen (centrally supplied or cylinders), laryngoscopes, endotracheal tubes of differing sizes, laryngeal mask airways, a crash cart with appropriate ACLS medications and a defibrillator.   
 
+### Toxicity
+**Propofol Infusion Syndrome (PRIS):** Is a rare but serious side effect of prolonged infusion of propofol (usually > 4mg/kg/h for more than 24 hours). The syndrome presents as metabolic acidosis, hyperkalemia, hyperlipidemia, and rhabdomyolysis and may proceed to renal and cardiac failure and ultimately death.
+
+The exact mechanism of PRIS is still unknown. The onset of PRIS usually occurs within four days of the initial propofol treatment. This syndrome has been noted to occur during prolonged infusions at high doses in pediatric/young adult patients or those with the need for prolonged sedation, such as mechanically ventilated patients with head trauma.
+
 # ~Question 9
 Which effect is expected after administration of propofol?
 
@@ -227,12 +232,6 @@ For which situation would propofol be used in the critical care unit?
 [WRONG] Relief of chronic pain
 [WRONG] Facilitate sleep for tired patients
 [RIGHT] Sedation in a mechanically-ventilated patient
-
-
-### Toxicity
-**Propofol Infusion Syndrome (PRIS):** Is a rare but serious side effect of prolonged infusion of propofol (usually > 4mg/kg/h for more than 24 hours). The syndrome presents as metabolic acidosis, hyperkalemia, hyperlipidemia, and rhabdomyolysis and may proceed to renal and cardiac failure and ultimately death.
-
-The exact mechanism of PRIS is still unknown. The onset of PRIS usually occurs within four days of the initial propofol treatment. This syndrome has been noted to occur during prolonged infusions at high doses in pediatric/young adult patients or those with the need for prolonged sedation, such as mechanically ventilated patients with head trauma.
 
 # Fentanyl
 A strong synthetic opioid, which produces analgesia similar to morphine but is 50 to 100 times more potent than morphine. A dose of only 100 micrograms can produce equivalent analgesia to approximately 10 mg of morphine. However, fentanyl exhibits vastly different properties and pharmacokinetics. Clinically, it is most often used as a sedative in intubated patients, as well as in severe cases of pain in patients with renal failure owing to its primarily hepatic elimination. At times, fentanyl may also be indicated to treat chronic pain patients who have developed tolerance to opiates. When used as a sedative, it is most commonly administered as a drip. It may often require large doses when used as a sedative in patients with mechanical ventilation requirements.
@@ -301,6 +300,8 @@ Three of the adverse effects below are associated with midazolam (Versed). Which
 # Dilaudid
 Hydromorphone (Dilaudid) is a pure opioid indicated for moderate to severe acute pain and severe chronic pain. It is only prescribed when other first-line of treatments have failed, due to its high potency, abuse potential, and overdose risk.
 
+Intravenous solutions are available in the following formulations: 2 mg/1 ml, 2500 mg/250 ml, 10 mg/1 ml, 500 mg/50 ml.
+
 ### Mechanism of Action
 Hydromorphone is an opioid agonist that binds to several opioid receptors. Its analgesic characteristics are through its effect on the mu-opioid receptors. It also acts centrally at the level medulla, depressing the respiratory drive and suppressing cough.
 
@@ -309,9 +310,6 @@ Hydromorphone is administtered through intramuscular, intravenous, subcutaneous,
 
 ### Pharmacology
 Excretion is mainly through urine in the glucuronidated form. The residual unchanged form gets excreted in the urine (7%) and the feces (1%).
-
-### Availabilities
-* Intravenous solutions are available in the following formulations: 2 mg/1 ml, 2500 mg/250 ml, 10 mg/1 ml, 500 mg/50 ml.
 
 ### Adverse Effects
 Common adverse effects include flushing, pruritus, sweating, dry mouth, nausea/vomiting, constipation, asthenia, dizziness, headache, and somnolence.
