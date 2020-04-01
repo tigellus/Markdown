@@ -19,6 +19,7 @@ The topic addressed in the sessions are:
 * Assessing patients' respiratory status
 * Ventilator basics
 
+Please watch the following video: 
 [embed](https://www.youtube.com/watch?v=UaZw_ENCyf0&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG)
 
 Source: Mount Sinai Health System
