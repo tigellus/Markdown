@@ -141,7 +141,7 @@ Which effect does the bronchodilator Salmeterol (Serevent) have?
 
 # Corticosteroids
 
-### Metered dose inhalers. 
+### Metered dose inhalers 
 * Triamcinilone acetonide (Azmacort)
 * Fluticasone propionate (Flovent)
 * Beclomethasone dipropionate (Beclovent, Vanceril)
