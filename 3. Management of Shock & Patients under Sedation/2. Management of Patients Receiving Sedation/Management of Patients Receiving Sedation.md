@@ -26,7 +26,7 @@ Sedation is often used in critical care settings.
 [WRONG] False
 
 # Levels of Anesthesia
-There are four levels of anesthesia:
+**There are four levels of anesthesia:**
 1. Minimal or light sedation (anxiolytics)
 2. Moderate sedation/analgesia or procedural sedation and analgesia
 3. Deep sedation/analgesia
@@ -74,11 +74,11 @@ Which level of sedation signifies a drug-induced depression of consciousness dur
 [WRONG] General anesthesia
 
 # ~Question 4
-Which finding is NOT expected with the level of Minimal Sedation?
+Which finding is NOT expected for a patient receiving Minimal Sedation?
 
-[WRONG] Normal response to verbal stimulation
-[WRONG] Airway is patent
-[WRONG] Spontaneous ventilation
+[WRONG] Normal response to verbal commands
+[WRONG] Retains protective airway reflexes
+[WRONG] Cardiopulmonary stability
 [RIGHT] Cardiovascular function may be impaired
 
 # ~Question 5
@@ -121,17 +121,17 @@ The modified Ramsay Scale is often used to assess the patient's ongoing level of
 [RIGHT] True
 [WRONG] False
 
-# Regulation and Oversight of Sedation
-The requirements for safe administration of medications and safe practice of procedural sedation are defined by The Joint Commission and other accreditation agencies, professional regulatory boards, and individual hospital policies. Practitioners should review and understand their scope of practice with procedural sedation as they will need to follow the policies for patient safety and to ensure regulatory compliance.
-
-![](assets/sedation4.png)
-
 # ~Question 7
 Which level of sedation is present when a patient responds only to painful stimulation and may need help to maintain an airway?
 
 [WRONG] Moderate sedation
 [RIGHT] Deep sedation
 [WRONG] General anesthesia
+
+# Regulation and Oversight of Sedation
+The requirements for safe administration of medications and safe practice of procedural sedation are defined by The Joint Commission and other accreditation agencies, professional regulatory boards, and individual hospital policies. Practitioners should review and understand their scope of practice with procedural sedation as they will need to follow the policies for patient safety and to ensure regulatory compliance.
+
+![](assets/sedation4.png)
 
 # ~Question 8
 When regulating and overseeing sedation, who is generally the operator?
@@ -142,11 +142,11 @@ When regulating and overseeing sedation, who is generally the operator?
 # Medications Generally Associated with Sedation
 
 In the next modules we will cover medications generally associated with sedation:
-* propofol
-* fentanyl
-* versed
-* dilaudid
-* dexmedetomidine
+* Propofol
+* Fentanyl
+* Versed
+* Dilaudid
+* Dexmedetomidine
 
 # Propofol
 Propofol is an intravenous anesthetic used for procedural sedation, during monitored anesthesia care, or as an induction agent for general anesthesia. It may be administered as a bolus, an infusion, or a combination. Propofol is prepared in a lipid emulsion which gives it the characteristic milky white appearance.
@@ -329,7 +329,6 @@ Hydromorphone is to be avoided in any gastrointestinal obstruction or hypomotili
 Hydromorphone should also to be avoided in genitourinary obstructions, central nervous system (CNS) depression, hypotension, and hypovolemia. It requires careful administration in cases of concomitant psychiatric illness.
 
 ### Monitoring
-
 **Drug interactions**
 Naltrexone and nalmefene are opioid receptor antagonists that can precipitate withdrawal symptoms when used along with hydromorphone, decreasing its analgesic effect.
 
@@ -375,6 +374,14 @@ There are no specific drug monitoring requirements. The level of sedation, heart
 
 ### Toxicity
 At present, there is no chemical reversal or antidote for dexmedetomidine. Supportive care and close monitoring are the treatment for overdose.
+
+# ~Question 15
+Dexmedetomidine should be used cautiously for patients with diabetes
+
+[WRONG] True
+[RIGHT] False
+
+* Dexmedetomidine should be used cautiously for patients with bradycardia, hypotension and known heart failure
 
 # Complications of Sedation
 Complications can occur when providing continuous sedation to a mechanically ventialted patient. Some of those complications are:
@@ -450,22 +457,20 @@ Anaphylaxis is most common with opioids but can occur with any drug. Reactions c
 * For mild reactions, stop offending agent and administer diphenhydramine (Benadryl).
 * For severe reactions, O2 , IV crystalloids, epinephrine, and aminophylline. Diphenhydramine and ranitidine block unoccupied histamine receptors. Hydrocortisone and methylprednisolone also may be administered.
 
-# ~Question 15
+# ~Question 16
 Which drug would be contraindicated for a patient experiencing hypertension?
 
 [RIGHT] Atropine
 [WRONG] Labetalol
 [WRONG] Hydralazine
 
-
-# ~Question 16
+# ~Question 17
 A patient experiencing agitation should be treated with hydralazine.
 
 [WRONG] True
 [RIGHT] False
 
 # Patient Safety
-
 ### Basic Safety Measures
 * Assess the patient’s comfort levels.
 * Make sure the side rails are up and the wheels are locked.
@@ -473,13 +478,12 @@ A patient experiencing agitation should be treated with hydralazine.
 
 ## Patient Monitoring
 Baseline vital signs should be documented prior to initiating sedation. The patient should be on continuous cardiac, respiratory, and oxygenation monitoring.
-
 * Heart rate/ECG rhythm
 * Respiratory rate
 * Blood pressure
 * O2 saturations/capnography
 
-Follow the unit policy for ongoing monitoring of patient sedation.
+**Follow the unit policy for ongoing monitoring of patient sedation**
 * Sedation score: Evaluate patient’s response to verbal commands or tactile stimulation (level of consciousness)
 * Pain level
 * Assess for and treat any unexpected patient reactions
@@ -491,18 +495,18 @@ More hospitals are using capnography to monitor the concentration of exhaled car
 **NOTE!**
 Various sedation scales may be used, including the Richmond Agitation Sedation Scale (RASS), the Pasero Opioid-Induced Sedation Scale (POSS), and the Innova Health System Sedation Scale (ISS). Determine which scale your facility uses and become familiar with that particular scale.
 
-# ~Question 17
+# ~Question 18
 Which nursing action is NOT a basic safety measure?
 
-[WRONG] Assessing the patient’s comfort levels.
-[WRONG] Making sure the side rails are up and the bed wheels are locked.
-[WRONG] Ensuring the suction device is set-up and ready.
-[RIGHT] Administering intravenous diphenhydramine.
+[WRONG] Assessing the patient’s comfort levels
+[WRONG] Making sure the side rails are up and the bed wheels are locked
+[WRONG] Ensuring the suction device is set-up and ready
+[RIGHT] Administering intravenous diphenhydramine
 
-# ~Question 18
+# ~Question 19
 Which action would the nurse plan to use for a patient on mechanical ventilation who experiences henodynamic instability from a sedative overdose?
 
-[WRONG] Assess the patient’s comfort levels.
-[WRONG] Make sure the side rails are up and the wheels are locked.
-[RIGHT] Administer a bolus of intravenous fluid.
-[WRONG] Ensure the suction device is set-up and ready.
+[WRONG] Assess the patient’s comfort levels
+[WRONG] Make sure the side rails are up and the wheels are locked
+[RIGHT] Administer a bolus of intravenous fluid
+[WRONG] Ensure the suction device is set-up and ready
