@@ -47,18 +47,18 @@ ventilator gives the usual amount of breaths.
 finished.
 * The ventilator will continue to give breaths as usual.
 
-# Question 6
-When carrying out a Nebulizer treatment…
-
-[RIGHT] There must NOT be a filter present on the patient side for delivery of medication
-[WRONG] There must be a filter present on the patient side for delivery of medication
-
 # ~Question 7
 How can a healthcare professional know when a nebulizer treatment is finished when it is delivered via ventilator?
 
 [RIGHT] The mist in the medicine cup will be gone
 [WRONG] There will be mist in the bottom of the medicine cup
 [WRONG] The machine will alert by beeping
+
+# Question 6
+When carrying out a Nebulizer treatment…
+
+[RIGHT] There must NOT be a filter present on the patient side for delivery of medication
+[WRONG] There must be a filter present on the patient side for delivery of medication
 
 # Nursing Considerations: Nebulizers
 

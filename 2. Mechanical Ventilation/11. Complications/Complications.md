@@ -198,23 +198,8 @@ How can you help prevent ventilator-associated (VAP) pneumonia in mechanical ven
 [RIGHT] Subglottic suctioning
 [WRONG] Increase stomach acid production
 
-# Question 5
-Which of the following is correct?
-
-[WRONG] Mechanically ventilated patients are at reduced risk for peptic ulcer disease
-[WRONG] Thinning secretions can increase airway obstruction
-[RIGHT] Mechanically ventilated patients are at increased risk for GI bleed
-[RIGHT] High amounts of FiO2 can place patients at risk for oxygen toxicity
-
-# Question 6
-A patient has been on the mechanical ventilator with continuous sedation fo 7 days in CMV mode. What problem is this patient at highest risk for?
-
-[WRONG] Pneumothorax
-[WRONG] Airway obstruction
-[RIGHT] VIDD
-
 # ~Question 7
-Patient’s with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
+Patients with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
 
 [RIGHT] Be difficult to wean from the ventilator
 [WRONG] Be difficult to ventilate with low tidal volumes
@@ -243,6 +228,21 @@ Use of lipids to replace caloric needs can reduce what?
 [WRONG] Blood glucose
 [WRONG] Protein
 [RIGHT] Carbohydrate load
+
+# Question 5
+Which of the following is correct?
+
+[WRONG] Mechanically ventilated patients are at reduced risk for peptic ulcer disease
+[WRONG] Thinning secretions can increase airway obstruction
+[RIGHT] Mechanically ventilated patients are at increased risk for GI bleed
+[RIGHT] High amounts of FiO2 can place patients at risk for oxygen toxicity
+
+# Question 6
+A patient has been on the mechanical ventilator with continuous sedation fo 7 days in CMV mode. What problem is this patient at highest risk for?
+
+[WRONG] Pneumothorax
+[WRONG] Airway obstruction
+[RIGHT] VIDD
 
 # Question 9 
 If your patient accidentally extubated himself and is now having respiratory distress, what is the first thing you should do?
