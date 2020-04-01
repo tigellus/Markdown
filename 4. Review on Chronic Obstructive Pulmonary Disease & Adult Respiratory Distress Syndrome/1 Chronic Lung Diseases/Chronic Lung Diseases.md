@@ -33,7 +33,7 @@ Which factor is involved in the underlying pathophysiology of COPD?
 [WRONG] Inflamed airways that obstruct airflow
 [WRONG] Mucus secretion that blocks airways
 [WRONG] Alveolar wall destruction
-[RIGHT] Variations in all of the above
+[RIGHT] Variations in all of the options
 
 * Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD. Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature. Hypersecretion occurs due to the increase in the number of goblet cells. Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil.
 
@@ -43,7 +43,7 @@ In a patient with COPD, where does the abnormal inflammatory response occur?
 [WRONG] Airways
 [WRONG] Lung parenchyma
 [WRONG] Pulmonary vasculature
-[RIGHT] All of the above areas
+[RIGHT] All of the mentioned areas
 
 * The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD.
 
