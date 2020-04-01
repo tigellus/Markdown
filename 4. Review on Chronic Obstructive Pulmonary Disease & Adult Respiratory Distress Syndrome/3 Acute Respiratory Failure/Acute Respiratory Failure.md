@@ -1,4 +1,4 @@
-# Respiratory failure 
+# Respiratory Failure 
 
 Gas exchange is so severely impaired that arterial hypercapnea or hypoxemia occurs
 * Hypoxemia - PaO2 <80
@@ -32,7 +32,7 @@ What is the result of alevolar hypoventilation?
 [RIGHT] CO2 accumulates in the blood, PaCO2 rises and PaO2 falls
 [WRONG] O2 accumulates in the blood, PaCO2 falls and PaO2 rises
 
-# Clinical categories and determinants of Acute Respiratory Failure
+# Clinical Categories and Determinants of Acute Respiratory Failure
 
 ### Clinical Category 
 Failure of alveolar ventilation
