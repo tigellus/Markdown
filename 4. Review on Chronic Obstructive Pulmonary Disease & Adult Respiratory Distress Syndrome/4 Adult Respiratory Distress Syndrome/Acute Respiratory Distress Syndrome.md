@@ -48,6 +48,13 @@ Which statement describes acute respiratory distress syndrome (ARDS)?
 [WRONG] Acute respiratory distress syndrome occurs due to the collapsing of a lung because air has accumulated in the pleural space
 [RIGHT] This condition develops because alveolar capillary membrane permeability changes and fluid collects in the alveolar sacs
 
+# ~Question 3
+Which change in acute respiratory distress syndrome (ARDS) is caused by damage to the lung cells that produce surfactant?
+[WRONG] Bronchoconstriction 
+[RIGHT] Atelectasis 
+[WRONG] Upper airway blockage [WRONG] Pulmonary edema
+Surfactant decreases surface tension in the lungs. Therefore, the alveolar sacs will stay stable when a person exhales (hence the sac won't collapse). With the decrease in surfactant production during ARDS, alveolar sacs can easily collapse, causing atelectasis.
+
 # Diagnostics and Management
 ## Diagnostics
 
@@ -146,17 +153,6 @@ A patient being treated for aspiration pneumonia receiving oxygen via a 100% non
 [WRONG] The patient's blood pressure is 180/96
 
 * A hallmark sign and symptom found in ARDS is refractory hypoxemia. Although the patient is receiving a high amount of oxygen (using a 100% non-rebreather mask), the patient is STILL hypoxic given that their arterial oxygen level is remaining at 45 mmHg (a normal is 80 mmHg but when treating patients with ARDS, the goal is at least 60 mmHg).
-
-# Question 3
-Which change in acute respiratory distress syndrome (ARDS) is caused by damage to the lung cells that produce surfactant?
-
-[WRONG] Bronchoconstriction
-[RIGHT] Atelectasis 
-[WRONG] Upper airway blockage
-[WRONG] Pulmonary edema
-
-* Surfactant decreases surface tension in the lungs. Therefore, the alveolar sacs will stay stable when a person exhales (hence the sac won’t collapse). With the decrease in surfactant production during ARDS, alveolar sacs can easily collapse, causing atelectasis.
-
 
 # Question 5
 Which ABG results are expected during the early exudative phase of ARDS?
