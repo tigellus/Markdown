@@ -21,7 +21,7 @@
 * Diffuse damage to that alveolar-capillary membrane
 * Increased permeability and leakage of fluid at the alveolar-capillary membrane
 * Damage to type II pneumocytes
-* Interstitial and alveolar edema results in interference with gas exchange and hypoxemia. 
+* Interstitial and alveolar edema results in interference with gas exchange and hypoxemia 
 * Reduced FRC, Intrapulmonary shunting and Decreased compliance
 * Protein exudates destroy surfactant causing alveolar collapse
 * Protein exudates from the hyaline membrane causes interstitial fibrosis
@@ -101,8 +101,8 @@ Which diagnostic test is routinely used for patients with suspected respiratory 
 
 ### Maintaining Oxygenation
 * Restoration of arterial oxygen levels
- * Lowest FIO2 to produce oxygen saturation
- * Maintain PaO2 level within acceptable range
+* Lowest FIO2 to produce oxygen saturation
+* Maintain PaO2 level within acceptable range
 
 ### Mechanical Ventilation
 * Set RR and TV to meet ventilation requirements
@@ -114,10 +114,10 @@ Which diagnostic test is routinely used for patients with suspected respiratory 
 * Use lowest level of PEEP
 * High PEEP may decrease cardiac output and increase barotrauma
 
-### Endotrachael tubes
+### Endotrachael Tubes
 ![](assets/tube1.png)
 
-### Tracheostomy tube
+### Tracheostomy Tube
 ![](assets/tube2.png)
 
 ### Cardiovascular Support
@@ -139,10 +139,10 @@ Which diagnostic test is routinely used for patients with suspected respiratory 
 # Question 1
 A patient being treated for aspiration pneumonia receiving oxygen via a 100% non-rebreather mask. Which finding is a hallmark sign that the patient is developing acute respiratory distress syndrome (ARDS)?
 
-[WRONG] The patient is experiencing bradypnea.
-[WRONG] The patient is tired and confused.
-[RIGHT] The patient's PaO2 remains at 45 mmHg. 
-[WRONG] The patient's blood pressure is 180/96.
+[WRONG] The patient is experiencing bradypnea
+[WRONG] The patient is tired and confused
+[RIGHT] The patient's PaO2 remains at 45 mmHg 
+[WRONG] The patient's blood pressure is 180/96
 
 * A hallmark sign and symptom found in ARDS is refractory hypoxemia. Although the patient is receiving a high amount of oxygen (using a 100% non-rebreather mask), the patient is STILL hypoxic given that their arterial oxygen level is remaining at 45 mmHg (a normal is 80 mmHg but when treating patients with ARDS, the goal is at least 60 mmHg).
 
