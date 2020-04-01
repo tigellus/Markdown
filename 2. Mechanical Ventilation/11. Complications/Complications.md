@@ -128,16 +128,14 @@ Which of the following could you do for a high respiratory rate alarm?
 * Frequent respiratory assessments
 
 
-### Oxygen Toxicity --> can combine this one with what I put in the last module
+### Oxygen Toxicity 
 * Prolonged high oxygen levels – FiO2 0.7-1.0
 * Excessive oxygen can impairs surfactant activity
 
-### Pulmonary Trauma (I believe this was also on the prior module-- barotrauma)
+### Pulmonary Trauma 
 * Barotrauma: alveolar injury or rupture due to excess pressure (can be due to excessive PEEP, high Vt)
 * Pneumothorax: Positive pressure causing a break in the integrity of the visceral pleura-- can result from severe barotrauma
 * Tension Pneumothorax: watch for mediastinal shift, immediate intervention indicated- use BVM until physician can perform needle decompression
-
-[I deleted this because it was parsed out in other sections- atelectasis, pulmonary trauma etc]
 
 ## Decreased cardiac output
 * Decreased venous return
