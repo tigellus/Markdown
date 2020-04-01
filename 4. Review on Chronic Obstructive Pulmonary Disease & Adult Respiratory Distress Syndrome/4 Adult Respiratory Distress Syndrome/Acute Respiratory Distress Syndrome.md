@@ -52,8 +52,9 @@ Which statement describes acute respiratory distress syndrome (ARDS)?
 Which change in acute respiratory distress syndrome (ARDS) is caused by damage to the lung cells that produce surfactant?
 [WRONG] Bronchoconstriction 
 [RIGHT] Atelectasis 
-[WRONG] Upper airway blockage [WRONG] Pulmonary edema
-Surfactant decreases surface tension in the lungs. Therefore, the alveolar sacs will stay stable when a person exhales (hence the sac won't collapse). With the decrease in surfactant production during ARDS, alveolar sacs can easily collapse, causing atelectasis.
+[WRONG] Upper airway blockage 
+[WRONG] Pulmonary edema
+* Surfactant decreases surface tension in the lungs. Therefore, the alveolar sacs will stay stable when a person exhales (hence the sac won't collapse). With the decrease in surfactant production during ARDS, alveolar sacs can easily collapse, causing atelectasis.
 
 # Diagnostics and Management
 ## Diagnostics
