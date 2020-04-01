@@ -339,10 +339,10 @@ If the patient is discharged from the hospital after a resolved pneumothorax, re
 The management of a pneumothorax is often done by the emergency department physician. In some cases, the disorder may be managed by the ICU staff and the thoracic surgeon. The care of patients who have a chest tube is done by the nurse. All nurses who manage patients with a chest tube should know how a chest drain functions. Patients need to be examined every shift and the patency of the chest tube is important. Patients with small pneumothorax can be observed if they have no symptoms. If discharged the patient should be seen within 24 hours.
 ### Chest Drainage
 This image below shows the basic function ad setup of a water-seal chest drainage system.  
-![](assets/itct1.png)
+![](assets/itct1.jpg)
 ### Disposable water-seal systems
 This is an example of a disposable pleural drainage system that uses the principles of the water-seal system shown above
-![](assets/waterseal.png)
+![](assets/waterseal.jpg)
 
 # Question 16
 Which of the following is also known as a “sucking” chest wound?
