@@ -1,34 +1,35 @@
 # Introductory Note
-Guard against incorrect ventilator settings.
-Ventilator disconnect from patient is a common problem.
+Guard against incorrect ventilator settings. 
+Ventilator disconnection is a common problem.
 
 ## High pressure alarm
 * Patient needs suctioning
 * Patient is biting the tube
+* Circuit tubing is compressed 
 * Tracheal tube has become misplaced
 * Compliance is decreased
-* Barotrauma
+* Barotrauma -pneumothorax
 
 ## Not receiving set tidal volume
 * Cuff leak/insufficient air in cuff
  * ALARM: low volume air
- * RX: Ventilate patient until cause is identified
-* Airway resistance. Compliance
+ * RX: Check cuff, reinflate if necessary
+* Airway resistance. Decreased compliance
  * ALARM: upper airway pressure alarm**
- * RX: Ventilate patient until cause is identified
+ * RX: Check for possible obstruction
 
 ## NO tidal volume
 * Patient disconnect from ventilator
 * Large cuff leak
 * Tube disconnect
 * ALARM: low volume alarm
-* RX: Reconnect tubing, attempt to ambu until reintubation
+* RX: Reconnect tubing, verify cuff pressure, attempt to ambu until reintubation
 
 ## Increased Airway Pressure
 * Secretions, mucous plug, biting on the tube
-* Decreased compliance – pneumothorax, atelectasis
+* Pneumothorax, atelectasis
 * ETT slipped into RIGHT mainstem bronchus
-* Increased resistance – high diaphragm
+* Increased resistance – high diaphragm with abdominal distention
 * ALARM: airway pressure alarm
 * RX: Suctioning, bite plate
  * Assess breath sounds for ET placement
@@ -51,14 +52,14 @@ Ventilator disconnect from patient is a common problem.
  * Adjust rate, tidal volume
 
 # ~Question 3
-What type of alarm is the result of a patient who needs suctioning?
+What type of alarm occurs when a patient needs suctioning?
 
 [WRONG] Low pressure alarm
 [WRONG] Low volume alarm
 [RIGHT] High pressure alarm
 
 # ~Question 4
-What type of alarm is the result of a tracheal tube that has become misplaced?
+What type of alarm is the result of a tracheal tube that has become misplaced in the bronchus?
 
 [WRONG] Low pressure alarm
 [WRONG] Low volume alarm
@@ -74,7 +75,7 @@ What type of alarm is the result of a patient who is biting the tube?
 # ~Question 6
 What type of alarm is the result of a tube disconnect?
 
-[WRONG] Low pressure alarm
+[WRONG] High volume alarm
 [WRONG] High pressure alarm
 [RIGHT] Low volume alarm
 
@@ -82,7 +83,7 @@ What type of alarm is the result of a tube disconnect?
 What type of alarm is the result of a large cuff leak?
 
 [WRONG] Low pressure alarm
-[WRONG] High pressure alarm
+[WRONG] High volume alarm
 [RIGHT] Low volume alarm
 
 # ~Question 8 
@@ -101,7 +102,7 @@ Which of the following will cause a high pressure alarm?
 [WRONG] A cuff leak
 
 # ~Question 10
-Which of the following could you do for a high respiratory rate alarm?
+Which action would the nurse take for a high respiratory rate alarm?
 
 [WRONG] Turn off the Versed infusion
 [WRONG] Increase the respiratory rate alarm parameters
@@ -112,10 +113,10 @@ Which of the following could you do for a high respiratory rate alarm?
 
 ### Infection
 * Normal filtering system (nasopharynx) is bypassed by the artificial airway
-* Breaks in aseptic technique and nosocomial infections
+* Breaks in aseptic technique may lead to nosocomial infections
 * Immunocompromised, unstable, and/or critically ill patients at higher risk
 * Common infection: Ventilator Associated Pneumonia (VAP) due to aspiration of gastric contents or colonized oral secretions
--->strategies to reduce VAP: Elevate HOB 30-45 degrees, hand hygiene, ensure condensation in ventilator circuit drains away from the patient's airway, suctioning of subglottic secretions, thorough oral hygiene per facility protocol, peptic ulcer prevention
+-->strategies to reduce VAP: Elevate HOB 30-45 degrees, hand hygiene, ensure condensation in ventilator circuit drains away from the patient's airway, suction subglottic secretions, thorough oral hygiene per facility protocol
 
 ### Airway Obstruction
 * Inadequate humidification causing thickened mucus
@@ -127,22 +128,17 @@ Which of the following could you do for a high respiratory rate alarm?
 * Monitor for low grade fever
 * Frequent respiratory assessments
 
-
-### Oxygen Toxicity --> can combine this one with what I put in the last module
+### Oxygen Toxicity
 * Prolonged high oxygen levels – FiO2 0.7-1.0
-* Excessive oxygen can impairs surfactant activity
+* Excessive oxygen can impair surfactant activity, but may be needed in the short term
 
-### Pulmonary Trauma (I believe this was also on the prior module-- barotrauma)
+### Pulmonary Trauma
 * Barotrauma: alveolar injury or rupture due to excess pressure (can be due to excessive PEEP, high Vt)
 * Pneumothorax: Positive pressure causing a break in the integrity of the visceral pleura-- can result from severe barotrauma
-* Tension Pneumothorax: watch for mediastinal shift, immediate intervention indicated- use BVM until physician can perform needle decompression
-
-[I deleted this because it was parsed out in other sections- atelectasis, pulmonary trauma etc]
+* Tension Pneumothorax: watch for mediastinal shift, immediate intervention indicated- use ambu bag until physician can perform needle decompression
 
 ## Decreased cardiac output
-* Decreased venous return
-* Relief of work effort
-* PEEP
+* Positive pressure casues decreased venous return
 * Inadequate fluid volume status
 
 ### Ventilator-induced diaphragmatic dysfunction (VIDD)
@@ -152,8 +148,8 @@ Which of the following could you do for a high respiratory rate alarm?
 
 ### Gastrointestinal & Nutrition Complications
 * GI bleed --> monitor for gross and occult blood
-* Stress increases gastric acid production, PUD --> PUD prophylaxis, reduce stress
-* Malnutrition --> early supplemental nutrition (enteral preferred if indicated)
+* Stress increases gastric acid production, gastric uncelration-- PUD prophylaxis, reduce stress
+* Malnutrition --> early supplemental nutrition (enteral preferred)
 
 Malnourishment may cause:
 * Reduced response to hypoxia and hypercapnia
@@ -161,7 +157,7 @@ Malnourishment may cause:
 * Respiratory infection
 * Decreased surfactant production
 * Slowed healing of damaged tissues
-* Lower serum albumin levels
+* Lower serum albumin levels, edema
 
 #### Overfeeding
 * Problems with COPD and other patients unable to clear CO2
@@ -170,7 +166,7 @@ Malnourishment may cause:
 * Use of lipids to replace some of the caloric needs can reduce carbohydrate load
 
 # ~Question 1
-Which of the following can cause airway obstruction with mechanical ventilation?
+Which situation can cause airway obstruction with mechanical ventilation?
 
 [WRONG] Decreased secretions
 [WRONG] Excessive humidification
@@ -194,9 +190,9 @@ What can cause a patient to become hypotensive during mechanical ventilation?
 How can you help prevent ventilator-associated (VAP) pneumonia in mechanical ventilated patients?
 
 [WRONG] Decreasing PEEP and increasing FiO2 settings
-[WRONG] Placing the head of bed at 15 degrees
-[RIGHT] Subglottic suctioning
-[WRONG] Increase stomach acid production
+[WRONG] Placing the head of bed flat
+[RIGHT] Providing regular oral care
+[WRONG] Increasing stomach acid production
 
 # ~Question 7
 Patients with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
@@ -209,8 +205,8 @@ Patients with Ventilator-Induced Diaphragmatic Dysfunction (VIDD) will:
 # ~Question 8
 How can you prevent Ventilator-Induced Diaphragmatic Dysfunction (VIDD):
 
-[WRONG] Sedating the patient to make the diaphragm and other respiratory muscles rest until the infection if fully treated.
-[RIGHT] Limiting controlled ventilation to the minimum necessary. As soon as the patient's respiratory function allows and as soon as the patient's respiratory drive recovers, the patient should trigger the ventilator and participate in the breathing effort.
+[WRONG] Sedating the patient to make the diaphragm and other respiratory muscles rest until the infection is fully treated.
+[RIGHT] Limiting controlled ventilation to the minimum necessary. As soon as the patient's respiratory drive recovers, the patient should trigger the ventilator and participate in the breathing effort.
 [WRONG] Giving high level of ventilator support to the patient until the disease is completely treated, then training the patient with very little assist for long periods.
 [WRONG] Allowing spontaneous breathing during the entire period on mechanical ventilation, despite other indications. 
 
@@ -223,14 +219,14 @@ Malnourishment may cause:
 [WRONG] Reduced response to hypoxia and hypercapnia, increased surfactant production
 
 # ~Question 4
-Use of lipids to replace caloric needs can reduce what?
+Which factor can be reduced be replacing some caloric needs with lipids?
 
 [WRONG] Blood glucose
 [WRONG] Protein
 [RIGHT] Carbohydrate load
 
 # ~Question 5
-Which of the following is correct?
+Which information about care of mechnically ventialted patients is correct? Select all that apply.
 
 [WRONG] Mechanically ventilated patients are at reduced risk for peptic ulcer disease
 [WRONG] Thinning secretions can increase airway obstruction
@@ -238,16 +234,16 @@ Which of the following is correct?
 [RIGHT] High amounts of FiO2 can place patients at risk for oxygen toxicity
 
 # ~Question 6
-A patient has been on the mechanical ventilator with continuous sedation fo 7 days in CMV mode. What problem is this patient at highest risk for?
+A patient has been on the mechanical ventilator with continuous sedation for 14 days in CMV mode. What problem is this patient at highest risk for?
 
 [WRONG] Pneumothorax
 [WRONG] Airway obstruction
 [RIGHT] VIDD
 
 # ~Question 9 
-If your patient accidentally extubated himself and is now having respiratory distress, what is the first thing you should do?
+A patient accidentally extubated himself and is now having respiratory distress. What action would the nurse take first?
 
 [WRONG] Try to reinsert the endotracheal tube
-[RIGHT] Manually ventilate the patient with a manual resuscitation bag
+[RIGHT] Ventilate the patient with a manual resuscitation bag
 [WRONG] Document the pulse oximetry
 [WRONG] Obtain an ABG
