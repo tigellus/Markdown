@@ -1,7 +1,7 @@
 # 2019 - Coronavirus (COVID-19) Specimen Collection Kit
 
 ### Use: 
-* To collect nasopharyngeal specimens for 2019-Coronavirus (SARS-CoV-2), the virus that causes COVID-19.
+* Collecting nasopharyngeal specimens for 2019-Coronavirus (SARS-CoV-2), the virus that causes COVID-19.
 
 ### Kit contents:
 * 1 Tube of Universal Transport Media (UTM)
