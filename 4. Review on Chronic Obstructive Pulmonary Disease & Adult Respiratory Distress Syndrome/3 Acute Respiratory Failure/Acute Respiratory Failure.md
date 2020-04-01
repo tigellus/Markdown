@@ -80,14 +80,17 @@ What are the clinical determinants of failure of arterial blood oxygenation?
 
 ### Hypoxemia
 Symptoms: Restlessness, agitation, disorientation, confusion, delirium, dyspnea
+
 Physical Findings: Cardiac dysrhythmias, tachycardia, cyanosis, labored breathing, tachypnea
 
 ### Hypercapnia
 Symptoms: Headache, somnolence, dizziness, coma, confusion
+
 Physical Findings: Hypertension, tachycardia, muscle twitching, diaphoresis
 
 ### Acidosis
 Symptoms: Coma
+
 Physical Findings: Cardiac dysrhythmias
 
 # Diagnostics
