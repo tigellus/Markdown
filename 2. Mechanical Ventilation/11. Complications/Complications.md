@@ -137,7 +137,7 @@ Which of the following could you do for a high respiratory rate alarm?
 * Pneumothorax: Positive pressure causing a break in the integrity of the visceral pleura-- can result from severe barotrauma
 * Tension Pneumothorax: watch for mediastinal shift, immediate intervention indicated- use BVM until physician can perform needle decompression
 
-## Decreased cardiac output
+### Decreased cardiac output
 * Decreased venous return
 * Relief of work effort
 * PEEP
