@@ -18,7 +18,7 @@ Please watch the following video for an overview on ABG.
 What is Arterial Blood Gas used for? 
 
 [RIGHT] To assess acid base status and alveolar oxygenation
-[WRONG] To assess tissue oxygenation
+[WRONG] To ensure tissue oxygenation
 
 # ~Question 2
 What does pH represent?
@@ -52,15 +52,15 @@ What does pH represent?
 At what pH value should you suspect acidemia?
 
 [RIGHT] pH < 7.35
-[WRONG] pH < 7.45
-[WRONG] pH < 7.00
+[WRONG] pH = 7.45
+[WRONG] pH > 7.30
 
 # ~Question 4
 At what pH value should you suspect alkalemia?
 
 [RIGHT] pH > 7.45
-[WRONG] pH > 7.35
-[WRONG] pH > 7.00
+[WRONG] pH = 7.35
+[WRONG] pH < 7.30
 
 # Buffers
 
@@ -108,7 +108,7 @@ What is the effect of Hyperventilation?
 # ~Question 7
 Which of the following is NOT a cause of hyperventilation? 
 
-[RIGHT] Taking opioid medication
+[RIGHT] Opioid overdose
 [WRONG] Pneumonia
 [WRONG] Hypoxia
 [WRONG] Anxiety
@@ -155,8 +155,7 @@ Which of the following is NOT a cause of hyperventilation?
 
 ### Full Compensation
 
-* Primary disorder is repaired. All acid base parameters return to normal.
-
+* Primary disorder is being repaired by the opposing system and the pH is normal. 
 ### Partial Compensation
 
 * Primary disorder continues, opposite system begins to adjust (eg. Respiratory disorder, metabolic system attempts to compensate)
@@ -166,23 +165,22 @@ Which of the following is NOT a cause of hyperventilation?
 # ~Question 9
 What is Full Compensation?
 
-[RIGHT] The primary disorder is repaired: all acid base parameters return to normal
+[RIGHT] Primary disorder is being repaired by the opposing system and the pH is normal. 
 [WRONG] The primary disorder continues and the opposite system begins to adjust (partially or completely)
 
 # ~Question 10
-A patient is admitted to the ICU due to respiratory failure. Once in the ICU, the patient was placed on the ventilator. The patient's ABG results demonstrate a PaCO2 of 50mmHg and a HCO3- of 12mEq/L. Which best describes this patient's condition?
+A patient is admitted to the ICU due to respiratory failure and is now on the ventilator. The nurse notes that the patient's PaCO2 is high and the pH is low. Which is true about this patient's ABG?
 
-[WRONG] This patient's acid base disorder is compensated
-[WRONG] This patient's acid base disorder is corrected
-[WRONG] This patient's acid base disorder is both compensated and corrected
-[RIGHT] This patient'sacid base disorder is neither compensated nor corrected
-[WRONG] This patient's acid base disorder is compensated but not corrected
+[WRONG] This patient's acid base disorder is caused by a metabolic problem
+[WRONG] This patient's acid base disorder is being compensated by the respiratory system
+[RIGHT] This patient'sacid base disorder is caused by a respiratory problem
+[WRONG] This patient's acid base disorder is fully compensated
 
 # ~Question 11
 What is partial compensation?
 
-[RIGHT] The primary disorder continues and the opposing system begins to adjust (partially or completely)
-[WRONG] The primary disorder is repaired: all acid base parameters return to normal
+[RIGHT] The primary disorder continues, the opposing system begins to adjust, and the pH is abnormal
+[WRONG] The primary disorder is corrected: all acid base parameters return to normal
 
 # Steps to Acid Base Interpretation
 
@@ -247,7 +245,7 @@ Next: Identify if there is full compensation
  * pH is now within NORMAL range (this is the key component that moves the ABG from partially compensated to fully compensated)
  * ABG Disturbance: Fully compensated respiratory acidosis
 
-### Look for Combined Disorders
+### Look for Combined or "Mixed" Disorders
 
 * All acid base parameters are abnormal
 * Both the PaCO2 and HCO3- would have caused the pH to change in the manner that occurred (both respiratory and metabolic issues are causing the pH to be abnormal- neither system is compensating)
@@ -408,7 +406,7 @@ What is the Normal Value of the Anion Gap?
 
 # Question 12
 Your patient exhibits the following acid base parameters: pH = 7.31, PaCO2 = 48, HCO3- = 24. 
-How should this be interpreted?
+What is this patient's acid base disturbance?
 
 [RIGHT] Uncompensated respiratory acidosis
 [WRONG] Mixed acidosis
@@ -417,7 +415,7 @@ How should this be interpreted?
 
 # Question 13
 A patient presents with the following arterial blood gas values: pH: 7.47, PaCO2: 49, HCO3: 33
-What is the most accurate diagnosis?
+What is this patient's acid base disturbance?
 
 [WRONG] Fully Compensated Respiratory Alkalosis
 [WRONG] Uncompensated Metabolic Acidosis 
@@ -426,8 +424,8 @@ What is the most accurate diagnosis?
 [RIGHT] Partially Compensated Metabolic Alkalosis
 
 # Question 14
-Your patient exhibits the following acid base parameters: pH = 7.32, PaCO2 = 56, HCO3- = 31. 
-How should this be interpreted?
+Your patient exhibits the following acid base parameters: pH = 7.32, PaCO2 = 56, HCO3- = 15. 
+What is this patient's acid base disturbance?
 
 [RIGHT] Fully compensated respiratory acidosis
 [WRONG] Fully compensated respiratory alkalosis
@@ -498,7 +496,7 @@ How does the body compensate for tissue hypoxia?
 [WRONG] Tachycardia, Tachypnea, Erythrocytosis, saturation of hemoglobin
 
 # Question 20
-A 54 year old male with a history of chronic obstructive pulmonary disease and was rushed to the emergency department with increasing shortness of breath, fever, and a productive cough with yellow-green sputum. ABG results are: pH= 7.3, PaCO2= 68 mmHg, HCO3= 28 mmol/L, and PaO2= 60 mm Hg. Which best reflects this patient's acid base disturbance? ---> [I normally wouldn't include the back story-- we are assessing their ability to interpret ABGs-- so almost everything is not necessary for this question to assess learner knowledge]
+A 54 year old male with a history of chronic obstructive pulmonary disease and was rushed to the emergency department with increasing shortness of breath, fever, and a productive cough with yellow-green sputum. ABG results are: pH= 7.3, PaCO2= 68 mmHg, HCO3= 28 mmol/L, and PaO2= 60 mm Hg. 
 
 [RIGHT] Partially compensated respiratory acidosis with hypoxemia
 [WRONG] Uncompensated Respiratory acidosis with hypoxemia
@@ -519,7 +517,7 @@ Which best reflects this patient's acid base disturbance?
 * Considering the age of this patient as wel as his accompanying symptoms, the most likely cause is diabetic ketoacidosis. Kussmaul breathing demonstrates the patient's respiratory system attempting to compensate for the acidosis.
  
 # Question 22
-A 54 year old female arrived to the hospital with a left femur fracture and presents with tachycardia and tachypnea. The patient anxiously reports that she is still in pain and now experiencing muscle cramps, tingling, and paraesthesia. ABG results are: pH 7.6, PaO2 120 mm Hg, PaCO2 31 mm Hg, and HCO3 25 mmol/L. Which best reflects this patient's acid base disturbance?
+A 54 year old female arrived to the hospital and anxiously reports that she is having severe pain and anxiety. ABG results are: pH 7.6, PaO2 120 mm Hg, PaCO2 31 mm Hg, and HCO3 25 mmol/L. Which best reflects this patient's acid base disturbance?
  
 [RIGHT] Uncompensated Respiratory Alkalosis
 [WRONG] Uncompensated Respiratory Acidosis
@@ -529,7 +527,7 @@ A 54 year old female arrived to the hospital with a left femur fracture and pres
 * The pH is high, reflecting alkalosis. The pt is in pain and is breathing fast, both causes of hyperventilation which lead to loss of CO2 (remember, low CO2 leads to high pH). The patient is not compensating (HCO3- is normal) and the hyperventilation has lead to hyperoxemia (PaO2>100mmHg).
  
 # Question 23
-A 80 year old female has suffered from persistent vomiting for two days. She appears to be lethargic and weak and has myalgia. She is noted to have dry mucus membranes and her capillary refill is >4 seconds. She is diagnosed as having gastroenteritis and dehydration. ABG results are: pH 7.5, PaO2 85 mm Hg, PaCO2 50 mm Hg, and HCO3 34 mmol/L. Which best reflects this patient's acid base disturbance?
+A 80 year old female has suffered from persistent vomiting for two days. She appears to be lethargic and weak and has myalgia. She is diagnosed as having gastroenteritis and dehydration. ABG results are: pH 7.5, PaO2 85 mm Hg, PaCO2 40 mm Hg, and HCO3 34 mmol/L. Which best reflects this patient's acid base disturbance?
  
 [WRONG] Fully Compensated Respiratory alkalosis
 [WRONG] Mixed acidosis
