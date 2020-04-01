@@ -8,7 +8,7 @@ You can find the handbook here:
 
 [Go to the handbook](https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Coronavirus/Critical-Care-Handbook.pdf)
 
-# EBMedicine Updated Overview for Emergency Clinicians
+# EB Medicine Updated Overview for Emergency Clinicians
 This resource collates COVID-19-related research, information, and clinical guidance from multiple sources that are updated on a daily basis as the situation rapidly evolves. Topics include epidemiology, transmission and prevention, evaluation and testing, imaging, airway management, care of pediatric and pregnant patients, and more.
 
 [Go to the Overview for Emergency Clinicians](https://www.ebmedicine.net/topics/infectious-disease/COVID-19)

@@ -1,4 +1,4 @@
-# Respiratory failure 
+# Respiratory Failure 
 
 Gas exchange is so severely impaired that arterial hypercapnea or hypoxemia occurs
 * Hypoxemia - PaO2 <80
@@ -32,7 +32,7 @@ What is the result of alevolar hypoventilation?
 [RIGHT] CO2 accumulates in the blood, PaCO2 rises and PaO2 falls
 [WRONG] O2 accumulates in the blood, PaCO2 falls and PaO2 rises
 
-# Clinical categories and determinants of Acute Respiratory Failure
+# Clinical Categories and Determinants of Acute Respiratory Failure
 
 ### Clinical Category 
 Failure of alveolar ventilation
@@ -80,14 +80,17 @@ What are the clinical determinants of failure of arterial blood oxygenation?
 
 ### Hypoxemia
 Symptoms: Restlessness, agitation, disorientation, confusion, delirium, dyspnea
+
 Physical Findings: Cardiac dysrhythmias, tachycardia, cyanosis, labored breathing, tachypnea
 
 ### Hypercapnia
 Symptoms: Headache, somnolence, dizziness, coma, confusion
+
 Physical Findings: Hypertension, tachycardia, muscle twitching, diaphoresis
 
 ### Acidosis
 Symptoms: Coma
+
 Physical Findings: Cardiac dysrhythmias
 
 # Diagnostics
