@@ -111,7 +111,7 @@ Pneumonia is one of the most common illnesses today, especially for those in the
 # Signs and Symptoms
 
 ## Patient Presentation
-Regardless of the cause of pneumonia, the symptoms are similarm including:
+Regardless of the cause of pneumonia, the symptoms are similar including:
 * General malaise
 * Fever with chills and/or rigor
 * Productive cough with purulent sputum
