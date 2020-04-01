@@ -164,7 +164,7 @@ Which of the following is NOT a cause of hyperventilation?
 
 ### Look for Compensation
 
-# Partial Compensation
+## Partial Compensation
 
 * All ABG values are abnormal
 
@@ -193,7 +193,7 @@ Next: Identify if there is partial compensation
  * pH is abnormal (the primary problem is still a problem and has not been fully compensated)
  * ABG Disturbance: Partially compensated metabolic alkalosis
  
- # Full Compensation
+ ## Full Compensation
  * pH is within normal range, but PaCO2 and HCO3 are abnormal
  * Use "7.4" as a reference point: pH= 7.35-7.4 is now labeled "acidosis", pH= 7.4-7.45 is now labeled as "alkalosis"
  First: Identify the cause:
