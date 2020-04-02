@@ -10,6 +10,14 @@ The spectrum of symptomatic COVID-19 infection ranges from mild to critical; mos
 - *Severe* (e.g. with dyspnea, hypoxia, or >50 percent lung involvement on imaging within 24 to 48 hours) was reported in 14 percent.
 - *Critical* (e.g. with respiratory failure, shock, or multiorgan dysfunction) was reported in 5 percent.
 
+# ~Question 8
+What percent of COVID-19 patients present mild symptoms?
+
+[WRONG] Ca. 15%
+[WRONG] Ca. 50%
+[RIGHT] Ca. 80%
+[WRONG] Ca. 70%
+
 ## Care of patients who are critically ill
 
 The topic addressed in the sessions are:
