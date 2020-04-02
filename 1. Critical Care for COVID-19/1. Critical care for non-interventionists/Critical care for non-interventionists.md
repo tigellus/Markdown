@@ -25,58 +25,67 @@ Please watch the following video:
 Source: Mount Sinai Health System
 
 # ~Question 1
-Concerning the level of care, which one is incorrect? 
-[RIGHT] Higher threshold for ICU transfer 
-[WRONG] Pattens with confirmed COVID-19 with rapidly increasing O2 requirements, non-rebreather, or NIV should be transferred to intermediate/ICU level of care 
+What is the appropriate level of care for COVID-19 patients?
 
-* Lower threshold for ICU transfer 
+[WRONG] Higher threshold for ICU transfer as to not overcrowd it
+[RIGHT] Lower threshold for ICU transfer to prevent quick patient deterioration
+
+* Patients with confirmed COVID-19 with rapidly increasing O2 requirements, non-rebreather, or NIV should be transferred to intermediate/ICU level of care. 
 
 # ~Question 2
-In which one of those areas can one wear surgical mask only (no N95 required) ?
-[RIGHT]in patient room
-[WRONG]Aerosol.generating procedures
-[WRONG]In room with PUI/COVID+ patients on HFNC/BIPAP
+In which of the following areas is it sufficient to wear a surgical mask (N95 mask not required)?
+[RIGHT] In patient room
+[WRONG] Areas with aerosol generating procedures
+[WRONG] In room with PUI/COVID+ patients on HFNC/BIPAP
  
-* In patient room: surgical face mask, face shield, isolation gown, gloves
+* In patient room: it is sufficient to wear surgical face mask, face shield, isolation gown, gloves.
 
 # ~Question 3
-Which of the statement about intubation is incorrect? 
-[RIGHT]Have a high threshold for intubation
-[WRONG]N95 (instead of surgical mask), face shield, double gloves, blue plastic gown, hat must be used
-[WRONG]Plan for rapid sequence intubation by most experienced physician. 
-[WRONG]Ideally 2 people (max 3) in room during intubation
+Which of the following statements about intubation is NOT correct? 
 
-* Have a low threshold for early intubation in order to avoid emergent intubations. Covid-19 patients can deteriorate rapidly 
+[RIGHT] The threshold for patient intubation should be high
+[WRONG] When performing an intubation, you need an N95 mask (instead of surgical mask), face shield, double gloves, blue plastic gown, and hat 
+[WRONG] The most experienced physician should perform an intubation
+[WRONG] During intubation, 2 or maximum 3 people should be in the room
+
+* You should have a low threshold for early intubation in order to avoid emergent intubations. Covid-19 patients can deteriorate rapidly. 
 
 # ~Question 4
-Which of the statements about admission workflow is correct:
-[RIGHT]Use COVID-19-orderset
-[RIGHT]New admissions perform a medication reconciliation of home meds 
-[RIGHT]Identify the head-care proxy and/or surrogates and confirm accurate phone numbers. Make sure this is documented in the advanced care planning tab and also an advanced care planning note
-[RIGHT]Confirm code status with patient or with NOK/HCP/surrogate if patient is incapacitated
-[RIGHT]Consult ID to discuss treatment/clinical trial options
-[RIGHT]You should never enter a room without donning appropriate PPE
-[RIGHT]Routinely bleach/wipe your workstations 
+Which of the following steps are part of the patient admission workflow?
+
+[RIGHT] Use COVID-19-order set
+[RIGHT] New admissions perform a medication reconciliation of home meds 
+[RIGHT] Identify the head-care proxy and/or surrogates and confirm accurate phone numbers. Make sure this is documented in the advanced care planning tab and also an advanced care planning note
+[RIGHT] Confirm code status with patient or with NOK/HCP/surrogate if patient is incapacitated
+[RIGHT] Consult ID to discuss treatment/clinical trial options
 
 # ~Question 5
-Which of the statements about Rounding/Pre-Ronding in the COVID-19 unit is **incorrect**?
-[WRONG]Step 1: Get sign-out form the overnight team on new admissions and major overnight events
-[WRONG]Step 2: EPIC re-rounding for vitals, labs, blood gas/lactate and vent support required, new microbiology data, ins/outs
-[RIGHT]Step 3: see patients (either rom door) or call patients as needed. Do physical exam if the condition of patients change.
-* Step 3: see patients (either rom door) or call patients as needed. Minimize exposure, in/out. A physical exam is NOT necessary for routine care of COVID-!) patients and is extremely discouraged
+Which of the following steps of Pre-Rounding/Rounding in the COVID-19 unit is NOT correct?
+
+[WRONG] Get sign-out form the overnight team on new admissions and major overnight events
+[WRONG] EPIC pre-rounding for vitals, labs, blood gas/lactate and vent support required, new microbiology data, ins/outs
+[RIGHT] See patients or call patients as needed. Perform a physical exam if the condition of patients changes.
+
+* The correct step is to see patients either from the door or call patients as needed. You should minimize exposure. A physical exam is NOT necessary for routine care of COVID-19 patients and is extremely discouraged.
 
 # ~Question 6
 Which of the following are the warning signs of respiratory decompensation? 
-[RIGHT]Rapidly escalating O2 requirement (eg. RA —> 6L NC —> NRM in short period of time, eg minutes to hours)
-[RIGHT]Inability to maintain sats in the 90s on escalated O2 therapy
-[RIGHT]Respiratory distress including: tachypnea, accessory muscle use, inability to speak in full sentences
-[WRONG]Patients with COVID-19 often feel very little dyspnea 
-[RIGHT]Patients have very little reserve and decompensated quickly and profoundly. It is important to stay vigilant and escalate your concerns early
 
-* Note that patients with COVID-19 often feel very little dyspnea despite being profoundly hypodermic, for unclear reasons
+[RIGHT] Rapidly escalating O2 requirement 
+[RIGHT] Inability to maintain sats in the 90s on escalated O2 therapy
+[RIGHT] Respiratory distress including: tachypnea, accessory muscle use, inability to speak in full sentences
+[WRONG] Severe dyspnea 
+
+* Patients with COVID-19 often feel very little dyspnea despite being profoundly hypodermic, for unclear reasons.
 
 # ~Question 7
-Which of following needs to be assessed when asked to consider patient’s respiratory status 
-[RIGHT]Vitals : heart rate, respiratory rate, SpO2 
-[RIGHT]Physical exam and appearance: grimacing, using abdominal and accessory muscles, or tachypnea without distress
-[RIGHT]Arterial blood gas analysis: pH/pCO2/pO2/lactate
+Which of following is needed to assess a patient's respiratory status? 
+
+[WRONG] Vitals : heart rate, respiratory rate, SpO2 
+[WRONG] Physical exam and appearance
+[WRONG] ABG analysis: pH/pCO2/pO2/lactate
+[RIGHT] All of the mentioned options
+
+
+
+
