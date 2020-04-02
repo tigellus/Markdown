@@ -41,19 +41,19 @@
 # ~Question 1
 What is an early sign of respiratory failure?
 
-[RIGHT] Confusion, Anxiety and Visual Disturbances
-[WRONG] Fatigue, Nausea
+[RIGHT] Confusion, Anxiety and Restlessness
+[WRONG] Bradycardia, Nausea
 
 # ~Question 2
 Which of the following is a NOT a sign of respiratory failure?
 
-[RIGHT] Increased energy
+[RIGHT] Improved cognition
 [WRONG] Tachycardia
-[WRONG] Pale, cyanotic skin
+[WRONG] Diffuse crackles
 
 # ~Question 3
 Which of the following is indicative of respiratory failure?
 
-[RIGHT] Hypotension
-[WRONG] Increased respirations
-[WRONG] Increased blood glucose level
+[RIGHT] PaCO2 = 55mmHg
+[WRONG] PaO2 = 80mmHg
+[WRONG] pH = 7.33
