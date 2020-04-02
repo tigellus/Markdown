@@ -25,11 +25,10 @@ Please watch the following video:
 Source: Mount Sinai Health System
 
 # ~Question 1
-Concerning the level of care, which one is incorrect? 
-[RIGHT] Higher the threshold for ICU transfer 
-[WRONG] Pattens with confirmed COVID-19 with rapidly increasing O2 requirements, non-rebreather, or NIV should be transferred to intermediate/ICU level of care 
-
-* Lower the threshold for ICU transfer 
+What is the appropriate level of care for COVID-19 patients?
+[WRONG] Higher threshold for ICU transfer as to not overcrowd it
+[RIGHT] Lower threshold for ICU transfer to prevent quick patient deterioration
+* Patients with confirmed COVID-19 with rapidly increasing O2 requirements, non-rebreather, or NIV should be transferred to intermediate/ICU level of care.
 
 # ~Question 2
 In which one of those areas can one wear surgical mask only (no N95 required) ?
@@ -40,13 +39,13 @@ In which one of those areas can one wear surgical mask only (no N95 required) ?
 * In patient room: surgical face mask, face shield, isolation gown, gloves
 
 # ~Question 3
-Which of the statement about intubation is incorrect? 
-[RIGHT]Have a high threshold for intubation
-[WRONG]N95 (instead of surgical mask), face shield, double gloves, blue plastic gown, hat must be used
-[WRONG]Plan for rapid sequence intubation by most experienced physician. 
-[WRONG]Ideally 2 people (max 3) in room during intubation
+Which of the statement about intubation is correct? 
+[WRONG]Have a high threshold for intubation
+[RIGHT]N95 (instead of surgical mask), face shield, double gloves, blue plastic gown, and hat must be used
+[RIGHT]Plan for rapid sequence intubation by most experienced physician. 
+[RIGHT]Ideally 2 people (max 3) in room during intubation
 
-* Have a low threshold for early intubation in order to avoid emergent intubations. Covid-19 patients can deteriorate rapidly 
+* Have a low threshold for early intubation in order to avoid emergent intubations. Covid-19 patients can deteriorate rapidly. 
 
 # ~Question 4
 Which of the statements about admission workflow is correct:
@@ -59,10 +58,10 @@ Which of the statements about admission workflow is correct:
 [RIGHT]Routinely bleach/wipe your workstations 
 
 # ~Question 5
-Which of the statements about Rounding/Pre-Ronding in the COVID-19 unit is **incorrect**?
-[WRONG]Step 1: Get sign-out from the overnight team on new admissions and major overnight events
-[WRONG]Step 2: EPIC re-rounding for vitals, labs, blood gas/lactate and vent support required, new microbiology data, ins/outs
-[RIGHT]Step 3: see patients (either rom door) or call patients as needed. Do physical exam if the condition of patients change.
+Which of the statements about Rounding/Pre-Ronding in the COVID-19 unit is correct?
+[RIGHT]Step 1: Get sign-out from the overnight team on new admissions and major overnight events
+[RIGHT]Step 2: EPIC re-rounding for vitals, labs, blood gas/lactate and vent support required, new microbiology data, ins/outs
+[WRONG]Step 3: see patients (either rom door) or call patients as needed. Do physical exam if the condition of patients change.
 * Step 3: see patients (either rom door) or call patients as needed. Minimize exposure, in/out. A physical exam is NOT necessary for routine care of COVID-19 patients and is extremely discouraged
 
 # ~Question 6
