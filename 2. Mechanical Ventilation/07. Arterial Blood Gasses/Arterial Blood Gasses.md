@@ -142,6 +142,7 @@ Which of the following is NOT a cause of hyperventilation?
 ### Full Compensation
 
 * Primary disorder is being repaired by the opposing system and the pH is normal. 
+
 ### Partial Compensation
 
 * Primary disorder continues, opposite system begins to adjust (eg. Respiratory disorder, metabolic system attempts to compensate)
