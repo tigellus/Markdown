@@ -49,6 +49,20 @@ Iron lung ventilators used after the polio epidemics in the first half of the 20
 [WRONG] Positive Pressure Ventilation
 [RIGHT] Negative pressure Ventilation
 
+# ~Question 5
+CPAP and BiPAP modes are usually used
+
+[WRONG] In conjunction with bronchodilators and steroids
+[WRONG] To delay intubation
+[WRONG] As a weaning protocol
+[RIGHT] All of the options
+
+# ~Question 2
+What is the difference between invasive and non-invasive positive pressure ventilation?
+
+[RIGHT] Invasive positive pressure ventilation is delivered via an endotracheal tube or tracheostomy
+[WRONG] Non-invasive positive pressure ventilation is delivered via an endotracheal tube or tracheostomy
+
 # Nursing Considerations
 
 ### Indications:
@@ -86,17 +100,6 @@ What type of mask should the nurse use when caring for patients who use BiPAP or
 [WRONG] Standard surgical mask
 [WRONG] Full face mask
 
-# ~Question 2
-What is the difference between invasive and non-invasive positive pressure ventilation?
-
-[RIGHT] Invasive positive pressure ventilation is delivered via an endotracheal tube or tracheostomy
-[WRONG] Non-invasive positive pressure ventilation is delivered via an endotracheal tube or tracheostomy
-
-# ~Question 3
-Iron lung ventilators used after the polio epidemics in the first half of the 20th century used which type of ventilation?
-
-[WRONG] Positive Pressure Ventilation
-[RIGHT] Negative pressure Ventilation
 
 # ~Question 4
 List one indication for non-invasive mechanical ventilation:
@@ -106,10 +109,4 @@ List one indication for non-invasive mechanical ventilation:
 [WRONG] Upper airway tumor
 [WRONG] Copious thick secretions
 
-# ~Question 5
-CPAP and BiPAP modes are usually used
 
-[WRONG] in conjunction with bronchodilators and steroids
-[WRONG] to delay intubation
-[WRONG] as a weaning protocol
-[RIGHT] All of the options
