@@ -2,24 +2,24 @@
 Capnography is a recent advancement for monitoring ventilatory status of critically ill patients. Its use is now spreading to other units within the hospital, such as the emergency room, critical care units, and general wards. As of today, capnography is often used on sedated intubated patients. Capnography provides a continuous, non-invasive measurement of arterial partial pressure of carbon dioxide (PaCO2) through the entire respiratory cycle.  The capnogram measures end-tidal partial pressure of CO2 (PetCO2) which is closely correlated to the PaCO2.
 
 Common signs of an increased CO2 levels (called hypercapnia) are:
-- [ ] confusion
-- [ ] feelings of paranoia or depression
-- [ ] muscle twitching
-- [ ] irregular heartbeat
-- [ ] hyperventilation
-- [ ] seizures
-- [ ] panic attack
-- [ ] fainting
-- [ ] headache
-- [ ] blurred vision.
+* confusion
+* feelings of paranoia or depression
+* muscle twitching
+* irregular heartbeat
+* hyperventilation
+* seizures
+* panic attack
+* fainting
+* headache
+* blurred vision.
 
 However, many of these symptoms will not manifest in a sedated patient or a patient who has an airway management device in place, like an ET tube. In such patients, hypercapnia may not be noted until the patient is at serious risk of death. 
 
 The normal capnography waveform appears as a somewhat rounded rectangle: 
-- [ ] it rises vertically on exhalations as CO2 is exhaled
-- [ ] remains flat at the end of expiration but before the beginning of inspiration
-- [ ] falls vertically on inhalation
-- [ ] remains flat at the end of the inhalation until the next exhalation.
+* it rises vertically on exhalations as CO2 is exhaled
+* remains flat at the end of expiration but before the beginning of inspiration
+* falls vertically on inhalation
+* remains flat at the end of the inhalation until the next exhalation.
 
 Changes in the shape of the waveform and the partial pressure of end tidal CO2 (PetCO2) reading (normal level, 35%–45%) in combination with pulse oximetry and respiratory rate readings can alert a medical worker that a problem needs to be addressed.
 
