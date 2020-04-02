@@ -54,9 +54,11 @@ Which condition is NOT considered a category of COPD?
 [WRONG] Emphysema
 [WRONG] Chronic bronchitis
 
-# Emphysema -  Pathological Diagnosis
+# Emphysema
 
-An abnormal distention of airspaces beyond the terminal bronchioles and destruction of the walls of the alveoli
+## Pathological Diagnosis
+
+* An abnormal distention of airspaces beyond the terminal bronchioles and destruction of the walls of the alveoli.
 * Patients with Emphysema, often referred to as "Pink Puffers," tend to be thin, cachetic persons with marked shortness of breath. Decreased lung compliance leads to increased work of breathing and dyspnea.
 
 ### Pathology
@@ -90,11 +92,11 @@ An abnormal distention of airspaces beyond the terminal bronchioles and destruct
 * Increased deadspace
 * Dilation of distal airways
 
-## Alveolus and lungs in Emphysema
-
-### Alveolus in Emphysema
+### Alveolus in Emphysema - 1
 
 ![](assets/alveolus_in_emphysema1.png)
+
+### Alveolus in Emphysema - 2
 
 ![](assets/alveolus_in_emphysema2.png)
 
@@ -133,8 +135,10 @@ Which condition is characterized by an abnormal permanent enlargement of the air
 [WRONG] Chronic bronchitis
 [WRONG] Pneumonia
 
-# Chronic Bronchitis - Clinical Diagnosis
-A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
+# Chronic Bronchitis
+
+## Clinical Diagnosis
+* A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years.
 * Patients with Chronic Bronchitis, often referred to as "Blue Bloaters," tend to be large persons with cyanosis, edema, and relatively little dyspnea.
 
 ### Pathology
@@ -185,19 +189,15 @@ Which condition is manifested by a productive cough for greater than 3 months in
 
 # Infection and Pulmonary Hypertension
 
-### Acute Infection
-The most common cause of death
-
-### Pulmonary Hypertension
-
-May result in signs and symptoms of right heart failure
-* Dyspnea
-* Angina at rest
-* Syncope
-* Cyanosis
-* Peripheral edema
-* Hepatomegaly
-* Renal dysfunction
+* Acute infection is the most common cause of death.
+* Pulmonary Hypertension may result in signs and symptoms of right heart failure:
+  * Dyspnea
+  * Angina at rest
+  * Syncope
+  * Cyanosis
+  * Peripheral edema
+  * Hepatomegaly
+  * Renal dysfunction
 
 # ~Question 8
 Which condition is a complication of pulmonary hypertension?
@@ -232,4 +232,3 @@ Which environmental risk factor is most important in development of emphysema?
 [RIGHT] Cigarette smoking
 
 * Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
-

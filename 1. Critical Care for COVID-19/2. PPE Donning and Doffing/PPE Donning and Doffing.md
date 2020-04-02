@@ -4,6 +4,28 @@ In this session you will learn the sequence for donning and doffing personal pro
 
 [embed](https://www.youtube.com/watch?v=ShiSLGqDPDw&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=3)
 
+Summary of donning:
+1. Perform hand hygiene
+2. Put on gown
+3. Put on N95 respirator or surgical mask
+4. Put on a surgical mask over your N95
+5. Put on face shield
+6. Put on gloves
+
+Summary of doffing:
+1. Remove gown
+2. Remove gloves
+3. Dispose gown and gloves
+4. Perform hand hygiene
+5. Wear fresh gloves
+6. Remove your face shield
+7. Remove gloves
+8. Perform hand hygiene
+9. Remove surgical mask and N95 mask
+10. Perform hand hygiene
+
+**Important: Remove your gown using your gloves before exiting the patient room.**
+
 Source: Mount Sinai Health System
 
 # ~Question 1
