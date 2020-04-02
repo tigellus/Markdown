@@ -4,6 +4,14 @@ Watch the following video for an introduction to endotracheal intubation.
 
 [embed](https://www.youtube.com/watch?v=iyAQR_Zpf6U&list=PLCT7BA-HcHljIaDw56FoqWILbqGCIxsmG&index=5)
 
+# ~Question 34
+What items should be retrieved before intubation?
+
+[WRONG] A nasopharyngeal swab
+[RIGHT] A bag valve mask
+[RIGHT] A GlideScope
+[RIGHT] ETT tubes
+
 # Endotracheal Tube (ET Tube)
 *  Endotracheal tubes are curved tubes used for intubation
 * Tubes were previously made up of latex (indian rubber) and those are still available. Currently plastic tubes (PVC) are preferred because of the following advantages: 
