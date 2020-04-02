@@ -11,7 +11,7 @@ The NPPV unit can be programmed to deliver:
 * Respiratory rate
 * Inspiratory positive airway pressure (IPAP)
 * Expiratory pressure (EPAP)
-* Supplemental FiO2 
+* Supplemental FiO2
 
 ## Continuous Positive Airway Pressure (CPAP)
 Provides continuous positive pressure to keep alveoli open and enhance ventilation and oxygenation
@@ -80,19 +80,31 @@ Iron lung ventilators used after the polio epidemics in the first half of the 20
 * Malnutrition or dehydration (due to possible reduced oral intake)
 
 # ~Question 1
-What type of mask should be used when caring for patients who use BiPAP or CPAP machines?
+What type of mask should the nurse use when caring for patients who use BiPAP or CPAP machines?
 
 [RIGHT] N95 respirator mask
 [WRONG] Standard surgical mask
 [WRONG] Full face mask
 
-# ~Question 6
+# ~Question 2
+What is the difference between invasive and non-invasive positive pressure ventilation?
+
+[RIGHT] Invasive positive pressure ventilation is delivered via an endotracheal tube or tracheostomy
+[WRONG] Non-invasive positive pressure ventilation is delivered via an endotracheal tube or tracheostomy
+
+# ~Question 3
+Iron lung ventilators used after the polio epidemics in the first half of the 20th century used which type of ventilation?
+
+[WRONG] Positive Pressure Ventilation
+[RIGHT] Negative pressure Ventilation
+
+# ~Question 4
 List one indication for non-invasive mechanical ventilation:
 
-[WRONG] Difficulty weaning from the ventilator
+[WRONG] Somnolence
 [RIGHT] Sleep apnea
 [WRONG] Upper airway tumor
-[WRONG] Copious secretions
+[WRONG] Copious thick secretions
 
 # ~Question 5
 CPAP and BiPAP modes are usually used
