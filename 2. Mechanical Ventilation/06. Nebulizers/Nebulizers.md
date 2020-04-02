@@ -37,6 +37,15 @@ How long does it typically take to deliver nebulizer therapy?
 [WRONG] 2-3 minutes
 [WRONG] 15-20 minutes
 
+# ~Question 3
+What should you do to ensure that the medication is properly delivered?
+
+[RIGHT] Gently tap the sides of the nebulizer from time to time
+[WRONG] Add more medicine to the nebulizer
+[WRONG] Vary between a mouthpiece and a mask
+
+* Gently tapping the sides of the nebulizer will make the medication drop in the area where it can be misted.
+
 # Nebulizer Treatment via Ventilator
 
 ![](assets/nebulizer2.png)
