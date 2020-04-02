@@ -1,4 +1,4 @@
-# Mechanical Ventilators 
+# Mechanical Ventilation
 
 Mechanical ventilation is indicated for patients with respiratory failure who are unable to maintain adequate gas exchange.
 Mechanical ventilators deliver positive pressure using a number of settings within a specified overall mode.
@@ -22,11 +22,11 @@ Mechanical ventilation is:
 
 [WRONG] Chest compressions performed during cardiopulmonary arrest.
 [WRONG] Use of a heart-lung machine during coronary artery bypass surgery.
-[RIGHT] Use of a machine to breathe for a patient who can’t breathe effectively on his or her own.
+[RIGHT] Use of a machine to deliver breaths to a patient who can’t breathe effectively on his or her own.
 [WRONG] Use of an intra-aortic balloon pump for cardiogenic shock.
 
 # Mechanical Ventilator Settings 
-Mechanical ventilators can be programed to deliver a number of specific settings. Keep in mind that not all modes use all of the following settings.
+Mechanical ventilators can be programed to deliver a number of specific settings. Some of those key settings are listed below. Keep in mind that not all modes use all of the following settings.
 * FiO2: fraction of inspired oxygen (percentage of oxygen delivered)
 * RR/f: respiratory rate or frequency (number of breaths delivered per minute by the ventilator)
 * Vt: tidal volume (size of each breath)
@@ -57,7 +57,7 @@ What are the Ventilator Parameters adjusted to maintain the optimum Minute Venti
 [RIGHT] Tidal Volume and Respiratory Rate
 
 # ~Question 17
-Which are the Ventilator Parameters adjusted to maintain the optimum oxygenation?
+Which ventilator settings can be adjusted to maintain the optimum oxygenation?
 
 [RIGHT] FiO2 and PEEP
 [WRONG] Tidal Volume and Respiratory Rate
@@ -91,7 +91,7 @@ A ventilator mode with a preset volume of gas that is delivered despite the amou
 # Select modes 
 All of these modes will include a pre-set PEEP and FiO2, from there, the additional support may be provided depending on the mode
 
-## Control Mandatory Ventilation (CMV)
+## Controlled Mandatory Ventilation (CMV)
 * Preset tidal volume and respiratory rate
 * Patient cannot take any spontaneous breaths
 
@@ -187,7 +187,7 @@ What characterizes Control Mechanical Ventilation (CMV)?
 What best characterizes Synchronised Intermittent Mandatory Ventilation (SIMV)? 
 
 [RIGHT] Preset rate and tidal volume, but allows spontaneous breaths at any tidal volume
-[WRONG] Preset tidal volume, but allows spontaneous breaths at any rate
+[WRONG] Preset tidal volume, but no spontaneous breaths
 [WRONG] Preset rate but not preset tidal volume
 [WRONG] Preset tidal volume but not preset rate
 [WRONG] No preset rate or tidal volume
@@ -195,7 +195,7 @@ What best characterizes Synchronised Intermittent Mandatory Ventilation (SIMV)?
 # ~Question 4
 What are the key advantages of Pressure Support Ventilation (PSV)?
 
-[RIGHT] Patient control of inspiratory timing, easy change of gas flow
+[RIGHT] Patient control of inspiratory timing, mimics natural ventilation
 [WRONG] Tidal volume is guaranteed
 
 # ~Question 5
@@ -235,7 +235,7 @@ One of the following modes of ventilation “locks out” the patient's efforts 
 [WRONG] Pressure Control Mode
 
 # ~Question 13
-One of the following modes of ventilation places the patient at risk for respiratory alkalosis
+One of the following modes of ventilation places the patient at highest risk for respiratory alkalosis
 [WRONG] CPAP
 [WRONG] Synchronous Intermittent Mandatory Ventilation
 [RIGHT] Assist Control Mode
@@ -266,7 +266,7 @@ Which one of the following modes of ventilation provides a set amount of pressur
 [RIGHT] Pressure Control Mode
 
 # ~Question 20
-Which mode of ventilation requires the most respiratory effort from the patient? (the question listed before did not make sense to me)
+Which mode of ventilation requires the most respiratory effort from the patient?
 
 [WRONG] Controlled Mandatory Ventilation
 [WRONG] Synchronous Intermittent Mandatory Ventilation
@@ -309,10 +309,10 @@ What characterizes Continuous Positive Airway Pressure (CPAP)?
 [WRONG] No preset tidal volume, no control of FiO2 and gas pressure at end-exhalation
 
 # ~Question 9
-Which mechanical ventilation approach is most suitable when a patient is breathing spontaneously?
+Which mode is most suitable when a patient is breathing spontaneously?
 
 [RIGHT] CPAP
-[WRONG] PEEP
+[WRONG] CMV
 
 # ~Question 10
 What is a potential complication of Positive-End Expiratory Pressure?
