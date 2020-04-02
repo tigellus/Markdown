@@ -469,7 +469,7 @@ Which best reflects this patient's acid base disturbance?
 [WRONG] Mixed acidosis
 [RIGHT] Partially compensated metabolic acidosis
  
-* Considering the age of this patient as wel as his accompanying symptoms, the most likely cause is diabetic ketoacidosis. Kussmaul breathing demonstrates the patient's respiratory system attempting to compensate for the acidosis.
+* Considering the age of this patient as well as his accompanying symptoms, the most likely cause is diabetic ketoacidosis. Kussmaul breathing demonstrates the patient's respiratory system attempting to compensate for the acidosis.
  
 # ~Question 22
 A 54 year old female arrived to the hospital and anxiously reports that she is having severe pain and anxiety. ABG results are: pH 7.6, PaO2 120 mm Hg, PaCO2 31 mm Hg, and HCO3 25 mmol/L. Which best reflects this patient's acid base disturbance?
