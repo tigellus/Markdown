@@ -458,7 +458,7 @@ A 54 year old male with a history of chronic obstructive pulmonary disease and w
 [WRONG] Partially compensated metabolic Acidosis
 [WRONG] Uncompensated Metabolic alkalosis
  
-* This patient has a low a pH so immediately think "acidosis." The PaCO2 is high which reflects acidosis-- therefore, it can be determined that the cause of the low pH is respiratory. Also based on the clinical presentation we can imagine that due to crackles and wheezes and the yellow sputum we can imagine that this pt is not ventilating efficiently and therefore building up CO2 in the blood. The HCO3- is elevated, reflecting alkalosis (the opposite direction of the problematic pH), thus this reflects partial compensation because the pH is still abnormal. The patient's low PaO2 is also cause for concern- representing hypoxemia.
+* This patient has a low a pH so immediately think "acidosis." The PaCO2 is high which reflects acidosis-- therefore, it can be determined that the cause of the low pH is respiratory. Also based on the clinical presentation we can imagine that due to crackles and wheezes and the yellow sputum we can imagine that this patient is not ventilating efficiently and therefore building up CO2 in the blood. The HCO3- is elevated, reflecting alkalosis (the opposite direction of the problematic pH), thus this reflects partial compensation because the pH is still abnormal. The patient's low PaO2 is also cause for concern- representing hypoxemia.
  
 # ~Question 21
 A 10 year old male was rushed to the hospital due to vomiting and a decreased level of consciousness. The patient displays fast and deep respirations (Kussmaul breathing). The patient is lethargic and irritable in response to stimulation. He appears to be dehydrated—his eyes are sunken and mucous membranes are dry—and he has a two week history of polydipsia, polyuria, and weight loss. ABG results are: pH 7.1, PaO2 90 mm Hg, PaCO2 23 mm Hg, and HCO3 12 mmol/L.
@@ -479,7 +479,7 @@ A 54 year old female arrived to the hospital and anxiously reports that she is h
 [WRONG] Fully Compensated Metabolic Alkalosis
 [WRONG] Partially Compensated Metabolic Acidosis
  
-* The pH is high, reflecting alkalosis. The pt is in pain and is breathing fast, both causes of hyperventilation which lead to loss of CO2 (remember, low CO2 leads to high pH). The patient is not compensating (HCO3- is normal) and the hyperventilation has lead to hyperoxemia (PaO2>100mmHg).
+* The pH is high, reflecting alkalosis. The patient is in pain and is breathing fast, both causes of hyperventilation which lead to loss of CO2 (remember, low CO2 leads to high pH). The patient is not compensating (HCO3- is normal) and the hyperventilation has lead to hyperoxemia (PaO2>100mmHg).
  
 # ~Question 23
 A 80 year old female has suffered from persistent vomiting for two days. She appears to be lethargic and weak and has myalgia. She is diagnosed as having gastroenteritis and dehydration. ABG results are: pH 7.5, PaO2 85 mm Hg, PaCO2 40 mm Hg, and HCO3 34 mmol/L. Which best reflects this patient's acid base disturbance?
