@@ -26,15 +26,15 @@ Source: Mount Sinai Health System
 
 # ~Question 1
 Concerning the level of care, which one is incorrect? 
-[RIGHT] Higher threshold for ICU transfer 
+[RIGHT] Higher the threshold for ICU transfer 
 [WRONG] Pattens with confirmed COVID-19 with rapidly increasing O2 requirements, non-rebreather, or NIV should be transferred to intermediate/ICU level of care 
 
-* Lower threshold for ICU transfer 
+* Lower the threshold for ICU transfer 
 
 # ~Question 2
 In which one of those areas can one wear surgical mask only (no N95 required) ?
-[RIGHT]in patient room
-[WRONG]Aerosol.generating procedures
+[RIGHT]In patient room
+[WRONG]Aerosol generating procedures
 [WRONG]In room with PUI/COVID+ patients on HFNC/BIPAP
  
 * In patient room: surgical face mask, face shield, isolation gown, gloves
@@ -52,7 +52,7 @@ Which of the statement about intubation is incorrect?
 Which of the statements about admission workflow is correct:
 [RIGHT]Use COVID-19-orderset
 [RIGHT]New admissions perform a medication reconciliation of home meds 
-[RIGHT]Identify the head-care proxy and/or surrogates and confirm accurate phone numbers. Make sure this is documented in the advanced care planning tab and also an advanced care planning note
+[RIGHT]Identify the health-care proxy and/or surrogates and confirm accurate phone numbers. Make sure this is documented in the advanced care planning tab and also an advanced care planning note
 [RIGHT]Confirm code status with patient or with NOK/HCP/surrogate if patient is incapacitated
 [RIGHT]Consult ID to discuss treatment/clinical trial options
 [RIGHT]You should never enter a room without donning appropriate PPE
@@ -60,10 +60,10 @@ Which of the statements about admission workflow is correct:
 
 # ~Question 5
 Which of the statements about Rounding/Pre-Ronding in the COVID-19 unit is **incorrect**?
-[WRONG]Step 1: Get sign-out form the overnight team on new admissions and major overnight events
+[WRONG]Step 1: Get sign-out from the overnight team on new admissions and major overnight events
 [WRONG]Step 2: EPIC re-rounding for vitals, labs, blood gas/lactate and vent support required, new microbiology data, ins/outs
 [RIGHT]Step 3: see patients (either rom door) or call patients as needed. Do physical exam if the condition of patients change.
-* Step 3: see patients (either rom door) or call patients as needed. Minimize exposure, in/out. A physical exam is NOT necessary for routine care of COVID-!) patients and is extremely discouraged
+* Step 3: see patients (either rom door) or call patients as needed. Minimize exposure, in/out. A physical exam is NOT necessary for routine care of COVID-19 patients and is extremely discouraged
 
 # ~Question 6
 Which of the following are the warning signs of respiratory decompensation? 
