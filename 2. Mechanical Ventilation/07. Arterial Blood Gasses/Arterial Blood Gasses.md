@@ -451,7 +451,7 @@ What do Blood Gas Values pH > 7.45, PaCO2 = Normal , HCO3- > 26 meq/l indicate?
 [WRONG] Partially Compensated Respiratory Aciosis
 
 # ~Question 20
-A 54 year old male with a history of chronic obstructive pulmonary disease and was rushed to the emergency department with increasing shortness of breath, fever, and a productive cough with yellow-green sputum. ABG results are: pH= 7.3, PaCO2= 68 mmHg, HCO3= 28 mmol/L, and PaO2= 60 mm Hg. Which best reflects this patient's acid base disturbance? ---> [I normally wouldn't include the back story-- we are assessing their ability to interpret ABGs-- so almost everything is not necessary for this question to assess learner knowledge]
+A 54 year old male with a history of chronic obstructive pulmonary disease and was rushed to the emergency department with increasing shortness of breath, fever, and a productive cough with yellow-green sputum. ABG results are: pH= 7.3, PaCO2= 68 mmHg, HCO3= 28 mmol/L, and PaO2= 60 mm Hg. Which best reflects this patient's acid base disturbance? 
 
 [RIGHT] Partially compensated respiratory acidosis with hypoxemia
 [WRONG] Uncompensated Respiratory acidosis with hypoxemia
