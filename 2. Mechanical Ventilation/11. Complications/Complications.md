@@ -1,7 +1,4 @@
-
-# Alarms
-
-# Introduction
+# Introduction to Alarms
 Alarm systems are used to alert the healthcare team to potential problems with the ventilator and/or patient. Never turn off alarms for a ventilator. Alarms can be silenced temoprarily, but immmediate assessment and action is indicated. The most common alarms that nurses will encounter are "high pressure," "low pressure," and "low volume" alarms, but during the ventilator weaning process, a patient may also trigger an "apnea" alarm. Upon hearing any alarm, an efficient focused assessment should be conducted followed by an action to address the issue causing the alarm.
 
 In an emergency, or when the ventilator has failed/malfunctioned, manual ventilation with the bag valve mask (BVM) hooked up to oxygen may be necessary- this is why it is critical that all patients receiving mechanical ventilation have a BVM readily available at the bedside.
@@ -101,7 +98,31 @@ A patient in CPAP mode has received too much sedation. Which alarm is most likel
 [WRONG] High pressure alarm
 [RIGHT] Apnea alarm
 
+# ~Question 8
+What is a possible cause of a low volume alarm?
+
+[WRONG] Patient needs suctioning
+[WRONG] Patient biting the tube
+[RIGHT] Ventilator circuitry disconnect
+
+# ~Question 9
+Which of the following will cause a high pressure alarm?
+
+[RIGHT] Secretions
+[WRONG] Disconnected ventilator tubing
+[WRONG] Hypoxia
+[WRONG] An ETT cuff leak
+
+
 # Potential Mechanical Ventilator Complications
+
+We will be covering the following complications:
+* Laryngeal or tracheal injury
+* Skin integrity
+* Oxygen toxicity
+* Hypoxemia
+* Respiratory Acidosis or Alkalosis
+* Decreased cardiac output
 
 # Laryngeal or tracheal injury
 * The ETT cuff can place excessive pressure on the trachea and cause tracheal ischemia or even necrosis
@@ -126,26 +147,6 @@ A patient in CPAP mode has received too much sedation. Which alarm is most likel
 * Ventilator mode is providing too much ventilation and/or the patient is hyperventilating --> hyperventilation --> respiratory alkalosis
 * --> Changes to ventilator modes and settings as well as sedation or even neuromuscular blockade are considerations to correct acid base disturbances.
 
-
-# Decreased cardiac output
-* Decreased venous return (preload) due to positive pressure from the ventilator (especially with high PEEP settings)
-* Decreased preload leads to decreased cardiac output
-
-# ~Question 8
-What is a possible cause of a low volume alarm?
-
-[WRONG] Patient needs suctioning
-[WRONG] Patient biting the tube
-[RIGHT] Ventilator circuitry disconnect
-
-# ~Question 9
-Which of the following will cause a high pressure alarm?
-
-[RIGHT] Secretions
-[WRONG] Disconnected ventilator tubing
-[WRONG] Hypoxia
-[WRONG] An ETT cuff leak
-
 # ~Question 10
 A patient presents with respiratory alkalosis, which action is appropriate?
 
@@ -153,3 +154,9 @@ A patient presents with respiratory alkalosis, which action is appropriate?
 [WRONG] Increase the respiratory rate alarm parameters
 [WRONG] Increase the PEEP setting
 [RIGHT] Assess the patient for pain and/or anxiety
+
+# Decreased cardiac output
+* Decreased venous return (preload) due to positive pressure from the ventilator (especially with high PEEP settings)
+* Decreased preload leads to decreased cardiac output
+
+
