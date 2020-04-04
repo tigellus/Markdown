@@ -1,4 +1,4 @@
-# Nebulizer therapy
+# Nebulizer Therapy
 
 Please watch the following instructional video:
 [embed](https://youtu.be/idjeYf9C5IU)
@@ -64,7 +64,7 @@ How can a healthcare professional know when a nebulizer treatment is finished wh
 [WRONG] The machine will alert by beeping
 
 
-# Nursing Considerations: Nebulizers
+# Nebulizers
 
 An N95 respirator mask is needed when caring for patients receiving nebulizer therapy as this is this an aerosolizing procedure.
 Do not use surgical mask.
