@@ -35,9 +35,9 @@ What is end tidal CO2?
 
 # Physiology
 Monitoring end-tidal CO2 (PetCO2) provides instantaneous information about:
-- [ ] Ventilation (how effectively CO2 gas is being exhaled/eliminated by the respiratory system)
-- [ ] Perfusion (how effectively CO2 is being transported through the vascular system to the lungs)
-- [ ] Metabolism (how effectively CO2 is being produced by cellular metabolism).
+* Ventilation (how effectively CO2 gas is being exhaled/eliminated by the respiratory system)
+* Perfusion (how effectively CO2 is being transported through the vascular system to the lungs)
+* Metabolism (how effectively CO2 is being produced by cellular metabolism).
 
 ### To use PetCO2 as a measure of blood flow:
 * Ventilation must be constant (inhalation and exhalation are stable/normal
