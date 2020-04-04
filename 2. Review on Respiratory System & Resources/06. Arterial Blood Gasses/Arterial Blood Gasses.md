@@ -4,6 +4,17 @@ Please watch the following video for an overview on ABG.
 
 [embed](https://www.youtube.com/watch?v=rjrzZiprg04&list=PLZS9jYlFdlUDTGXMa5Q5xnN2S52RfwZUG&index=7)
 
+# ~Question 21
+A 10 year old male was rushed to the hospital due to vomiting and a decreased level of consciousness. The patient displays fast and deep respirations (Kussmaul breathing). The patient is lethargic and irritable in response to stimulation. He appears to be dehydrated—his eyes are sunken and mucous membranes are dry—and he has a two week history of polydipsia, polyuria, and weight loss. ABG results are: pH 7.1, PaO2 90 mm Hg, PaCO2 23 mm Hg, and HCO3 12 mmol/L.
+Which best reflects this patient's acid base disturbance?
+
+[WRONG] Uncompensated respiratory acidosis
+[WRONG] Fully compensated metabolic acidosis
+[WRONG] Mixed acidosis
+[RIGHT] Partially compensated metabolic acidosis
+ 
+* Considering the age of this patient as well as his accompanying symptoms, the most likely cause is diabetic ketoacidosis. Kussmaul breathing demonstrates the patient's respiratory system attempting to compensate for the acidosis.
+
 # Acid Base Terminology
 
 * Arterial Blood Gas (ABG): Used to assess acid base balance of the arterial blood
@@ -460,17 +471,6 @@ A 54 year old male with a history of chronic obstructive pulmonary disease and w
 [WRONG] Uncompensated Metabolic alkalosis
  
 * This patient has a low a pH so immediately think "acidosis." The PaCO2 is high which reflects acidosis-- therefore, it can be determined that the cause of the low pH is respiratory. Also based on the clinical presentation we can imagine that due to crackles and wheezes and the yellow sputum we can imagine that this patient is not ventilating efficiently and therefore building up CO2 in the blood. The HCO3- is elevated, reflecting alkalosis (the opposite direction of the problematic pH), thus this reflects partial compensation because the pH is still abnormal. The patient's low PaO2 is also cause for concern- representing hypoxemia.
- 
-# ~Question 21
-A 10 year old male was rushed to the hospital due to vomiting and a decreased level of consciousness. The patient displays fast and deep respirations (Kussmaul breathing). The patient is lethargic and irritable in response to stimulation. He appears to be dehydrated—his eyes are sunken and mucous membranes are dry—and he has a two week history of polydipsia, polyuria, and weight loss. ABG results are: pH 7.1, PaO2 90 mm Hg, PaCO2 23 mm Hg, and HCO3 12 mmol/L.
-Which best reflects this patient's acid base disturbance?
-
-[WRONG] Uncompensated respiratory acidosis
-[WRONG] Fully compensated metabolic acidosis
-[WRONG] Mixed acidosis
-[RIGHT] Partially compensated metabolic acidosis
- 
-* Considering the age of this patient as well as his accompanying symptoms, the most likely cause is diabetic ketoacidosis. Kussmaul breathing demonstrates the patient's respiratory system attempting to compensate for the acidosis.
  
 # ~Question 22
 A 54 year old female arrived to the hospital and anxiously reports that she is having severe pain and anxiety. ABG results are: pH 7.6, PaO2 120 mm Hg, PaCO2 31 mm Hg, and HCO3 25 mmol/L. Which best reflects this patient's acid base disturbance?
