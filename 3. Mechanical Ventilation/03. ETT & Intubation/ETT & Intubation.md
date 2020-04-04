@@ -161,10 +161,10 @@ A patient's post intubation chest x-ray shows a right mainstem bronchus intubati
 
 # ~Question 6
 What is the minimum size of the endotracheal tube that is typically necessary for an adult standard bronchoscope to pass?
-[WRONG] 9.5 ett
-[WRONG] 9.0 ett
-[WRONG] 8.5 ett
-[RIGHT] 8.0 ett
+[WRONG] 9.5 ETT
+[WRONG] 9.0 ETT
+[WRONG] 8.5 ETT
+[RIGHT] 8.0 ETT
 
 * Should the healthcare provider need to perform bronchoscopy on an adult patient with a standard bronchoscope (diameter 5.7 mm with a 2 mm suction channel) the patient typically needs to be intubated with a 7.5-8.0 size endotracheal tube (ETT) to ensure adequate ventilation during the procedure and that the bronchoscope does not get trapped in the endotracheal tube. Smaller bronchoscopes can be found and used in pediatric patients and adults with smaller endotracheal tubes.
 
