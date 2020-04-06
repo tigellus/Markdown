@@ -7,16 +7,6 @@
 * There are two classifications of COPD: chronic bronchitis and emphysema. These two types of COPD can have overlapping signs and symptoms
 * The primary cause of the obstruction may vary; examples include airway inflammation that narrow or blocks airflow, mucous secretion that blocks airways, and alveolar wall destruction.
 
-# ~Question 1
-As a cause of death in the United States, COPD ranks:
-
-[WRONG] Second
-[WRONG] Third
-[RIGHT] Fourth
-[WRONG] Fifth
-
-* COPD is the fourth leading cause of death in the United States
-
 # ~Question 2
 Which two diseases are included in categories of COPD?
 
