@@ -509,14 +509,6 @@ A 80 year old female has suffered from persistent vomiting for two days. She app
 * Erythrocytosis
 * Further desaturation of hemoglobin
 
-# ~Question 18
-What factors lead to Tissue Hypoxia? 
-
-[RIGHT] Low cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, right to left cardiac shunt
-[WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, right to left cardiac shunt
-[WRONG] Low cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, left to right cardiac shunt
-[WRONG] High cardiac output, decreased oxygen carrying capacity, non-functional hemoglobin, left to right cardiac shunt
-
 # ~Question 19
 How does the body compensate for tissue hypoxia?
 
