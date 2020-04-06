@@ -168,15 +168,6 @@ What is the minimum size of the endotracheal tube that is typically necessary fo
 
 * Should the healthcare provider need to perform bronchoscopy on an adult patient with a standard bronchoscope (diameter 5.7 mm with a 2 mm suction channel) the patient typically needs to be intubated with a 7.5-8.0 size endotracheal tube (ETT) to ensure adequate ventilation during the procedure and that the bronchoscope does not get trapped in the endotracheal tube. Smaller bronchoscopes can be found and used in pediatric patients and adults with smaller endotracheal tubes.
 
-# ~Question 7
-An 8-year-old boy presents in the emergency department with severe respiratory distress. His mother reports he developed fever and cough 3 days ago. He is shifted to the pediatric intensive care unit (PICU). He has decreased respiratory effort and needs intubation. Which size cuffed endotracheal tube would likely be placed in this patient?
-[WRONG] 5.0
-[RIGHT] 5.5
-[WRONG] 6.0
-[WRONG] 6.5
-
-* The formula for uncuffed endotracheal tube size is (Age/4) + 4. In this case, (8/4) + 4 = 2 + 4 = size 6 uncuffed ETT. An 8-year-old child would get a 5.5 cuffed endotracheal tube. A cuffed endotracheal tube is now standard of care in children and a tube ½ size smaller would be used in this child.
-
 # ~Question 8
 A 2-year-old boy presents in the emergency department with severe respiratory distress and spastic paralysis. He has decreased respiratory effort and needs intubation. What size cuffed endotracheal tube (ETT) should be placed in this patient?
 [WRONG] 3.5
