@@ -221,16 +221,6 @@ Which is an indication for a nasotracheal intubation?
 
 * Macroglossia results in obstruction of the oropharynx due to an enlarged tongue. Therefore, intubation via orotracheal route is not possible. Nasotracheal intubation via flexible bronchoscopy allows for visualization of the hypopharynx and is not blocked by the enlarged tongue. Indications for nasotracheal intubation include any form of limited mouth opening,intraoral masses, trismus, and angioedema. 
 
-# ~Question 4
-An obese 55-year-old male with past medical history of chronic obstructive pulmonary disease calls emergency medical services due to difficulty breathing after eating Chinese food. You find him at home with swollen lips and tongue, drool coming from his mouth with oxygen saturation of 80%. There are expiratory wheezes on lung exam. His oxygen saturation only increases to 90% with a non-rebreather. Which airway approach should be used?
-
-[WRONG] Sedate and paralyze and place a blind airway via a supraglottic airway
-[WRONG] Sedate and paralyze and place an endotracheal tube via the oral route
-[WRONG] Sedate and paralyze and place an endotracheal tube via the nasal route
-[RIGHT] Place an awake blind nasotracheal intubation
-
-* In the emergent circumstance, the healthcare provider should consider nasotracheal intubation (NT) when the patient presents with a strong gag reflex, limited mouth opening, macroglossia, cervical spine instability, severe cervical kyphosis, severe arthritis, intraoral masses, structural abnormalities, trismus, or angioedema. This patient has macroglossia and will have a difficult oral airway. 
-
 # ~Question 5
 A young teenager with an asthma exacerbation requires a nasopharyngeal airway (NPA). How is the correct size determined?
 [WRONG] It does not matter what size you use
