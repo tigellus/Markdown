@@ -90,13 +90,6 @@ Considerations:
 * Place IV extension tubing for all IV infusions to allow for rotation of the bed
 * Prevent possible gastric aspiration (often pause enteral feeds prior to turning)
 
-# ~Question 1
-What is the rationale for prone positioning?
-[RIGHT] Enhances V/Q matching
-[WRONG] An effective weaning mode
-[WRONG] Reduces perfusion to lung tissue
-[WRONG] Increases the weight of the heart and abdomen on the lungs
-
 # ~Question 2
 Which is a major consideration for prone positioning?
 
