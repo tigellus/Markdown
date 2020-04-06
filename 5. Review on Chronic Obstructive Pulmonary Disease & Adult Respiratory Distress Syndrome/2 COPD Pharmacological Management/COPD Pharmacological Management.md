@@ -116,13 +116,6 @@ The following are treatments to manage COPD:
 * Guaifenesin (Hytuss, Robitussin)
 * Acetylcysteine (Mucomyst)
 
-# ~Question 7
-Which treatment is NOT used to manage COPD?
-
-[RIGHT] Isolation
-[WRONG] Smoking cessation
-[WRONG] Oxygen therapy
-
 # Bronchodilators
 
 ### Short acting inhaled agents - 2 puffs QID and PRN
