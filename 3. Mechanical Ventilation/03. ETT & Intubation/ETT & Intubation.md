@@ -131,15 +131,6 @@ How often should patient with an endotracheal tube receive oral care?
 [WRONG] Every 8 hours
 [WRONG] Every 12 hours
 
-# ~Question 3
-Which purpose is served by a high volume, low pressure cuff on an endotracheal tube?
-[WRONG] Prevent aspiration
-[WRONG] Depress cough reflex
-[RIGHT] Assure ventilation volume
-[WRONG] Secure the tubing
-
-* The main reason to use high volume cuff is to obtain a good seal for better ventilation. The majority of endotracheal tubes are low-pressure high volume type. These tubes have a cuff which holds a large volume and consequently, there is a large contact area between the trachea and the tube. This type of endotracheal tube can develop folds near the contact area when inflated and consequently the risk of aspiration is high. The high-pressure low volume tubes provide better protection against aspiration but the downside is that they can induce tracheal mucosa necrosis.
-
 # ~Question 4
 Which feature of the endotracheal tube is meant to prevent distal obstruction?
 [WRONG] Bevel
