@@ -7,7 +7,6 @@ Watch the following video for an introduction to endotracheal intubation.
 # ~Question 34
 What items should be retrieved before intubation?
 
-[WRONG] A nasopharyngeal swab
 [RIGHT] A bag valve mask
 [RIGHT] A GlideScope
 [RIGHT] ETT tubes
@@ -159,35 +158,9 @@ A patient's post intubation chest x-ray shows a right mainstem bronchus intubati
 
 * The normal depth of the distal tip of the endotracheal tube (ETT) as seen on the chest x-ray is 4 cm above the carina (+/-2cm). A tube depth of 7 cm above the carina puts the patient at risk of placing the ETT into too shallow a position, potentially leading to the displacement of the ETT out of the trachea. The typical depth of the ETT is 23 cm for men and 21 cm for women, measured at the central incisors. Keep in mind that flexion or extension of the patient's head and neck will affect ETT depth. For instance, if you place an ETT in the sniffing position, then confirm and tape it in the same position, the ETT will be deeper when the patient's head returns to a neutral position. It is best practice to intubate in the sniffing position and then place the patient's head and neck in a neutral position to confirm the depth of ETT before taping. This can mean the difference between endotracheal intubation (correctly placed depth of ETT) and endobronchial intubation (ETT in the right mainstem bronchus), especially in infants.
 
-# ~Question 6
-What is the minimum size of the endotracheal tube that is typically necessary for an adult standard bronchoscope to pass?
-[WRONG] 9.5 ETT
-[WRONG] 9.0 ETT
-[WRONG] 8.5 ETT
-[RIGHT] 8.0 ETT
-
-* Should the healthcare provider need to perform bronchoscopy on an adult patient with a standard bronchoscope (diameter 5.7 mm with a 2 mm suction channel) the patient typically needs to be intubated with a 7.5-8.0 size endotracheal tube (ETT) to ensure adequate ventilation during the procedure and that the bronchoscope does not get trapped in the endotracheal tube. Smaller bronchoscopes can be found and used in pediatric patients and adults with smaller endotracheal tubes.
-
-# ~Question 8
-A 2-year-old boy presents in the emergency department with severe respiratory distress and spastic paralysis. He has decreased respiratory effort and needs intubation. What size cuffed endotracheal tube (ETT) should be placed in this patient?
-[WRONG] 3.5
-[RIGHT] 4.0
-[WRONG] 5.0
-[WRONG] 5.5
-
-* The formula for cuffed endotracheal tube size is (Age/4) + 3.5. In this case, (2/4) + 3.5 = 0.5 + 3.5 = size 4.0 cuffed ETT. In clinical practice, pediatric anesthesiologists use a 4.0 or 4.5 cuffed ETT for a 2-year-old child, often chosen depending on their size and stature. Either size would be acceptable clinically. A cuffed endotracheal tube is now standard of care in children. Uncuffed endotracheal tubes are only commonly used in the neonatal period.
-
-# ~Question 10
-A preterm infant is born via emergency C-section at 27 weeks gestational age and is having respiratory distress in the delivery room requiring emergency intubation. Which size is the most appropriate endotracheal tube size for this patient?
-[WRONG] 2.0 uncuffed
-[RIGHT] 2.5 uncuffed
-[WRONG] 3.0 uncuffed
-[WRONG] 3.0 cuffed/ microcuffed
-
-* 2.5 uncuffed ETTs are placed in preterm infants, often in those who are <2 kg. Term infants (those greater than or equal to 37 weeks gestational age) and babies >2 kg commonly receive 3.0 uncuffed ETTs. Outside the neonatal period (>1 month old), a 3.0 cuffed ett would commonly be used up to age 6 months, when a 3.5 cuffed ett can be considered. 2.0 uncuffed ETTs exist but are never commonly used, and kept in case of emergency for when a small preterm neonate may have developed subglottic stenosis.
-
 # ~Question 12
 A 2.5-year-old male with with status asthmaticus and a history of premature birth is about to be intubated in the emergency room. The provider finds it difficult to pass the size of ETT that is expected for the patient age and size. A 3.5 cuffed endotracheal tube is tried which does pass. Which reason best explains this problem?
+
 [WRONG] Foreign body aspiration
 [WRONG] 4.5 was too big for the patient
 [RIGHT] Undiagnosed tracheal stenosis
@@ -230,7 +203,7 @@ An NPA, also known as a nasal trumpet, is an airway adjunct designed to be inser
 An NPA is used when an artificial form of airway maintenance is necessary, but tracheal intubation is impossible or inadvisable. A nasopharyngeal airway often is used in conscious patients where an oropharyngeal airway would trigger the gag reflex.
 
 # ~Question 1
-Insertiing a nasopharyngeal airway is contraindicated for a patient with which condition?
+Inserting a nasopharyngeal airway is contraindicated for a patient with which condition?
 [WRONG] Pneumothorax
 [WRONG] Pleural effusion
 [RIGHT] Severe facial injuries
@@ -240,21 +213,13 @@ Insertiing a nasopharyngeal airway is contraindicated for a patient with which c
 
 # ~Question 2
 Which is an indication for a nasotracheal intubation?
+
 [WRONG] Obstructed nares
 [WRONG] Basal skull fracture
 [WRONG] Fractured facial sinuses
 [RIGHT] Macroglossia
 
 * Macroglossia results in obstruction of the oropharynx due to an enlarged tongue. Therefore, intubation via orotracheal route is not possible. Nasotracheal intubation via flexible bronchoscopy allows for visualization of the hypopharynx and is not blocked by the enlarged tongue. Indications for nasotracheal intubation include any form of limited mouth opening,intraoral masses, trismus, and angioedema. 
-
-# ~Question 3
-Which complication of nasopharyngeal intubation is most common?
-[WRONG] Placement into the brain
-[WRONG] Nasal fracture
-[RIGHT] Epistaxis
-[WRONG] Abscess
-
-* The most common complication of nasopharyngeal intubation is epistaxis due to a small nasal opening, turbinate damage, and poor technique.  The middle turbinate is a vascular structure connected with the cribriform plate, so care has to be taken not to cause damage to the middle turbinate. 
 
 # ~Question 4
 An obese 55-year-old male with past medical history of chronic obstructive pulmonary disease calls emergency medical services due to difficulty breathing after eating Chinese food. You find him at home with swollen lips and tongue, drool coming from his mouth with oxygen saturation of 80%. There are expiratory wheezes on lung exam. His oxygen saturation only increases to 90% with a non-rebreather. Which airway approach should be used?
