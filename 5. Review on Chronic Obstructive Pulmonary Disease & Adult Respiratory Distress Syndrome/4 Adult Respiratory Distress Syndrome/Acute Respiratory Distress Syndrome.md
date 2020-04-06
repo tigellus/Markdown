@@ -227,27 +227,6 @@ When caring for a patient on mechanical ventilation with PEEP for treatment of A
 
 * This PEEP setting helps open the alveoli sacs that have collapsed and keep them open.
 
-# Question 12
-Which condition is a common cardiovascular complication in patients with acute respiratory failure?
-
-[WRONG] Hypertension
-[RIGHT] Endocarditis
-[WRONG] Aortic Coarctation
-[WRONG] Coronary artery spasm
-
-* Common cardiovascular complications in patients with acute respiratory failure include hypotension, reduced cardiac output, arrhythmia, endocarditis, and acute myocardial infarction. These complications may be related to the underlying disease process, mechanical ventilation, or the use of pulmonary artery catheters.
-
-# Question 14
-Which result indicates an airflow obstruction in a patient with suspected chronic respiratory failure?
-
-[WRONG] A forced expiratory volume in 1 second (FEV1) level >1 L
-[WRONG] A forced vital capacity (FVC) level >1.5 L
-[RIGHT] A decrease in the FEV1-to-FVC ratio (FEV1/FVC)
-[WRONG] A reduction in both FEV1 and FVC with a normal FEV1/FVC
-
-* Normal values for FEV1 and FVC suggest a disturbance in respiratory control. A decrease in FEV1/FVC indicates airflow obstruction, whereas a reduction in both FEV1 and FVC and maintenance of FEV1/FVC suggest restrictive lung disease.
-Respiratory failure is uncommon in obstructive diseases when FEV1 is >1 L and in restrictive diseases when FVC is >1 L.
-
 # Question 15
 Which ventilator setting is recommended to avoid severe dynamic hyperinflation in patients with respiratory failure?
 
