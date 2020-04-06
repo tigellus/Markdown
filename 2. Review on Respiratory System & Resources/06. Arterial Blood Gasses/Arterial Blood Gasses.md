@@ -492,20 +492,6 @@ A 80 year old female has suffered from persistent vomiting for two days. She app
  
 * The pH indicates alkalosis. The HCO3- is high, reflecting alkalosis in the metabolic system. In this case, the cause of alkalosis is persistent loss of H+ (in stomach acid) due to vomiting. The respiratory system has started to compensate (PaCO2 is slightly elevated causing acidosis and attempting to bring the pH down into a more acidic range). 
 
-# Oxyhemoglobin Dissociation Curve
-
-![](assets/curve.png)
-
-### Causes of Shifts
-
-![](assets/shifts.png)
-
-# ~Question 17
-What shifts the Oxyhemoglobin Dissociation Curve Right? 
-
-[RIGHT] A pH Decrease and/or a Temperature Increase
-[WRONG] A pH Increase and/or a Temperature Decrease
-
 # Hypoxia
 
 ## Factors Leading to Tissue Hypoxia
