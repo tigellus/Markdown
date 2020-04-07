@@ -8,7 +8,7 @@ The following links redirect to video lectures provided by the Society of Critic
 
 [Go to the second video lecture](https://covid19.sccm.org/Presentations/Mechanical-Ventilation2/story_html5.html?lms=1)
 
-# Question 22
+# ~Question 22
 Mechanical ventilation is:
 
 [WRONG] Chest compressions performed during cardiopulmonary arrest.
