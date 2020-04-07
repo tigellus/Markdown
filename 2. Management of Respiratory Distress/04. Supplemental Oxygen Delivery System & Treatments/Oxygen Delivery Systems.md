@@ -2,7 +2,7 @@
 <!---ff73d472-8625-4680-a44a-24bb9dfb4162-->
 ## Low-Flow Oxygen Delivery Systems
 
-![](assets/F4.large.jpg) 
+![](assets/F4.large.jpg)
 
 a) Nasal cannula. b) Non-rebreather mask. c) Venturi mask with different sized ports to change the FIO2 delivered (24–50%). d) FIO2 and oxygen flow are clearly stated on the bottom of each port.
 
@@ -44,12 +44,11 @@ When should Low-flow Oxygen Delivery Systems be used?
 
 # ~Question 3
 <!---c0722ef9-b354-4280-8b87-b271728b880d-->
-What potential complications should nurses monitor in patients using low flow oxygen delivery systems? 
+What potential complications should nurses monitor in patients using low flow oxygen delivery systems?
 
-[RIGHT] Dryness of mucous membranes, thickened secretions thicken, infection risk increases
+[WRONG] Dryness of mucous membranes, reduced secretions, infection risk increases
 [WRONG] Dryness of mucous membranes, reduced secretions, infection risk decreases
-[WRONG] Dryness of mucous membranes, thickened secretions, infection risk increases
-[WRONG] Dryness of mucous membranes, reduced secretions, infection risk decreases
+[RIGHT] Dryness of mucous membranes, thickened secretions, infection risk increases
 
 # ~Question 4
 <!---2d75dea8-b446-48c6-9bc5-ca213da2c4cf-->
