@@ -148,6 +148,129 @@ Which of the following is NOT a cause of hyperventilation?
 [WRONG] Dyspnea
 [RIGHT] CO2 poisoning
 
+# Full and Partial Compensation
+
+### Full Compensation
+
+* Primary disorder is being repaired by the opposing system and the pH is normal. 
+
+### Partial Compensation
+
+* Primary disorder continues, opposite system begins to adjust (eg. Respiratory disorder, metabolic system attempts to compensate)
+* Attempts to restore ratio of 1 part acid to 20 parts base
+* Can be partial or complete compensation
+
+# ~Question 9
+What is Full Compensation?
+
+[RIGHT] Primary disorder is being repaired by the opposing system and the pH is normal. 
+[WRONG] The primary disorder continues and the opposite system begins to adjust (partially or completely)
+
+# ~Question 10
+A patient is admitted to the ICU due to respiratory failure and is now on the ventilator. The nurse notes that the patient's PaCO2 is high and the pH is low. Which is true about this patient's ABG?
+
+[WRONG] This patient's acid base disorder is caused by a metabolic problem
+[WRONG] This patient's acid base disorder is being compensated by the respiratory system
+[RIGHT] This patient'sacid base disorder is caused by a respiratory problem
+[WRONG] This patient's acid base disorder is fully compensated
+
+# ~Question 11
+What is partial compensation?
+
+[RIGHT] The primary disorder continues, the opposing system begins to adjust, and the pH is abnormal
+[WRONG] The primary disorder is corrected: all acid base parameters return to normal
+
+# Steps to Acid Base Interpretation
+
+### Analyze each acid base parameters. 
+
+* pH, PaCO2, HCO3-: using normal reference ranges, determine whether each value is low, normal, or high
+
+### Match acid base disturbance with parameter causing disturbance
+
+* pH↓ and PaCO2↑ = Respiratory Acidosis
+* pH↑ and PaCO2↓ = Respiratory Alkalosis
+* pH↓ and HCO3-↓ = Metabolic Acidosis
+* pH↑ and HCO3-↑ = Metabolic Alkalosis
+
+### Look for Compensation
+
+## Partial Compensation
+
+* All ABG values are abnormal
+
+First: Identify the cause:
+* If the cause of the ABG disturbance is respiratory: PaCO2 matches the pH (pH↓ and PaCO2↑ or pH↑ and PaCO2↓) and thus, you can determine that the cause of the ABG disturbance is a respiratory issue
+* If the cause o the ABG disturbance is metabolic: The HCO3- matches the pH (pH↓ and HCO3-↓ or pH↑ and HCO3-↑) and thus, you can determine that the cause of the ABG disturbance is a metabolic issue
+
+Next: Identify if there is partial compensation
+* The opposite system (not causing the ABG disturbance) has changed in a manner that would have caused the opposite pH change. For example, in respiratory acidosis (pH↓ and PaCO2↑), the metabolic system would reflect alkalosis (HCO3-↑) in an effort to compensate. 
+
+* Example 1: 
+ * pH= 7.30 (low, acidic)
+ * PaCO2= 50 (high, causing acidosis)
+ * HCO3-= 20 (low, causing alkalosis)
+ * CO2 and pH reflect acidosis (respiratory system is causing the disturbance)
+ * HCO3 reflects alkalosis (metabolic system is compensating)
+ * pH is abnormal (the primary problem is still a problem and has not been fully compensated)
+ * ABG Disturbance: Partially compensated respiratory acidosis
+ 
+* Example 2:
+ * pH= 7.49 (high, alkalotic)
+ * PaCO2= 30 (low, causing acidosis)
+ * HCO3-= 29 (high, causing acidosis)
+ * HCO3 and pH reflect alkalosis (metabolic system is causing the disturbance)
+ * PaCO2 reflects acidosis (respiratory system is compensating)
+ * pH is abnormal (the primary problem is still a problem and has not been fully compensated)
+ * ABG Disturbance: Partially compensated metabolic alkalosis
+ 
+ ## Full Compensation
+ * pH is within normal range, but PaCO2 and HCO3 are abnormal
+ * Use "7.4" as a reference point: pH= 7.35-7.4 is now labeled "acidosis", pH= 7.4-7.45 is now labeled as "alkalosis"
+ First: Identify the cause:
+* If the cause of the ABG disturbance is respiratory: PaCO2 matches the pH (pH= 7.35-7.4 and PaCO2↑ or pH=7.4-7.45 and PaCO2↓) and thus, you can determine that the cause of the ABG disturbance is a respiratory issue
+* If the cause o the ABG disturbance is metabolic: The HCO3- matches the pH ( pH= 7.35-7.4 and HCO3-↓ or pH=7.4-7.45 and HCO3-↑) and thus, you can determine that the cause of the ABG disturbance is a metabolic issue
+
+Next: Identify if there is full compensation
+* The opposite system (not causing the ABG disturbance) has changed in a manner that would have caused the opposite pH change. For example, in respiratory acidosis (pH↓ and PaCO2↑), the metabolic system would reflect alkalosis (HCO3-↑) in an effort to compensate. 
+
+* Example: 
+ * pH= 7.36 (pH is "normal", but falls between 7.35-7.4)
+ * PaCO2= 50 (high, causing acidosis)
+ * HCO3-= 20 (low, causing alkalosis)
+ * CO2 and pH reflect acidosis (respiratory system is causing the disturbance)
+ * HCO3 reflects alkalosis (metabolic system is compensating)
+ * pH is now within NORMAL range (this is the key component that moves the ABG from partially compensated to fully compensated)
+ * ABG Disturbance: Fully compensated respiratory acidosis
+
+### Look for Combined or "Mixed" Disorders
+
+* All acid base parameters are abnormal
+* Both the PaCO2 and HCO3- would have caused the pH to change in the manner that occurred (both respiratory and metabolic issues are causing the pH to be abnormal- neither system is compensating)
+
+* Example: 
+ * pH= 7.32 (pH reflects acidosis)
+ * PaCO2= 50 (high, causing acidosis)
+ * HCO3-= 15 (low, causing acidosis)
+ * CO2, HCO3-, and pH reflect acidosis (both the respiratory and metabolic systems are causing the acidosis)
+ * HCO3 reflects alkalosis (metabolic system is compensating)
+ * ABG Disturbance: Mixed acidosis
+
+
+# ~Question 9
+What is Full Compensation?
+
+[RIGHT] The primary disorder is repaired: all acid base parameters return to normal
+[WRONG] The primary disorder continues and the opposite system begins to adjust (partially or completely)
+
+# ~Question 10
+A patient is admitted to the ICU due to respiratory failure. Once in the ICU, the patient was placed on the ventilator. The patient's ABG results demonstrate a PaCO2 of 50mmHg and a HCO3- of 12mEq/L. Which best describes this patient's condition?
+
+[WRONG] This patient's acid base disorder is compensated
+[WRONG] This patient's acid base disorder is corrected
+[WRONG] This patient's acid base disorder is both compensated and corrected
+[RIGHT] This patient'sacid base disorder is neither compensated nor corrected
+[WRONG] This patient's acid base disorder is compensated but not corrected
 
 # Anion Gap
 
@@ -170,13 +293,13 @@ What is the Normal Value of the Anion Gap?
 
 # Acidosis, Alkalosis
 
-## Respiratory Acidosis 
+## Respiratory Acidosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
 * pH < 7.35
 * PaCO2 > 45 mm Hg
-* HCO3- normal or elevated 
+* HCO3- normal ("uncompensated") or elevated ("partially compensated")
 
 ### Causes (Alveolar Hypoventilation):
 
@@ -203,13 +326,13 @@ Increase/improve ventilation:
 * Raise HOB/reposition for optimal ventilation
 * Positive pressure ventilation (either NPPV or intubation and mechanical ventilation)
 
-## Respiratory Alkalosis 
+## Respiratory Alkalosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
 * pH > 7.45
 * PaCO2 < 35 mm Hg
-* HCO3- normal or decreased 
+* HCO3- normal ("uncompensated") or decreased ("partially compensated")
 
 ### Causes (Alveolar Hyperventilation):
 
@@ -230,12 +353,12 @@ Slow the hyperventilation
 * Address the underlying cause (eg. anxiety, pain)
 * Changes to mechanical ventilator to reduce ventilation
 
-## Metabolic Acidosis 
+## Metabolic Acidosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
 * pH < 7.35
-* PaCO2 normal or decreased 
+* PaCO2 normal ("uncompensated") or decreased ("partially compensated")
 * HCO3- < 22 meq/l
 
 ### Causes (increase in H+ or an excess loss of HCO3-):
@@ -263,12 +386,12 @@ Slow the hyperventilation
 * Assess hemodynamic and respiratory status
 * Careful administration of NaHCO3
 
-## Metabolic Alkalosis
+## Metabolic Alkalosis (Uncompensated and Partially Compensated States)
 
 ### Blood Gas Values
 
 * pH > 7.45
-* PaCO2 normal or increased 
+* PaCO2 normal ("uncompensated") or increased ("partially compensated")
 * HCO3- > 26 meq/l
 
 ### Causes (A loss of hydrogen ions or an increase in HCO3-):
