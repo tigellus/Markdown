@@ -63,8 +63,7 @@ How can a healthcare professional know when a nebulizer treatment is finished wh
 [WRONG] There will be mist in the bottom of the medicine cup
 [WRONG] The machine will alert by beeping
 
-
-# Nebulizers
+# Nursing Considerations
 
 An N95 respirator mask is needed when caring for patients receiving nebulizer therapy as this is this an aerosolizing procedure.
 Do not use surgical mask.
