@@ -1,0 +1,23 @@
+Warning, ingesting into prod.
+Type "yes" to continue: Ingesting into catalog mount-sinai (organization: 12)
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/1. Critical care for non-interventionists/Critical care for non-interventionists.md.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/2. PPE Donning and Doffing/PPE Donning and Doffing.md.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/3. Collecting COVID-19 Specimens for Testing/Collecting COVID-19 Specimens for Testing.md.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/3. Collecting COVID-19 Specimens for Testing/assets/specimen-collection-kit.png uploaded to 3d8e7c62-7644-4645-852d-45e8ceba91af.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/3. Collecting COVID-19 Specimens for Testing/assets/nasopharyngeal-specimen.png uploaded to df876c13-359f-4bdc-a1ff-65e3c2006d75.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/4. COPD Pharmacological Management/COPD Pharmacological Management.md.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/4. COPD Pharmacological Management/assets/alveolus_in_emphysema2.png uploaded to 4afd4a0d-3fc3-4733-9414-f91855a157a3.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/4. COPD Pharmacological Management/assets/alveolus_in_emphysema1.png uploaded to 9527cd8c-08c3-420f-a6f1-ab793ca92e5b.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/4. COPD Pharmacological Management/assets/CXR.png uploaded to d814d9b5-e5a0-4f99-9556-11ff809fb461.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/4. COPD Pharmacological Management/assets/destroyed_lung_parenchyma.png uploaded to 539407a0-dc5a-48f7-a5ad-e9ac7a5cecab.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/4. COPD Pharmacological Management/assets/lung_in_emphysema.png uploaded to 4dd4e1b6-5a63-4c7e-bbff-2d48d5ffb264.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/4. COPD Pharmacological Management/assets/airway_in_chronic_bronchitis.png uploaded to e2f85c91-7409-41bb-a33b-2eac97d29301.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/5. Critical Care Handbook for COVID-19/Critical Care Handbook for COVID-19.md.
+Read description from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/description.txt
+Got image from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/image.jpg
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/1. Critical Care for COVID-19/image.jpg uploaded to 45201681-0b20-400b-a178-a8a57c1ccbfc.
+Inserting chapter Critical care for non-interventionists with 0 dangling article(s), 1, associated article(s) and 8 questions.
+Inserting chapter PPE Donning and Doffing with 0 dangling article(s), 1, associated article(s) and 8 questions.
+Inserting chapter Collecting COVID-19 Specimens for Testing with 0 dangling article(s), 3, associated article(s) and 6 questions.
+Inserting chapter COPD Pharmacological Management with 2 dangling article(s), 7, associated article(s) and 17 questions.
+Inserting chapter Critical Care Handbook for COVID-19 with 3 dangling article(s), 0, associated article(s) and 0 questions.

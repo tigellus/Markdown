@@ -1,4 +1,5 @@
 # Introduction
+<!---20c71032-ed3e-44a6-9541-d123347dee9f-->
 Once the underlying cause for need of mechanical ventilation is resolved or resolving, the healthcare team may begin to wean the patient off the ventilator. During weaning, the patient assumes more responsibility for work of breathing and the ventilator provides less support. These weaning trials may last minutes to hours depending on the weaning mode and patient status/tolerance of weaning. This is a delicate process and requires close monitoring of patient response to weaning. Ultimately, the goal is to "liberate" the patient from the ventilator so that the patient no longer needs mechanical ventilatory support.
 
 ## Assessing Readiness to Wean
@@ -42,6 +43,7 @@ Indications that a patient is ready to wean
 * PaCO2: <45 mmHg or equal to the patient’s baseline PaCO2
 
 # ~Question 1
+<!---382b72c5-616b-4b25-907c-c5e99138b8eb-->
 Define ventilator weaning:
 
 [WRONG] Turning off the ventilator and letting the patient breathe spontaneously
@@ -50,6 +52,7 @@ Define ventilator weaning:
 [RIGHT] Decreasing the ventilator support while allowing an increased number of spontaneous breaths
 
 # ~Question 4
+<!---474e594a-3d3b-4cee-8f08-dd070c887519-->
 Which of the following is NOT a component of weaning criteria?
 
 [WRONG] Negative inspiratory force
@@ -58,6 +61,7 @@ Which of the following is NOT a component of weaning criteria?
 [WRONG] Vital capacity
 
 # ~Question 3
+<!---a93b2370-0516-4c8b-b4ea-151ce8e0598e-->
 What should a patient’s minimum spontaneous tidal volume be in order to be successfully weaned from the ventilator?
 
 [WRONG] 3 ml/kg
@@ -66,6 +70,7 @@ What should a patient’s minimum spontaneous tidal volume be in order to be suc
 [WRONG] 15 ml/kg
 
 # ~Question 2
+<!---351bf84b-eb8c-4cad-ac23-a5d5bc75f181-->
 When using T-piece trials to wean, which of the following is true?
 
 [RIGHT] The patient does all the work of breathing for a period of time
@@ -74,6 +79,7 @@ When using T-piece trials to wean, which of the following is true?
 [WRONG] The T-piece gives a postive pressure “boost” to decrease the work of breathing
 
 # Failure to Wean
+<!---be8b3090-8899-475b-a358-074d85a90782-->
 Continually evaluate the patient for signs of failed weaning: fatigue/exhaustion, hypoxia, hypoventilation, aggitation, hemodynamic instability, accessory muscle use
 * BP deviation of 20 mmHg or more
 * HR deviation of 20 bpm or more
@@ -82,6 +88,7 @@ Continually evaluate the patient for signs of failed weaning: fatigue/exhaustion
 * Change in LOC
 
 # ~Question 6
+<!---2613ee3c-6454-4eaf-b736-712ac1ae2da8-->
 Which is a sign of effective weaning?
 
 [RIGHT] Respiratory rate < 20
@@ -90,6 +97,7 @@ Which is a sign of effective weaning?
 [WRONG] Fatigue
 
 # Extubation
+<!---c11cfb20-6454-4b0e-88fc-89340256becf-->
 Patients who have successfully weaned and met criteria (typically sustained spontaneous breathing x 90-120 minutes), may be extubated
 * Assess whether weaning criteria have been met
 * Assess patient's cough/ability to independently clear airway
@@ -106,6 +114,7 @@ STEPS:
 * Ensure patient passes a swallow evaluation before taking anything orally
 
 # ~Question 6
+<!---a48e3a08-104f-486f-9e38-083d8dce6158-->
 Which of the following should be done to assess respiratory status after extubation?
 
 [RIGHT] ABG
@@ -114,6 +123,7 @@ Which of the following should be done to assess respiratory status after extubat
 [WRONG] Bronchoscopy
 
 # ~Question 5
+<!---78614638-f8a0-495b-aa34-d996f89c1b31-->
 What kind of oxygen administration system should be used for a patient immediately after extubation?
 
 [WRONG] Nasal cannula
@@ -122,6 +132,7 @@ What kind of oxygen administration system should be used for a patient immediate
 [RIGHT] Humidified mask
 
 # ~Question 6
+<!---585bdae2-3b18-47bb-b039-9257d6f86fca-->
 Which finding indicates a complication after extubation?
 
 [RIGHT] Stridor

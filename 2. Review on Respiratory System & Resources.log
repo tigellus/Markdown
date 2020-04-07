@@ -1,0 +1,30 @@
+Warning, ingesting into prod.
+Type "yes" to continue: Ingesting into catalog mount-sinai (organization: 12)
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/01. Oxygenation and Ventilation/Oxygenation-vs-Ventilation.md.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/01. Oxygenation and Ventilation/assets/oxygenation-ventilation.png uploaded to 3ebe7524-aae3-4fa9-b9b2-b64d3b3f32d4.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/01. Oxygenation and Ventilation/assets/oxygenation-ventilation3.png uploaded to 37448ca1-a7fa-41d3-9cf2-5420dc260aa4.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/01. Oxygenation and Ventilation/assets/oxygenation-ventilation2.png uploaded to db2d394b-278f-4d51-b040-53aa0b2c1b4b.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/02. Respiratory Decompensation & Failure/Respiratory Decompensation & Failure.md.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/03. Non-invasive positive pressure ventilation (NPPV)/Non-invasive positive pressure ventilation (NPPV).md.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/03. Non-invasive positive pressure ventilation (NPPV)/assets/bipap-machine.png uploaded to 0b2d6f37-4501-4685-bc6c-73152965b5e5.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/03. Non-invasive positive pressure ventilation (NPPV)/assets/bipap-masks.png uploaded to 1dba3e5c-cd18-4dc5-8cc7-dd79186fc771.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/04. Supplemental Oxygen Delivery System & Treatments/Oxygen Delivery Systems.md.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/04. Supplemental Oxygen Delivery System & Treatments/assets/aerosol.png uploaded to 28d3e590-2e7d-4270-ad3f-fed483f9b6fd.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/04. Supplemental Oxygen Delivery System & Treatments/assets/F4.large.jpg uploaded to 676bc5b5-823e-4a03-8ae0-a992c2387178.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/05. Nebulizers/Nebulizers.md.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/05. Nebulizers/assets/nebulizer1.png uploaded to f8bf835b-ebf0-423f-8ba7-96b8b1d66d31.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/05. Nebulizers/assets/nebulizer2.png uploaded to 5faf313f-6557-4d26-82aa-837b5e2eac8e.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/06. Arterial Blood Gasses/Arterial Blood Gasses.md.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/06. Arterial Blood Gasses/assets/values.png uploaded to 85ab33c0-3cb5-440c-bbf6-efecc9d0061d.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/06. Arterial Blood Gasses/assets/phosphate.png uploaded to b8f4f11a-8c30-4088-ad77-c59ec5dbaea0.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/06. Arterial Blood Gasses/assets/protein.png uploaded to 6aee4961-d52b-4450-a728-31f8b0e2f519.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/06. Arterial Blood Gasses/assets/carbonic.png uploaded to 8086f164-7f86-41a4-8f94-0f63cc05f39a.
+Read description from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/description.txt
+Got image from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/image.jpg
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/2. Review on Respiratory System & Resources/image.jpg uploaded to 6157b350-b159-44e9-a3af-6afc635de8c5.
+Inserting chapter Oxygenation-vs-Ventilation with 0 dangling article(s), 1, associated article(s) and 2 questions.
+Inserting chapter Respiratory Decompensation & Failure with 0 dangling article(s), 1, associated article(s) and 3 questions.
+Inserting chapter Non-invasive positive pressure ventilation (NPPV) with 0 dangling article(s), 2, associated article(s) and 7 questions.
+Inserting chapter Oxygen Delivery Systems with 0 dangling article(s), 1, associated article(s) and 4 questions.
+Inserting chapter Nebulizers with 0 dangling article(s), 3, associated article(s) and 7 questions.
+Inserting chapter Arterial Blood Gasses with 0 dangling article(s), 7, associated article(s) and 19 questions.

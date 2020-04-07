@@ -1,0 +1,16 @@
+Warning, ingesting into prod.
+Type "yes" to continue: Ingesting into catalog mount-sinai (organization: 12)
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/01. COVID-19 Pulmonary ARDS and Ventilator Resources/COVID-19 Pulmonary ARDS and Ventilator Resources.md.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/02. Mechanical Ventilation Overview/Mechanical Ventilation Overview.md.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/03. Complications/Complications.md.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/04. Nursing Care of the Mechanically Ventilated Patient/Nursing Care of the Mechanically Ventilated Patient.md.
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/04. Nursing Care of the Mechanically Ventilated Patient/assets/rotoprone.jpg uploaded to 433d2f90-3282-4c6b-9535-dd13023ff7df.
+Reading articles from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/05. Weaning/Weaning.md.
+Read description from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/description.txt
+Got image from /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/image.jpg
+File /Users/oscartackstrom/data/florence/mount-sinai/Markdown/3. Mechanical Ventilation/image.jpg uploaded to 855011f6-3a36-448f-ac78-2c7d122fac54.
+Inserting chapter COVID-19 Pulmonary ARDS and Ventilator Resources with 1 dangling article(s), 0, associated article(s) and 0 questions.
+Inserting chapter Mechanical Ventilation Overview with 0 dangling article(s), 1, associated article(s) and 18 questions.
+Inserting chapter Complications with 11 dangling article(s), 2, associated article(s) and 10 questions.
+Inserting chapter Nursing Care of the Mechanically Ventilated Patient with 0 dangling article(s), 2, associated article(s) and 6 questions.
+Inserting chapter Weaning with 0 dangling article(s), 3, associated article(s) and 8 questions.

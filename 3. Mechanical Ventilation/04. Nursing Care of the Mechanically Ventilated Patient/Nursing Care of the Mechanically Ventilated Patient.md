@@ -1,4 +1,5 @@
 # Nursing Care of the Mechanically Ventilated Patient
+<!---c32a1516-e5dc-4fcb-b799-5d0e8cc8c648-->
 
 ### Assessment of patient
 * Signs and symptoms of inadequate ventilation or oxygenation --> monitor minute volume, tidal volume, ABG, SpO2
@@ -39,6 +40,7 @@ Indications:
 
 
 # ~Question 2
+<!---a805c9f0-3b98-47c7-90d9-7a8757c90fd8-->
 When is suctioning clinically indicated for mechanically ventilated patients?
 
 [WRONG] Every 2 hours
@@ -46,6 +48,7 @@ When is suctioning clinically indicated for mechanically ventilated patients?
 [RIGHT] When coughing or with audible secretions
 
 # ~Question 3
+<!---a9d1916e-57e9-4bf1-81fb-636b124b20fd-->
 Which of the following describes appropriate suctioning technique?
 
 [WRONG] Activate suctioning while advancing the in-line suction catheter
@@ -53,6 +56,7 @@ Which of the following describes appropriate suctioning technique?
 [RIGHT] Limit suction time to 10-15 seconds
 
 # ~Question 5
+<!---145fa61a-ccce-44dd-a4ed-60ec88ae2c51-->
 Which of the following is a risk of long-term 100% oxygen?
 
 [RIGHT] Oxygen toxicity
@@ -61,6 +65,7 @@ Which of the following is a risk of long-term 100% oxygen?
 [WRONG] Hypercapnia
 
 # ~Question 6
+<!---cd239b42-fb3a-49c4-b484-2dcdce5ff6fc-->
 Which actions helps to decrease the complications associated with endotracheal suctioning?
 
 [WRONG] Use only 50% oxygen before and after suctioning
@@ -69,6 +74,7 @@ Which actions helps to decrease the complications associated with endotracheal s
 [RIGHT] Only suction when patient assessment indicates a need
 
 # ~Question 7
+<!---8d0f6f6f-e655-400e-a901-324cccd761ea-->
 Identify one way to provide controlled ventilation for a patient who is consistently agitated.
 
 [WRONG] Restrain the patient
@@ -77,6 +83,7 @@ Identify one way to provide controlled ventilation for a patient who is consiste
 [WRONG] Have a nursing assistant sit with the patient
 
 # Prone Positioning
+<!---f7df7f00-175b-42dc-94ce-fa4cf9c1b3ce-->
 Patients with ARDS can benefit from prone positioning as this enhances V/Q matching. This is typically indicated for a PaO2/FiO2 ratio of less than 100 and/or in patients who are not responding to other therapies. Perfusion shifts from the posterior portions of the lung (when the patient is supine) to the anterior, larger portions of the lungs (when the patient is prone). Prone positioning also enhances ventilation by removing the weight of the heart and abdomen on the lungs. 
 Prone positioning is traditionally accomplished with a specialized bed that requires close monitoring by the RN and RT.
 
@@ -91,6 +98,7 @@ Considerations:
 * Prevent possible gastric aspiration (often pause enteral feeds prior to turning)
 
 # ~Question 2
+<!---ae915f45-a9ad-464e-a5ac-9ae43adb057f-->
 Which is a major consideration for prone positioning?
 
 [RIGHT] Lubricate the eyes and tape the eyes closed

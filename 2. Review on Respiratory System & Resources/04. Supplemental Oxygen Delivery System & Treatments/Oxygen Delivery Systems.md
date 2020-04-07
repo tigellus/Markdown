@@ -1,4 +1,5 @@
 # Oxygen Delivery Systems
+<!---ff73d472-8625-4680-a44a-24bb9dfb4162-->
 ## Low-Flow Oxygen Delivery Systems
 
 ![](assets/F4.large.jpg) 
@@ -34,6 +35,7 @@ Used for patients that need supplemental oxygen and have sufficient respiratory 
 * If FiO2 goes higher than originally set, there might be a kink on the cannula prongs
 
 # ~Question 1
+<!---1bc50152-ff80-4399-b8a8-1ee6af35f91a-->
 When should Low-flow Oxygen Delivery Systems be used?
 
 [RIGHT] For patients that need supplemental oxygen and are breathing on their own
@@ -41,6 +43,7 @@ When should Low-flow Oxygen Delivery Systems be used?
 [WRONG] For patients that need supplemental oxygen and have variable respiratory effort
 
 # ~Question 3
+<!---c0722ef9-b354-4280-8b87-b271728b880d-->
 What potential complications should nurses monitor in patients using low flow oxygen delivery systems? 
 
 [RIGHT] Dryness of mucous membranes, thickened secretions thicken, infection risk increases
@@ -49,6 +52,7 @@ What potential complications should nurses monitor in patients using low flow ox
 [WRONG] Dryness of mucous membranes, reduced secretions, infection risk decreases
 
 # ~Question 4
+<!---2d75dea8-b446-48c6-9bc5-ca213da2c4cf-->
 What are the nursing implications of a High Flow Nasal Cannula (HFNC)?
 
 [WRONG] Does not require the patient to have respiratory drive
@@ -56,6 +60,7 @@ What are the nursing implications of a High Flow Nasal Cannula (HFNC)?
 [WRONG] Reduces risk for infection
 
 # ~Question 5
+<!---7b9a4e5d-ac5e-4635-b413-8e409c063bba-->
 When caring for a patient using HFNC, the nurse must
 
 [RIGHT] Use an N95 mask

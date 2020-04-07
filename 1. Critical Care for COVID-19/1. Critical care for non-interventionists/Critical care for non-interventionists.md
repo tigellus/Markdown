@@ -1,4 +1,5 @@
 # Critical Care for Non-Interventionists
+<!---2b58f2f8-1508-4522-94de-0af4a5265bf1-->
 
 This session will provide an overview of critical care for non-interventionists.
 
@@ -25,6 +26,7 @@ Please watch the following video:
 Source: Mount Sinai Health System
 
 # ~Question 1
+<!---c37faf7a-c5df-4bd5-896d-19ff7a3db5c2-->
 What is the appropriate level of care for COVID-19 patients?
 
 [WRONG] Higher threshold for ICU transfer as to not overcrowd it
@@ -33,6 +35,7 @@ What is the appropriate level of care for COVID-19 patients?
 * Patients with confirmed COVID-19 with rapidly increasing O2 requirements, non-rebreather, or NIV should be transferred to intermediate/ICU level of care.
 
 # ~Question 2
+<!---932e2995-b224-4e0c-9a71-c1d5207ff59d-->
 In which of the following areas is it sufficient to wear a surgical mask (N95 mask not required)?
 [RIGHT] In patient room
 [WRONG] Areas with aerosol generating procedures
@@ -41,6 +44,7 @@ In which of the following areas is it sufficient to wear a surgical mask (N95 ma
 * In patient room: it is sufficient to wear surgical face mask, face shield, isolation gown, gloves.
 
 # ~Question 3
+<!---2b81d10a-d1ce-4280-b765-1ccd58bec3a7-->
 Which of the following statements about intubation is NOT correct?
 
 [RIGHT] The threshold for patient intubation should be high
@@ -51,6 +55,7 @@ Which of the following statements about intubation is NOT correct?
 * You should have a low threshold for early intubation in order to avoid emergent intubations. Covid-19 patients can deteriorate rapidly.
 
 # ~Question 4
+<!---dbeb0aef-0657-4c0a-8a49-2b00d9a0194f-->
 Which of the following steps are part of the patient admission workflow?
 
 [RIGHT] Use COVID-19-order set
@@ -60,6 +65,7 @@ Which of the following steps are part of the patient admission workflow?
 [RIGHT] Consult ID to discuss treatment/clinical trial options
 
 # ~Question 5
+<!---b5f540fb-29ea-478d-a84a-b11258450dc3-->
 Which of the following steps of Pre-Rounding/Rounding in the COVID-19 unit is NOT correct?
 
 [WRONG] Get sign-out form the overnight team on new admissions and major overnight events
@@ -69,6 +75,7 @@ Which of the following steps of Pre-Rounding/Rounding in the COVID-19 unit is NO
 * The correct step is to see patients either from the door or call patients as needed. You should minimize exposure. A physical exam is NOT necessary for routine care of COVID-19 patients and is extremely discouraged.
 
 # ~Question 6
+<!---1dd3b7e6-8c43-4a2c-8796-3e127799d13f-->
 Which of the following are the warning signs of respiratory decompensation?
 
 [RIGHT] Rapidly escalating O2 requirement
@@ -79,6 +86,7 @@ Which of the following are the warning signs of respiratory decompensation?
 * Patients with COVID-19 often feel very little dyspnea despite being profoundly hypoxemic, for unclear reasons.
 
 # ~Question 7
+<!---3dbeb3c5-96c7-47bc-ba45-7586804b4adc-->
 Which of following is needed to assess a patient's respiratory status?
 
 [WRONG] Vitals : heart rate, respiratory rate, SpO2
@@ -87,6 +95,7 @@ Which of following is needed to assess a patient's respiratory status?
 [RIGHT] All of the mentioned options
 
 # ~Question 8
+<!---7347a62f-d8f3-4d35-85cd-f8e105847efe-->
 What percent of COVID-19 patients present mild symptoms?
 
 [WRONG] Ca. 15%

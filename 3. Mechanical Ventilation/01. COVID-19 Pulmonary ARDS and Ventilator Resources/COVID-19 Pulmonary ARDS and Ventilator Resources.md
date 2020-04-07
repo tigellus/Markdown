@@ -1,4 +1,5 @@
 # COVID-19 Pulmonary, ARDS and Ventilator Resources
+<!---a3b061b6-d29f-49b3-903f-52acf4d10c31-->
 
 To date, **the most serious reported symptoms from COVID-19 are pulmonary complications.** This video lecture quickly provides learners with the knowledge and resources to provide essential care to ICU patients with coronavirus.
 

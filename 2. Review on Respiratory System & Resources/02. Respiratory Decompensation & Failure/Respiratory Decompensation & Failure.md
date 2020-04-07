@@ -1,5 +1,5 @@
-
 # Respiratory Failure
+<!---8b29bac4-d107-4fb6-8c52-97f1370d8e52-->
 
 ## Assessment findings
 * Cool, clammy skin
@@ -39,12 +39,14 @@
 * PaCO2 >50 with pH <7.3 (Hypercapneic respiratory failure)
 
 # ~Question 1
+<!---44a935cb-9df1-459b-87f0-62f998429667-->
 What is an early sign of respiratory failure?
 
 [RIGHT] Confusion, Anxiety and Restlessness
 [WRONG] Bradycardia, Nausea
 
 # ~Question 2
+<!---6569c80c-d153-4d3b-a162-b7e5453efb38-->
 Which of the following is a NOT a sign of respiratory failure?
 
 [RIGHT] Improved cognition
@@ -52,6 +54,7 @@ Which of the following is a NOT a sign of respiratory failure?
 [WRONG] Diffuse crackles
 
 # ~Question 3
+<!---803c03fb-ca31-41e6-bc3f-d346515a54e8-->
 Which of the following is indicative of respiratory failure?
 
 [RIGHT] PaCO2 = 55mmHg

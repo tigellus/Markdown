@@ -1,4 +1,5 @@
 # Chronic Lung Disease
+<!---6af834ad-2512-4a75-a452-d2618069a3bb-->
 
 * Chronic Obstructive Pulmonary Disease (COPD) is a condition of chronic dyspnea with expiratory airflow limitation that does not significantly fluctuate
 * It is also known as chronic obstructive lung disease (COLD)
@@ -6,6 +7,7 @@
 * The primary cause of the obstruction may vary; examples include airway inflammation that narrow or blocks airflow, mucous secretion that blocks airways, and alveolar wall destruction.
 
 # ~Question 2
+<!---6db61045-e730-4cdf-bc3e-4a53c0ef0bbf-->
 Which two diseases are included in categories of COPD?
 
 [WRONG] Asthma and atelectasis
@@ -16,6 +18,7 @@ Which two diseases are included in categories of COPD?
 * Chronic bronchitis and emphysema belong to the old classification of COPD. Asthma may be one of the chronic pulmonary diseases but atelectasis is not. Pneumonia and pleurisy are not classified under the COPD. Tuberculosis and pleural effusion are not chronic pulmonary diseases.
 
 # ~Question 3
+<!---434a8521-b527-4d9e-8d23-45b41abbe6fd-->
 Which factor is involved in the underlying pathophysiology of COPD?
 
 [WRONG] Inflamed airways that obstruct airflow
@@ -26,6 +29,7 @@ Which factor is involved in the underlying pathophysiology of COPD?
 * Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD. Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature. Hypersecretion occurs due to the increase in the number of goblet cells. Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil.
 
 # ~Question 4
+<!---469272e3-910f-4a7f-ab91-c0903eadd65c-->
 In a patient with COPD, where does the abnormal inflammatory response occur?
 
 [WRONG] Airways
@@ -36,6 +40,7 @@ In a patient with COPD, where does the abnormal inflammatory response occur?
 * The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD.
 
 # ~Question 5
+<!---dbcf5e31-55e5-499d-b87a-fe6eb7f897ce-->
 Which condition is NOT considered a category of COPD?
 
 [RIGHT] Pneumonia
@@ -43,6 +48,7 @@ Which condition is NOT considered a category of COPD?
 [WRONG] Chronic bronchitis
 
 # Emphysema
+<!---c931ab6d-b108-486f-8183-1b0f307f72f7-->
 
 ## Pathological Diagnosis
 
@@ -101,6 +107,7 @@ Which condition is NOT considered a category of COPD?
 ![](assets/CXR.png)
 
 # ~Question 3
+<!---b092b194-4fd9-4500-9fed-a689c8078e71-->
 Which data are characteristic of a patient with emphysema?
 
 [RIGHT] Onset after 50 years of age, AP diameter increased, lung capacity increased, pursed lip breathing
@@ -109,6 +116,7 @@ Which data are characteristic of a patient with emphysema?
 [WRONG] Onset after 50 years of age, AP diameter decreased, lung capacity increased, percussion (hyper resonant)
 
 # ~Question 10
+<!---edcca929-2038-427b-bf60-8daafd71afa0-->
 Which of the following conditions require a higher PEEP to be applied in recruiting collapsed alveoli?
 
 [WRONG] Asthma
@@ -117,6 +125,7 @@ Which of the following conditions require a higher PEEP to be applied in recruit
 [WRONG] Emphysema
 
 # ~Question 26
+<!---ce6428b2-4462-4ba3-9303-10c4a10fd3b6-->
 Which condition is characterized by an abnormal permanent enlargement of the air spaces distal to the bronchioles?
 
 [RIGHT] Emphysema
@@ -124,6 +133,7 @@ Which condition is characterized by an abnormal permanent enlargement of the air
 [WRONG] Pneumonia
 
 # Chronic Bronchitis
+<!---3a3d2644-96d4-4327-bf64-310556bed235-->
 
 ## Clinical Diagnosis
 * A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years.
@@ -162,6 +172,7 @@ Which condition is characterized by an abnormal permanent enlargement of the air
 ![](assets/airway_in_chronic_bronchitis.png)
 
 # ~Question 6
+<!---8f683b67-d1c7-46ea-980b-1887df596596-->
 Chronic bronchitis is characterized by:
 
 [RIGHT] Excessive secretion of bronchial mucus
@@ -169,6 +180,7 @@ Chronic bronchitis is characterized by:
 [WRONG] Permanent enlargement of air spaces distal to the bronchiole
 
 # ~Question 7
+<!---f02949c8-b9af-443a-817c-b4a8460a7800-->
 Which condition is manifested by a productive cough for greater than 3 months in at least 2 consecutive years in the absence of any other disease?
 
 [RIGHT] Chronic bronchitis
@@ -176,6 +188,7 @@ Which condition is manifested by a productive cough for greater than 3 months in
 [WRONG] Pneumothorax
 
 # Infection and Pulmonary Hypertension
+<!---d26c32aa-aa9e-4c58-8e09-9bbf37b09531-->
 
 * Acute infection is the most common cause of death.
 * Pulmonary Hypertension may result in signs and symptoms of right heart failure:
@@ -188,6 +201,7 @@ Which condition is manifested by a productive cough for greater than 3 months in
  * Renal dysfunction
 
 # ~Question 8
+<!---03f93f21-6fb3-4a9b-9b38-546c45fbefea-->
 Which condition is a complication of pulmonary hypertension?
 
 [RIGHT] Right heart failure
@@ -195,6 +209,7 @@ Which condition is a complication of pulmonary hypertension?
 [WRONG] Pleuritis
 
 # ~Question 9
+<!---7a6e5fc3-0c81-45ad-ad11-d2ac5cb1a7e2-->
 Which findings are signs and symptoms of right heart failure?
 
 [RIGHT] Dyspnea, syncope, peripheral edema
@@ -202,6 +217,7 @@ Which findings are signs and symptoms of right heart failure?
 [WRONG] Hypotension, erythema, palpitations
 
 # Risk Factors in Chronic Bronchitis and Emphysema
+<!---a2864a14-196b-4922-867e-dc672c45b50a-->
 
 * Cigarette smoking
 * Chronic respiratory infections
@@ -214,6 +230,7 @@ COPD gradually worsens. HOWEVER, early detection, treatment and modification of 
 
 
 # Management
+<!---026ef936-a062-4c24-8901-3b36f5555002-->
 
 ### Goals to achieve include:
 * Improvement in gas exchange
@@ -268,6 +285,7 @@ Evaluating the effectiveness of the interventions outlined in the plan of care c
 * Performs activities with less shortness of breath
 
 # ~Question 6
+<!---0ecb20bf-dbc3-4f7b-8dbb-01d3fc75ddab-->
 Goals to achieve in management of patients with COPD include all of the following, EXCEPT:
 
 [WRONG] Achievement of airway clearance
@@ -278,6 +296,7 @@ Goals to achieve in management of patients with COPD include all of the followin
 * The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
 
 # Guidelines and Treatment
+<!---2bd85608-9cff-4bd5-8b91-6ee68a0f84d1-->
 
 ## Guidelines
 ### Discharge and Home Care Guidelines
@@ -332,6 +351,7 @@ The following are treatments to manage COPD:
 * Acetylcysteine (Mucomyst)
 
 # Bronchodilators
+<!---bc1a7e0e-feab-4ac7-958e-ea8d434bac84-->
 
 ### Short acting inhaled agents - 2 puffs QID and PRN
 * Albuterol (Proventil, Ventolin)
@@ -347,6 +367,7 @@ The following are treatments to manage COPD:
 * Salmeterol (Serevent). Prolonged receptor-binding, requires patient education to avoid cardiac arrhythmias
 
 # ~Question 8
+<!---3c607648-c636-4999-b608-99b149adda9a-->
 Which classification of drugs includes albuterol, terbutaline, and metaproterenol?
 
 [RIGHT] Bronchodilators
@@ -354,12 +375,14 @@ Which classification of drugs includes albuterol, terbutaline, and metaprotereno
 [WRONG] Antibiotics
 
 # ~Question 9
+<!---f9bc8747-2ad4-40c3-9944-f253ea489101-->
 Which effect does the bronchodilator Salmeterol (Serevent) have?
 
 [RIGHT] A long acting inhaled agent
 [WRONG] A short acting inhaled agent
 
 # Corticosteroids
+<!---9421b4d2-1f18-48f6-837c-533dd039f0ec-->
 
 ### Metered dose inhalers
 * Triamcinilone acetonide (Azmacort)
@@ -378,6 +401,7 @@ Which effect does the bronchodilator Salmeterol (Serevent) have?
 * Triamicinole acetozide (Kenalog)
 
 # ~Question 10
+<!---68a490d7-70b3-40f1-b5f4-69a02cd4cd71-->
 Which drug classification includes triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril)?
 
 [RIGHT] Corticosteroids
@@ -385,12 +409,14 @@ Which drug classification includes triamcinolone (Azmacort), fluticasone (Floven
 [WRONG] Antitussives
 
 # ~Question 11
+<!---e9b059fc-b336-4754-97af-fd736e7f455e-->
 How are triamcinolone (Azmacort), fluticasone (Flovent), and beclomethasone (Vanceril) delivered?
 
 [RIGHT] Metered dose inhaler
 [WRONG] Oral tablets
 
 # ~Question 12
+<!---2272a607-511f-4b2b-84a4-a148b5c896ee-->
 Which drug is an oral corticosteroid commonly prescribed for the treatment of respiratory illnesses?
 
 [RIGHT] Prednisone
